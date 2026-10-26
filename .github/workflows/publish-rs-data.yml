@@ -1,4 +1,4 @@
-name: Publish official RS election data
+name: Publish official TSE state data
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - .github/workflows/publish-rs-data.yml
-      - scripts/import_tse_rs.py
+      - scripts/import_tse_state.py
   workflow_dispatch:
   schedule:
     - cron: '0 13 * * *'
@@ -15,13 +15,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: publish-official-rs-data
+  group: publish-official-state-data
   cancel-in-progress: false
 
 jobs:
   import:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -29,16 +29,19 @@ jobs:
           persist-credentials: true
 
       - name: Download and validate official TSE archive
-        run: python3 scripts/import_tse_rs.py
+        run: |
+          python3 scripts/import_tse_state.py --state RS
+          python3 scripts/import_tse_state.py --state SC
+          python3 scripts/import_tse_state.py --state PR
 
       - name: Commit validated dataset
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/2026/RS
+          git add data/2026/RS data/2026/SC data/2026/PR
           if git diff --cached --quiet; then
-            echo "The TSE archive and manifest are already current."
+            echo "The TSE data are already current."
           else
-            git commit -m "Publish official TSE 2026 RS section results"
+            git commit -m "Publish official TSE 2026 state section results"
             git push
           fi
