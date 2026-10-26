@@ -105,8 +105,9 @@ def main() -> None:
 
         if len(cities) != EXPECTED_MUNICIPALITIES:
             raise RuntimeError(f"Esperados 497 municípios do RS; encontrados {len(cities)}.")
-        if not {"1", "2"}.issubset(turns_seen):
-            raise RuntimeError(f"Esperados dados dos dois turnos; encontrados {sorted(turns_seen)}")
+        if "1" not in turns_seen:
+            raise RuntimeError(f"Dados do 1º turno não encontrados; turnos encontrados: {sorted(turns_seen)}")
+        data_complete = {"1", "2"}.issubset(turns_seen)
         for code, city in cities.items():
             counts = Counter(turn for turn, _, _ in section_sets[code])
             city["sections_by_turn"] = dict(sorted(counts.items()))
@@ -117,7 +118,8 @@ def main() -> None:
             "dataset": "Resultados eleitorais 2026 — votação por seção",
             "uf": "RS", "state": "Rio Grande do Sul",
             "source": SOURCE_URL, "municipality_count": len(cities),
-            "turns": sorted(turns_seen),
+            "expected_turns": ["1", "2"], "turns": sorted(turns_seen),
+            "data_status": "complete" if data_complete else "pending_tse_update",
             "municipalities": sorted(cities.values(), key=lambda item: item["name"])
         }
         (OUT_DIR / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -129,7 +131,9 @@ def main() -> None:
             "retrieved_at_utc": datetime.now(timezone.utc).isoformat(),
             "source_archive_size_bytes": size, "source_archive_sha256": digest.hexdigest(),
             "source_archive_members": [m.filename for m in members],
-            "municipality_count": len(cities), "turns": sorted(turns_seen),
+            "municipality_count": len(cities), "expected_turns": ["1", "2"],
+            "turns": sorted(turns_seen),
+            "data_status": "complete" if data_complete else "pending_tse_update",
             "row_count": rows_total, "partition_count": len(cities)
         }
         (OUT_DIR / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
