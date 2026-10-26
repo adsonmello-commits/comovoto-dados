@@ -79,8 +79,9 @@ def main() -> None:
                             turns_seen.add(turn)
                             if code not in streams:
                                 raw_path = MUNICIPALITY_DIR / f"{code}.jsonl.gz"
-                                compressed = gzip.open(raw_path, "wt", encoding="utf-8", newline="\n", compresslevel=9, mtime=0)
-                                streams[code] = compressed
+                                raw_file = raw_path.open("wb")
+                                compressed = gzip.GzipFile(fileobj=raw_file, mode="wb", compresslevel=9, mtime=0)
+                                streams[code] = io.TextIOWrapper(compressed, encoding="utf-8", newline="\n")
                                 cities[code] = {
                                     "id": code, "name": name, "uf": "RS",
                                     "file": f"municipalities/{code}.jsonl.gz",
