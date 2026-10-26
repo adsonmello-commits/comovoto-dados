@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - .github/workflows/publish-rs-data.yml
+      - scripts/import_tse_rs.py
   workflow_dispatch:
 
 permissions:
