@@ -1,0 +1,8557 @@
+{
+  "dataset": "Presidente — votação por seção — Eleições 2026",
+  "office": "Presidente da República",
+  "uf": "SC",
+  "state": "Santa Catarina",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip",
+  "municipality_count": 295,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1"
+  ],
+  "data_status": "pending_tse_update",
+  "candidates": {
+    "13": {
+      "name": "LUIZ INÁCIO LULA DA SILVA",
+      "short": "LUIZ INÁCIO LULA DA SILVA",
+      "color": "#d64751"
+    },
+    "14": {
+      "name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "short": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "color": "#71818a"
+    },
+    "16": {
+      "name": "HERTZ DA CONCEICAO DIAS",
+      "short": "HERTZ DA CONCEICAO DIAS",
+      "color": "#71818a"
+    },
+    "21": {
+      "name": "EDMILSON SILVA COSTA",
+      "short": "EDMILSON SILVA COSTA",
+      "color": "#71818a"
+    },
+    "22": {
+      "name": "FLAVIO NANTES BOLSONARO",
+      "short": "FLAVIO NANTES BOLSONARO",
+      "color": "#3478d0"
+    },
+    "27": {
+      "name": "CLARIANA ZACARKIM BARAO",
+      "short": "CLARIANA ZACARKIM BARAO",
+      "color": "#71818a"
+    },
+    "28": {
+      "name": "LEONARDO ALVES DE ARAUJO",
+      "short": "LEONARDO ALVES DE ARAUJO",
+      "color": "#71818a"
+    },
+    "29": {
+      "name": "RUI COSTA PIMENTA",
+      "short": "RUI COSTA PIMENTA",
+      "color": "#71818a"
+    },
+    "30": {
+      "name": "ROMEU ZEMA NETO",
+      "short": "ROMEU ZEMA NETO",
+      "color": "#71818a"
+    },
+    "35": {
+      "name": "WILSON GRASSI JUNIOR",
+      "short": "WILSON GRASSI JUNIOR",
+      "color": "#71818a"
+    },
+    "55": {
+      "name": "RONALDO RAMOS CAIADO",
+      "short": "RONALDO RAMOS CAIADO",
+      "color": "#71818a"
+    },
+    "70": {
+      "name": "AUGUSTO JORGE CURY",
+      "short": "AUGUSTO JORGE CURY",
+      "color": "#71818a"
+    },
+    "80": {
+      "name": "SAMARA MARTINS DA SILVA FEITOSA",
+      "short": "SAMARA MARTINS DA SILVA FEITOSA",
+      "color": "#71818a"
+    },
+    "95": {
+      "name": "VOTO BRANCO",
+      "short": "VOTO BRANCO",
+      "color": "#71818a"
+    },
+    "96": {
+      "name": "VOTO NULO",
+      "short": "VOTO NULO",
+      "color": "#71818a"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "80225",
+      "name": "ABDON BATISTA",
+      "uf": "SC",
+      "file": "municipalities/80225.jsonl.gz",
+      "records": 65,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 2,
+            "96": 29,
+            "55": 39,
+            "14": 20,
+            "13": 650,
+            "22": 1421,
+            "95": 20,
+            "70": 55,
+            "30": 1,
+            "80": 4
+          },
+          "valid": 2192,
+          "turnout": 2241,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1496
+    },
+    {
+      "id": "80012",
+      "name": "ABELARDO LUZ",
+      "uf": "SC",
+      "file": "municipalities/80012.jsonl.gz",
+      "records": 329,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 136,
+            "21": 1,
+            "80": 9,
+            "22": 5619,
+            "13": 3207,
+            "14": 160,
+            "16": 1,
+            "29": 1,
+            "70": 193,
+            "95": 125,
+            "30": 16,
+            "35": 2,
+            "96": 114,
+            "27": 1
+          },
+          "valid": 9346,
+          "turnout": 9585,
+          "sections": 45
+        }
+      },
+      "file_size_bytes": 4644
+    },
+    {
+      "id": "80039",
+      "name": "AGROLÂNDIA",
+      "uf": "SC",
+      "file": "municipalities/80039.jsonl.gz",
+      "records": 198,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 101,
+            "70": 124,
+            "22": 5357,
+            "80": 4,
+            "55": 86,
+            "14": 98,
+            "13": 1091,
+            "30": 11,
+            "21": 2,
+            "96": 89,
+            "27": 4
+          },
+          "valid": 6777,
+          "turnout": 6967,
+          "sections": 26
+        }
+      },
+      "file_size_bytes": 2804
+    },
+    {
+      "id": "80055",
+      "name": "AGRONÔMICA",
+      "uf": "SC",
+      "file": "municipalities/80055.jsonl.gz",
+      "records": 110,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 522,
+            "70": 70,
+            "95": 31,
+            "30": 3,
+            "55": 58,
+            "22": 3193,
+            "14": 74,
+            "80": 5,
+            "96": 63
+          },
+          "valid": 3925,
+          "turnout": 4019,
+          "sections": 16
+        }
+      },
+      "file_size_bytes": 2167
+    },
+    {
+      "id": "80136",
+      "name": "ALFREDO WAGNER",
+      "uf": "SC",
+      "file": "municipalities/80136.jsonl.gz",
+      "records": 193,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 2,
+            "96": 83,
+            "55": 117,
+            "14": 107,
+            "16": 2,
+            "13": 1202,
+            "95": 88,
+            "22": 5242,
+            "30": 4,
+            "70": 159,
+            "28": 1
+          },
+          "valid": 6836,
+          "turnout": 7007,
+          "sections": 28
+        }
+      },
+      "file_size_bytes": 3522
+    },
+    {
+      "id": "81302",
+      "name": "ALTO BELA VISTA",
+      "uf": "SC",
+      "file": "municipalities/81302.jsonl.gz",
+      "records": 55,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 46,
+            "22": 897,
+            "80": 2,
+            "95": 22,
+            "70": 47,
+            "13": 372,
+            "30": 3,
+            "96": 31,
+            "27": 3,
+            "55": 73
+          },
+          "valid": 1443,
+          "turnout": 1496,
+          "sections": 7
+        }
+      },
+      "file_size_bytes": 1336
+    },
+    {
+      "id": "80152",
+      "name": "ANCHIETA",
+      "uf": "SC",
+      "file": "municipalities/80152.jsonl.gz",
+      "records": 127,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 98,
+            "80": 2,
+            "22": 2330,
+            "30": 5,
+            "13": 1403,
+            "14": 88,
+            "16": 2,
+            "70": 112,
+            "95": 57,
+            "96": 77,
+            "27": 1
+          },
+          "valid": 4041,
+          "turnout": 4175,
+          "sections": 17
+        }
+      },
+      "file_size_bytes": 2202
+    },
+    {
+      "id": "80179",
+      "name": "ANGELINA",
+      "uf": "SC",
+      "file": "municipalities/80179.jsonl.gz",
+      "records": 139,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 169,
+            "95": 85,
+            "29": 1,
+            "22": 2605,
+            "80": 3,
+            "28": 1,
+            "55": 116,
+            "13": 1227,
+            "14": 90,
+            "30": 16,
+            "96": 77
+          },
+          "valid": 4228,
+          "turnout": 4390,
+          "sections": 18
+        }
+      },
+      "file_size_bytes": 2494
+    },
+    {
+      "id": "80195",
+      "name": "ANITA GARIBALDI",
+      "uf": "SC",
+      "file": "municipalities/80195.jsonl.gz",
+      "records": 194,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 112,
+            "27": 2,
+            "55": 68,
+            "14": 117,
+            "16": 1,
+            "22": 2878,
+            "13": 2098,
+            "30": 8,
+            "70": 181,
+            "95": 140,
+            "80": 3
+          },
+          "valid": 5356,
+          "turnout": 5608,
+          "sections": 27
+        }
+      },
+      "file_size_bytes": 3478
+    },
+    {
+      "id": "80217",
+      "name": "ANITÁPOLIS",
+      "uf": "SC",
+      "file": "municipalities/80217.jsonl.gz",
+      "records": 101,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 52,
+            "22": 1806,
+            "80": 4,
+            "28": 1,
+            "95": 44,
+            "70": 82,
+            "30": 8,
+            "13": 715,
+            "96": 48,
+            "27": 1,
+            "55": 70,
+            "21": 1
+          },
+          "valid": 2740,
+          "turnout": 2832,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1969
+    },
+    {
+      "id": "80233",
+      "name": "ANTÔNIO CARLOS",
+      "uf": "SC",
+      "file": "municipalities/80233.jsonl.gz",
+      "records": 219,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 197,
+            "22": 6045,
+            "80": 4,
+            "95": 81,
+            "70": 207,
+            "13": 1194,
+            "30": 33,
+            "35": 1,
+            "96": 128,
+            "55": 224,
+            "27": 2
+          },
+          "valid": 7907,
+          "turnout": 8116,
+          "sections": 28
+        }
+      },
+      "file_size_bytes": 3219
+    },
+    {
+      "id": "80063",
+      "name": "APIÚNA",
+      "uf": "SC",
+      "file": "municipalities/80063.jsonl.gz",
+      "records": 256,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 126,
+            "27": 4,
+            "13": 1329,
+            "30": 38,
+            "70": 140,
+            "95": 96,
+            "14": 177,
+            "29": 1,
+            "22": 4944,
+            "55": 123,
+            "80": 7
+          },
+          "valid": 6763,
+          "turnout": 6985,
+          "sections": 34
+        }
+      },
+      "file_size_bytes": 4271
+    },
+    {
+      "id": "80489",
+      "name": "ARABUTÃ",
+      "uf": "SC",
+      "file": "municipalities/80489.jsonl.gz",
+      "records": 99,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 73,
+            "55": 70,
+            "14": 59,
+            "22": 2228,
+            "30": 11,
+            "13": 798,
+            "70": 115,
+            "95": 36,
+            "80": 3
+          },
+          "valid": 3284,
+          "turnout": 3393,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1846
+    },
+    {
+      "id": "80250",
+      "name": "ARAQUARI",
+      "uf": "SC",
+      "file": "municipalities/80250.jsonl.gz",
+      "records": 611,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 314,
+            "21": 3,
+            "80": 20,
+            "28": 2,
+            "22": 14615,
+            "13": 5469,
+            "30": 43,
+            "35": 5,
+            "14": 571,
+            "16": 7,
+            "29": 2,
+            "70": 519,
+            "95": 354,
+            "96": 309,
+            "27": 13
+          },
+          "valid": 21583,
+          "turnout": 22246,
+          "sections": 78
+        }
+      },
+      "file_size_bytes": 9256
+    },
+    {
+      "id": "80276",
+      "name": "ARARANGUÁ",
+      "uf": "SC",
+      "file": "municipalities/80276.jsonl.gz",
+      "records": 1258,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 668,
+            "27": 9,
+            "13": 10473,
+            "30": 118,
+            "70": 1268,
+            "95": 577,
+            "35": 4,
+            "14": 1263,
+            "16": 15,
+            "29": 3,
+            "22": 28755,
+            "55": 739,
+            "21": 8,
+            "80": 46,
+            "28": 3
+          },
+          "valid": 42704,
+          "turnout": 43949,
+          "sections": 159
+        }
+      },
+      "file_size_bytes": 22032
+    },
+    {
+      "id": "80292",
+      "name": "ARMAZÉM",
+      "uf": "SC",
+      "file": "municipalities/80292.jsonl.gz",
+      "records": 175,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 110,
+            "80": 2,
+            "70": 151,
+            "96": 82,
+            "27": 2,
+            "95": 60,
+            "30": 8,
+            "13": 1236,
+            "35": 3,
+            "16": 2,
+            "14": 105,
+            "29": 1,
+            "22": 4379
+          },
+          "valid": 5999,
+          "turnout": 6141,
+          "sections": 23
+        }
+      },
+      "file_size_bytes": 2591
+    },
+    {
+      "id": "80314",
+      "name": "ARROIO TRINTA",
+      "uf": "SC",
+      "file": "municipalities/80314.jsonl.gz",
+      "records": 82,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 81,
+            "80": 5,
+            "22": 1903,
+            "14": 60,
+            "70": 71,
+            "95": 23,
+            "13": 432,
+            "30": 6,
+            "96": 31,
+            "27": 1
+          },
+          "valid": 2559,
+          "turnout": 2613,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1398
+    },
+    {
+      "id": "80802",
+      "name": "ARVOREDO",
+      "uf": "SC",
+      "file": "municipalities/80802.jsonl.gz",
+      "records": 62,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 22,
+            "55": 105,
+            "14": 55,
+            "22": 1271,
+            "13": 699,
+            "30": 6,
+            "95": 21,
+            "70": 67
+          },
+          "valid": 2203,
+          "turnout": 2246,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1442
+    },
+    {
+      "id": "80330",
+      "name": "ASCURRA",
+      "uf": "SC",
+      "file": "municipalities/80330.jsonl.gz",
+      "records": 183,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 740,
+            "30": 23,
+            "35": 1,
+            "70": 102,
+            "95": 91,
+            "55": 64,
+            "21": 2,
+            "22": 4130,
+            "14": 148,
+            "16": 2,
+            "29": 1,
+            "80": 5,
+            "96": 96
+          },
+          "valid": 5218,
+          "turnout": 5405,
+          "sections": 23
+        }
+      },
+      "file_size_bytes": 3190
+    },
+    {
+      "id": "80357",
+      "name": "ATALANTA",
+      "uf": "SC",
+      "file": "municipalities/80357.jsonl.gz",
+      "records": 93,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 28,
+            "70": 55,
+            "29": 1,
+            "22": 2014,
+            "28": 1,
+            "80": 3,
+            "55": 33,
+            "14": 47,
+            "30": 3,
+            "13": 340,
+            "96": 23,
+            "27": 2
+          },
+          "valid": 2499,
+          "turnout": 2550,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1574
+    },
+    {
+      "id": "80373",
+      "name": "AURORA",
+      "uf": "SC",
+      "file": "municipalities/80373.jsonl.gz",
+      "records": 149,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 619,
+            "30": 13,
+            "70": 108,
+            "95": 45,
+            "55": 68,
+            "22": 3878,
+            "14": 104,
+            "80": 1,
+            "96": 44,
+            "27": 1
+          },
+          "valid": 4792,
+          "turnout": 4881,
+          "sections": 21
+        }
+      },
+      "file_size_bytes": 2735
+    },
+    {
+      "id": "81728",
+      "name": "BALNEÁRIO ARROIO DO SILVA",
+      "uf": "SC",
+      "file": "municipalities/81728.jsonl.gz",
+      "records": 290,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 194,
+            "27": 2,
+            "13": 3146,
+            "70": 252,
+            "95": 164,
+            "30": 14,
+            "14": 222,
+            "16": 4,
+            "29": 2,
+            "22": 6027,
+            "55": 173,
+            "21": 4,
+            "80": 13
+          },
+          "valid": 9859,
+          "turnout": 10217,
+          "sections": 37
+        }
+      },
+      "file_size_bytes": 3965
+    },
+    {
+      "id": "80683",
+      "name": "BALNEÁRIO BARRA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80683.jsonl.gz",
+      "records": 245,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 126,
+            "21": 3,
+            "80": 6,
+            "22": 5884,
+            "13": 2151,
+            "30": 17,
+            "14": 185,
+            "16": 5,
+            "29": 1,
+            "70": 191,
+            "95": 89,
+            "35": 1,
+            "96": 132,
+            "27": 1
+          },
+          "valid": 8571,
+          "turnout": 8792,
+          "sections": 32
+        }
+      },
+      "file_size_bytes": 3554
+    },
+    {
+      "id": "80390",
+      "name": "BALNEÁRIO CAMBORIÚ",
+      "uf": "SC",
+      "file": "municipalities/80390.jsonl.gz",
+      "records": 2543,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 1154,
+            "21": 15,
+            "80": 82,
+            "22": 59601,
+            "13": 17694,
+            "30": 423,
+            "14": 2547,
+            "16": 38,
+            "29": 8,
+            "70": 2397,
+            "95": 814,
+            "35": 6,
+            "96": 1133,
+            "27": 24
+          },
+          "valid": 83989,
+          "turnout": 85936,
+          "sections": 318
+        }
+      },
+      "file_size_bytes": 37597
+    },
+    {
+      "id": "81744",
+      "name": "BALNEÁRIO GAIVOTA",
+      "uf": "SC",
+      "file": "municipalities/81744.jsonl.gz",
+      "records": 287,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 136,
+            "21": 1,
+            "80": 6,
+            "22": 6116,
+            "13": 2788,
+            "30": 21,
+            "16": 1,
+            "14": 216,
+            "29": 2,
+            "70": 341,
+            "95": 129,
+            "96": 161,
+            "27": 2
+          },
+          "valid": 9630,
+          "turnout": 9920,
+          "sections": 37
+        }
+      },
+      "file_size_bytes": 3943
+    },
+    {
+      "id": "82511",
+      "name": "BALNEÁRIO PIÇARRAS",
+      "uf": "SC",
+      "file": "municipalities/82511.jsonl.gz",
+      "records": 541,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 202,
+            "21": 5,
+            "28": 2,
+            "80": 19,
+            "22": 12090,
+            "30": 49,
+            "13": 3927,
+            "14": 401,
+            "16": 7,
+            "29": 2,
+            "70": 501,
+            "95": 229,
+            "96": 263,
+            "27": 5
+          },
+          "valid": 17210,
+          "turnout": 17702,
+          "sections": 69
+        }
+      },
+      "file_size_bytes": 6967
+    },
+    {
+      "id": "83909",
+      "name": "BALNEÁRIO RINCÃO",
+      "uf": "SC",
+      "file": "municipalities/83909.jsonl.gz",
+      "records": 296,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 13,
+            "13": 3019,
+            "70": 201,
+            "95": 158,
+            "55": 185,
+            "21": 2,
+            "22": 6580,
+            "14": 200,
+            "16": 3,
+            "29": 1,
+            "80": 8,
+            "96": 185,
+            "27": 3
+          },
+          "valid": 10215,
+          "turnout": 10558,
+          "sections": 39
+        }
+      },
+      "file_size_bytes": 4241
+    },
+    {
+      "id": "81582",
+      "name": "BANDEIRANTE",
+      "uf": "SC",
+      "file": "municipalities/81582.jsonl.gz",
+      "records": 75,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 59,
+            "95": 41,
+            "30": 5,
+            "13": 866,
+            "55": 78,
+            "22": 1325,
+            "14": 60,
+            "80": 1,
+            "96": 37,
+            "27": 2
+          },
+          "valid": 2396,
+          "turnout": 2474,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1517
+    },
+    {
+      "id": "81760",
+      "name": "BARRA BONITA",
+      "uf": "SC",
+      "file": "municipalities/81760.jsonl.gz",
+      "records": 50,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 72,
+            "80": 1,
+            "96": 19,
+            "70": 40,
+            "95": 33,
+            "30": 4,
+            "13": 520,
+            "14": 39,
+            "22": 844
+          },
+          "valid": 1520,
+          "turnout": 1572,
+          "sections": 7
+        }
+      },
+      "file_size_bytes": 1212
+    },
+    {
+      "id": "80411",
+      "name": "BARRA VELHA",
+      "uf": "SC",
+      "file": "municipalities/80411.jsonl.gz",
+      "records": 691,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 354,
+            "27": 12,
+            "30": 66,
+            "13": 4892,
+            "70": 566,
+            "95": 339,
+            "14": 452,
+            "16": 4,
+            "29": 3,
+            "22": 16003,
+            "55": 273,
+            "21": 8,
+            "80": 16
+          },
+          "valid": 22295,
+          "turnout": 22988,
+          "sections": 88
+        }
+      },
+      "file_size_bytes": 9315
+    },
+    {
+      "id": "81221",
+      "name": "BELA VISTA DO TOLDO",
+      "uf": "SC",
+      "file": "municipalities/81221.jsonl.gz",
+      "records": 139,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 8,
+            "13": 1012,
+            "70": 90,
+            "95": 92,
+            "55": 117,
+            "22": 2949,
+            "14": 60,
+            "16": 1,
+            "29": 3,
+            "96": 62,
+            "27": 1
+          },
+          "valid": 4241,
+          "turnout": 4395,
+          "sections": 19
+        }
+      },
+      "file_size_bytes": 2660
+    },
+    {
+      "id": "80748",
+      "name": "BELMONTE",
+      "uf": "SC",
+      "file": "municipalities/80748.jsonl.gz",
+      "records": 62,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 28,
+            "55": 43,
+            "14": 29,
+            "22": 1285,
+            "30": 4,
+            "13": 568,
+            "95": 33,
+            "70": 47,
+            "80": 2
+          },
+          "valid": 1978,
+          "turnout": 2039,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1275
+    },
+    {
+      "id": "80438",
+      "name": "BENEDITO NOVO",
+      "uf": "SC",
+      "file": "municipalities/80438.jsonl.gz",
+      "records": 209,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 116,
+            "13": 886,
+            "30": 18,
+            "70": 151,
+            "95": 107,
+            "14": 179,
+            "16": 2,
+            "29": 1,
+            "22": 5394,
+            "55": 127,
+            "21": 1,
+            "80": 4
+          },
+          "valid": 6763,
+          "turnout": 6986,
+          "sections": 27
+        }
+      },
+      "file_size_bytes": 3075
+    },
+    {
+      "id": "80454",
+      "name": "BIGUAÇU",
+      "uf": "SC",
+      "file": "municipalities/80454.jsonl.gz",
+      "records": 1334,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 786,
+            "21": 9,
+            "80": 68,
+            "28": 3,
+            "22": 27718,
+            "13": 12501,
+            "30": 123,
+            "14": 1409,
+            "16": 20,
+            "29": 5,
+            "70": 1580,
+            "95": 888,
+            "35": 4,
+            "96": 1014,
+            "27": 14
+          },
+          "valid": 44240,
+          "turnout": 46142,
+          "sections": 166
+        }
+      },
+      "file_size_bytes": 23562
+    },
+    {
+      "id": "80470",
+      "name": "BLUMENAU",
+      "uf": "SC",
+      "file": "municipalities/80470.jsonl.gz",
+      "records": 6390,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 43960,
+            "30": 1403,
+            "35": 33,
+            "70": 6936,
+            "95": 2932,
+            "55": 4087,
+            "21": 60,
+            "22": 145080,
+            "14": 8687,
+            "16": 95,
+            "29": 47,
+            "80": 309,
+            "28": 5,
+            "96": 4622,
+            "27": 96
+          },
+          "valid": 210798,
+          "turnout": 218352,
+          "sections": 754
+        }
+      },
+      "file_size_bytes": 142768
+    },
+    {
+      "id": "81280",
+      "name": "BOCAINA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/81280.jsonl.gz",
+      "records": 67,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 42,
+            "14": 19,
+            "55": 76,
+            "22": 1706,
+            "95": 38,
+            "70": 48,
+            "13": 778,
+            "80": 1
+          },
+          "valid": 2628,
+          "turnout": 2708,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1472
+    },
+    {
+      "id": "83895",
+      "name": "BOM JARDIM DA SERRA",
+      "uf": "SC",
+      "file": "municipalities/83895.jsonl.gz",
+      "records": 99,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 41,
+            "55": 44,
+            "29": 1,
+            "14": 29,
+            "22": 1820,
+            "30": 4,
+            "13": 977,
+            "70": 82,
+            "95": 44
+          },
+          "valid": 2957,
+          "turnout": 3042,
+          "sections": 14
+        }
+      },
+      "file_size_bytes": 1818
+    },
+    {
+      "id": "81388",
+      "name": "BOM JESUS",
+      "uf": "SC",
+      "file": "municipalities/81388.jsonl.gz",
+      "records": 57,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 31,
+            "14": 36,
+            "13": 838,
+            "55": 28,
+            "22": 1171,
+            "95": 15,
+            "70": 54,
+            "30": 2,
+            "80": 2
+          },
+          "valid": 2131,
+          "turnout": 2177,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1272
+    },
+    {
+      "id": "81469",
+      "name": "BOM JESUS DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/81469.jsonl.gz",
+      "records": 66,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 23,
+            "27": 1,
+            "30": 5,
+            "13": 416,
+            "35": 1,
+            "55": 28,
+            "22": 1070,
+            "95": 26,
+            "70": 54,
+            "14": 17,
+            "29": 1
+          },
+          "valid": 1593,
+          "turnout": 1642,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1426
+    },
+    {
+      "id": "80497",
+      "name": "BOM RETIRO",
+      "uf": "SC",
+      "file": "municipalities/80497.jsonl.gz",
+      "records": 174,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 87,
+            "27": 1,
+            "13": 1324,
+            "70": 135,
+            "95": 77,
+            "30": 7,
+            "14": 104,
+            "22": 3493,
+            "55": 105,
+            "21": 2,
+            "80": 1
+          },
+          "valid": 5172,
+          "turnout": 5336,
+          "sections": 25
+        }
+      },
+      "file_size_bytes": 2797
+    },
+    {
+      "id": "80985",
+      "name": "BOMBINHAS",
+      "uf": "SC",
+      "file": "municipalities/80985.jsonl.gz",
+      "records": 429,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 123,
+            "80": 19,
+            "70": 416,
+            "96": 345,
+            "27": 1,
+            "95": 184,
+            "30": 106,
+            "13": 3478,
+            "14": 444,
+            "16": 3,
+            "29": 3,
+            "22": 9935,
+            "21": 4
+          },
+          "valid": 14532,
+          "turnout": 15061,
+          "sections": 54
+        }
+      },
+      "file_size_bytes": 5468
+    },
+    {
+      "id": "80519",
+      "name": "BOTUVERÁ",
+      "uf": "SC",
+      "file": "municipalities/80519.jsonl.gz",
+      "records": 137,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 101,
+            "30": 8,
+            "70": 68,
+            "95": 88,
+            "13": 691,
+            "35": 1,
+            "14": 85,
+            "16": 3,
+            "29": 1,
+            "22": 3117,
+            "55": 64,
+            "21": 3,
+            "80": 5
+          },
+          "valid": 4046,
+          "turnout": 4235,
+          "sections": 18
+        }
+      },
+      "file_size_bytes": 2435
+    },
+    {
+      "id": "80535",
+      "name": "BRAÇO DO NORTE",
+      "uf": "SC",
+      "file": "municipalities/80535.jsonl.gz",
+      "records": 586,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 268,
+            "27": 4,
+            "13": 3229,
+            "30": 41,
+            "35": 6,
+            "80": 23,
+            "55": 380,
+            "21": 6,
+            "22": 15991,
+            "70": 562,
+            "95": 275,
+            "14": 589,
+            "16": 4
+          },
+          "valid": 20835,
+          "turnout": 21378,
+          "sections": 76
+        }
+      },
+      "file_size_bytes": 9382
+    },
+    {
+      "id": "80420",
+      "name": "BRAÇO DO TROMBUDO",
+      "uf": "SC",
+      "file": "municipalities/80420.jsonl.gz",
+      "records": 83,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 27,
+            "27": 3,
+            "70": 50,
+            "95": 31,
+            "13": 415,
+            "30": 6,
+            "14": 63,
+            "16": 1,
+            "22": 2206,
+            "55": 41,
+            "21": 1,
+            "28": 1,
+            "80": 1
+          },
+          "valid": 2788,
+          "turnout": 2846,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1664
+    },
+    {
+      "id": "81787",
+      "name": "BRUNÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81787.jsonl.gz",
+      "records": 73,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 35,
+            "13": 774,
+            "30": 3,
+            "55": 26,
+            "22": 1469,
+            "95": 34,
+            "70": 32,
+            "14": 24
+          },
+          "valid": 2328,
+          "turnout": 2397,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1508
+    },
+    {
+      "id": "80551",
+      "name": "BRUSQUE",
+      "uf": "SC",
+      "file": "municipalities/80551.jsonl.gz",
+      "records": 2283,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 33,
+            "96": 1314,
+            "55": 998,
+            "14": 2239,
+            "29": 14,
+            "13": 14981,
+            "30": 277,
+            "16": 33,
+            "35": 12,
+            "21": 12,
+            "95": 1179,
+            "22": 61228,
+            "70": 2298,
+            "80": 73,
+            "28": 1
+          },
+          "valid": 82199,
+          "turnout": 84692,
+          "sections": 283
+        }
+      },
+      "file_size_bytes": 48802
+    },
+    {
+      "id": "80594",
+      "name": "CAIBI",
+      "uf": "SC",
+      "file": "municipalities/80594.jsonl.gz",
+      "records": 135,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 37,
+            "70": 77,
+            "22": 3145,
+            "28": 2,
+            "80": 1,
+            "55": 63,
+            "14": 68,
+            "16": 2,
+            "30": 8,
+            "13": 940,
+            "96": 58
+          },
+          "valid": 4306,
+          "turnout": 4401,
+          "sections": 19
+        }
+      },
+      "file_size_bytes": 2443
+    },
+    {
+      "id": "80667",
+      "name": "CALMON",
+      "uf": "SC",
+      "file": "municipalities/80667.jsonl.gz",
+      "records": 84,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 1318,
+            "30": 3,
+            "70": 51,
+            "95": 38,
+            "55": 30,
+            "22": 906,
+            "14": 43,
+            "16": 1,
+            "80": 3,
+            "96": 39
+          },
+          "valid": 2355,
+          "turnout": 2432,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1607
+    },
+    {
+      "id": "80616",
+      "name": "CAMBORIÚ",
+      "uf": "SC",
+      "file": "municipalities/80616.jsonl.gz",
+      "records": 1306,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 652,
+            "21": 9,
+            "80": 32,
+            "22": 32572,
+            "13": 10583,
+            "30": 91,
+            "35": 9,
+            "16": 13,
+            "14": 1367,
+            "29": 2,
+            "70": 1353,
+            "95": 744,
+            "96": 838,
+            "27": 13
+          },
+          "valid": 46696,
+          "turnout": 48278,
+          "sections": 167
+        }
+      },
+      "file_size_bytes": 17345
+    },
+    {
+      "id": "80632",
+      "name": "CAMPO ALEGRE",
+      "uf": "SC",
+      "file": "municipalities/80632.jsonl.gz",
+      "records": 222,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 166,
+            "95": 119,
+            "29": 1,
+            "22": 6398,
+            "80": 5,
+            "28": 1,
+            "55": 162,
+            "14": 138,
+            "13": 1180,
+            "35": 1,
+            "30": 21,
+            "21": 1,
+            "96": 103,
+            "27": 2
+          },
+          "valid": 8076,
+          "turnout": 8298,
+          "sections": 29
+        }
+      },
+      "file_size_bytes": 3377
+    },
+    {
+      "id": "80659",
+      "name": "CAMPO BELO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80659.jsonl.gz",
+      "records": 151,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 103,
+            "70": 88,
+            "22": 2657,
+            "55": 99,
+            "14": 38,
+            "13": 1722,
+            "30": 2,
+            "96": 102
+          },
+          "valid": 4606,
+          "turnout": 4811,
+          "sections": 23
+        }
+      },
+      "file_size_bytes": 2569
+    },
+    {
+      "id": "80675",
+      "name": "CAMPO ERÊ",
+      "uf": "SC",
+      "file": "municipalities/80675.jsonl.gz",
+      "records": 187,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 86,
+            "70": 150,
+            "22": 2932,
+            "80": 1,
+            "55": 58,
+            "14": 92,
+            "30": 8,
+            "13": 2575,
+            "21": 1,
+            "96": 111,
+            "27": 1
+          },
+          "valid": 5818,
+          "turnout": 6015,
+          "sections": 26
+        }
+      },
+      "file_size_bytes": 2953
+    },
+    {
+      "id": "80691",
+      "name": "CAMPOS NOVOS",
+      "uf": "SC",
+      "file": "municipalities/80691.jsonl.gz",
+      "records": 660,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 5321,
+            "30": 52,
+            "70": 431,
+            "95": 440,
+            "35": 1,
+            "55": 322,
+            "21": 3,
+            "22": 13738,
+            "14": 380,
+            "16": 2,
+            "29": 4,
+            "80": 7,
+            "28": 1,
+            "96": 263,
+            "27": 3
+          },
+          "valid": 20265,
+          "turnout": 20968,
+          "sections": 90
+        }
+      },
+      "file_size_bytes": 11261
+    },
+    {
+      "id": "80713",
+      "name": "CANELINHA",
+      "uf": "SC",
+      "file": "municipalities/80713.jsonl.gz",
+      "records": 220,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 154,
+            "22": 5930,
+            "80": 4,
+            "70": 163,
+            "95": 162,
+            "30": 5,
+            "13": 1597,
+            "96": 157,
+            "55": 110,
+            "21": 2
+          },
+          "valid": 7965,
+          "turnout": 8284,
+          "sections": 30
+        }
+      },
+      "file_size_bytes": 3465
+    },
+    {
+      "id": "80730",
+      "name": "CANOINHAS",
+      "uf": "SC",
+      "file": "municipalities/80730.jsonl.gz",
+      "records": 999,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 485,
+            "27": 10,
+            "13": 7871,
+            "30": 48,
+            "35": 4,
+            "80": 22,
+            "28": 2,
+            "55": 737,
+            "21": 8,
+            "22": 22012,
+            "95": 766,
+            "70": 1119,
+            "14": 712,
+            "16": 7,
+            "29": 2
+          },
+          "valid": 32554,
+          "turnout": 33805,
+          "sections": 132
+        }
+      },
+      "file_size_bytes": 16504
+    },
+    {
+      "id": "80756",
+      "name": "CAPINZAL",
+      "uf": "SC",
+      "file": "municipalities/80756.jsonl.gz",
+      "records": 433,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 241,
+            "27": 2,
+            "55": 225,
+            "14": 357,
+            "13": 3900,
+            "35": 4,
+            "22": 8630,
+            "30": 45,
+            "95": 213,
+            "70": 352,
+            "80": 2
+          },
+          "valid": 13517,
+          "turnout": 13971,
+          "sections": 57
+        }
+      },
+      "file_size_bytes": 6596
+    },
+    {
+      "id": "81027",
+      "name": "CAPIVARI DE BAIXO",
+      "uf": "SC",
+      "file": "municipalities/81027.jsonl.gz",
+      "records": 457,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 281,
+            "27": 7,
+            "13": 4091,
+            "35": 2,
+            "30": 26,
+            "28": 2,
+            "80": 7,
+            "55": 204,
+            "22": 9234,
+            "70": 471,
+            "95": 238,
+            "14": 407,
+            "16": 5,
+            "29": 1
+          },
+          "valid": 14457,
+          "turnout": 14976,
+          "sections": 59
+        }
+      },
+      "file_size_bytes": 6198
+    },
+    {
+      "id": "81248",
+      "name": "CAPÃO ALTO",
+      "uf": "SC",
+      "file": "municipalities/81248.jsonl.gz",
+      "records": 77,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 3,
+            "96": 33,
+            "55": 93,
+            "14": 45,
+            "13": 673,
+            "16": 1,
+            "22": 1598,
+            "95": 42,
+            "70": 86,
+            "30": 2
+          },
+          "valid": 2501,
+          "turnout": 2576,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1618
+    },
+    {
+      "id": "80772",
+      "name": "CATANDUVAS",
+      "uf": "SC",
+      "file": "municipalities/80772.jsonl.gz",
+      "records": 187,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 87,
+            "13": 1862,
+            "30": 10,
+            "35": 1,
+            "80": 4,
+            "55": 130,
+            "21": 1,
+            "22": 4408,
+            "95": 109,
+            "70": 186,
+            "14": 122,
+            "29": 2
+          },
+          "valid": 6726,
+          "turnout": 6922,
+          "sections": 25
+        }
+      },
+      "file_size_bytes": 2854
+    },
+    {
+      "id": "80799",
+      "name": "CAXAMBU DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80799.jsonl.gz",
+      "records": 122,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 55,
+            "13": 1501,
+            "70": 45,
+            "95": 54,
+            "30": 5,
+            "14": 66,
+            "22": 1931,
+            "55": 68,
+            "28": 1,
+            "80": 3
+          },
+          "valid": 3620,
+          "turnout": 3729,
+          "sections": 17
+        }
+      },
+      "file_size_bytes": 1909
+    },
+    {
+      "id": "80578",
+      "name": "CAÇADOR",
+      "uf": "SC",
+      "file": "municipalities/80578.jsonl.gz",
+      "records": 1341,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 747,
+            "27": 22,
+            "13": 12361,
+            "30": 98,
+            "35": 3,
+            "80": 22,
+            "28": 6,
+            "55": 720,
+            "21": 2,
+            "22": 23758,
+            "95": 923,
+            "70": 1341,
+            "14": 1055,
+            "16": 11,
+            "29": 2
+          },
+          "valid": 39401,
+          "turnout": 41071,
+          "sections": 175
+        }
+      },
+      "file_size_bytes": 23201
+    },
+    {
+      "id": "80268",
+      "name": "CELSO RAMOS",
+      "uf": "SC",
+      "file": "municipalities/80268.jsonl.gz",
+      "records": 69,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 39,
+            "27": 2,
+            "13": 760,
+            "35": 4,
+            "80": 1,
+            "55": 31,
+            "21": 1,
+            "22": 1274,
+            "95": 45,
+            "70": 48,
+            "14": 87
+          },
+          "valid": 2208,
+          "turnout": 2292,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1467
+    },
+    {
+      "id": "80381",
+      "name": "CERRO NEGRO",
+      "uf": "SC",
+      "file": "municipalities/80381.jsonl.gz",
+      "records": 82,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 38,
+            "70": 48,
+            "22": 1211,
+            "80": 2,
+            "55": 38,
+            "14": 42,
+            "13": 1240,
+            "30": 1,
+            "96": 48
+          },
+          "valid": 2582,
+          "turnout": 2668,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1852
+    },
+    {
+      "id": "81701",
+      "name": "CHAPADÃO DO LAGEADO",
+      "uf": "SC",
+      "file": "municipalities/81701.jsonl.gz",
+      "records": 65,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 1,
+            "96": 31,
+            "55": 76,
+            "14": 39,
+            "22": 1666,
+            "13": 466,
+            "95": 33,
+            "70": 84,
+            "30": 1
+          },
+          "valid": 2333,
+          "turnout": 2397,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1401
+    },
+    {
+      "id": "80810",
+      "name": "CHAPECÓ",
+      "uf": "SC",
+      "file": "municipalities/80810.jsonl.gz",
+      "records": 3625,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 2673,
+            "21": 15,
+            "80": 138,
+            "28": 2,
+            "22": 80783,
+            "13": 39204,
+            "30": 393,
+            "35": 11,
+            "14": 3803,
+            "16": 41,
+            "29": 15,
+            "70": 3586,
+            "95": 1879,
+            "96": 1898,
+            "27": 34
+          },
+          "valid": 130698,
+          "turnout": 134475,
+          "sections": 458
+        }
+      },
+      "file_size_bytes": 76598
+    },
+    {
+      "id": "80306",
+      "name": "COCAL DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80306.jsonl.gz",
+      "records": 360,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 133,
+            "70": 355,
+            "29": 1,
+            "22": 8114,
+            "80": 5,
+            "55": 247,
+            "14": 405,
+            "16": 3,
+            "13": 2205,
+            "30": 33,
+            "96": 239,
+            "27": 4
+          },
+          "valid": 11372,
+          "turnout": 11744,
+          "sections": 47
+        }
+      },
+      "file_size_bytes": 5029
+    },
+    {
+      "id": "80837",
+      "name": "CONCÓRDIA",
+      "uf": "SC",
+      "file": "municipalities/80837.jsonl.gz",
+      "records": 1454,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 989,
+            "21": 4,
+            "28": 3,
+            "80": 27,
+            "22": 32573,
+            "30": 106,
+            "13": 11047,
+            "35": 7,
+            "14": 1336,
+            "16": 9,
+            "29": 4,
+            "70": 1412,
+            "95": 717,
+            "96": 712,
+            "27": 6
+          },
+          "valid": 47523,
+          "turnout": 48952,
+          "sections": 193
+        }
+      },
+      "file_size_bytes": 30694
+    },
+    {
+      "id": "81043",
+      "name": "CORDILHEIRA ALTA",
+      "uf": "SC",
+      "file": "municipalities/81043.jsonl.gz",
+      "records": 88,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 87,
+            "96": 39,
+            "95": 51,
+            "13": 950,
+            "30": 3,
+            "14": 54,
+            "22": 2330,
+            "55": 73,
+            "21": 2
+          },
+          "valid": 3499,
+          "turnout": 3589,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1542
+    },
+    {
+      "id": "80853",
+      "name": "CORONEL FREITAS",
+      "uf": "SC",
+      "file": "municipalities/80853.jsonl.gz",
+      "records": 196,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 1,
+            "96": 102,
+            "55": 96,
+            "14": 93,
+            "13": 2070,
+            "21": 1,
+            "22": 4177,
+            "30": 21,
+            "95": 103,
+            "70": 116,
+            "80": 1
+          },
+          "valid": 6576,
+          "turnout": 6781,
+          "sections": 26
+        }
+      },
+      "file_size_bytes": 2875
+    },
+    {
+      "id": "81108",
+      "name": "CORONEL MARTINS",
+      "uf": "SC",
+      "file": "municipalities/81108.jsonl.gz",
+      "records": 54,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 940,
+            "80": 1,
+            "70": 34,
+            "95": 30,
+            "30": 5,
+            "13": 576,
+            "14": 20,
+            "96": 29,
+            "16": 1,
+            "27": 1,
+            "55": 53
+          },
+          "valid": 1631,
+          "turnout": 1690,
+          "sections": 7
+        }
+      },
+      "file_size_bytes": 1156
+    },
+    {
+      "id": "83950",
+      "name": "CORREIA PINTO",
+      "uf": "SC",
+      "file": "municipalities/83950.jsonl.gz",
+      "records": 312,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 163,
+            "27": 2,
+            "55": 179,
+            "14": 179,
+            "29": 1,
+            "16": 2,
+            "13": 3446,
+            "22": 5636,
+            "30": 10,
+            "70": 203,
+            "95": 213,
+            "80": 4
+          },
+          "valid": 9662,
+          "turnout": 10038,
+          "sections": 44
+        }
+      },
+      "file_size_bytes": 4902
+    },
+    {
+      "id": "80870",
+      "name": "CORUPÁ",
+      "uf": "SC",
+      "file": "municipalities/80870.jsonl.gz",
+      "records": 311,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 3,
+            "96": 212,
+            "55": 164,
+            "14": 205,
+            "30": 36,
+            "13": 1709,
+            "16": 1,
+            "21": 3,
+            "22": 7582,
+            "95": 138,
+            "70": 298,
+            "80": 9,
+            "28": 1
+          },
+          "valid": 10011,
+          "turnout": 10361,
+          "sections": 39
+        }
+      },
+      "file_size_bytes": 4140
+    },
+    {
+      "id": "80896",
+      "name": "CRICIÚMA",
+      "uf": "SC",
+      "file": "municipalities/80896.jsonl.gz",
+      "records": 3569,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 2088,
+            "27": 35,
+            "55": 2612,
+            "14": 4333,
+            "16": 61,
+            "29": 17,
+            "13": 27729,
+            "30": 362,
+            "21": 30,
+            "22": 79745,
+            "35": 11,
+            "70": 3529,
+            "95": 1907,
+            "80": 117,
+            "28": 6
+          },
+          "valid": 118587,
+          "turnout": 122582,
+          "sections": 446
+        }
+      },
+      "file_size_bytes": 81977
+    },
+    {
+      "id": "80918",
+      "name": "CUNHA PORÃ",
+      "uf": "SC",
+      "file": "municipalities/80918.jsonl.gz",
+      "records": 203,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 125,
+            "21": 1,
+            "80": 3,
+            "22": 6072,
+            "30": 18,
+            "13": 945,
+            "14": 161,
+            "16": 4,
+            "29": 1,
+            "70": 115,
+            "95": 104,
+            "96": 142
+          },
+          "valid": 7445,
+          "turnout": 7691,
+          "sections": 27
+        }
+      },
+      "file_size_bytes": 3471
+    },
+    {
+      "id": "81620",
+      "name": "CUNHATAÍ",
+      "uf": "SC",
+      "file": "municipalities/81620.jsonl.gz",
+      "records": 38,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 2,
+            "13": 339,
+            "70": 42,
+            "95": 22,
+            "55": 46,
+            "22": 1140,
+            "14": 41,
+            "96": 19,
+            "27": 1
+          },
+          "valid": 1611,
+          "turnout": 1652,
+          "sections": 5
+        }
+      },
+      "file_size_bytes": 1043
+    },
+    {
+      "id": "80934",
+      "name": "CURITIBANOS",
+      "uf": "SC",
+      "file": "municipalities/80934.jsonl.gz",
+      "records": 788,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 459,
+            "27": 4,
+            "55": 428,
+            "14": 504,
+            "29": 1,
+            "13": 6653,
+            "30": 42,
+            "16": 6,
+            "21": 5,
+            "22": 14572,
+            "35": 6,
+            "95": 672,
+            "70": 627,
+            "28": 1,
+            "80": 19
+          },
+          "valid": 22868,
+          "turnout": 23999,
+          "sections": 104
+        }
+      },
+      "file_size_bytes": 10859
+    },
+    {
+      "id": "80950",
+      "name": "DESCANSO",
+      "uf": "SC",
+      "file": "municipalities/80950.jsonl.gz",
+      "records": 177,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 20,
+            "13": 1625,
+            "70": 196,
+            "95": 76,
+            "55": 156,
+            "22": 3808,
+            "14": 162,
+            "16": 2,
+            "29": 1,
+            "80": 1,
+            "96": 75,
+            "27": 1
+          },
+          "valid": 5972,
+          "turnout": 6123,
+          "sections": 23
+        }
+      },
+      "file_size_bytes": 2823
+    },
+    {
+      "id": "80977",
+      "name": "DIONÍSIO CERQUEIRA",
+      "uf": "SC",
+      "file": "municipalities/80977.jsonl.gz",
+      "records": 300,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 151,
+            "27": 3,
+            "13": 3222,
+            "70": 152,
+            "95": 106,
+            "30": 7,
+            "16": 5,
+            "14": 197,
+            "29": 1,
+            "22": 5130,
+            "55": 105,
+            "21": 2,
+            "80": 5
+          },
+          "valid": 8829,
+          "turnout": 9086,
+          "sections": 42
+        }
+      },
+      "file_size_bytes": 5118
+    },
+    {
+      "id": "80993",
+      "name": "DONA EMMA",
+      "uf": "SC",
+      "file": "municipalities/80993.jsonl.gz",
+      "records": 84,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 105,
+            "16": 1,
+            "22": 1949,
+            "70": 89,
+            "95": 42,
+            "13": 526,
+            "30": 11,
+            "96": 55,
+            "55": 80,
+            "27": 1,
+            "21": 1
+          },
+          "valid": 2763,
+          "turnout": 2860,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1635
+    },
+    {
+      "id": "80080",
+      "name": "DOUTOR PEDRINHO",
+      "uf": "SC",
+      "file": "municipalities/80080.jsonl.gz",
+      "records": 76,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 34,
+            "55": 57,
+            "29": 1,
+            "14": 65,
+            "16": 1,
+            "21": 1,
+            "22": 1905,
+            "13": 366,
+            "95": 38,
+            "70": 84,
+            "30": 1,
+            "28": 1,
+            "80": 2
+          },
+          "valid": 2484,
+          "turnout": 2556,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1637
+    },
+    {
+      "id": "81426",
+      "name": "ENTRE RIOS",
+      "uf": "SC",
+      "file": "municipalities/81426.jsonl.gz",
+      "records": 66,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 31,
+            "70": 35,
+            "22": 1040,
+            "80": 1,
+            "55": 28,
+            "13": 1393,
+            "14": 21,
+            "30": 1,
+            "35": 1,
+            "96": 41
+          },
+          "valid": 2520,
+          "turnout": 2592,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1345
+    },
+    {
+      "id": "81167",
+      "name": "ERMO",
+      "uf": "SC",
+      "file": "municipalities/81167.jsonl.gz",
+      "records": 58,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 21,
+            "70": 55,
+            "22": 1748,
+            "55": 36,
+            "14": 46,
+            "13": 433,
+            "30": 4,
+            "96": 25
+          },
+          "valid": 2322,
+          "turnout": 2368,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1160
+    },
+    {
+      "id": "81019",
+      "name": "ERVAL VELHO",
+      "uf": "SC",
+      "file": "municipalities/81019.jsonl.gz",
+      "records": 96,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 51,
+            "27": 5,
+            "13": 705,
+            "80": 2,
+            "55": 88,
+            "22": 2223,
+            "70": 58,
+            "95": 46,
+            "14": 36,
+            "16": 1
+          },
+          "valid": 3118,
+          "turnout": 3215,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1732
+    },
+    {
+      "id": "81035",
+      "name": "FAXINAL DOS GUEDES",
+      "uf": "SC",
+      "file": "municipalities/81035.jsonl.gz",
+      "records": 196,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 150,
+            "13": 2898,
+            "70": 166,
+            "95": 128,
+            "30": 10,
+            "35": 1,
+            "14": 144,
+            "16": 1,
+            "22": 3690,
+            "55": 143,
+            "21": 1,
+            "80": 4
+          },
+          "valid": 7058,
+          "turnout": 7336,
+          "sections": 27
+        }
+      },
+      "file_size_bytes": 3041
+    },
+    {
+      "id": "81604",
+      "name": "FLOR DO SERTÃO",
+      "uf": "SC",
+      "file": "municipalities/81604.jsonl.gz",
+      "records": 45,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 23,
+            "27": 1,
+            "55": 30,
+            "14": 31,
+            "22": 815,
+            "13": 474,
+            "95": 30,
+            "70": 84,
+            "35": 1,
+            "30": 3
+          },
+          "valid": 1439,
+          "turnout": 1492,
+          "sections": 6
+        }
+      },
+      "file_size_bytes": 1166
+    },
+    {
+      "id": "81051",
+      "name": "FLORIANÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81051.jsonl.gz",
+      "records": 10570,
+      "turns": {
+        "1": {
+          "votes": {
+            "35": 70,
+            "30": 2240,
+            "13": 133443,
+            "70": 12129,
+            "95": 4419,
+            "55": 6341,
+            "21": 86,
+            "22": 158954,
+            "14": 12075,
+            "16": 265,
+            "29": 132,
+            "80": 912,
+            "28": 11,
+            "96": 6210,
+            "27": 185
+          },
+          "valid": 326843,
+          "turnout": 337472,
+          "sections": 1207
+        }
+      },
+      "file_size_bytes": 324277
+    },
+    {
+      "id": "80888",
+      "name": "FORMOSA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80888.jsonl.gz",
+      "records": 55,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 33,
+            "22": 1147,
+            "30": 1,
+            "13": 795,
+            "14": 24,
+            "70": 77,
+            "95": 35,
+            "35": 3,
+            "96": 25
+          },
+          "valid": 2080,
+          "turnout": 2140,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1175
+    },
+    {
+      "id": "81060",
+      "name": "FORQUILHINHA",
+      "uf": "SC",
+      "file": "municipalities/81060.jsonl.gz",
+      "records": 511,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 283,
+            "80": 15,
+            "28": 1,
+            "70": 424,
+            "96": 230,
+            "27": 5,
+            "95": 256,
+            "13": 4187,
+            "30": 29,
+            "35": 2,
+            "14": 475,
+            "16": 3,
+            "29": 1,
+            "22": 12705,
+            "21": 3
+          },
+          "valid": 18133,
+          "turnout": 18619,
+          "sections": 67
+        }
+      },
+      "file_size_bytes": 7736
+    },
+    {
+      "id": "81078",
+      "name": "FRAIBURGO",
+      "uf": "SC",
+      "file": "municipalities/81078.jsonl.gz",
+      "records": 692,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 408,
+            "70": 557,
+            "29": 2,
+            "22": 13478,
+            "80": 12,
+            "55": 370,
+            "13": 5350,
+            "14": 440,
+            "16": 3,
+            "30": 34,
+            "35": 3,
+            "21": 2,
+            "96": 367,
+            "27": 4
+          },
+          "valid": 20255,
+          "turnout": 21030,
+          "sections": 93
+        }
+      },
+      "file_size_bytes": 10026
+    },
+    {
+      "id": "81329",
+      "name": "FREI ROGÉRIO",
+      "uf": "SC",
+      "file": "municipalities/81329.jsonl.gz",
+      "records": 73,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 456,
+            "70": 54,
+            "95": 31,
+            "30": 5,
+            "55": 32,
+            "22": 1282,
+            "14": 29,
+            "80": 1,
+            "96": 24,
+            "27": 1
+          },
+          "valid": 1860,
+          "turnout": 1915,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1544
+    },
+    {
+      "id": "81094",
+      "name": "GALVÃO",
+      "uf": "SC",
+      "file": "municipalities/81094.jsonl.gz",
+      "records": 81,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 39,
+            "13": 718,
+            "30": 2,
+            "80": 1,
+            "55": 33,
+            "22": 1408,
+            "70": 40,
+            "95": 46,
+            "16": 1,
+            "14": 29
+          },
+          "valid": 2232,
+          "turnout": 2317,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1441
+    },
+    {
+      "id": "81132",
+      "name": "GAROPABA",
+      "uf": "SC",
+      "file": "municipalities/81132.jsonl.gz",
+      "records": 573,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 343,
+            "27": 1,
+            "55": 200,
+            "14": 482,
+            "29": 3,
+            "13": 6126,
+            "16": 9,
+            "21": 5,
+            "22": 11018,
+            "30": 92,
+            "95": 288,
+            "70": 691,
+            "35": 1,
+            "80": 17
+          },
+          "valid": 18645,
+          "turnout": 19276,
+          "sections": 72
+        }
+      },
+      "file_size_bytes": 7550
+    },
+    {
+      "id": "81159",
+      "name": "GARUVA",
+      "uf": "SC",
+      "file": "municipalities/81159.jsonl.gz",
+      "records": 286,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2085,
+            "35": 2,
+            "30": 13,
+            "70": 199,
+            "95": 152,
+            "55": 140,
+            "22": 6926,
+            "14": 237,
+            "29": 2,
+            "80": 7,
+            "96": 162,
+            "27": 5
+          },
+          "valid": 9616,
+          "turnout": 9930,
+          "sections": 38
+        }
+      },
+      "file_size_bytes": 3937
+    },
+    {
+      "id": "81175",
+      "name": "GASPAR",
+      "uf": "SC",
+      "file": "municipalities/81175.jsonl.gz",
+      "records": 1194,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 741,
+            "27": 8,
+            "30": 154,
+            "13": 8375,
+            "70": 1137,
+            "95": 614,
+            "35": 4,
+            "14": 1298,
+            "16": 8,
+            "29": 5,
+            "22": 28827,
+            "55": 630,
+            "21": 9,
+            "28": 1,
+            "80": 54
+          },
+          "valid": 40510,
+          "turnout": 41865,
+          "sections": 148
+        }
+      },
+      "file_size_bytes": 16834
+    },
+    {
+      "id": "81116",
+      "name": "GOVERNADOR CELSO RAMOS",
+      "uf": "SC",
+      "file": "municipalities/81116.jsonl.gz",
+      "records": 382,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 180,
+            "80": 16,
+            "70": 395,
+            "96": 228,
+            "27": 1,
+            "95": 173,
+            "30": 26,
+            "13": 2564,
+            "35": 1,
+            "14": 310,
+            "16": 3,
+            "22": 10068,
+            "21": 2
+          },
+          "valid": 13566,
+          "turnout": 13967,
+          "sections": 50
+        }
+      },
+      "file_size_bytes": 5718
+    },
+    {
+      "id": "81213",
+      "name": "GRAVATAL",
+      "uf": "SC",
+      "file": "municipalities/81213.jsonl.gz",
+      "records": 232,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 154,
+            "80": 2,
+            "70": 236,
+            "96": 78,
+            "95": 96,
+            "30": 28,
+            "13": 1483,
+            "14": 162,
+            "16": 3,
+            "22": 5778
+          },
+          "valid": 7846,
+          "turnout": 8020,
+          "sections": 31
+        }
+      },
+      "file_size_bytes": 3313
+    },
+    {
+      "id": "81191",
+      "name": "GRÃO-PARÁ",
+      "uf": "SC",
+      "file": "municipalities/81191.jsonl.gz",
+      "records": 161,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 86,
+            "29": 1,
+            "22": 3689,
+            "80": 3,
+            "95": 72,
+            "70": 145,
+            "30": 10,
+            "13": 747,
+            "96": 92,
+            "55": 88,
+            "27": 2
+          },
+          "valid": 4771,
+          "turnout": 4935,
+          "sections": 22
+        }
+      },
+      "file_size_bytes": 3109
+    },
+    {
+      "id": "81230",
+      "name": "GUABIRUBA",
+      "uf": "SC",
+      "file": "municipalities/81230.jsonl.gz",
+      "records": 389,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 370,
+            "29": 1,
+            "16": 5,
+            "22": 10921,
+            "80": 18,
+            "95": 252,
+            "70": 397,
+            "13": 2416,
+            "30": 38,
+            "35": 1,
+            "96": 275,
+            "55": 202,
+            "27": 3,
+            "21": 2
+          },
+          "valid": 14374,
+          "turnout": 14901,
+          "sections": 48
+        }
+      },
+      "file_size_bytes": 5740
+    },
+    {
+      "id": "81256",
+      "name": "GUARACIABA",
+      "uf": "SC",
+      "file": "municipalities/81256.jsonl.gz",
+      "records": 229,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 108,
+            "70": 189,
+            "29": 2,
+            "22": 4697,
+            "28": 3,
+            "80": 3,
+            "55": 223,
+            "13": 2180,
+            "35": 2,
+            "14": 199,
+            "16": 1,
+            "30": 9,
+            "21": 3,
+            "96": 95,
+            "27": 1
+          },
+          "valid": 7512,
+          "turnout": 7715,
+          "sections": 31
+        }
+      },
+      "file_size_bytes": 3501
+    },
+    {
+      "id": "81272",
+      "name": "GUARAMIRIM",
+      "uf": "SC",
+      "file": "municipalities/81272.jsonl.gz",
+      "records": 767,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 337,
+            "27": 9,
+            "13": 5229,
+            "30": 73,
+            "35": 3,
+            "28": 2,
+            "80": 28,
+            "55": 418,
+            "21": 4,
+            "22": 19367,
+            "95": 362,
+            "70": 706,
+            "14": 729,
+            "16": 5,
+            "29": 1
+          },
+          "valid": 26574,
+          "turnout": 27273,
+          "sections": 98
+        }
+      },
+      "file_size_bytes": 11787
+    },
+    {
+      "id": "81299",
+      "name": "GUARUJÁ DO SUL",
+      "uf": "SC",
+      "file": "municipalities/81299.jsonl.gz",
+      "records": 109,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 57,
+            "13": 937,
+            "30": 7,
+            "80": 4,
+            "55": 63,
+            "22": 1938,
+            "70": 91,
+            "95": 53,
+            "14": 87
+          },
+          "valid": 3127,
+          "turnout": 3237,
+          "sections": 14
+        }
+      },
+      "file_size_bytes": 1708
+    },
+    {
+      "id": "80527",
+      "name": "GUATAMBÚ",
+      "uf": "SC",
+      "file": "municipalities/80527.jsonl.gz",
+      "records": 154,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2228,
+            "30": 13,
+            "70": 106,
+            "95": 77,
+            "55": 133,
+            "22": 2561,
+            "14": 86,
+            "80": 3,
+            "96": 83,
+            "27": 3
+          },
+          "valid": 5133,
+          "turnout": 5293,
+          "sections": 21
+        }
+      },
+      "file_size_bytes": 2304
+    },
+    {
+      "id": "81310",
+      "name": "HERVAL D OESTE",
+      "uf": "SC",
+      "file": "municipalities/81310.jsonl.gz",
+      "records": 422,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 276,
+            "21": 2,
+            "80": 8,
+            "28": 1,
+            "22": 8620,
+            "13": 3533,
+            "30": 26,
+            "14": 283,
+            "16": 5,
+            "70": 341,
+            "95": 202,
+            "96": 178,
+            "27": 4
+          },
+          "valid": 13099,
+          "turnout": 13479,
+          "sections": 56
+        }
+      },
+      "file_size_bytes": 7389
+    },
+    {
+      "id": "81400",
+      "name": "IBIAM",
+      "uf": "SC",
+      "file": "municipalities/81400.jsonl.gz",
+      "records": 45,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1098,
+            "95": 16,
+            "70": 35,
+            "30": 6,
+            "13": 423,
+            "14": 20,
+            "96": 13,
+            "55": 44,
+            "21": 1
+          },
+          "valid": 1627,
+          "turnout": 1656,
+          "sections": 6
+        }
+      },
+      "file_size_bytes": 1017
+    },
+    {
+      "id": "81337",
+      "name": "IBICARÉ",
+      "uf": "SC",
+      "file": "municipalities/81337.jsonl.gz",
+      "records": 102,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 37,
+            "70": 48,
+            "29": 1,
+            "22": 1831,
+            "80": 3,
+            "55": 38,
+            "14": 44,
+            "13": 492,
+            "30": 3,
+            "96": 38
+          },
+          "valid": 2460,
+          "turnout": 2535,
+          "sections": 14
+        }
+      },
+      "file_size_bytes": 1601
+    },
+    {
+      "id": "81353",
+      "name": "IBIRAMA",
+      "uf": "SC",
+      "file": "municipalities/81353.jsonl.gz",
+      "records": 363,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 363,
+            "95": 162,
+            "29": 2,
+            "22": 8560,
+            "80": 11,
+            "55": 211,
+            "13": 2108,
+            "14": 397,
+            "16": 4,
+            "30": 51,
+            "35": 1,
+            "21": 4,
+            "96": 235,
+            "27": 3
+          },
+          "valid": 11715,
+          "turnout": 12112,
+          "sections": 45
+        }
+      },
+      "file_size_bytes": 4953
+    },
+    {
+      "id": "81396",
+      "name": "ILHOTA",
+      "uf": "SC",
+      "file": "municipalities/81396.jsonl.gz",
+      "records": 291,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 157,
+            "21": 2,
+            "80": 7,
+            "28": 1,
+            "22": 7287,
+            "30": 25,
+            "13": 1773,
+            "14": 230,
+            "16": 2,
+            "29": 2,
+            "70": 209,
+            "95": 142,
+            "96": 188,
+            "27": 4
+          },
+          "valid": 9699,
+          "turnout": 10029,
+          "sections": 38
+        }
+      },
+      "file_size_bytes": 4382
+    },
+    {
+      "id": "81418",
+      "name": "IMARUÍ",
+      "uf": "SC",
+      "file": "municipalities/81418.jsonl.gz",
+      "records": 243,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2996,
+            "30": 9,
+            "70": 202,
+            "95": 147,
+            "35": 1,
+            "55": 98,
+            "21": 2,
+            "22": 4200,
+            "14": 174,
+            "16": 1,
+            "29": 1,
+            "80": 4,
+            "96": 194,
+            "27": 1
+          },
+          "valid": 7689,
+          "turnout": 8030,
+          "sections": 33
+        }
+      },
+      "file_size_bytes": 4448
+    },
+    {
+      "id": "81434",
+      "name": "IMBITUBA",
+      "uf": "SC",
+      "file": "municipalities/81434.jsonl.gz",
+      "records": 960,
+      "turns": {
+        "1": {
+          "votes": {
+            "28": 4,
+            "80": 35,
+            "55": 451,
+            "70": 1077,
+            "96": 695,
+            "27": 10,
+            "95": 547,
+            "30": 75,
+            "13": 10648,
+            "35": 4,
+            "16": 11,
+            "14": 958,
+            "29": 5,
+            "22": 17603,
+            "21": 6
+          },
+          "valid": 30887,
+          "turnout": 32129,
+          "sections": 120
+        }
+      },
+      "file_size_bytes": 11946
+    },
+    {
+      "id": "81450",
+      "name": "IMBUIA",
+      "uf": "SC",
+      "file": "municipalities/81450.jsonl.gz",
+      "records": 143,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 93,
+            "70": 123,
+            "96": 72,
+            "27": 1,
+            "95": 72,
+            "13": 707,
+            "30": 1,
+            "14": 61,
+            "29": 3,
+            "22": 3419
+          },
+          "valid": 4408,
+          "turnout": 4552,
+          "sections": 20
+        }
+      },
+      "file_size_bytes": 2271
+    },
+    {
+      "id": "81477",
+      "name": "INDAIAL",
+      "uf": "SC",
+      "file": "municipalities/81477.jsonl.gz",
+      "records": 1251,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 619,
+            "80": 45,
+            "28": 4,
+            "70": 1212,
+            "96": 840,
+            "27": 12,
+            "95": 563,
+            "30": 189,
+            "13": 7033,
+            "35": 12,
+            "14": 1414,
+            "16": 5,
+            "29": 7,
+            "22": 29041,
+            "21": 7
+          },
+          "valid": 39600,
+          "turnout": 41003,
+          "sections": 154
+        }
+      },
+      "file_size_bytes": 18831
+    },
+    {
+      "id": "81361",
+      "name": "IOMERÊ",
+      "uf": "SC",
+      "file": "municipalities/81361.jsonl.gz",
+      "records": 72,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 25,
+            "27": 1,
+            "30": 8,
+            "13": 442,
+            "80": 4,
+            "55": 54,
+            "22": 1795,
+            "70": 86,
+            "95": 36,
+            "14": 42,
+            "29": 1
+          },
+          "valid": 2433,
+          "turnout": 2494,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1372
+    },
+    {
+      "id": "81493",
+      "name": "IPIRA",
+      "uf": "SC",
+      "file": "municipalities/81493.jsonl.gz",
+      "records": 97,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 59,
+            "22": 2011,
+            "30": 11,
+            "13": 987,
+            "14": 69,
+            "16": 1,
+            "70": 96,
+            "95": 65,
+            "96": 53
+          },
+          "valid": 3234,
+          "turnout": 3352,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1782
+    },
+    {
+      "id": "80020",
+      "name": "IPORÃ DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/80020.jsonl.gz",
+      "records": 217,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 96,
+            "70": 230,
+            "22": 4358,
+            "80": 2,
+            "55": 212,
+            "14": 170,
+            "16": 4,
+            "30": 17,
+            "13": 1331,
+            "96": 116,
+            "27": 2
+          },
+          "valid": 6326,
+          "turnout": 6538,
+          "sections": 29
+        }
+      },
+      "file_size_bytes": 3735
+    },
+    {
+      "id": "80829",
+      "name": "IPUAÇU",
+      "uf": "SC",
+      "file": "municipalities/80829.jsonl.gz",
+      "records": 140,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 78,
+            "13": 2442,
+            "30": 4,
+            "80": 1,
+            "55": 61,
+            "21": 1,
+            "22": 1777,
+            "95": 46,
+            "70": 89,
+            "14": 40,
+            "29": 1
+          },
+          "valid": 4416,
+          "turnout": 4540,
+          "sections": 20
+        }
+      },
+      "file_size_bytes": 2186
+    },
+    {
+      "id": "81515",
+      "name": "IPUMIRIM",
+      "uf": "SC",
+      "file": "municipalities/81515.jsonl.gz",
+      "records": 141,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 2,
+            "96": 115,
+            "55": 114,
+            "29": 1,
+            "14": 131,
+            "30": 10,
+            "13": 1598,
+            "22": 2603,
+            "70": 161,
+            "95": 95,
+            "80": 4
+          },
+          "valid": 4624,
+          "turnout": 4834,
+          "sections": 18
+        }
+      },
+      "file_size_bytes": 2272
+    },
+    {
+      "id": "80187",
+      "name": "IRACEMINHA",
+      "uf": "SC",
+      "file": "municipalities/80187.jsonl.gz",
+      "records": 104,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 41,
+            "70": 87,
+            "22": 2230,
+            "80": 2,
+            "55": 75,
+            "14": 50,
+            "13": 706,
+            "30": 10,
+            "96": 33
+          },
+          "valid": 3160,
+          "turnout": 3234,
+          "sections": 14
+        }
+      },
+      "file_size_bytes": 1871
+    },
+    {
+      "id": "81531",
+      "name": "IRANI",
+      "uf": "SC",
+      "file": "municipalities/81531.jsonl.gz",
+      "records": 178,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 132,
+            "80": 2,
+            "70": 255,
+            "96": 91,
+            "95": 132,
+            "13": 1806,
+            "30": 5,
+            "14": 129,
+            "22": 3882
+          },
+          "valid": 6211,
+          "turnout": 6434,
+          "sections": 25
+        }
+      },
+      "file_size_bytes": 2775
+    },
+    {
+      "id": "80861",
+      "name": "IRATI",
+      "uf": "SC",
+      "file": "municipalities/80861.jsonl.gz",
+      "records": 50,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 29,
+            "70": 33,
+            "95": 26,
+            "13": 635,
+            "30": 1,
+            "14": 16,
+            "22": 910,
+            "55": 31,
+            "80": 1
+          },
+          "valid": 1627,
+          "turnout": 1682,
+          "sections": 7
+        }
+      },
+      "file_size_bytes": 1030
+    },
+    {
+      "id": "81558",
+      "name": "IRINEÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81558.jsonl.gz",
+      "records": 211,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 119,
+            "80": 3,
+            "28": 1,
+            "22": 4607,
+            "13": 1540,
+            "30": 8,
+            "14": 143,
+            "16": 2,
+            "70": 194,
+            "95": 114,
+            "35": 1,
+            "96": 111,
+            "27": 1
+          },
+          "valid": 6619,
+          "turnout": 6844,
+          "sections": 29
+        }
+      },
+      "file_size_bytes": 3669
+    },
+    {
+      "id": "81590",
+      "name": "ITAIÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81590.jsonl.gz",
+      "records": 388,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 215,
+            "27": 2,
+            "55": 206,
+            "14": 244,
+            "16": 1,
+            "21": 2,
+            "22": 10200,
+            "13": 2249,
+            "30": 9,
+            "95": 261,
+            "70": 253,
+            "35": 2,
+            "80": 10
+          },
+          "valid": 13178,
+          "turnout": 13654,
+          "sections": 54
+        }
+      },
+      "file_size_bytes": 5889
+    },
+    {
+      "id": "81612",
+      "name": "ITAJAÍ",
+      "uf": "SC",
+      "file": "municipalities/81612.jsonl.gz",
+      "records": 4252,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 2080,
+            "21": 33,
+            "80": 193,
+            "28": 3,
+            "22": 98583,
+            "13": 33204,
+            "30": 535,
+            "35": 24,
+            "14": 4651,
+            "16": 56,
+            "29": 20,
+            "70": 4356,
+            "95": 2231,
+            "96": 2524,
+            "27": 47
+          },
+          "valid": 143785,
+          "turnout": 148540,
+          "sections": 525
+        }
+      },
+      "file_size_bytes": 97456
+    },
+    {
+      "id": "81639",
+      "name": "ITAPEMA",
+      "uf": "SC",
+      "file": "municipalities/81639.jsonl.gz",
+      "records": 1259,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 576,
+            "27": 6,
+            "30": 126,
+            "13": 8758,
+            "35": 2,
+            "80": 29,
+            "28": 1,
+            "55": 385,
+            "21": 6,
+            "22": 34048,
+            "70": 1166,
+            "95": 460,
+            "14": 1249,
+            "16": 7,
+            "29": 10
+          },
+          "valid": 45793,
+          "turnout": 46829,
+          "sections": 168
+        }
+      },
+      "file_size_bytes": 17729
+    },
+    {
+      "id": "81655",
+      "name": "ITAPIRANGA",
+      "uf": "SC",
+      "file": "municipalities/81655.jsonl.gz",
+      "records": 313,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 135,
+            "30": 23,
+            "13": 1941,
+            "35": 2,
+            "70": 307,
+            "95": 103,
+            "14": 295,
+            "16": 3,
+            "29": 2,
+            "22": 6821,
+            "55": 306,
+            "80": 6,
+            "28": 1
+          },
+          "valid": 9707,
+          "turnout": 9945,
+          "sections": 42
+        }
+      },
+      "file_size_bytes": 5718
+    },
+    {
+      "id": "81663",
+      "name": "ITAPOÁ",
+      "uf": "SC",
+      "file": "municipalities/81663.jsonl.gz",
+      "records": 476,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 443,
+            "95": 253,
+            "29": 2,
+            "22": 10514,
+            "80": 22,
+            "28": 1,
+            "55": 278,
+            "13": 4072,
+            "14": 368,
+            "16": 6,
+            "30": 52,
+            "35": 2,
+            "21": 2,
+            "96": 326,
+            "27": 3
+          },
+          "valid": 15765,
+          "turnout": 16344,
+          "sections": 59
+        }
+      },
+      "file_size_bytes": 6107
+    },
+    {
+      "id": "81671",
+      "name": "ITUPORANGA",
+      "uf": "SC",
+      "file": "municipalities/81671.jsonl.gz",
+      "records": 488,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 26,
+            "13": 2473,
+            "35": 3,
+            "70": 358,
+            "95": 197,
+            "55": 288,
+            "21": 3,
+            "22": 12866,
+            "14": 342,
+            "16": 1,
+            "80": 6,
+            "28": 1,
+            "96": 185,
+            "27": 2
+          },
+          "valid": 16369,
+          "turnout": 16751,
+          "sections": 67
+        }
+      },
+      "file_size_bytes": 7138
+    },
+    {
+      "id": "81574",
+      "name": "ITÁ",
+      "uf": "SC",
+      "file": "municipalities/81574.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 198,
+            "22": 2666,
+            "80": 7,
+            "28": 1,
+            "95": 69,
+            "70": 193,
+            "30": 19,
+            "13": 1588,
+            "16": 1,
+            "96": 87,
+            "55": 126
+          },
+          "valid": 4799,
+          "turnout": 4955,
+          "sections": 21
+        }
+      },
+      "file_size_bytes": 2713
+    },
+    {
+      "id": "81370",
+      "name": "IÇARA",
+      "uf": "SC",
+      "file": "municipalities/81370.jsonl.gz",
+      "records": 1015,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 525,
+            "27": 10,
+            "13": 7254,
+            "30": 70,
+            "70": 866,
+            "95": 485,
+            "35": 4,
+            "14": 1050,
+            "16": 8,
+            "29": 1,
+            "22": 24515,
+            "55": 586,
+            "21": 6,
+            "80": 19,
+            "28": 2
+          },
+          "valid": 34391,
+          "turnout": 35401,
+          "sections": 135
+        }
+      },
+      "file_size_bytes": 18988
+    },
+    {
+      "id": "81698",
+      "name": "JABORÁ",
+      "uf": "SC",
+      "file": "municipalities/81698.jsonl.gz",
+      "records": 96,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 1,
+            "70": 100,
+            "96": 43,
+            "95": 31,
+            "30": 7,
+            "13": 703,
+            "14": 46,
+            "16": 1,
+            "22": 2325,
+            "55": 85
+          },
+          "valid": 3268,
+          "turnout": 3342,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1736
+    },
+    {
+      "id": "81710",
+      "name": "JACINTO MACHADO",
+      "uf": "SC",
+      "file": "municipalities/81710.jsonl.gz",
+      "records": 227,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 184,
+            "95": 121,
+            "22": 5619,
+            "80": 4,
+            "55": 112,
+            "14": 172,
+            "16": 4,
+            "13": 1304,
+            "30": 17,
+            "35": 1,
+            "21": 2,
+            "96": 112,
+            "27": 2
+          },
+          "valid": 7421,
+          "turnout": 7654,
+          "sections": 29
+        }
+      },
+      "file_size_bytes": 3318
+    },
+    {
+      "id": "81736",
+      "name": "JAGUARUNA",
+      "uf": "SC",
+      "file": "municipalities/81736.jsonl.gz",
+      "records": 400,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 277,
+            "16": 4,
+            "22": 9193,
+            "80": 7,
+            "70": 359,
+            "95": 230,
+            "13": 2949,
+            "30": 41,
+            "35": 2,
+            "96": 187,
+            "55": 160,
+            "27": 3,
+            "21": 2
+          },
+          "valid": 12997,
+          "turnout": 13414,
+          "sections": 52
+        }
+      },
+      "file_size_bytes": 6872
+    },
+    {
+      "id": "81752",
+      "name": "JARAGUÁ DO SUL",
+      "uf": "SC",
+      "file": "municipalities/81752.jsonl.gz",
+      "records": 3182,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 20528,
+            "30": 587,
+            "35": 13,
+            "70": 3196,
+            "95": 1262,
+            "55": 1628,
+            "21": 32,
+            "22": 78938,
+            "14": 3450,
+            "16": 40,
+            "29": 23,
+            "28": 10,
+            "80": 164,
+            "96": 1610,
+            "27": 29
+          },
+          "valid": 108638,
+          "turnout": 111510,
+          "sections": 384
+        }
+      },
+      "file_size_bytes": 77943
+    },
+    {
+      "id": "81140",
+      "name": "JARDINÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81140.jsonl.gz",
+      "records": 45,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 25,
+            "70": 59,
+            "22": 882,
+            "55": 26,
+            "14": 36,
+            "13": 443,
+            "30": 4,
+            "96": 15
+          },
+          "valid": 1450,
+          "turnout": 1490,
+          "sections": 6
+        }
+      },
+      "file_size_bytes": 974
+    },
+    {
+      "id": "81779",
+      "name": "JOAÇABA",
+      "uf": "SC",
+      "file": "municipalities/81779.jsonl.gz",
+      "records": 601,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 228,
+            "27": 6,
+            "13": 3863,
+            "30": 55,
+            "70": 497,
+            "95": 247,
+            "35": 2,
+            "14": 440,
+            "16": 3,
+            "29": 2,
+            "22": 12319,
+            "55": 342,
+            "21": 3,
+            "80": 16
+          },
+          "valid": 17548,
+          "turnout": 18023,
+          "sections": 79
+        }
+      },
+      "file_size_bytes": 10109
+    },
+    {
+      "id": "81795",
+      "name": "JOINVILLE",
+      "uf": "SC",
+      "file": "municipalities/81795.jsonl.gz",
+      "records": 10471,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 170,
+            "96": 6456,
+            "55": 5809,
+            "16": 147,
+            "14": 13253,
+            "29": 51,
+            "13": 72919,
+            "35": 48,
+            "30": 2690,
+            "21": 72,
+            "95": 4761,
+            "22": 246309,
+            "70": 10874,
+            "28": 19,
+            "80": 527
+          },
+          "valid": 352888,
+          "turnout": 364105,
+          "sections": 1234
+        }
+      },
+      "file_size_bytes": 287323
+    },
+    {
+      "id": "80101",
+      "name": "JOSÉ BOITEUX",
+      "uf": "SC",
+      "file": "municipalities/80101.jsonl.gz",
+      "records": 124,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 48,
+            "27": 4,
+            "30": 8,
+            "13": 1183,
+            "70": 77,
+            "95": 36,
+            "14": 77,
+            "16": 1,
+            "29": 1,
+            "22": 2222,
+            "55": 49,
+            "28": 1,
+            "80": 1
+          },
+          "valid": 3624,
+          "turnout": 3708,
+          "sections": 17
+        }
+      },
+      "file_size_bytes": 2072
+    },
+    {
+      "id": "81540",
+      "name": "JUPIÁ",
+      "uf": "SC",
+      "file": "municipalities/81540.jsonl.gz",
+      "records": 57,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 22,
+            "70": 61,
+            "22": 1105,
+            "55": 36,
+            "14": 29,
+            "16": 1,
+            "13": 629,
+            "96": 32,
+            "27": 1
+          },
+          "valid": 1862,
+          "turnout": 1916,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1214
+    },
+    {
+      "id": "81817",
+      "name": "LACERDÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81817.jsonl.gz",
+      "records": 60,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 312,
+            "70": 39,
+            "95": 24,
+            "30": 3,
+            "55": 34,
+            "22": 1280,
+            "14": 20,
+            "80": 2,
+            "96": 24
+          },
+          "valid": 1690,
+          "turnout": 1738,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1268
+    },
+    {
+      "id": "81833",
+      "name": "LAGES",
+      "uf": "SC",
+      "file": "municipalities/81833.jsonl.gz",
+      "records": 3004,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 25809,
+            "30": 161,
+            "35": 11,
+            "70": 2894,
+            "95": 1974,
+            "55": 1707,
+            "21": 20,
+            "22": 62339,
+            "14": 2332,
+            "16": 18,
+            "29": 14,
+            "80": 88,
+            "28": 2,
+            "96": 1536,
+            "27": 29
+          },
+          "valid": 95424,
+          "turnout": 98934,
+          "sections": 393
+        }
+      },
+      "file_size_bytes": 61106
+    },
+    {
+      "id": "81850",
+      "name": "LAGUNA",
+      "uf": "SC",
+      "file": "municipalities/81850.jsonl.gz",
+      "records": 910,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 10,
+            "96": 569,
+            "55": 492,
+            "14": 842,
+            "16": 8,
+            "29": 2,
+            "30": 55,
+            "13": 9505,
+            "21": 9,
+            "22": 15914,
+            "70": 830,
+            "95": 516,
+            "35": 1,
+            "80": 30,
+            "28": 1
+          },
+          "valid": 27699,
+          "turnout": 28784,
+          "sections": 118
+        }
+      },
+      "file_size_bytes": 18443
+    },
+    {
+      "id": "80586",
+      "name": "LAJEADO GRANDE",
+      "uf": "SC",
+      "file": "municipalities/80586.jsonl.gz",
+      "records": 45,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 32,
+            "22": 893,
+            "30": 3,
+            "13": 362,
+            "14": 15,
+            "70": 33,
+            "95": 22,
+            "96": 11
+          },
+          "valid": 1338,
+          "turnout": 1371,
+          "sections": 6
+        }
+      },
+      "file_size_bytes": 974
+    },
+    {
+      "id": "81876",
+      "name": "LAURENTINO",
+      "uf": "SC",
+      "file": "municipalities/81876.jsonl.gz",
+      "records": 151,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 87,
+            "27": 1,
+            "13": 896,
+            "30": 14,
+            "70": 137,
+            "95": 76,
+            "35": 1,
+            "14": 128,
+            "16": 1,
+            "29": 1,
+            "22": 3919,
+            "55": 60,
+            "28": 1,
+            "80": 5
+          },
+          "valid": 5164,
+          "turnout": 5327,
+          "sections": 19
+        }
+      },
+      "file_size_bytes": 2463
+    },
+    {
+      "id": "81892",
+      "name": "LAURO MÜLLER",
+      "uf": "SC",
+      "file": "municipalities/81892.jsonl.gz",
+      "records": 322,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 251,
+            "27": 2,
+            "13": 2607,
+            "30": 19,
+            "70": 293,
+            "95": 181,
+            "14": 240,
+            "16": 3,
+            "22": 6226,
+            "55": 250,
+            "80": 2
+          },
+          "valid": 9642,
+          "turnout": 10074,
+          "sections": 44
+        }
+      },
+      "file_size_bytes": 5310
+    },
+    {
+      "id": "81914",
+      "name": "LEBON RÉGIS",
+      "uf": "SC",
+      "file": "municipalities/81914.jsonl.gz",
+      "records": 220,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 145,
+            "55": 90,
+            "13": 2899,
+            "14": 144,
+            "21": 2,
+            "22": 3245,
+            "30": 9,
+            "70": 203,
+            "95": 168,
+            "35": 3,
+            "80": 5
+          },
+          "valid": 6600,
+          "turnout": 6913,
+          "sections": 30
+        }
+      },
+      "file_size_bytes": 3574
+    },
+    {
+      "id": "81930",
+      "name": "LEOBERTO LEAL",
+      "uf": "SC",
+      "file": "municipalities/81930.jsonl.gz",
+      "records": 87,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1968,
+            "80": 3,
+            "70": 88,
+            "95": 57,
+            "30": 5,
+            "13": 542,
+            "14": 42,
+            "96": 51,
+            "55": 78
+          },
+          "valid": 2726,
+          "turnout": 2834,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1685
+    },
+    {
+      "id": "80047",
+      "name": "LINDÓIA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80047.jsonl.gz",
+      "records": 100,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 5,
+            "13": 773,
+            "70": 108,
+            "95": 42,
+            "55": 88,
+            "22": 1949,
+            "14": 51,
+            "80": 4,
+            "96": 43,
+            "27": 1
+          },
+          "valid": 2979,
+          "turnout": 3064,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1825
+    },
+    {
+      "id": "81957",
+      "name": "LONTRAS",
+      "uf": "SC",
+      "file": "municipalities/81957.jsonl.gz",
+      "records": 233,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 85,
+            "80": 5,
+            "70": 170,
+            "96": 123,
+            "27": 3,
+            "95": 124,
+            "30": 22,
+            "13": 1307,
+            "35": 1,
+            "14": 189,
+            "29": 2,
+            "22": 5686
+          },
+          "valid": 7470,
+          "turnout": 7717,
+          "sections": 31
+        }
+      },
+      "file_size_bytes": 3428
+    },
+    {
+      "id": "81973",
+      "name": "LUIZ ALVES",
+      "uf": "SC",
+      "file": "municipalities/81973.jsonl.gz",
+      "records": 251,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 207,
+            "22": 6909,
+            "80": 3,
+            "95": 91,
+            "70": 183,
+            "30": 30,
+            "13": 1270,
+            "96": 105,
+            "16": 1,
+            "55": 127,
+            "27": 1
+          },
+          "valid": 8731,
+          "turnout": 8927,
+          "sections": 33
+        }
+      },
+      "file_size_bytes": 3766
+    },
+    {
+      "id": "81809",
+      "name": "LUZERNA",
+      "uf": "SC",
+      "file": "municipalities/81809.jsonl.gz",
+      "records": 148,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 92,
+            "80": 3,
+            "70": 125,
+            "96": 45,
+            "95": 50,
+            "30": 19,
+            "13": 675,
+            "35": 1,
+            "14": 91,
+            "16": 1,
+            "22": 3164,
+            "21": 1
+          },
+          "valid": 4172,
+          "turnout": 4267,
+          "sections": 19
+        }
+      },
+      "file_size_bytes": 2492
+    },
+    {
+      "id": "80900",
+      "name": "MACIEIRA",
+      "uf": "SC",
+      "file": "municipalities/80900.jsonl.gz",
+      "records": 52,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 23,
+            "13": 646,
+            "80": 2,
+            "55": 45,
+            "22": 1107,
+            "70": 44,
+            "95": 30,
+            "14": 24,
+            "16": 1
+          },
+          "valid": 1869,
+          "turnout": 1922,
+          "sections": 7
+        }
+      },
+      "file_size_bytes": 1182
+    },
+    {
+      "id": "81990",
+      "name": "MAFRA",
+      "uf": "SC",
+      "file": "municipalities/81990.jsonl.gz",
+      "records": 1048,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 866,
+            "16": 3,
+            "29": 7,
+            "22": 24036,
+            "80": 29,
+            "28": 1,
+            "70": 1073,
+            "95": 818,
+            "13": 6418,
+            "30": 66,
+            "35": 7,
+            "96": 577,
+            "55": 698,
+            "27": 9,
+            "21": 11
+          },
+          "valid": 33224,
+          "turnout": 34619,
+          "sections": 136
+        }
+      },
+      "file_size_bytes": 18742
+    },
+    {
+      "id": "82015",
+      "name": "MAJOR GERCINO",
+      "uf": "SC",
+      "file": "municipalities/82015.jsonl.gz",
+      "records": 92,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 53,
+            "13": 566,
+            "30": 5,
+            "70": 79,
+            "95": 47,
+            "14": 44,
+            "16": 1,
+            "29": 1,
+            "22": 1770,
+            "55": 44,
+            "80": 6
+          },
+          "valid": 2516,
+          "turnout": 2616,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1801
+    },
+    {
+      "id": "82031",
+      "name": "MAJOR VIEIRA",
+      "uf": "SC",
+      "file": "municipalities/82031.jsonl.gz",
+      "records": 153,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 2,
+            "70": 136,
+            "96": 110,
+            "27": 1,
+            "95": 115,
+            "13": 1185,
+            "35": 4,
+            "30": 5,
+            "14": 113,
+            "22": 3173,
+            "55": 129
+          },
+          "valid": 4748,
+          "turnout": 4973,
+          "sections": 21
+        }
+      },
+      "file_size_bytes": 2519
+    },
+    {
+      "id": "83917",
+      "name": "MARACAJÁ",
+      "uf": "SC",
+      "file": "municipalities/83917.jsonl.gz",
+      "records": 156,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 94,
+            "30": 10,
+            "13": 1296,
+            "80": 7,
+            "28": 1,
+            "55": 116,
+            "21": 1,
+            "22": 3585,
+            "95": 84,
+            "70": 187,
+            "14": 129,
+            "16": 1,
+            "29": 1
+          },
+          "valid": 5334,
+          "turnout": 5512,
+          "sections": 20
+        }
+      },
+      "file_size_bytes": 2479
+    },
+    {
+      "id": "82058",
+      "name": "MARAVILHA",
+      "uf": "SC",
+      "file": "municipalities/82058.jsonl.gz",
+      "records": 473,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 269,
+            "80": 15,
+            "70": 574,
+            "96": 213,
+            "27": 10,
+            "95": 198,
+            "13": 3684,
+            "30": 39,
+            "35": 1,
+            "14": 473,
+            "16": 1,
+            "29": 2,
+            "22": 11639,
+            "21": 2
+          },
+          "valid": 16709,
+          "turnout": 17120,
+          "sections": 60
+        }
+      },
+      "file_size_bytes": 6376
+    },
+    {
+      "id": "82066",
+      "name": "MAREMA",
+      "uf": "SC",
+      "file": "municipalities/82066.jsonl.gz",
+      "records": 61,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 28,
+            "55": 42,
+            "14": 37,
+            "21": 1,
+            "22": 1225,
+            "13": 494,
+            "95": 25,
+            "70": 27,
+            "30": 1
+          },
+          "valid": 1827,
+          "turnout": 1880,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1323
+    },
+    {
+      "id": "82074",
+      "name": "MASSARANDUBA",
+      "uf": "SC",
+      "file": "municipalities/82074.jsonl.gz",
+      "records": 336,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 182,
+            "27": 4,
+            "55": 243,
+            "29": 1,
+            "14": 262,
+            "21": 1,
+            "22": 8736,
+            "30": 29,
+            "13": 1434,
+            "70": 247,
+            "95": 123,
+            "35": 2,
+            "80": 6,
+            "28": 1
+          },
+          "valid": 10966,
+          "turnout": 11271,
+          "sections": 43
+        }
+      },
+      "file_size_bytes": 4919
+    },
+    {
+      "id": "82090",
+      "name": "MATOS COSTA",
+      "uf": "SC",
+      "file": "municipalities/82090.jsonl.gz",
+      "records": 65,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 785,
+            "70": 47,
+            "95": 48,
+            "55": 37,
+            "22": 911,
+            "14": 42,
+            "96": 31,
+            "27": 1
+          },
+          "valid": 1823,
+          "turnout": 1902,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1372
+    },
+    {
+      "id": "82112",
+      "name": "MELEIRO",
+      "uf": "SC",
+      "file": "municipalities/82112.jsonl.gz",
+      "records": 135,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 98,
+            "22": 3938,
+            "28": 1,
+            "80": 1,
+            "95": 62,
+            "70": 105,
+            "13": 792,
+            "30": 11,
+            "16": 1,
+            "96": 57,
+            "55": 76,
+            "27": 3,
+            "21": 1
+          },
+          "valid": 5027,
+          "turnout": 5146,
+          "sections": 18
+        }
+      },
+      "file_size_bytes": 2266
+    },
+    {
+      "id": "80365",
+      "name": "MIRIM DOCE",
+      "uf": "SC",
+      "file": "municipalities/80365.jsonl.gz",
+      "records": 63,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 19,
+            "70": 37,
+            "95": 29,
+            "13": 405,
+            "30": 3,
+            "14": 33,
+            "22": 1407,
+            "55": 18
+          },
+          "valid": 1903,
+          "turnout": 1951,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1366
+    },
+    {
+      "id": "82139",
+      "name": "MODELO",
+      "uf": "SC",
+      "file": "municipalities/82139.jsonl.gz",
+      "records": 87,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 788,
+            "30": 4,
+            "70": 122,
+            "95": 40,
+            "55": 88,
+            "22": 1865,
+            "14": 95,
+            "29": 1,
+            "80": 1,
+            "96": 32
+          },
+          "valid": 2964,
+          "turnout": 3036,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1616
+    },
+    {
+      "id": "82155",
+      "name": "MONDAÍ",
+      "uf": "SC",
+      "file": "municipalities/82155.jsonl.gz",
+      "records": 202,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 210,
+            "22": 3721,
+            "80": 6,
+            "70": 215,
+            "95": 60,
+            "13": 1910,
+            "30": 15,
+            "96": 112,
+            "55": 155,
+            "21": 1
+          },
+          "valid": 6233,
+          "turnout": 6405,
+          "sections": 28
+        }
+      },
+      "file_size_bytes": 3655
+    },
+    {
+      "id": "80004",
+      "name": "MONTE CARLO",
+      "uf": "SC",
+      "file": "municipalities/80004.jsonl.gz",
+      "records": 175,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 110,
+            "27": 1,
+            "13": 2053,
+            "30": 5,
+            "28": 1,
+            "80": 1,
+            "55": 63,
+            "21": 4,
+            "22": 2860,
+            "70": 144,
+            "95": 178,
+            "14": 101,
+            "29": 1
+          },
+          "valid": 5234,
+          "turnout": 5522,
+          "sections": 24
+        }
+      },
+      "file_size_bytes": 2560
+    },
+    {
+      "id": "82171",
+      "name": "MONTE CASTELO",
+      "uf": "SC",
+      "file": "municipalities/82171.jsonl.gz",
+      "records": 183,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 97,
+            "27": 2,
+            "13": 1677,
+            "30": 5,
+            "80": 2,
+            "28": 2,
+            "55": 79,
+            "21": 1,
+            "22": 3503,
+            "70": 167,
+            "95": 129,
+            "14": 99,
+            "16": 1,
+            "29": 1
+          },
+          "valid": 5539,
+          "turnout": 5765,
+          "sections": 25
+        }
+      },
+      "file_size_bytes": 2801
+    },
+    {
+      "id": "82198",
+      "name": "MORRO DA FUMAÇA",
+      "uf": "SC",
+      "file": "municipalities/82198.jsonl.gz",
+      "records": 304,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 144,
+            "21": 3,
+            "80": 2,
+            "22": 8875,
+            "13": 1799,
+            "30": 17,
+            "35": 1,
+            "14": 286,
+            "70": 260,
+            "95": 151,
+            "96": 132,
+            "27": 3
+          },
+          "valid": 11390,
+          "turnout": 11673,
+          "sections": 41
+        }
+      },
+      "file_size_bytes": 4283
+    },
+    {
+      "id": "81086",
+      "name": "MORRO GRANDE",
+      "uf": "SC",
+      "file": "municipalities/81086.jsonl.gz",
+      "records": 60,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 38,
+            "80": 1,
+            "22": 1774,
+            "14": 44,
+            "70": 59,
+            "95": 31,
+            "13": 388,
+            "30": 4,
+            "96": 28
+          },
+          "valid": 2308,
+          "turnout": 2367,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1273
+    },
+    {
+      "id": "82210",
+      "name": "NAVEGANTES",
+      "uf": "SC",
+      "file": "municipalities/82210.jsonl.gz",
+      "records": 1628,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 877,
+            "27": 9,
+            "30": 150,
+            "13": 12780,
+            "70": 1769,
+            "95": 847,
+            "35": 2,
+            "14": 1578,
+            "16": 15,
+            "29": 6,
+            "22": 32775,
+            "55": 680,
+            "21": 4,
+            "80": 54,
+            "28": 1
+          },
+          "valid": 49823,
+          "turnout": 51547,
+          "sections": 208
+        }
+      },
+      "file_size_bytes": 27486
+    },
+    {
+      "id": "82236",
+      "name": "NOVA ERECHIM",
+      "uf": "SC",
+      "file": "municipalities/82236.jsonl.gz",
+      "records": 104,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 58,
+            "27": 1,
+            "30": 11,
+            "13": 1006,
+            "35": 1,
+            "28": 1,
+            "80": 2,
+            "55": 84,
+            "22": 2054,
+            "70": 71,
+            "95": 37,
+            "14": 90,
+            "16": 1
+          },
+          "valid": 3322,
+          "turnout": 3417,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1882
+    },
+    {
+      "id": "80322",
+      "name": "NOVA ITABERABA",
+      "uf": "SC",
+      "file": "municipalities/80322.jsonl.gz",
+      "records": 95,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 49,
+            "70": 84,
+            "22": 1831,
+            "80": 3,
+            "55": 92,
+            "14": 48,
+            "13": 1286,
+            "30": 6,
+            "35": 1,
+            "96": 42
+          },
+          "valid": 3351,
+          "turnout": 3442,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1868
+    },
+    {
+      "id": "82252",
+      "name": "NOVA TRENTO",
+      "uf": "SC",
+      "file": "municipalities/82252.jsonl.gz",
+      "records": 261,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 10,
+            "13": 1588,
+            "70": 238,
+            "95": 161,
+            "35": 1,
+            "21": 3,
+            "55": 153,
+            "22": 6982,
+            "14": 215,
+            "80": 9,
+            "96": 184,
+            "27": 5
+          },
+          "valid": 9204,
+          "turnout": 9549,
+          "sections": 34
+        }
+      },
+      "file_size_bytes": 3777
+    },
+    {
+      "id": "82279",
+      "name": "NOVA VENEZA",
+      "uf": "SC",
+      "file": "municipalities/82279.jsonl.gz",
+      "records": 279,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 120,
+            "27": 1,
+            "55": 177,
+            "14": 231,
+            "21": 1,
+            "22": 7814,
+            "13": 1807,
+            "70": 186,
+            "95": 126,
+            "30": 17,
+            "35": 2,
+            "80": 2
+          },
+          "valid": 10238,
+          "turnout": 10484,
+          "sections": 38
+        }
+      },
+      "file_size_bytes": 4149
+    },
+    {
+      "id": "80764",
+      "name": "NOVO HORIZONTE",
+      "uf": "SC",
+      "file": "municipalities/80764.jsonl.gz",
+      "records": 82,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 1,
+            "55": 42,
+            "70": 34,
+            "96": 32,
+            "95": 32,
+            "13": 663,
+            "30": 9,
+            "14": 32,
+            "29": 1,
+            "22": 1334
+          },
+          "valid": 2116,
+          "turnout": 2180,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1545
+    },
+    {
+      "id": "82295",
+      "name": "ORLEANS",
+      "uf": "SC",
+      "file": "municipalities/82295.jsonl.gz",
+      "records": 465,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2357,
+            "30": 40,
+            "35": 1,
+            "70": 260,
+            "95": 222,
+            "55": 275,
+            "21": 4,
+            "22": 12012,
+            "14": 359,
+            "16": 4,
+            "29": 2,
+            "80": 7,
+            "96": 230,
+            "27": 2
+          },
+          "valid": 15323,
+          "turnout": 15775,
+          "sections": 61
+        }
+      },
+      "file_size_bytes": 7769
+    },
+    {
+      "id": "83976",
+      "name": "OTACÍLIO COSTA",
+      "uf": "SC",
+      "file": "municipalities/83976.jsonl.gz",
+      "records": 349,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 217,
+            "22": 6918,
+            "80": 8,
+            "95": 180,
+            "70": 289,
+            "13": 2729,
+            "30": 20,
+            "35": 1,
+            "96": 157,
+            "55": 177,
+            "27": 1,
+            "21": 2
+          },
+          "valid": 10362,
+          "turnout": 10699,
+          "sections": 47
+        }
+      },
+      "file_size_bytes": 5101
+    },
+    {
+      "id": "82317",
+      "name": "OURO",
+      "uf": "SC",
+      "file": "municipalities/82317.jsonl.gz",
+      "records": 161,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 84,
+            "80": 4,
+            "70": 130,
+            "96": 85,
+            "27": 2,
+            "95": 75,
+            "30": 8,
+            "13": 981,
+            "14": 98,
+            "22": 3286,
+            "21": 2
+          },
+          "valid": 4595,
+          "turnout": 4755,
+          "sections": 22
+        }
+      },
+      "file_size_bytes": 2710
+    },
+    {
+      "id": "80845",
+      "name": "OURO VERDE",
+      "uf": "SC",
+      "file": "municipalities/80845.jsonl.gz",
+      "records": 41,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 27,
+            "96": 25,
+            "70": 35,
+            "95": 25,
+            "30": 1,
+            "13": 461,
+            "14": 20,
+            "22": 1124
+          },
+          "valid": 1668,
+          "turnout": 1718,
+          "sections": 6
+        }
+      },
+      "file_size_bytes": 965
+    },
+    {
+      "id": "81442",
+      "name": "PAIAL",
+      "uf": "SC",
+      "file": "municipalities/81442.jsonl.gz",
+      "records": 55,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 19,
+            "13": 679,
+            "14": 24,
+            "55": 55,
+            "22": 829,
+            "70": 34,
+            "95": 26,
+            "30": 8,
+            "80": 2
+          },
+          "valid": 1631,
+          "turnout": 1676,
+          "sections": 7
+        }
+      },
+      "file_size_bytes": 1063
+    },
+    {
+      "id": "81264",
+      "name": "PAINEL",
+      "uf": "SC",
+      "file": "municipalities/81264.jsonl.gz",
+      "records": 57,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 26,
+            "27": 1,
+            "13": 678,
+            "30": 2,
+            "55": 59,
+            "22": 1231,
+            "70": 75,
+            "95": 27,
+            "14": 26
+          },
+          "valid": 2072,
+          "turnout": 2125,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1287
+    },
+    {
+      "id": "82333",
+      "name": "PALHOÇA",
+      "uf": "SC",
+      "file": "municipalities/82333.jsonl.gz",
+      "records": 3430,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 33189,
+            "30": 450,
+            "35": 12,
+            "70": 4464,
+            "95": 2206,
+            "55": 1950,
+            "21": 20,
+            "22": 74587,
+            "14": 4644,
+            "16": 67,
+            "29": 26,
+            "80": 181,
+            "28": 3,
+            "96": 2510,
+            "27": 39
+          },
+          "valid": 119632,
+          "turnout": 124348,
+          "sections": 415
+        }
+      },
+      "file_size_bytes": 73616
+    },
+    {
+      "id": "82350",
+      "name": "PALMA SOLA",
+      "uf": "SC",
+      "file": "municipalities/82350.jsonl.gz",
+      "records": 133,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 81,
+            "21": 1,
+            "80": 2,
+            "22": 2327,
+            "13": 1704,
+            "16": 2,
+            "14": 92,
+            "70": 142,
+            "95": 70,
+            "35": 1,
+            "30": 2,
+            "96": 68
+          },
+          "valid": 4354,
+          "turnout": 4492,
+          "sections": 18
+        }
+      },
+      "file_size_bytes": 2217
+    },
+    {
+      "id": "81566",
+      "name": "PALMEIRA",
+      "uf": "SC",
+      "file": "municipalities/81566.jsonl.gz",
+      "records": 69,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 46,
+            "30": 1,
+            "13": 718,
+            "35": 1,
+            "55": 59,
+            "22": 1731,
+            "95": 32,
+            "70": 67,
+            "14": 54
+          },
+          "valid": 2631,
+          "turnout": 2709,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1458
+    },
+    {
+      "id": "82376",
+      "name": "PALMITOS",
+      "uf": "SC",
+      "file": "municipalities/82376.jsonl.gz",
+      "records": 312,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 254,
+            "21": 1,
+            "80": 9,
+            "22": 7084,
+            "13": 2100,
+            "30": 20,
+            "35": 3,
+            "14": 159,
+            "16": 2,
+            "29": 1,
+            "70": 215,
+            "95": 148,
+            "96": 127,
+            "27": 2
+          },
+          "valid": 9850,
+          "turnout": 10125,
+          "sections": 43
+        }
+      },
+      "file_size_bytes": 5493
+    },
+    {
+      "id": "82392",
+      "name": "PAPANDUVA",
+      "uf": "SC",
+      "file": "municipalities/82392.jsonl.gz",
+      "records": 392,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 1,
+            "96": 220,
+            "55": 214,
+            "30": 14,
+            "13": 3459,
+            "14": 211,
+            "16": 5,
+            "21": 1,
+            "95": 354,
+            "22": 7387,
+            "70": 261,
+            "28": 1,
+            "80": 7
+          },
+          "valid": 11561,
+          "turnout": 12135,
+          "sections": 54
+        }
+      },
+      "file_size_bytes": 6107
+    },
+    {
+      "id": "80705",
+      "name": "PARAÍSO",
+      "uf": "SC",
+      "file": "municipalities/80705.jsonl.gz",
+      "records": 100,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 50,
+            "13": 1057,
+            "70": 70,
+            "95": 54,
+            "30": 3,
+            "14": 60,
+            "16": 1,
+            "22": 1570,
+            "55": 90,
+            "80": 2
+          },
+          "valid": 2853,
+          "turnout": 2957,
+          "sections": 14
+        }
+      },
+      "file_size_bytes": 1688
+    },
+    {
+      "id": "80403",
+      "name": "PASSO DE TORRES",
+      "uf": "SC",
+      "file": "municipalities/80403.jsonl.gz",
+      "records": 204,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 113,
+            "70": 218,
+            "29": 1,
+            "22": 4487,
+            "80": 10,
+            "55": 120,
+            "14": 174,
+            "16": 2,
+            "30": 15,
+            "13": 1980,
+            "21": 1,
+            "96": 123,
+            "27": 2
+          },
+          "valid": 7010,
+          "turnout": 7246,
+          "sections": 26
+        }
+      },
+      "file_size_bytes": 2919
+    },
+    {
+      "id": "80624",
+      "name": "PASSOS MAIA",
+      "uf": "SC",
+      "file": "municipalities/80624.jsonl.gz",
+      "records": 79,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 45,
+            "55": 64,
+            "14": 25,
+            "13": 1159,
+            "22": 1376,
+            "95": 35,
+            "70": 55,
+            "35": 1,
+            "80": 1
+          },
+          "valid": 2681,
+          "turnout": 2761,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1633
+    },
+    {
+      "id": "82414",
+      "name": "PAULO LOPES",
+      "uf": "SC",
+      "file": "municipalities/82414.jsonl.gz",
+      "records": 185,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 115,
+            "55": 91,
+            "14": 99,
+            "16": 1,
+            "21": 2,
+            "22": 4047,
+            "30": 12,
+            "13": 1618,
+            "70": 154,
+            "95": 106,
+            "35": 1,
+            "80": 5
+          },
+          "valid": 6030,
+          "turnout": 6251,
+          "sections": 24
+        }
+      },
+      "file_size_bytes": 2852
+    },
+    {
+      "id": "82430",
+      "name": "PEDRAS GRANDES",
+      "uf": "SC",
+      "file": "municipalities/82430.jsonl.gz",
+      "records": 120,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 3,
+            "55": 52,
+            "70": 83,
+            "96": 67,
+            "95": 57,
+            "13": 596,
+            "30": 4,
+            "14": 99,
+            "22": 2483
+          },
+          "valid": 3320,
+          "turnout": 3444,
+          "sections": 17
+        }
+      },
+      "file_size_bytes": 2180
+    },
+    {
+      "id": "82457",
+      "name": "PENHA",
+      "uf": "SC",
+      "file": "municipalities/82457.jsonl.gz",
+      "records": 597,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 280,
+            "21": 4,
+            "80": 13,
+            "22": 13945,
+            "30": 49,
+            "13": 4288,
+            "14": 578,
+            "16": 6,
+            "29": 2,
+            "70": 704,
+            "95": 283,
+            "35": 3,
+            "96": 350,
+            "27": 6
+          },
+          "valid": 19878,
+          "turnout": 20511,
+          "sections": 76
+        }
+      },
+      "file_size_bytes": 8514
+    },
+    {
+      "id": "82473",
+      "name": "PERITIBA",
+      "uf": "SC",
+      "file": "municipalities/82473.jsonl.gz",
+      "records": 78,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 55,
+            "80": 1,
+            "28": 1,
+            "22": 1837,
+            "13": 465,
+            "14": 34,
+            "95": 34,
+            "70": 84,
+            "30": 9,
+            "96": 34
+          },
+          "valid": 2486,
+          "turnout": 2554,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1564
+    },
+    {
+      "id": "83925",
+      "name": "PESCARIA BRAVA",
+      "uf": "SC",
+      "file": "municipalities/83925.jsonl.gz",
+      "records": 210,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 127,
+            "27": 3,
+            "13": 2189,
+            "30": 21,
+            "70": 240,
+            "95": 120,
+            "14": 180,
+            "16": 1,
+            "22": 4361,
+            "55": 132,
+            "80": 9
+          },
+          "valid": 7136,
+          "turnout": 7383,
+          "sections": 27
+        }
+      },
+      "file_size_bytes": 3582
+    },
+    {
+      "id": "82490",
+      "name": "PETROLÂNDIA",
+      "uf": "SC",
+      "file": "municipalities/82490.jsonl.gz",
+      "records": 145,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 93,
+            "22": 3708,
+            "80": 2,
+            "70": 63,
+            "95": 55,
+            "30": 9,
+            "13": 786,
+            "96": 59,
+            "55": 84,
+            "21": 2
+          },
+          "valid": 4747,
+          "turnout": 4861,
+          "sections": 20
+        }
+      },
+      "file_size_bytes": 2275
+    },
+    {
+      "id": "82538",
+      "name": "PINHALZINHO",
+      "uf": "SC",
+      "file": "municipalities/82538.jsonl.gz",
+      "records": 344,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 2,
+            "96": 231,
+            "55": 294,
+            "29": 4,
+            "14": 343,
+            "16": 5,
+            "21": 1,
+            "22": 7827,
+            "30": 38,
+            "13": 3748,
+            "95": 174,
+            "70": 467,
+            "35": 1,
+            "80": 10,
+            "28": 1
+          },
+          "valid": 12741,
+          "turnout": 13146,
+          "sections": 42
+        }
+      },
+      "file_size_bytes": 4677
+    },
+    {
+      "id": "82554",
+      "name": "PINHEIRO PRETO",
+      "uf": "SC",
+      "file": "municipalities/82554.jsonl.gz",
+      "records": 65,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 32,
+            "55": 55,
+            "29": 1,
+            "14": 58,
+            "22": 1567,
+            "30": 10,
+            "13": 619,
+            "95": 38,
+            "70": 57,
+            "80": 3
+          },
+          "valid": 2370,
+          "turnout": 2440,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1250
+    },
+    {
+      "id": "82570",
+      "name": "PIRATUBA",
+      "uf": "SC",
+      "file": "municipalities/82570.jsonl.gz",
+      "records": 130,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 55,
+            "70": 117,
+            "22": 2914,
+            "55": 102,
+            "14": 115,
+            "13": 1048,
+            "30": 8,
+            "96": 87
+          },
+          "valid": 4304,
+          "turnout": 4446,
+          "sections": 18
+        }
+      },
+      "file_size_bytes": 2140
+    },
+    {
+      "id": "80543",
+      "name": "PLANALTO ALEGRE",
+      "uf": "SC",
+      "file": "municipalities/80543.jsonl.gz",
+      "records": 82,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 54,
+            "55": 66,
+            "14": 40,
+            "16": 1,
+            "21": 1,
+            "22": 1208,
+            "30": 8,
+            "13": 1017,
+            "95": 41,
+            "70": 51,
+            "28": 1
+          },
+          "valid": 2393,
+          "turnout": 2488,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1536
+    },
+    {
+      "id": "82597",
+      "name": "POMERODE",
+      "uf": "SC",
+      "file": "municipalities/82597.jsonl.gz",
+      "records": 665,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 699,
+            "29": 5,
+            "16": 4,
+            "22": 15879,
+            "80": 23,
+            "70": 610,
+            "95": 281,
+            "30": 129,
+            "13": 3408,
+            "35": 4,
+            "96": 453,
+            "55": 427,
+            "27": 10,
+            "21": 9
+          },
+          "valid": 21207,
+          "turnout": 21941,
+          "sections": 79
+        }
+      },
+      "file_size_bytes": 8895
+    },
+    {
+      "id": "82619",
+      "name": "PONTE ALTA",
+      "uf": "SC",
+      "file": "municipalities/82619.jsonl.gz",
+      "records": 126,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 1109,
+            "30": 4,
+            "35": 2,
+            "70": 37,
+            "95": 64,
+            "55": 38,
+            "22": 1945,
+            "14": 51,
+            "16": 1,
+            "80": 1,
+            "96": 73
+          },
+          "valid": 3188,
+          "turnout": 3325,
+          "sections": 18
+        }
+      },
+      "file_size_bytes": 2051
+    },
+    {
+      "id": "80926",
+      "name": "PONTE ALTA DO NORTE",
+      "uf": "SC",
+      "file": "municipalities/80926.jsonl.gz",
+      "records": 58,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 56,
+            "13": 682,
+            "35": 1,
+            "28": 1,
+            "80": 1,
+            "55": 22,
+            "22": 1144,
+            "70": 47,
+            "95": 48,
+            "14": 18,
+            "16": 1
+          },
+          "valid": 1917,
+          "turnout": 2021,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1172
+    },
+    {
+      "id": "82635",
+      "name": "PONTE SERRADA",
+      "uf": "SC",
+      "file": "municipalities/82635.jsonl.gz",
+      "records": 214,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 87,
+            "80": 1,
+            "22": 3481,
+            "13": 2392,
+            "30": 7,
+            "14": 93,
+            "29": 1,
+            "16": 1,
+            "70": 119,
+            "95": 83,
+            "35": 1,
+            "96": 123,
+            "27": 1
+          },
+          "valid": 6184,
+          "turnout": 6390,
+          "sections": 30
+        }
+      },
+      "file_size_bytes": 3022
+    },
+    {
+      "id": "82651",
+      "name": "PORTO BELO",
+      "uf": "SC",
+      "file": "municipalities/82651.jsonl.gz",
+      "records": 419,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 235,
+            "13": 3028,
+            "30": 37,
+            "35": 1,
+            "28": 1,
+            "80": 14,
+            "55": 121,
+            "21": 1,
+            "22": 10933,
+            "70": 420,
+            "95": 200,
+            "14": 469,
+            "16": 4,
+            "29": 1
+          },
+          "valid": 15030,
+          "turnout": 15465,
+          "sections": 55
+        }
+      },
+      "file_size_bytes": 5642
+    },
+    {
+      "id": "82678",
+      "name": "PORTO UNIÃO",
+      "uf": "SC",
+      "file": "municipalities/82678.jsonl.gz",
+      "records": 632,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 40,
+            "13": 4850,
+            "35": 5,
+            "70": 590,
+            "95": 374,
+            "55": 386,
+            "21": 3,
+            "22": 12554,
+            "14": 587,
+            "16": 4,
+            "29": 4,
+            "80": 23,
+            "28": 1,
+            "96": 347,
+            "27": 5
+          },
+          "valid": 19052,
+          "turnout": 19773,
+          "sections": 82
+        }
+      },
+      "file_size_bytes": 10191
+    },
+    {
+      "id": "82694",
+      "name": "POUSO REDONDO",
+      "uf": "SC",
+      "file": "municipalities/82694.jsonl.gz",
+      "records": 276,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 139,
+            "21": 3,
+            "80": 2,
+            "22": 7576,
+            "30": 13,
+            "13": 1671,
+            "14": 204,
+            "16": 1,
+            "29": 2,
+            "70": 176,
+            "95": 145,
+            "35": 2,
+            "96": 104,
+            "27": 2
+          },
+          "valid": 9791,
+          "turnout": 10040,
+          "sections": 37
+        }
+      },
+      "file_size_bytes": 3746
+    },
+    {
+      "id": "82716",
+      "name": "PRAIA GRANDE",
+      "uf": "SC",
+      "file": "municipalities/82716.jsonl.gz",
+      "records": 162,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 156,
+            "16": 2,
+            "22": 3388,
+            "80": 2,
+            "70": 175,
+            "95": 78,
+            "30": 20,
+            "13": 1530,
+            "96": 98,
+            "55": 103,
+            "27": 1
+          },
+          "valid": 5377,
+          "turnout": 5553,
+          "sections": 21
+        }
+      },
+      "file_size_bytes": 2487
+    },
+    {
+      "id": "82732",
+      "name": "PRESIDENTE CASTELLO BRANCO",
+      "uf": "SC",
+      "file": "municipalities/82732.jsonl.gz",
+      "records": 41,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 11,
+            "70": 21,
+            "95": 17,
+            "13": 244,
+            "30": 1,
+            "14": 28,
+            "22": 1116,
+            "55": 38
+          },
+          "valid": 1448,
+          "turnout": 1476,
+          "sections": 6
+        }
+      },
+      "file_size_bytes": 1106
+    },
+    {
+      "id": "82759",
+      "name": "PRESIDENTE GETÚLIO",
+      "uf": "SC",
+      "file": "municipalities/82759.jsonl.gz",
+      "records": 309,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 295,
+            "22": 8864,
+            "80": 4,
+            "70": 247,
+            "95": 157,
+            "30": 20,
+            "13": 1866,
+            "16": 1,
+            "96": 173,
+            "55": 162,
+            "27": 4,
+            "21": 1
+          },
+          "valid": 11464,
+          "turnout": 11794,
+          "sections": 42
+        }
+      },
+      "file_size_bytes": 4681
+    },
+    {
+      "id": "82775",
+      "name": "PRESIDENTE NEREU",
+      "uf": "SC",
+      "file": "municipalities/82775.jsonl.gz",
+      "records": 67,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 26,
+            "80": 2,
+            "22": 1329,
+            "14": 35,
+            "70": 41,
+            "95": 35,
+            "13": 368,
+            "30": 3,
+            "96": 27
+          },
+          "valid": 1804,
+          "turnout": 1866,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1396
+    },
+    {
+      "id": "81647",
+      "name": "PRINCESA",
+      "uf": "SC",
+      "file": "municipalities/81647.jsonl.gz",
+      "records": 66,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 31,
+            "70": 63,
+            "95": 31,
+            "13": 524,
+            "30": 3,
+            "35": 1,
+            "14": 61,
+            "22": 1430,
+            "55": 64
+          },
+          "valid": 2146,
+          "turnout": 2208,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1264
+    },
+    {
+      "id": "82791",
+      "name": "QUILOMBO",
+      "uf": "SC",
+      "file": "municipalities/82791.jsonl.gz",
+      "records": 179,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 93,
+            "80": 4,
+            "22": 3764,
+            "30": 9,
+            "13": 2340,
+            "14": 96,
+            "70": 181,
+            "95": 97,
+            "35": 1,
+            "96": 128
+          },
+          "valid": 6488,
+          "turnout": 6713,
+          "sections": 24
+        }
+      },
+      "file_size_bytes": 2741
+    },
+    {
+      "id": "82813",
+      "name": "RANCHO QUEIMADO",
+      "uf": "SC",
+      "file": "municipalities/82813.jsonl.gz",
+      "records": 88,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 42,
+            "55": 51,
+            "14": 107,
+            "29": 1,
+            "13": 601,
+            "95": 57,
+            "22": 2237,
+            "30": 6,
+            "70": 75
+          },
+          "valid": 3078,
+          "turnout": 3177,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1752
+    },
+    {
+      "id": "82830",
+      "name": "RIO DAS ANTAS",
+      "uf": "SC",
+      "file": "municipalities/82830.jsonl.gz",
+      "records": 149,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 92,
+            "80": 4,
+            "22": 3066,
+            "14": 78,
+            "70": 78,
+            "95": 70,
+            "13": 1059,
+            "30": 6,
+            "96": 65,
+            "27": 1
+          },
+          "valid": 4384,
+          "turnout": 4519,
+          "sections": 20
+        }
+      },
+      "file_size_bytes": 2136
+    },
+    {
+      "id": "82856",
+      "name": "RIO DO CAMPO",
+      "uf": "SC",
+      "file": "municipalities/82856.jsonl.gz",
+      "records": 126,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 61,
+            "21": 1,
+            "80": 4,
+            "22": 3461,
+            "13": 805,
+            "30": 17,
+            "14": 94,
+            "29": 1,
+            "70": 134,
+            "95": 47,
+            "96": 54
+          },
+          "valid": 4578,
+          "turnout": 4679,
+          "sections": 17
+        }
+      },
+      "file_size_bytes": 2220
+    },
+    {
+      "id": "82872",
+      "name": "RIO DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/82872.jsonl.gz",
+      "records": 182,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 69,
+            "55": 129,
+            "14": 130,
+            "13": 951,
+            "30": 20,
+            "21": 2,
+            "22": 3613,
+            "95": 66,
+            "70": 168,
+            "80": 6,
+            "28": 1
+          },
+          "valid": 5020,
+          "turnout": 5155,
+          "sections": 25
+        }
+      },
+      "file_size_bytes": 3263
+    },
+    {
+      "id": "82910",
+      "name": "RIO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/82910.jsonl.gz",
+      "records": 1208,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 493,
+            "70": 1195,
+            "29": 3,
+            "22": 29363,
+            "80": 44,
+            "55": 615,
+            "14": 1316,
+            "16": 7,
+            "30": 185,
+            "13": 7559,
+            "35": 6,
+            "21": 5,
+            "96": 629,
+            "27": 9
+          },
+          "valid": 40307,
+          "turnout": 41429,
+          "sections": 151
+        }
+      },
+      "file_size_bytes": 21547
+    },
+    {
+      "id": "82899",
+      "name": "RIO DOS CEDROS",
+      "uf": "SC",
+      "file": "municipalities/82899.jsonl.gz",
+      "records": 227,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 156,
+            "80": 4,
+            "70": 150,
+            "96": 142,
+            "27": 5,
+            "95": 113,
+            "30": 14,
+            "13": 1225,
+            "35": 4,
+            "14": 196,
+            "22": 5703,
+            "21": 1
+          },
+          "valid": 7458,
+          "turnout": 7713,
+          "sections": 30
+        }
+      },
+      "file_size_bytes": 3326
+    },
+    {
+      "id": "82937",
+      "name": "RIO FORTUNA",
+      "uf": "SC",
+      "file": "municipalities/82937.jsonl.gz",
+      "records": 117,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 1,
+            "96": 50,
+            "55": 122,
+            "14": 95,
+            "30": 23,
+            "16": 1,
+            "22": 3141,
+            "13": 436,
+            "70": 70,
+            "95": 45
+          },
+          "valid": 3889,
+          "turnout": 3984,
+          "sections": 16
+        }
+      },
+      "file_size_bytes": 2256
+    },
+    {
+      "id": "82953",
+      "name": "RIO NEGRINHO",
+      "uf": "SC",
+      "file": "municipalities/82953.jsonl.gz",
+      "records": 769,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 464,
+            "21": 2,
+            "80": 16,
+            "28": 1,
+            "22": 17568,
+            "30": 74,
+            "13": 4753,
+            "14": 538,
+            "16": 7,
+            "29": 1,
+            "70": 694,
+            "95": 406,
+            "35": 6,
+            "96": 415,
+            "27": 8
+          },
+          "valid": 24132,
+          "turnout": 24953,
+          "sections": 100
+        }
+      },
+      "file_size_bytes": 11549
+    },
+    {
+      "id": "80608",
+      "name": "RIO RUFINO",
+      "uf": "SC",
+      "file": "municipalities/80608.jsonl.gz",
+      "records": 62,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 586,
+            "70": 79,
+            "95": 31,
+            "55": 43,
+            "22": 1262,
+            "14": 27,
+            "96": 13,
+            "27": 1
+          },
+          "valid": 1998,
+          "turnout": 2042,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1462
+    },
+    {
+      "id": "80560",
+      "name": "RIQUEZA",
+      "uf": "SC",
+      "file": "municipalities/80560.jsonl.gz",
+      "records": 112,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2000,
+            "80": 1,
+            "70": 78,
+            "95": 42,
+            "13": 1075,
+            "30": 4,
+            "14": 66,
+            "96": 48,
+            "16": 1,
+            "55": 80,
+            "27": 1
+          },
+          "valid": 3306,
+          "turnout": 3396,
+          "sections": 16
+        }
+      },
+      "file_size_bytes": 2166
+    },
+    {
+      "id": "82970",
+      "name": "RODEIO",
+      "uf": "SC",
+      "file": "municipalities/82970.jsonl.gz",
+      "records": 271,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 4,
+            "96": 164,
+            "55": 178,
+            "14": 194,
+            "29": 2,
+            "16": 3,
+            "21": 1,
+            "22": 5909,
+            "13": 1299,
+            "30": 19,
+            "95": 148,
+            "70": 229,
+            "80": 7
+          },
+          "valid": 7845,
+          "turnout": 8157,
+          "sections": 35
+        }
+      },
+      "file_size_bytes": 4521
+    },
+    {
+      "id": "82996",
+      "name": "ROMELÂNDIA",
+      "uf": "SC",
+      "file": "municipalities/82996.jsonl.gz",
+      "records": 122,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 48,
+            "27": 2,
+            "30": 8,
+            "70": 84,
+            "95": 75,
+            "13": 1106,
+            "14": 70,
+            "22": 1958,
+            "55": 79,
+            "21": 1,
+            "28": 1,
+            "80": 1
+          },
+          "valid": 3310,
+          "turnout": 3433,
+          "sections": 16
+        }
+      },
+      "file_size_bytes": 2147
+    },
+    {
+      "id": "83011",
+      "name": "SALETE",
+      "uf": "SC",
+      "file": "municipalities/83011.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 81,
+            "80": 3,
+            "70": 178,
+            "96": 93,
+            "27": 3,
+            "95": 70,
+            "30": 12,
+            "13": 944,
+            "14": 112,
+            "16": 2,
+            "22": 3849
+          },
+          "valid": 5184,
+          "turnout": 5347,
+          "sections": 21
+        }
+      },
+      "file_size_bytes": 2513
+    },
+    {
+      "id": "81523",
+      "name": "SALTINHO",
+      "uf": "SC",
+      "file": "municipalities/81523.jsonl.gz",
+      "records": 83,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 68,
+            "70": 74,
+            "22": 1188,
+            "80": 5,
+            "55": 51,
+            "14": 63,
+            "13": 1195,
+            "30": 1,
+            "96": 46
+          },
+          "valid": 2577,
+          "turnout": 2691,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1493
+    },
+    {
+      "id": "83038",
+      "name": "SALTO VELOSO",
+      "uf": "SC",
+      "file": "municipalities/83038.jsonl.gz",
+      "records": 91,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 42,
+            "80": 5,
+            "22": 1905,
+            "13": 665,
+            "30": 10,
+            "14": 51,
+            "29": 1,
+            "70": 88,
+            "95": 35,
+            "35": 1,
+            "96": 59,
+            "27": 2
+          },
+          "valid": 2770,
+          "turnout": 2864,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1684
+    },
+    {
+      "id": "81000",
+      "name": "SANGÃO",
+      "uf": "SC",
+      "file": "municipalities/81000.jsonl.gz",
+      "records": 182,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 145,
+            "95": 78,
+            "22": 5629,
+            "80": 2,
+            "55": 66,
+            "13": 1237,
+            "14": 110,
+            "30": 7,
+            "21": 1,
+            "96": 88
+          },
+          "valid": 7197,
+          "turnout": 7363,
+          "sections": 26
+        }
+      },
+      "file_size_bytes": 2705
+    },
+    {
+      "id": "83054",
+      "name": "SANTA CECÍLIA",
+      "uf": "SC",
+      "file": "municipalities/83054.jsonl.gz",
+      "records": 273,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 124,
+            "80": 6,
+            "22": 5603,
+            "13": 2779,
+            "30": 7,
+            "14": 156,
+            "16": 1,
+            "70": 142,
+            "95": 265,
+            "96": 157,
+            "27": 3
+          },
+          "valid": 8821,
+          "turnout": 9243,
+          "sections": 38
+        }
+      },
+      "file_size_bytes": 3774
+    },
+    {
+      "id": "80721",
+      "name": "SANTA HELENA",
+      "uf": "SC",
+      "file": "municipalities/80721.jsonl.gz",
+      "records": 54,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 34,
+            "22": 1129,
+            "80": 3,
+            "70": 80,
+            "95": 47,
+            "30": 4,
+            "13": 559,
+            "96": 39,
+            "55": 38
+          },
+          "valid": 1847,
+          "turnout": 1933,
+          "sections": 7
+        }
+      },
+      "file_size_bytes": 1246
+    },
+    {
+      "id": "83070",
+      "name": "SANTA ROSA DE LIMA",
+      "uf": "SC",
+      "file": "municipalities/83070.jsonl.gz",
+      "records": 59,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 27,
+            "27": 1,
+            "30": 6,
+            "13": 378,
+            "80": 1,
+            "28": 2,
+            "55": 80,
+            "22": 1150,
+            "95": 33,
+            "70": 64,
+            "14": 32
+          },
+          "valid": 1714,
+          "turnout": 1774,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1500
+    },
+    {
+      "id": "80241",
+      "name": "SANTA ROSA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80241.jsonl.gz",
+      "records": 188,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 79,
+            "80": 6,
+            "70": 185,
+            "96": 87,
+            "95": 78,
+            "13": 1404,
+            "30": 16,
+            "14": 140,
+            "16": 1,
+            "22": 4328,
+            "21": 1
+          },
+          "valid": 6160,
+          "turnout": 6325,
+          "sections": 24
+        }
+      },
+      "file_size_bytes": 2764
+    },
+    {
+      "id": "80349",
+      "name": "SANTA TEREZINHA",
+      "uf": "SC",
+      "file": "municipalities/80349.jsonl.gz",
+      "records": 170,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 1,
+            "70": 144,
+            "96": 63,
+            "95": 121,
+            "13": 1037,
+            "30": 4,
+            "14": 87,
+            "29": 2,
+            "22": 3923,
+            "55": 71,
+            "21": 1
+          },
+          "valid": 5270,
+          "turnout": 5454,
+          "sections": 24
+        }
+      },
+      "file_size_bytes": 2815
+    },
+    {
+      "id": "81507",
+      "name": "SANTA TEREZINHA DO PROGRESSO",
+      "uf": "SC",
+      "file": "municipalities/81507.jsonl.gz",
+      "records": 69,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 29,
+            "13": 855,
+            "80": 1,
+            "55": 41,
+            "22": 918,
+            "95": 48,
+            "70": 77,
+            "14": 28
+          },
+          "valid": 1920,
+          "turnout": 1997,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1374
+    },
+    {
+      "id": "81205",
+      "name": "SANTIAGO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/81205.jsonl.gz",
+      "records": 43,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 21,
+            "27": 2,
+            "30": 3,
+            "13": 482,
+            "70": 23,
+            "95": 14,
+            "35": 2,
+            "14": 11,
+            "29": 1,
+            "22": 659,
+            "55": 44,
+            "21": 1,
+            "80": 1
+          },
+          "valid": 1229,
+          "turnout": 1264,
+          "sections": 5
+        }
+      },
+      "file_size_bytes": 1066
+    },
+    {
+      "id": "83097",
+      "name": "SANTO AMARO DA IMPERATRIZ",
+      "uf": "SC",
+      "file": "municipalities/83097.jsonl.gz",
+      "records": 550,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 359,
+            "21": 2,
+            "80": 15,
+            "28": 1,
+            "22": 11127,
+            "30": 58,
+            "13": 4073,
+            "35": 4,
+            "14": 503,
+            "16": 8,
+            "29": 2,
+            "70": 573,
+            "95": 212,
+            "96": 343,
+            "27": 9
+          },
+          "valid": 16734,
+          "turnout": 17289,
+          "sections": 69
+        }
+      },
+      "file_size_bytes": 8706
+    },
+    {
+      "id": "83410",
+      "name": "SAUDADES",
+      "uf": "SC",
+      "file": "municipalities/83410.jsonl.gz",
+      "records": 189,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 1,
+            "55": 228,
+            "70": 162,
+            "96": 95,
+            "27": 1,
+            "95": 72,
+            "30": 14,
+            "13": 1751,
+            "35": 3,
+            "14": 224,
+            "16": 2,
+            "29": 1,
+            "22": 4119,
+            "21": 1
+          },
+          "valid": 6507,
+          "turnout": 6674,
+          "sections": 25
+        }
+      },
+      "file_size_bytes": 3033
+    },
+    {
+      "id": "83437",
+      "name": "SCHROEDER",
+      "uf": "SC",
+      "file": "municipalities/83437.jsonl.gz",
+      "records": 303,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 164,
+            "13": 2212,
+            "30": 27,
+            "35": 1,
+            "80": 13,
+            "28": 2,
+            "55": 147,
+            "22": 8713,
+            "70": 346,
+            "95": 140,
+            "14": 331,
+            "16": 2
+          },
+          "valid": 11794,
+          "turnout": 12098,
+          "sections": 39
+        }
+      },
+      "file_size_bytes": 4034
+    },
+    {
+      "id": "83453",
+      "name": "SEARA",
+      "uf": "SC",
+      "file": "municipalities/83453.jsonl.gz",
+      "records": 349,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 213,
+            "27": 4,
+            "55": 326,
+            "14": 277,
+            "30": 34,
+            "16": 1,
+            "22": 6368,
+            "13": 3680,
+            "35": 2,
+            "70": 379,
+            "95": 214,
+            "80": 9,
+            "28": 1
+          },
+          "valid": 11081,
+          "turnout": 11508,
+          "sections": 45
+        }
+      },
+      "file_size_bytes": 5290
+    },
+    {
+      "id": "80284",
+      "name": "SERRA ALTA",
+      "uf": "SC",
+      "file": "municipalities/80284.jsonl.gz",
+      "records": 74,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 31,
+            "27": 1,
+            "13": 631,
+            "30": 6,
+            "80": 1,
+            "55": 57,
+            "22": 1628,
+            "70": 47,
+            "95": 40,
+            "14": 40
+          },
+          "valid": 2411,
+          "turnout": 2482,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1569
+    },
+    {
+      "id": "83470",
+      "name": "SIDERÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/83470.jsonl.gz",
+      "records": 266,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2275,
+            "30": 17,
+            "35": 1,
+            "70": 245,
+            "95": 143,
+            "55": 282,
+            "21": 1,
+            "22": 5856,
+            "14": 268,
+            "16": 5,
+            "29": 1,
+            "80": 5,
+            "28": 2,
+            "96": 154,
+            "27": 4
+          },
+          "valid": 8962,
+          "turnout": 9259,
+          "sections": 34
+        }
+      },
+      "file_size_bytes": 3836
+    },
+    {
+      "id": "83496",
+      "name": "SOMBRIO",
+      "uf": "SC",
+      "file": "municipalities/83496.jsonl.gz",
+      "records": 526,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 602,
+            "95": 255,
+            "22": 12474,
+            "80": 5,
+            "55": 207,
+            "13": 4082,
+            "16": 8,
+            "14": 519,
+            "30": 33,
+            "21": 4,
+            "96": 277,
+            "27": 4
+          },
+          "valid": 17938,
+          "turnout": 18470,
+          "sections": 70
+        }
+      },
+      "file_size_bytes": 7628
+    },
+    {
+      "id": "80446",
+      "name": "SUL BRASIL",
+      "uf": "SC",
+      "file": "municipalities/80446.jsonl.gz",
+      "records": 80,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 33,
+            "27": 1,
+            "55": 50,
+            "14": 41,
+            "22": 1137,
+            "13": 786,
+            "70": 53,
+            "95": 35,
+            "30": 3
+          },
+          "valid": 2071,
+          "turnout": 2139,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1595
+    },
+    {
+      "id": "83119",
+      "name": "SÃO BENTO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/83119.jsonl.gz",
+      "records": 1483,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 831,
+            "27": 9,
+            "30": 170,
+            "13": 8730,
+            "70": 1599,
+            "95": 856,
+            "35": 3,
+            "14": 1581,
+            "16": 16,
+            "29": 6,
+            "22": 36609,
+            "55": 1024,
+            "21": 7,
+            "80": 62,
+            "28": 2
+          },
+          "valid": 49818,
+          "turnout": 51505,
+          "sections": 185
+        }
+      },
+      "file_size_bytes": 25067
+    },
+    {
+      "id": "81485",
+      "name": "SÃO BERNARDINO",
+      "uf": "SC",
+      "file": "municipalities/81485.jsonl.gz",
+      "records": 65,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 77,
+            "95": 33,
+            "22": 1091,
+            "55": 30,
+            "14": 32,
+            "13": 843,
+            "30": 4,
+            "96": 41,
+            "27": 2
+          },
+          "valid": 2079,
+          "turnout": 2153,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1328
+    },
+    {
+      "id": "83135",
+      "name": "SÃO BONIFÁCIO",
+      "uf": "SC",
+      "file": "municipalities/83135.jsonl.gz",
+      "records": 83,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 354,
+            "30": 2,
+            "70": 33,
+            "95": 52,
+            "55": 68,
+            "22": 1859,
+            "14": 65,
+            "80": 5,
+            "96": 43,
+            "27": 3
+          },
+          "valid": 2389,
+          "turnout": 2484,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1621
+    },
+    {
+      "id": "83151",
+      "name": "SÃO CARLOS",
+      "uf": "SC",
+      "file": "municipalities/83151.jsonl.gz",
+      "records": 213,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 105,
+            "27": 3,
+            "13": 1933,
+            "30": 10,
+            "80": 1,
+            "55": 187,
+            "22": 4295,
+            "70": 170,
+            "95": 99,
+            "14": 166,
+            "16": 1,
+            "29": 1
+          },
+          "valid": 6767,
+          "turnout": 6971,
+          "sections": 29
+        }
+      },
+      "file_size_bytes": 3134
+    },
+    {
+      "id": "80942",
+      "name": "SÃO CRISTÓVÃO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80942.jsonl.gz",
+      "records": 85,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 1,
+            "70": 66,
+            "96": 35,
+            "95": 53,
+            "13": 870,
+            "14": 47,
+            "16": 1,
+            "22": 1609,
+            "55": 39
+          },
+          "valid": 2633,
+          "turnout": 2721,
+          "sections": 12
+        }
+      },
+      "file_size_bytes": 1353
+    },
+    {
+      "id": "83178",
+      "name": "SÃO DOMINGOS",
+      "uf": "SC",
+      "file": "municipalities/83178.jsonl.gz",
+      "records": 185,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 97,
+            "27": 1,
+            "55": 73,
+            "14": 77,
+            "13": 1906,
+            "16": 1,
+            "22": 3697,
+            "30": 3,
+            "95": 119,
+            "70": 116,
+            "35": 3,
+            "28": 1,
+            "80": 2
+          },
+          "valid": 5880,
+          "turnout": 6096,
+          "sections": 26
+        }
+      },
+      "file_size_bytes": 3041
+    },
+    {
+      "id": "83194",
+      "name": "SÃO FRANCISCO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/83194.jsonl.gz",
+      "records": 980,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 889,
+            "29": 5,
+            "22": 20476,
+            "80": 33,
+            "28": 1,
+            "70": 955,
+            "95": 496,
+            "13": 8196,
+            "30": 83,
+            "35": 4,
+            "16": 11,
+            "96": 554,
+            "55": 413,
+            "27": 11,
+            "21": 5
+          },
+          "valid": 31082,
+          "turnout": 32132,
+          "sections": 124
+        }
+      },
+      "file_size_bytes": 16324
+    },
+    {
+      "id": "83259",
+      "name": "SÃO JOAQUIM",
+      "uf": "SC",
+      "file": "municipalities/83259.jsonl.gz",
+      "records": 502,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 246,
+            "27": 4,
+            "13": 3849,
+            "30": 28,
+            "70": 454,
+            "95": 352,
+            "35": 3,
+            "14": 302,
+            "16": 5,
+            "29": 2,
+            "22": 9202,
+            "55": 426,
+            "21": 1,
+            "28": 1,
+            "80": 10
+          },
+          "valid": 14287,
+          "turnout": 14885,
+          "sections": 67
+        }
+      },
+      "file_size_bytes": 9084
+    },
+    {
+      "id": "83275",
+      "name": "SÃO JOSÉ",
+      "uf": "SC",
+      "file": "municipalities/83275.jsonl.gz",
+      "records": 4664,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 758,
+            "13": 46951,
+            "35": 26,
+            "70": 5779,
+            "95": 2496,
+            "55": 2730,
+            "21": 45,
+            "22": 89505,
+            "14": 5780,
+            "16": 79,
+            "29": 27,
+            "80": 284,
+            "28": 7,
+            "96": 3217,
+            "27": 68
+          },
+          "valid": 152039,
+          "turnout": 157752,
+          "sections": 550
+        }
+      },
+      "file_size_bytes": 105260
+    },
+    {
+      "id": "83291",
+      "name": "SÃO JOSÉ DO CEDRO",
+      "uf": "SC",
+      "file": "municipalities/83291.jsonl.gz",
+      "records": 264,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 153,
+            "27": 2,
+            "70": 177,
+            "95": 145,
+            "13": 1908,
+            "30": 5,
+            "14": 218,
+            "16": 1,
+            "29": 2,
+            "22": 6472,
+            "55": 220,
+            "21": 1,
+            "28": 1,
+            "80": 4
+          },
+          "valid": 9011,
+          "turnout": 9309,
+          "sections": 36
+        }
+      },
+      "file_size_bytes": 3583
+    },
+    {
+      "id": "83313",
+      "name": "SÃO JOSÉ DO CERRITO",
+      "uf": "SC",
+      "file": "municipalities/83313.jsonl.gz",
+      "records": 223,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 108,
+            "13": 2665,
+            "30": 5,
+            "80": 1,
+            "55": 114,
+            "21": 1,
+            "22": 3318,
+            "95": 108,
+            "70": 157,
+            "14": 109
+          },
+          "valid": 6370,
+          "turnout": 6586,
+          "sections": 33
+        }
+      },
+      "file_size_bytes": 4090
+    },
+    {
+      "id": "83216",
+      "name": "SÃO JOÃO BATISTA",
+      "uf": "SC",
+      "file": "municipalities/83216.jsonl.gz",
+      "records": 491,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 554,
+            "29": 3,
+            "22": 13834,
+            "80": 11,
+            "70": 441,
+            "95": 269,
+            "30": 40,
+            "13": 3167,
+            "96": 284,
+            "16": 8,
+            "55": 153,
+            "27": 3
+          },
+          "valid": 18214,
+          "turnout": 18767,
+          "sections": 65
+        }
+      },
+      "file_size_bytes": 6913
+    },
+    {
+      "id": "81124",
+      "name": "SÃO JOÃO DO ITAPERIÚ",
+      "uf": "SC",
+      "file": "municipalities/81124.jsonl.gz",
+      "records": 108,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 574,
+            "70": 62,
+            "95": 27,
+            "30": 5,
+            "55": 43,
+            "21": 1,
+            "22": 2792,
+            "14": 45,
+            "96": 48,
+            "27": 3
+          },
+          "valid": 3525,
+          "turnout": 3600,
+          "sections": 15
+        }
+      },
+      "file_size_bytes": 1684
+    },
+    {
+      "id": "80640",
+      "name": "SÃO JOÃO DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/80640.jsonl.gz",
+      "records": 148,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 72,
+            "27": 2,
+            "30": 27,
+            "13": 713,
+            "70": 111,
+            "95": 43,
+            "14": 129,
+            "16": 7,
+            "22": 3192,
+            "55": 195,
+            "80": 3
+          },
+          "valid": 4379,
+          "turnout": 4494,
+          "sections": 19
+        }
+      },
+      "file_size_bytes": 2568
+    },
+    {
+      "id": "83232",
+      "name": "SÃO JOÃO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/83232.jsonl.gz",
+      "records": 173,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 133,
+            "29": 1,
+            "22": 4379,
+            "80": 1,
+            "70": 204,
+            "95": 98,
+            "13": 1195,
+            "30": 4,
+            "96": 81,
+            "16": 1,
+            "55": 144,
+            "27": 1,
+            "21": 1
+          },
+          "valid": 6064,
+          "turnout": 6243,
+          "sections": 24
+        }
+      },
+      "file_size_bytes": 2692
+    },
+    {
+      "id": "83330",
+      "name": "SÃO LOURENÇO DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/83330.jsonl.gz",
+      "records": 458,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 207,
+            "27": 2,
+            "55": 302,
+            "14": 377,
+            "29": 1,
+            "16": 2,
+            "13": 4243,
+            "21": 2,
+            "22": 9554,
+            "30": 16,
+            "70": 364,
+            "95": 237,
+            "35": 4,
+            "80": 7,
+            "28": 1
+          },
+          "valid": 14875,
+          "turnout": 15319,
+          "sections": 61
+        }
+      },
+      "file_size_bytes": 6855
+    },
+    {
+      "id": "83356",
+      "name": "SÃO LUDGERO",
+      "uf": "SC",
+      "file": "municipalities/83356.jsonl.gz",
+      "records": 233,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 85,
+            "27": 1,
+            "55": 125,
+            "14": 243,
+            "13": 1368,
+            "30": 26,
+            "21": 2,
+            "22": 6355,
+            "70": 211,
+            "95": 113,
+            "80": 5
+          },
+          "valid": 8336,
+          "turnout": 8534,
+          "sections": 31
+        }
+      },
+      "file_size_bytes": 3973
+    },
+    {
+      "id": "83372",
+      "name": "SÃO MARTINHO",
+      "uf": "SC",
+      "file": "municipalities/83372.jsonl.gz",
+      "records": 76,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 32,
+            "13": 406,
+            "30": 5,
+            "80": 2,
+            "55": 49,
+            "22": 2185,
+            "70": 101,
+            "95": 31,
+            "14": 60
+          },
+          "valid": 2808,
+          "turnout": 2871,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1581
+    },
+    {
+      "id": "80780",
+      "name": "SÃO MIGUEL DA BOA VISTA",
+      "uf": "SC",
+      "file": "municipalities/80780.jsonl.gz",
+      "records": 38,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 23,
+            "27": 1,
+            "30": 1,
+            "13": 525,
+            "35": 1,
+            "55": 56,
+            "22": 729,
+            "95": 14,
+            "70": 60,
+            "14": 43
+          },
+          "valid": 1416,
+          "turnout": 1453,
+          "sections": 5
+        }
+      },
+      "file_size_bytes": 1029
+    },
+    {
+      "id": "83399",
+      "name": "SÃO MIGUEL DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/83399.jsonl.gz",
+      "records": 787,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 311,
+            "70": 829,
+            "29": 3,
+            "22": 16088,
+            "80": 16,
+            "28": 1,
+            "55": 648,
+            "13": 6383,
+            "14": 819,
+            "16": 8,
+            "30": 91,
+            "35": 4,
+            "21": 4,
+            "96": 297,
+            "27": 3
+          },
+          "valid": 24897,
+          "turnout": 25505,
+          "sections": 101
+        }
+      },
+      "file_size_bytes": 11574
+    },
+    {
+      "id": "81183",
+      "name": "SÃO PEDRO DE ALCÂNTARA",
+      "uf": "SC",
+      "file": "municipalities/81183.jsonl.gz",
+      "records": 108,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 97,
+            "80": 4,
+            "22": 2785,
+            "13": 903,
+            "30": 11,
+            "14": 99,
+            "70": 113,
+            "95": 50,
+            "96": 76
+          },
+          "valid": 4012,
+          "turnout": 4138,
+          "sections": 14
+        }
+      },
+      "file_size_bytes": 1838
+    },
+    {
+      "id": "83518",
+      "name": "TAIÓ",
+      "uf": "SC",
+      "file": "municipalities/83518.jsonl.gz",
+      "records": 350,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 161,
+            "21": 1,
+            "28": 1,
+            "80": 8,
+            "22": 9300,
+            "13": 1589,
+            "30": 18,
+            "14": 215,
+            "16": 1,
+            "70": 255,
+            "95": 128,
+            "96": 165,
+            "27": 4
+          },
+          "valid": 11553,
+          "turnout": 11846,
+          "sections": 47
+        }
+      },
+      "file_size_bytes": 5511
+    },
+    {
+      "id": "83534",
+      "name": "TANGARÁ",
+      "uf": "SC",
+      "file": "municipalities/83534.jsonl.gz",
+      "records": 180,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 104,
+            "29": 1,
+            "22": 3817,
+            "70": 123,
+            "95": 97,
+            "30": 13,
+            "13": 1099,
+            "16": 1,
+            "96": 77,
+            "55": 114,
+            "27": 3
+          },
+          "valid": 5275,
+          "turnout": 5449,
+          "sections": 26
+        }
+      },
+      "file_size_bytes": 3050
+    },
+    {
+      "id": "81680",
+      "name": "TIGRINHOS",
+      "uf": "SC",
+      "file": "municipalities/81680.jsonl.gz",
+      "records": 49,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 51,
+            "22": 960,
+            "13": 578,
+            "14": 17,
+            "70": 46,
+            "95": 34,
+            "30": 4,
+            "96": 19,
+            "27": 4
+          },
+          "valid": 1660,
+          "turnout": 1713,
+          "sections": 6
+        }
+      },
+      "file_size_bytes": 1052
+    },
+    {
+      "id": "83550",
+      "name": "TIJUCAS",
+      "uf": "SC",
+      "file": "municipalities/83550.jsonl.gz",
+      "records": 840,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 781,
+            "16": 8,
+            "29": 2,
+            "22": 19722,
+            "28": 6,
+            "80": 34,
+            "70": 784,
+            "95": 398,
+            "30": 127,
+            "13": 6064,
+            "35": 2,
+            "96": 524,
+            "55": 347,
+            "27": 11,
+            "21": 8
+          },
+          "valid": 27896,
+          "turnout": 28818,
+          "sections": 102
+        }
+      },
+      "file_size_bytes": 12087
+    },
+    {
+      "id": "83933",
+      "name": "TIMBÉ DO SUL",
+      "uf": "SC",
+      "file": "municipalities/83933.jsonl.gz",
+      "records": 111,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 59,
+            "70": 107,
+            "95": 54,
+            "30": 5,
+            "13": 844,
+            "14": 65,
+            "16": 1,
+            "22": 2716,
+            "55": 57,
+            "21": 1
+          },
+          "valid": 3796,
+          "turnout": 3909,
+          "sections": 15
+        }
+      },
+      "file_size_bytes": 1877
+    },
+    {
+      "id": "83577",
+      "name": "TIMBÓ",
+      "uf": "SC",
+      "file": "municipalities/83577.jsonl.gz",
+      "records": 839,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 490,
+            "21": 12,
+            "80": 33,
+            "28": 3,
+            "22": 21690,
+            "13": 4416,
+            "30": 157,
+            "14": 953,
+            "16": 9,
+            "29": 5,
+            "70": 895,
+            "95": 366,
+            "35": 5,
+            "96": 569,
+            "27": 8
+          },
+          "valid": 28676,
+          "turnout": 29611,
+          "sections": 101
+        }
+      },
+      "file_size_bytes": 11294
+    },
+    {
+      "id": "80209",
+      "name": "TIMBÓ GRANDE",
+      "uf": "SC",
+      "file": "municipalities/80209.jsonl.gz",
+      "records": 133,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 73,
+            "13": 1621,
+            "30": 7,
+            "70": 134,
+            "95": 93,
+            "14": 68,
+            "22": 2395,
+            "55": 53,
+            "21": 1,
+            "28": 1
+          },
+          "valid": 4280,
+          "turnout": 4446,
+          "sections": 19
+        }
+      },
+      "file_size_bytes": 2198
+    },
+    {
+      "id": "81345",
+      "name": "TREVISO",
+      "uf": "SC",
+      "file": "municipalities/81345.jsonl.gz",
+      "records": 97,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 46,
+            "70": 125,
+            "22": 2015,
+            "80": 1,
+            "55": 110,
+            "14": 87,
+            "16": 2,
+            "30": 5,
+            "13": 824,
+            "96": 60,
+            "27": 1
+          },
+          "valid": 3170,
+          "turnout": 3276,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1734
+    },
+    {
+      "id": "83615",
+      "name": "TREZE DE MAIO",
+      "uf": "SC",
+      "file": "municipalities/83615.jsonl.gz",
+      "records": 147,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 59,
+            "30": 6,
+            "13": 747,
+            "35": 1,
+            "80": 2,
+            "55": 62,
+            "22": 4455,
+            "70": 124,
+            "95": 87,
+            "14": 125,
+            "16": 1
+          },
+          "valid": 5523,
+          "turnout": 5669,
+          "sections": 20
+        }
+      },
+      "file_size_bytes": 2459
+    },
+    {
+      "id": "83631",
+      "name": "TREZE TÍLIAS",
+      "uf": "SC",
+      "file": "municipalities/83631.jsonl.gz",
+      "records": 152,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 142,
+            "22": 4067,
+            "28": 1,
+            "80": 2,
+            "70": 139,
+            "95": 58,
+            "30": 15,
+            "13": 877,
+            "96": 74,
+            "55": 87,
+            "27": 1,
+            "21": 1
+          },
+          "valid": 5332,
+          "turnout": 5464,
+          "sections": 20
+        }
+      },
+      "file_size_bytes": 2114
+    },
+    {
+      "id": "83658",
+      "name": "TROMBUDO CENTRAL",
+      "uf": "SC",
+      "file": "municipalities/83658.jsonl.gz",
+      "records": 133,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 55,
+            "27": 2,
+            "13": 790,
+            "70": 79,
+            "95": 56,
+            "30": 10,
+            "14": 121,
+            "22": 3467,
+            "55": 44,
+            "80": 2
+          },
+          "valid": 4515,
+          "turnout": 4626,
+          "sections": 18
+        }
+      },
+      "file_size_bytes": 1888
+    },
+    {
+      "id": "83593",
+      "name": "TRÊS BARRAS",
+      "uf": "SC",
+      "file": "municipalities/83593.jsonl.gz",
+      "records": 338,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 377,
+            "80": 5,
+            "22": 6899,
+            "13": 3332,
+            "30": 7,
+            "14": 223,
+            "16": 2,
+            "29": 3,
+            "70": 305,
+            "95": 329,
+            "96": 221,
+            "27": 1
+          },
+          "valid": 11154,
+          "turnout": 11704,
+          "sections": 46
+        }
+      },
+      "file_size_bytes": 4655
+    },
+    {
+      "id": "83674",
+      "name": "TUBARÃO",
+      "uf": "SC",
+      "file": "municipalities/83674.jsonl.gz",
+      "records": 2001,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 1206,
+            "27": 11,
+            "55": 1010,
+            "14": 1985,
+            "16": 23,
+            "29": 11,
+            "13": 13559,
+            "30": 257,
+            "21": 14,
+            "22": 45432,
+            "35": 11,
+            "95": 891,
+            "70": 1884,
+            "80": 97,
+            "28": 2
+          },
+          "valid": 64296,
+          "turnout": 66393,
+          "sections": 248
+        }
+      },
+      "file_size_bytes": 39836
+    },
+    {
+      "id": "83682",
+      "name": "TUNÁPOLIS",
+      "uf": "SC",
+      "file": "municipalities/83682.jsonl.gz",
+      "records": 118,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 35,
+            "70": 97,
+            "22": 2528,
+            "80": 5,
+            "28": 1,
+            "55": 135,
+            "13": 607,
+            "14": 98,
+            "16": 4,
+            "30": 17,
+            "35": 1,
+            "96": 66,
+            "27": 2
+          },
+          "valid": 3495,
+          "turnout": 3596,
+          "sections": 15
+        }
+      },
+      "file_size_bytes": 2301
+    },
+    {
+      "id": "83690",
+      "name": "TURVO",
+      "uf": "SC",
+      "file": "municipalities/83690.jsonl.gz",
+      "records": 256,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 113,
+            "21": 1,
+            "80": 6,
+            "22": 6974,
+            "13": 1284,
+            "30": 24,
+            "14": 168,
+            "16": 5,
+            "29": 2,
+            "70": 172,
+            "95": 97,
+            "96": 94,
+            "27": 3
+          },
+          "valid": 8752,
+          "turnout": 8943,
+          "sections": 33
+        }
+      },
+      "file_size_bytes": 3659
+    },
+    {
+      "id": "80144",
+      "name": "UNIÃO DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/80144.jsonl.gz",
+      "records": 56,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 621,
+            "30": 3,
+            "70": 50,
+            "95": 14,
+            "55": 42,
+            "22": 1276,
+            "14": 33,
+            "96": 27,
+            "27": 1
+          },
+          "valid": 2026,
+          "turnout": 2067,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1109
+    },
+    {
+      "id": "83712",
+      "name": "URUBICI",
+      "uf": "SC",
+      "file": "municipalities/83712.jsonl.gz",
+      "records": 217,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 116,
+            "80": 4,
+            "22": 4822,
+            "30": 7,
+            "13": 1327,
+            "14": 160,
+            "16": 2,
+            "29": 2,
+            "70": 173,
+            "95": 74,
+            "96": 76,
+            "27": 2
+          },
+          "valid": 6615,
+          "turnout": 6765,
+          "sections": 30
+        }
+      },
+      "file_size_bytes": 3376
+    },
+    {
+      "id": "80160",
+      "name": "URUPEMA",
+      "uf": "SC",
+      "file": "municipalities/80160.jsonl.gz",
+      "records": 59,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 67,
+            "22": 1241,
+            "13": 554,
+            "14": 30,
+            "70": 76,
+            "95": 39,
+            "30": 1,
+            "96": 33,
+            "27": 2
+          },
+          "valid": 1971,
+          "turnout": 2043,
+          "sections": 8
+        }
+      },
+      "file_size_bytes": 1281
+    },
+    {
+      "id": "83739",
+      "name": "URUSSANGA",
+      "uf": "SC",
+      "file": "municipalities/83739.jsonl.gz",
+      "records": 407,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 213,
+            "27": 2,
+            "30": 40,
+            "13": 2321,
+            "35": 2,
+            "70": 390,
+            "95": 190,
+            "16": 2,
+            "14": 316,
+            "22": 9183,
+            "55": 334,
+            "21": 2,
+            "80": 5
+          },
+          "valid": 12597,
+          "turnout": 13000,
+          "sections": 53
+        }
+      },
+      "file_size_bytes": 6561
+    },
+    {
+      "id": "80462",
+      "name": "VARGEM",
+      "uf": "SC",
+      "file": "municipalities/80462.jsonl.gz",
+      "records": 75,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 41,
+            "70": 49,
+            "29": 1,
+            "22": 1194,
+            "55": 43,
+            "14": 16,
+            "13": 777,
+            "30": 4,
+            "21": 1,
+            "96": 39,
+            "27": 2
+          },
+          "valid": 2087,
+          "turnout": 2167,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1629
+    },
+    {
+      "id": "80969",
+      "name": "VARGEM BONITA",
+      "uf": "SC",
+      "file": "municipalities/80969.jsonl.gz",
+      "records": 93,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 43,
+            "70": 122,
+            "22": 1944,
+            "80": 1,
+            "55": 27,
+            "14": 64,
+            "30": 4,
+            "13": 1049,
+            "96": 51
+          },
+          "valid": 3211,
+          "turnout": 3305,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1578
+    },
+    {
+      "id": "83755",
+      "name": "VARGEÃO",
+      "uf": "SC",
+      "file": "municipalities/83755.jsonl.gz",
+      "records": 75,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 75,
+            "95": 47,
+            "22": 1349,
+            "80": 1,
+            "55": 64,
+            "16": 1,
+            "14": 44,
+            "30": 5,
+            "13": 818,
+            "96": 42,
+            "27": 1
+          },
+          "valid": 2358,
+          "turnout": 2447,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1465
+    },
+    {
+      "id": "83771",
+      "name": "VIDAL RAMOS",
+      "uf": "SC",
+      "file": "municipalities/83771.jsonl.gz",
+      "records": 145,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 72,
+            "29": 1,
+            "22": 3358,
+            "80": 3,
+            "70": 82,
+            "95": 78,
+            "13": 827,
+            "30": 8,
+            "16": 1,
+            "96": 73,
+            "55": 90,
+            "21": 2
+          },
+          "valid": 4444,
+          "turnout": 4595,
+          "sections": 20
+        }
+      },
+      "file_size_bytes": 2681
+    },
+    {
+      "id": "83798",
+      "name": "VIDEIRA",
+      "uf": "SC",
+      "file": "municipalities/83798.jsonl.gz",
+      "records": 917,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 517,
+            "70": 755,
+            "29": 2,
+            "22": 21226,
+            "80": 36,
+            "55": 507,
+            "13": 6682,
+            "14": 674,
+            "16": 6,
+            "30": 80,
+            "35": 7,
+            "21": 8,
+            "96": 481,
+            "27": 5
+          },
+          "valid": 29988,
+          "turnout": 30986,
+          "sections": 117
+        }
+      },
+      "file_size_bytes": 13383
+    },
+    {
+      "id": "80128",
+      "name": "VITOR MEIRELES",
+      "uf": "SC",
+      "file": "municipalities/80128.jsonl.gz",
+      "records": 112,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 1,
+            "70": 96,
+            "96": 53,
+            "95": 54,
+            "13": 819,
+            "30": 1,
+            "14": 95,
+            "22": 2504,
+            "55": 73
+          },
+          "valid": 3589,
+          "turnout": 3696,
+          "sections": 16
+        }
+      },
+      "file_size_bytes": 1824
+    },
+    {
+      "id": "83810",
+      "name": "WITMARSUM",
+      "uf": "SC",
+      "file": "municipalities/83810.jsonl.gz",
+      "records": 83,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 73,
+            "28": 1,
+            "22": 2103,
+            "14": 67,
+            "70": 94,
+            "95": 43,
+            "13": 540,
+            "30": 5,
+            "96": 76,
+            "27": 1
+          },
+          "valid": 2884,
+          "turnout": 3003,
+          "sections": 11
+        }
+      },
+      "file_size_bytes": 1466
+    },
+    {
+      "id": "83836",
+      "name": "XANXERÊ",
+      "uf": "SC",
+      "file": "municipalities/83836.jsonl.gz",
+      "records": 847,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 723,
+            "29": 2,
+            "22": 17483,
+            "80": 15,
+            "70": 847,
+            "95": 391,
+            "30": 71,
+            "13": 8667,
+            "35": 4,
+            "16": 4,
+            "96": 427,
+            "55": 435,
+            "27": 8,
+            "21": 2
+          },
+          "valid": 28261,
+          "turnout": 29079,
+          "sections": 113
+        }
+      },
+      "file_size_bytes": 13904
+    },
+    {
+      "id": "83852",
+      "name": "XAVANTINA",
+      "uf": "SC",
+      "file": "municipalities/83852.jsonl.gz",
+      "records": 104,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 930,
+            "30": 14,
+            "70": 61,
+            "95": 66,
+            "35": 1,
+            "55": 49,
+            "22": 1711,
+            "14": 55,
+            "16": 1,
+            "80": 3,
+            "96": 35,
+            "27": 1
+          },
+          "valid": 2826,
+          "turnout": 2927,
+          "sections": 14
+        }
+      },
+      "file_size_bytes": 2077
+    },
+    {
+      "id": "83879",
+      "name": "XAXIM",
+      "uf": "SC",
+      "file": "municipalities/83879.jsonl.gz",
+      "records": 508,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 270,
+            "27": 3,
+            "13": 4937,
+            "30": 17,
+            "70": 420,
+            "95": 291,
+            "35": 1,
+            "14": 361,
+            "16": 1,
+            "29": 3,
+            "22": 12369,
+            "55": 345,
+            "21": 1,
+            "80": 7
+          },
+          "valid": 18465,
+          "turnout": 19026,
+          "sections": 70
+        }
+      },
+      "file_size_bytes": 7639
+    },
+    {
+      "id": "81825",
+      "name": "ZORTÉA",
+      "uf": "SC",
+      "file": "municipalities/81825.jsonl.gz",
+      "records": 74,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 46,
+            "70": 55,
+            "95": 35,
+            "13": 871,
+            "30": 2,
+            "14": 57,
+            "22": 1631,
+            "55": 28,
+            "80": 3
+          },
+          "valid": 2647,
+          "turnout": 2728,
+          "sections": 10
+        }
+      },
+      "file_size_bytes": 1447
+    },
+    {
+      "id": "80071",
+      "name": "ÁGUA DOCE",
+      "uf": "SC",
+      "file": "municipalities/80071.jsonl.gz",
+      "records": 131,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 53,
+            "70": 69,
+            "22": 3112,
+            "80": 1,
+            "55": 100,
+            "14": 82,
+            "13": 940,
+            "30": 2,
+            "21": 2,
+            "96": 57
+          },
+          "valid": 4308,
+          "turnout": 4418,
+          "sections": 19
+        }
+      },
+      "file_size_bytes": 2374
+    },
+    {
+      "id": "80098",
+      "name": "ÁGUAS DE CHAPECÓ",
+      "uf": "SC",
+      "file": "municipalities/80098.jsonl.gz",
+      "records": 95,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 1542,
+            "70": 65,
+            "95": 53,
+            "30": 1,
+            "55": 93,
+            "22": 1986,
+            "14": 60,
+            "80": 2,
+            "96": 69,
+            "27": 1
+          },
+          "valid": 3750,
+          "turnout": 3872,
+          "sections": 13
+        }
+      },
+      "file_size_bytes": 1790
+    },
+    {
+      "id": "80500",
+      "name": "ÁGUAS FRIAS",
+      "uf": "SC",
+      "file": "municipalities/80500.jsonl.gz",
+      "records": 68,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 25,
+            "70": 52,
+            "22": 1302,
+            "80": 1,
+            "55": 85,
+            "14": 57,
+            "16": 1,
+            "13": 699,
+            "30": 8,
+            "96": 29
+          },
+          "valid": 2205,
+          "turnout": 2259,
+          "sections": 9
+        }
+      },
+      "file_size_bytes": 1348
+    },
+    {
+      "id": "80110",
+      "name": "ÁGUAS MORNAS",
+      "uf": "SC",
+      "file": "municipalities/80110.jsonl.gz",
+      "records": 179,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 120,
+            "70": 192,
+            "29": 1,
+            "22": 3818,
+            "80": 4,
+            "55": 118,
+            "13": 1108,
+            "14": 134,
+            "16": 2,
+            "30": 16,
+            "35": 1,
+            "96": 135,
+            "27": 5
+          },
+          "valid": 5399,
+          "turnout": 5654,
+          "sections": 23
+        }
+      },
+      "file_size_bytes": 3192
+    }
+  ]
+}
