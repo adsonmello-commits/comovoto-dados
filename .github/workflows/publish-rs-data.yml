@@ -43,5 +43,6 @@ jobs:
             echo "The TSE data are already current."
           else
             git commit -m "Publish official TSE 2026 state section results"
+            git pull --rebase origin main
             git push
           fi
