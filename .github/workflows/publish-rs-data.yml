@@ -8,6 +8,8 @@ on:
       - .github/workflows/publish-rs-data.yml
       - scripts/import_tse_rs.py
   workflow_dispatch:
+  schedule:
+    - cron: '0 13 * * *'
 
 permissions:
   contents: write
