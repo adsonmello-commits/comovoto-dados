@@ -1,4 +1,4 @@
-name: Publish official TSE state data
+name: Publish official TSE election data
 
 on:
   push:
@@ -33,16 +33,17 @@ jobs:
           python3 scripts/import_tse_state.py --state RS
           python3 scripts/import_tse_state.py --state SC
           python3 scripts/import_tse_state.py --state PR
+          python3 scripts/import_tse_presidencia.py
 
       - name: Commit validated dataset
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/2026/RS data/2026/SC data/2026/PR
+          git add data/2026/RS data/2026/SC data/2026/PR data/2026/presidencia
           if git diff --cached --quiet; then
             echo "The TSE data are already current."
           else
-            git commit -m "Publish official TSE 2026 state section results"
+            git commit -m "Publish official TSE 2026 election data"
             git pull --rebase origin main
             git push
           fi
