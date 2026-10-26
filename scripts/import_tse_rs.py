@@ -50,6 +50,7 @@ def main() -> None:
             shutil.rmtree(MUNICIPALITY_DIR, ignore_errors=True)
             MUNICIPALITY_DIR.mkdir(parents=True, exist_ok=True)
             streams: dict[str, io.TextIOWrapper] = {}
+            raw_files = []
             cities: dict[str, dict] = {}
             section_sets: dict[str, set[tuple[str, str, str]]] = {}
             turns_seen: set[str] = set()
@@ -80,6 +81,7 @@ def main() -> None:
                             if code not in streams:
                                 raw_path = MUNICIPALITY_DIR / f"{code}.jsonl.gz"
                                 raw_file = raw_path.open("wb")
+                                raw_files.append(raw_file)
                                 compressed = gzip.GzipFile(fileobj=raw_file, mode="wb", compresslevel=9, mtime=0)
                                 streams[code] = io.TextIOWrapper(compressed, encoding="utf-8", newline="\n")
                                 cities[code] = {
@@ -98,6 +100,8 @@ def main() -> None:
             finally:
                 for stream in streams.values():
                     stream.close()
+                for raw_file in raw_files:
+                    raw_file.close()
 
         if len(cities) != EXPECTED_MUNICIPALITIES:
             raise RuntimeError(f"Esperados 497 municípios do RS; encontrados {len(cities)}.")
