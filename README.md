@@ -1,32 +1,33 @@
 # Como Voto — dados eleitorais
 
-Repositório público de dados estruturados que alimentam o site [Como Voto](https://www.comovoto.com.br).
+Repositório público de dados organizados para o site [Como Voto](https://www.comovoto.com.br).
 
-## Escopo atual
+## Cobertura
 
-A base local preparada para publicação contém resultados presidenciais de 2026 para 34 municípios da Região Metropolitana de Porto Alegre (RS), nos dois turnos. O índice municipal fica em `cities.json`; os arquivos detalhados estão organizados pelo código municipal do TSE.
+A cobertura municipal inicial do site inclui 34 municípios da Região Metropolitana de Porto Alegre. Este repositório está sendo preparado para publicar o conjunto oficial de votação por seção de **todo o Rio Grande do Sul**, começando pelos resultados presidenciais de 2026.
 
-Estrutura planejada:
+O arquivo estadual original do TSE será armazenado em:
 
 ```
-cities.json
-data/<codigo-municipal-tse>/
-  audit.json
-  map-data.json
-  movement-audit.json
-  movement-data.json.gz
+data/source/2026/RS/
+  votacao_secao_2026_RS.zip
+  manifest.json
 ```
 
-Os arquivos resumem e organizam dados públicos eleitorais. Os registros de auditoria preservam referências aos arquivos oficiais do TSE usados na conferência. Consulte cada auditoria e os metadados antes de reutilizar os dados.
+O ZIP mantém os dados oficiais completos do estado, incluindo todos os municípios e seções disponíveis na fonte. O manifesto registra a origem, a data de obtenção, o tamanho, o SHA-256 e a integridade do arquivo.
 
-## Expansão
+## Atualização e validação
 
-O repositório inicia com a cobertura atual do RS. A inclusão de outros municípios e estados deve manter a partição por código municipal, atualizar `cities.json` e registrar a origem e a validação de cada conjunto. O escopo ainda não é nacional.
+A rotina `scripts/import_tse_rs.py` baixa o arquivo no portal/CDN oficial do TSE, verifica a integridade do ZIP e gera o manifesto. O fluxo do GitHub Actions publica o arquivo validado neste repositório. O fluxo pode ser executado novamente quando o TSE atualizar os dados.
+
+Antes da publicação no site, os dados derivados por município devem ser conferidos contra os totais oficiais do TSE. Os dados brutos e os dados derivados devem permanecer identificados separadamente.
+
+## Fonte e licença
+
+Fonte: [Portal de Dados Abertos do TSE — Resultados 2026](https://dadosabertos.tse.jus.br/dataset/resultados-2026), recurso “RS - Votação por seção eleitoral - 2026”.
+
+O conjunto está indicado pelo TSE sob licença Creative Commons Attribution (CC BY). Este projeto independente não tem vínculo institucional com o TSE. Atribua a fonte ao reutilizar os dados.
 
 ## Uso pelo site
 
-O site deve consultar este repositório por arquivos sob demanda e carregar somente os dados do município selecionado. Mudanças no caminho ou no formato dos arquivos exigem atualização correspondente no código do site.
-
-## Transparência
-
-Projeto independente, sem vínculo institucional com o TSE. Os dados eleitorais de origem são públicos; este repositório contém arquivos derivados e organizados pelo Como Voto.
+O site deve buscar dados sob demanda e carregar apenas o estado ou município consultado. A publicação do arquivo bruto estadual neste repositório é a etapa inicial; a integração do formato detalhado ao site requer a etapa de transformação e validação descrita acima.
