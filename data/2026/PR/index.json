@@ -1,0 +1,4406 @@
+{
+  "dataset": "Resultados eleitorais 2026 — votação por seção",
+  "uf": "PR",
+  "state": "Paraná",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_PR.zip",
+  "municipality_count": 399,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1"
+  ],
+  "data_status": "pending_tse_update",
+  "municipalities": [
+    {
+      "id": "74012",
+      "name": "ABATIÁ",
+      "uf": "PR",
+      "file": "municipalities/74012.jsonl.gz",
+      "records": 1955,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 34226
+    },
+    {
+      "id": "74039",
+      "name": "ADRIANÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/74039.jsonl.gz",
+      "records": 1878,
+      "sections_by_turn": {
+        "1": 23
+      },
+      "file_size_bytes": 33794
+    },
+    {
+      "id": "74055",
+      "name": "AGUDOS DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74055.jsonl.gz",
+      "records": 2895,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 57688
+    },
+    {
+      "id": "74071",
+      "name": "ALMIRANTE TAMANDARÉ",
+      "uf": "PR",
+      "file": "municipalities/74071.jsonl.gz",
+      "records": 31688,
+      "sections_by_turn": {
+        "1": 211
+      },
+      "file_size_bytes": 908990
+    },
+    {
+      "id": "84557",
+      "name": "ALTAMIRA DO PARANÁ",
+      "uf": "PR",
+      "file": "municipalities/84557.jsonl.gz",
+      "records": 883,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 16310
+    },
+    {
+      "id": "74098",
+      "name": "ALTO PARANÁ",
+      "uf": "PR",
+      "file": "municipalities/74098.jsonl.gz",
+      "records": 3622,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 64846
+    },
+    {
+      "id": "74926",
+      "name": "ALTO PARAÍSO",
+      "uf": "PR",
+      "file": "municipalities/74926.jsonl.gz",
+      "records": 1122,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 17979
+    },
+    {
+      "id": "74110",
+      "name": "ALTO PIQUIRI",
+      "uf": "PR",
+      "file": "municipalities/74110.jsonl.gz",
+      "records": 2487,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 53163
+    },
+    {
+      "id": "79510",
+      "name": "ALTÔNIA",
+      "uf": "PR",
+      "file": "municipalities/79510.jsonl.gz",
+      "records": 5260,
+      "sections_by_turn": {
+        "1": 50
+      },
+      "file_size_bytes": 100529
+    },
+    {
+      "id": "74136",
+      "name": "ALVORADA DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74136.jsonl.gz",
+      "records": 2758,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 51293
+    },
+    {
+      "id": "74152",
+      "name": "AMAPORÃ",
+      "uf": "PR",
+      "file": "municipalities/74152.jsonl.gz",
+      "records": 1201,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 20494
+    },
+    {
+      "id": "74179",
+      "name": "AMPÉRE",
+      "uf": "PR",
+      "file": "municipalities/74179.jsonl.gz",
+      "records": 5306,
+      "sections_by_turn": {
+        "1": 48
+      },
+      "file_size_bytes": 104077
+    },
+    {
+      "id": "74101",
+      "name": "ANAHY",
+      "uf": "PR",
+      "file": "municipalities/74101.jsonl.gz",
+      "records": 793,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 16185
+    },
+    {
+      "id": "74195",
+      "name": "ANDIRÁ",
+      "uf": "PR",
+      "file": "municipalities/74195.jsonl.gz",
+      "records": 6096,
+      "sections_by_turn": {
+        "1": 55
+      },
+      "file_size_bytes": 118063
+    },
+    {
+      "id": "74217",
+      "name": "ANTONINA",
+      "uf": "PR",
+      "file": "municipalities/74217.jsonl.gz",
+      "records": 6787,
+      "sections_by_turn": {
+        "1": 53
+      },
+      "file_size_bytes": 147111
+    },
+    {
+      "id": "74233",
+      "name": "ANTÔNIO OLINTO",
+      "uf": "PR",
+      "file": "municipalities/74233.jsonl.gz",
+      "records": 2390,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 50750
+    },
+    {
+      "id": "74250",
+      "name": "APUCARANA",
+      "uf": "PR",
+      "file": "municipalities/74250.jsonl.gz",
+      "records": 32804,
+      "sections_by_turn": {
+        "1": 295
+      },
+      "file_size_bytes": 784237
+    },
+    {
+      "id": "74276",
+      "name": "ARAPONGAS",
+      "uf": "PR",
+      "file": "municipalities/74276.jsonl.gz",
+      "records": 30568,
+      "sections_by_turn": {
+        "1": 247
+      },
+      "file_size_bytes": 767235
+    },
+    {
+      "id": "74292",
+      "name": "ARAPOTI",
+      "uf": "PR",
+      "file": "municipalities/74292.jsonl.gz",
+      "records": 8358,
+      "sections_by_turn": {
+        "1": 66
+      },
+      "file_size_bytes": 163476
+    },
+    {
+      "id": "75108",
+      "name": "ARAPUÃ",
+      "uf": "PR",
+      "file": "municipalities/75108.jsonl.gz",
+      "records": 1118,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 22587
+    },
+    {
+      "id": "74314",
+      "name": "ARARUNA",
+      "uf": "PR",
+      "file": "municipalities/74314.jsonl.gz",
+      "records": 4022,
+      "sections_by_turn": {
+        "1": 36
+      },
+      "file_size_bytes": 82225
+    },
+    {
+      "id": "74357",
+      "name": "ARAUCÁRIA",
+      "uf": "PR",
+      "file": "municipalities/74357.jsonl.gz",
+      "records": 54105,
+      "sections_by_turn": {
+        "1": 341
+      },
+      "file_size_bytes": 1502432
+    },
+    {
+      "id": "75086",
+      "name": "ARIRANHA DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/75086.jsonl.gz",
+      "records": 779,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 16080
+    },
+    {
+      "id": "74373",
+      "name": "ASSAÍ",
+      "uf": "PR",
+      "file": "municipalities/74373.jsonl.gz",
+      "records": 4658,
+      "sections_by_turn": {
+        "1": 44
+      },
+      "file_size_bytes": 86007
+    },
+    {
+      "id": "79537",
+      "name": "ASSIS CHATEAUBRIAND",
+      "uf": "PR",
+      "file": "municipalities/79537.jsonl.gz",
+      "records": 10363,
+      "sections_by_turn": {
+        "1": 87
+      },
+      "file_size_bytes": 225794
+    },
+    {
+      "id": "74390",
+      "name": "ASTORGA",
+      "uf": "PR",
+      "file": "municipalities/74390.jsonl.gz",
+      "records": 7273,
+      "sections_by_turn": {
+        "1": 63
+      },
+      "file_size_bytes": 145148
+    },
+    {
+      "id": "74411",
+      "name": "ATALAIA",
+      "uf": "PR",
+      "file": "municipalities/74411.jsonl.gz",
+      "records": 1210,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 24016
+    },
+    {
+      "id": "74438",
+      "name": "BALSA NOVA",
+      "uf": "PR",
+      "file": "municipalities/74438.jsonl.gz",
+      "records": 5349,
+      "sections_by_turn": {
+        "1": 40
+      },
+      "file_size_bytes": 108670
+    },
+    {
+      "id": "74454",
+      "name": "BANDEIRANTES",
+      "uf": "PR",
+      "file": "municipalities/74454.jsonl.gz",
+      "records": 9673,
+      "sections_by_turn": {
+        "1": 82
+      },
+      "file_size_bytes": 183941
+    },
+    {
+      "id": "74470",
+      "name": "BARBOSA FERRAZ",
+      "uf": "PR",
+      "file": "municipalities/74470.jsonl.gz",
+      "records": 3436,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 66556
+    },
+    {
+      "id": "74519",
+      "name": "BARRA DO JACARÉ",
+      "uf": "PR",
+      "file": "municipalities/74519.jsonl.gz",
+      "records": 890,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 15580
+    },
+    {
+      "id": "74497",
+      "name": "BARRACÃO",
+      "uf": "PR",
+      "file": "municipalities/74497.jsonl.gz",
+      "records": 2724,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 56019
+    },
+    {
+      "id": "75124",
+      "name": "BELA VISTA DA CAROBA",
+      "uf": "PR",
+      "file": "municipalities/75124.jsonl.gz",
+      "records": 892,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 15852
+    },
+    {
+      "id": "74535",
+      "name": "BELA VISTA DO PARAÍSO",
+      "uf": "PR",
+      "file": "municipalities/74535.jsonl.gz",
+      "records": 4568,
+      "sections_by_turn": {
+        "1": 43
+      },
+      "file_size_bytes": 82682
+    },
+    {
+      "id": "74551",
+      "name": "BITURUNA",
+      "uf": "PR",
+      "file": "municipalities/74551.jsonl.gz",
+      "records": 4002,
+      "sections_by_turn": {
+        "1": 45
+      },
+      "file_size_bytes": 91966
+    },
+    {
+      "id": "74578",
+      "name": "BOA ESPERANÇA",
+      "uf": "PR",
+      "file": "municipalities/74578.jsonl.gz",
+      "records": 1297,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 26258
+    },
+    {
+      "id": "74144",
+      "name": "BOA ESPERANÇA DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/74144.jsonl.gz",
+      "records": 664,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 12735
+    },
+    {
+      "id": "75140",
+      "name": "BOA VENTURA DE SÃO ROQUE",
+      "uf": "PR",
+      "file": "municipalities/75140.jsonl.gz",
+      "records": 1822,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 37615
+    },
+    {
+      "id": "79812",
+      "name": "BOA VISTA DA APARECIDA",
+      "uf": "PR",
+      "file": "municipalities/79812.jsonl.gz",
+      "records": 2159,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 36452
+    },
+    {
+      "id": "74594",
+      "name": "BOCAIÚVA DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74594.jsonl.gz",
+      "records": 4222,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 85332
+    },
+    {
+      "id": "75167",
+      "name": "BOM JESUS DO SUL",
+      "uf": "PR",
+      "file": "municipalities/75167.jsonl.gz",
+      "records": 937,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 21312
+    },
+    {
+      "id": "74616",
+      "name": "BOM SUCESSO",
+      "uf": "PR",
+      "file": "municipalities/74616.jsonl.gz",
+      "records": 1732,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 31207
+    },
+    {
+      "id": "74160",
+      "name": "BOM SUCESSO DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74160.jsonl.gz",
+      "records": 1005,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 18960
+    },
+    {
+      "id": "74632",
+      "name": "BORRAZÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/74632.jsonl.gz",
+      "records": 2574,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 51094
+    },
+    {
+      "id": "79839",
+      "name": "BRAGANEY",
+      "uf": "PR",
+      "file": "municipalities/79839.jsonl.gz",
+      "records": 1689,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 30834
+    },
+    {
+      "id": "74187",
+      "name": "BRASILÂNDIA DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74187.jsonl.gz",
+      "records": 969,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 20087
+    },
+    {
+      "id": "74659",
+      "name": "CAFEARA",
+      "uf": "PR",
+      "file": "municipalities/74659.jsonl.gz",
+      "records": 747,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 13756
+    },
+    {
+      "id": "79855",
+      "name": "CAFELÂNDIA",
+      "uf": "PR",
+      "file": "municipalities/79855.jsonl.gz",
+      "records": 4963,
+      "sections_by_turn": {
+        "1": 41
+      },
+      "file_size_bytes": 98163
+    },
+    {
+      "id": "74209",
+      "name": "CAFEZAL DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74209.jsonl.gz",
+      "records": 1196,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 21423
+    },
+    {
+      "id": "74675",
+      "name": "CALIFÓRNIA",
+      "uf": "PR",
+      "file": "municipalities/74675.jsonl.gz",
+      "records": 2458,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 44252
+    },
+    {
+      "id": "74691",
+      "name": "CAMBARÁ",
+      "uf": "PR",
+      "file": "municipalities/74691.jsonl.gz",
+      "records": 6631,
+      "sections_by_turn": {
+        "1": 60
+      },
+      "file_size_bytes": 132095
+    },
+    {
+      "id": "74730",
+      "name": "CAMBIRA",
+      "uf": "PR",
+      "file": "municipalities/74730.jsonl.gz",
+      "records": 2334,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 41704
+    },
+    {
+      "id": "74713",
+      "name": "CAMBÉ",
+      "uf": "PR",
+      "file": "municipalities/74713.jsonl.gz",
+      "records": 28376,
+      "sections_by_turn": {
+        "1": 224
+      },
+      "file_size_bytes": 695538
+    },
+    {
+      "id": "74756",
+      "name": "CAMPINA DA LAGOA",
+      "uf": "PR",
+      "file": "municipalities/74756.jsonl.gz",
+      "records": 4036,
+      "sections_by_turn": {
+        "1": 42
+      },
+      "file_size_bytes": 73394
+    },
+    {
+      "id": "75183",
+      "name": "CAMPINA DO SIMÃO",
+      "uf": "PR",
+      "file": "municipalities/75183.jsonl.gz",
+      "records": 934,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 18766
+    },
+    {
+      "id": "74772",
+      "name": "CAMPINA GRANDE DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74772.jsonl.gz",
+      "records": 13757,
+      "sections_by_turn": {
+        "1": 103
+      },
+      "file_size_bytes": 315623
+    },
+    {
+      "id": "74780",
+      "name": "CAMPO BONITO",
+      "uf": "PR",
+      "file": "municipalities/74780.jsonl.gz",
+      "records": 1270,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 24384
+    },
+    {
+      "id": "74799",
+      "name": "CAMPO DO TENENTE",
+      "uf": "PR",
+      "file": "municipalities/74799.jsonl.gz",
+      "records": 2062,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 42948
+    },
+    {
+      "id": "74810",
+      "name": "CAMPO LARGO",
+      "uf": "PR",
+      "file": "municipalities/74810.jsonl.gz",
+      "records": 43703,
+      "sections_by_turn": {
+        "1": 296
+      },
+      "file_size_bytes": 1289906
+    },
+    {
+      "id": "75205",
+      "name": "CAMPO MAGRO",
+      "uf": "PR",
+      "file": "municipalities/75205.jsonl.gz",
+      "records": 9638,
+      "sections_by_turn": {
+        "1": 66
+      },
+      "file_size_bytes": 197229
+    },
+    {
+      "id": "74837",
+      "name": "CAMPO MOURÃO",
+      "uf": "PR",
+      "file": "municipalities/74837.jsonl.gz",
+      "records": 24690,
+      "sections_by_turn": {
+        "1": 216
+      },
+      "file_size_bytes": 629935
+    },
+    {
+      "id": "74225",
+      "name": "CANDÓI",
+      "uf": "PR",
+      "file": "municipalities/74225.jsonl.gz",
+      "records": 4389,
+      "sections_by_turn": {
+        "1": 43
+      },
+      "file_size_bytes": 100031
+    },
+    {
+      "id": "84514",
+      "name": "CANTAGALO",
+      "uf": "PR",
+      "file": "municipalities/84514.jsonl.gz",
+      "records": 3647,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 72801
+    },
+    {
+      "id": "74870",
+      "name": "CAPANEMA",
+      "uf": "PR",
+      "file": "municipalities/74870.jsonl.gz",
+      "records": 5376,
+      "sections_by_turn": {
+        "1": 54
+      },
+      "file_size_bytes": 113674
+    },
+    {
+      "id": "74896",
+      "name": "CAPITÃO LEÔNIDAS MARQUES",
+      "uf": "PR",
+      "file": "municipalities/74896.jsonl.gz",
+      "records": 4119,
+      "sections_by_turn": {
+        "1": 34
+      },
+      "file_size_bytes": 73019
+    },
+    {
+      "id": "75221",
+      "name": "CARAMBEÍ",
+      "uf": "PR",
+      "file": "municipalities/75221.jsonl.gz",
+      "records": 5679,
+      "sections_by_turn": {
+        "1": 51
+      },
+      "file_size_bytes": 98918
+    },
+    {
+      "id": "74918",
+      "name": "CARLÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/74918.jsonl.gz",
+      "records": 4441,
+      "sections_by_turn": {
+        "1": 38
+      },
+      "file_size_bytes": 94098
+    },
+    {
+      "id": "74934",
+      "name": "CASCAVEL",
+      "uf": "PR",
+      "file": "municipalities/74934.jsonl.gz",
+      "records": 84577,
+      "sections_by_turn": {
+        "1": 707
+      },
+      "file_size_bytes": 2660581
+    },
+    {
+      "id": "74950",
+      "name": "CASTRO",
+      "uf": "PR",
+      "file": "municipalities/74950.jsonl.gz",
+      "records": 18732,
+      "sections_by_turn": {
+        "1": 188
+      },
+      "file_size_bytes": 452179
+    },
+    {
+      "id": "74977",
+      "name": "CATANDUVAS",
+      "uf": "PR",
+      "file": "municipalities/74977.jsonl.gz",
+      "records": 2847,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 50529
+    },
+    {
+      "id": "74993",
+      "name": "CENTENÁRIO DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74993.jsonl.gz",
+      "records": 3193,
+      "sections_by_turn": {
+        "1": 32
+      },
+      "file_size_bytes": 65796
+    },
+    {
+      "id": "75019",
+      "name": "CERRO AZUL",
+      "uf": "PR",
+      "file": "municipalities/75019.jsonl.gz",
+      "records": 4453,
+      "sections_by_turn": {
+        "1": 48
+      },
+      "file_size_bytes": 92156
+    },
+    {
+      "id": "75035",
+      "name": "CHOPINZINHO",
+      "uf": "PR",
+      "file": "municipalities/75035.jsonl.gz",
+      "records": 6140,
+      "sections_by_turn": {
+        "1": 53
+      },
+      "file_size_bytes": 135369
+    },
+    {
+      "id": "75051",
+      "name": "CIANORTE",
+      "uf": "PR",
+      "file": "municipalities/75051.jsonl.gz",
+      "records": 22100,
+      "sections_by_turn": {
+        "1": 189
+      },
+      "file_size_bytes": 458311
+    },
+    {
+      "id": "75078",
+      "name": "CIDADE GAÚCHA",
+      "uf": "PR",
+      "file": "municipalities/75078.jsonl.gz",
+      "records": 3081,
+      "sections_by_turn": {
+        "1": 32
+      },
+      "file_size_bytes": 62026
+    },
+    {
+      "id": "75094",
+      "name": "CLEVELÂNDIA",
+      "uf": "PR",
+      "file": "municipalities/75094.jsonl.gz",
+      "records": 4995,
+      "sections_by_turn": {
+        "1": 50
+      },
+      "file_size_bytes": 110926
+    },
+    {
+      "id": "75132",
+      "name": "COLOMBO",
+      "uf": "PR",
+      "file": "municipalities/75132.jsonl.gz",
+      "records": 74066,
+      "sections_by_turn": {
+        "1": 486
+      },
+      "file_size_bytes": 2069171
+    },
+    {
+      "id": "75159",
+      "name": "COLORADO",
+      "uf": "PR",
+      "file": "municipalities/75159.jsonl.gz",
+      "records": 6594,
+      "sections_by_turn": {
+        "1": 59
+      },
+      "file_size_bytes": 117953
+    },
+    {
+      "id": "75175",
+      "name": "CONGONHINHAS",
+      "uf": "PR",
+      "file": "municipalities/75175.jsonl.gz",
+      "records": 2157,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 48025
+    },
+    {
+      "id": "75191",
+      "name": "CONSELHEIRO MAIRINCK",
+      "uf": "PR",
+      "file": "municipalities/75191.jsonl.gz",
+      "records": 1079,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 20701
+    },
+    {
+      "id": "75213",
+      "name": "CONTENDA",
+      "uf": "PR",
+      "file": "municipalities/75213.jsonl.gz",
+      "records": 5828,
+      "sections_by_turn": {
+        "1": 42
+      },
+      "file_size_bytes": 129887
+    },
+    {
+      "id": "75230",
+      "name": "CORBÉLIA",
+      "uf": "PR",
+      "file": "municipalities/75230.jsonl.gz",
+      "records": 4851,
+      "sections_by_turn": {
+        "1": 45
+      },
+      "file_size_bytes": 95214
+    },
+    {
+      "id": "75256",
+      "name": "CORNÉLIO PROCÓPIO",
+      "uf": "PR",
+      "file": "municipalities/75256.jsonl.gz",
+      "records": 14379,
+      "sections_by_turn": {
+        "1": 121
+      },
+      "file_size_bytes": 361777
+    },
+    {
+      "id": "75248",
+      "name": "CORONEL DOMINGOS SOARES",
+      "uf": "PR",
+      "file": "municipalities/75248.jsonl.gz",
+      "records": 1430,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 29132
+    },
+    {
+      "id": "75272",
+      "name": "CORONEL VIVIDA",
+      "uf": "PR",
+      "file": "municipalities/75272.jsonl.gz",
+      "records": 7042,
+      "sections_by_turn": {
+        "1": 59
+      },
+      "file_size_bytes": 143523
+    },
+    {
+      "id": "75280",
+      "name": "CORUMBATAÍ DO SUL",
+      "uf": "PR",
+      "file": "municipalities/75280.jsonl.gz",
+      "records": 1133,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 20972
+    },
+    {
+      "id": "75337",
+      "name": "CRUZ MACHADO",
+      "uf": "PR",
+      "file": "municipalities/75337.jsonl.gz",
+      "records": 3925,
+      "sections_by_turn": {
+        "1": 50
+      },
+      "file_size_bytes": 83849
+    },
+    {
+      "id": "74241",
+      "name": "CRUZEIRO DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/74241.jsonl.gz",
+      "records": 1235,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 25323
+    },
+    {
+      "id": "75299",
+      "name": "CRUZEIRO DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/75299.jsonl.gz",
+      "records": 6175,
+      "sections_by_turn": {
+        "1": 56
+      },
+      "file_size_bytes": 121177
+    },
+    {
+      "id": "75310",
+      "name": "CRUZEIRO DO SUL",
+      "uf": "PR",
+      "file": "municipalities/75310.jsonl.gz",
+      "records": 1287,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 24010
+    },
+    {
+      "id": "75264",
+      "name": "CRUZMALTINA",
+      "uf": "PR",
+      "file": "municipalities/75264.jsonl.gz",
+      "records": 1058,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 21836
+    },
+    {
+      "id": "75353",
+      "name": "CURITIBA",
+      "uf": "PR",
+      "file": "municipalities/75353.jsonl.gz",
+      "records": 726932,
+      "sections_by_turn": {
+        "1": 4056
+      },
+      "file_size_bytes": 34295770
+    },
+    {
+      "id": "75370",
+      "name": "CURIÚVA",
+      "uf": "PR",
+      "file": "municipalities/75370.jsonl.gz",
+      "records": 3849,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 81606
+    },
+    {
+      "id": "74853",
+      "name": "CÂNDIDO DE ABREU",
+      "uf": "PR",
+      "file": "municipalities/74853.jsonl.gz",
+      "records": 4584,
+      "sections_by_turn": {
+        "1": 51
+      },
+      "file_size_bytes": 112177
+    },
+    {
+      "id": "79570",
+      "name": "CÉU AZUL",
+      "uf": "PR",
+      "file": "municipalities/79570.jsonl.gz",
+      "records": 3557,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 77573
+    },
+    {
+      "id": "75400",
+      "name": "DIAMANTE D OESTE",
+      "uf": "PR",
+      "file": "municipalities/75400.jsonl.gz",
+      "records": 1717,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 30861
+    },
+    {
+      "id": "75396",
+      "name": "DIAMANTE DO NORTE",
+      "uf": "PR",
+      "file": "municipalities/75396.jsonl.gz",
+      "records": 1312,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 23531
+    },
+    {
+      "id": "74268",
+      "name": "DIAMANTE DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74268.jsonl.gz",
+      "records": 983,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 17677
+    },
+    {
+      "id": "75418",
+      "name": "DOIS VIZINHOS",
+      "uf": "PR",
+      "file": "municipalities/75418.jsonl.gz",
+      "records": 10576,
+      "sections_by_turn": {
+        "1": 104
+      },
+      "file_size_bytes": 214765
+    },
+    {
+      "id": "84654",
+      "name": "DOURADINA",
+      "uf": "PR",
+      "file": "municipalities/84654.jsonl.gz",
+      "records": 2412,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 41184
+    },
+    {
+      "id": "75434",
+      "name": "DOUTOR CAMARGO",
+      "uf": "PR",
+      "file": "municipalities/75434.jsonl.gz",
+      "records": 1989,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 34745
+    },
+    {
+      "id": "74942",
+      "name": "DOUTOR ULYSSES",
+      "uf": "PR",
+      "file": "municipalities/74942.jsonl.gz",
+      "records": 1504,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 31804
+    },
+    {
+      "id": "75477",
+      "name": "ENGENHEIRO BELTRÃO",
+      "uf": "PR",
+      "file": "municipalities/75477.jsonl.gz",
+      "records": 3623,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 73716
+    },
+    {
+      "id": "74284",
+      "name": "ENTRE RIOS DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/74284.jsonl.gz",
+      "records": 1424,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 27182
+    },
+    {
+      "id": "75450",
+      "name": "ENÉAS MARQUES",
+      "uf": "PR",
+      "file": "municipalities/75450.jsonl.gz",
+      "records": 1679,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 31432
+    },
+    {
+      "id": "75302",
+      "name": "ESPERANÇA NOVA",
+      "uf": "PR",
+      "file": "municipalities/75302.jsonl.gz",
+      "records": 565,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 10343
+    },
+    {
+      "id": "75329",
+      "name": "ESPIGÃO ALTO DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/75329.jsonl.gz",
+      "records": 1503,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 29980
+    },
+    {
+      "id": "74306",
+      "name": "FAROL",
+      "uf": "PR",
+      "file": "municipalities/74306.jsonl.gz",
+      "records": 956,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 17930
+    },
+    {
+      "id": "75493",
+      "name": "FAXINAL",
+      "uf": "PR",
+      "file": "municipalities/75493.jsonl.gz",
+      "records": 5298,
+      "sections_by_turn": {
+        "1": 45
+      },
+      "file_size_bytes": 91473
+    },
+    {
+      "id": "74322",
+      "name": "FAZENDA RIO GRANDE",
+      "uf": "PR",
+      "file": "municipalities/74322.jsonl.gz",
+      "records": 41110,
+      "sections_by_turn": {
+        "1": 259
+      },
+      "file_size_bytes": 1045072
+    },
+    {
+      "id": "75345",
+      "name": "FERNANDES PINHEIRO",
+      "uf": "PR",
+      "file": "municipalities/75345.jsonl.gz",
+      "records": 1897,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 36132
+    },
+    {
+      "id": "84573",
+      "name": "FIGUEIRA",
+      "uf": "PR",
+      "file": "municipalities/84573.jsonl.gz",
+      "records": 1733,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 32124
+    },
+    {
+      "id": "74349",
+      "name": "FLOR DA SERRA DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74349.jsonl.gz",
+      "records": 1508,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 27724
+    },
+    {
+      "id": "75531",
+      "name": "FLORAÍ",
+      "uf": "PR",
+      "file": "municipalities/75531.jsonl.gz",
+      "records": 1344,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 28427
+    },
+    {
+      "id": "75558",
+      "name": "FLORESTA",
+      "uf": "PR",
+      "file": "municipalities/75558.jsonl.gz",
+      "records": 2750,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 58390
+    },
+    {
+      "id": "75574",
+      "name": "FLORESTÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/75574.jsonl.gz",
+      "records": 3563,
+      "sections_by_turn": {
+        "1": 34
+      },
+      "file_size_bytes": 65931
+    },
+    {
+      "id": "75590",
+      "name": "FLÓRIDA",
+      "uf": "PR",
+      "file": "municipalities/75590.jsonl.gz",
+      "records": 811,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 13897
+    },
+    {
+      "id": "75612",
+      "name": "FORMOSA DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/75612.jsonl.gz",
+      "records": 1955,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 34799
+    },
+    {
+      "id": "75639",
+      "name": "FOZ DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/75639.jsonl.gz",
+      "records": 78539,
+      "sections_by_turn": {
+        "1": 626
+      },
+      "file_size_bytes": 2316402
+    },
+    {
+      "id": "75361",
+      "name": "FOZ DO JORDÃO",
+      "uf": "PR",
+      "file": "municipalities/75361.jsonl.gz",
+      "records": 1638,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 33985
+    },
+    {
+      "id": "79774",
+      "name": "FRANCISCO ALVES",
+      "uf": "PR",
+      "file": "municipalities/79774.jsonl.gz",
+      "records": 2177,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 39294
+    },
+    {
+      "id": "75655",
+      "name": "FRANCISCO BELTRÃO",
+      "uf": "PR",
+      "file": "municipalities/75655.jsonl.gz",
+      "records": 24711,
+      "sections_by_turn": {
+        "1": 217
+      },
+      "file_size_bytes": 610784
+    },
+    {
+      "id": "75515",
+      "name": "FÊNIX",
+      "uf": "PR",
+      "file": "municipalities/75515.jsonl.gz",
+      "records": 1183,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 23616
+    },
+    {
+      "id": "75671",
+      "name": "GENERAL CARNEIRO",
+      "uf": "PR",
+      "file": "municipalities/75671.jsonl.gz",
+      "records": 2842,
+      "sections_by_turn": {
+        "1": 32
+      },
+      "file_size_bytes": 55546
+    },
+    {
+      "id": "74004",
+      "name": "GODOY MOREIRA",
+      "uf": "PR",
+      "file": "municipalities/74004.jsonl.gz",
+      "records": 851,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 16181
+    },
+    {
+      "id": "75698",
+      "name": "GOIOERÊ",
+      "uf": "PR",
+      "file": "municipalities/75698.jsonl.gz",
+      "records": 8211,
+      "sections_by_turn": {
+        "1": 72
+      },
+      "file_size_bytes": 168580
+    },
+    {
+      "id": "75388",
+      "name": "GOIOXIM",
+      "uf": "PR",
+      "file": "municipalities/75388.jsonl.gz",
+      "records": 1596,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 29741
+    },
+    {
+      "id": "79596",
+      "name": "GRANDES RIOS",
+      "uf": "PR",
+      "file": "municipalities/79596.jsonl.gz",
+      "records": 1702,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 30182
+    },
+    {
+      "id": "75736",
+      "name": "GUAIRAÇÁ",
+      "uf": "PR",
+      "file": "municipalities/75736.jsonl.gz",
+      "records": 1578,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 28746
+    },
+    {
+      "id": "75426",
+      "name": "GUAMIRANGA",
+      "uf": "PR",
+      "file": "municipalities/75426.jsonl.gz",
+      "records": 2289,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 48537
+    },
+    {
+      "id": "75752",
+      "name": "GUAPIRAMA",
+      "uf": "PR",
+      "file": "municipalities/75752.jsonl.gz",
+      "records": 1332,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 22412
+    },
+    {
+      "id": "75779",
+      "name": "GUAPOREMA",
+      "uf": "PR",
+      "file": "municipalities/75779.jsonl.gz",
+      "records": 550,
+      "sections_by_turn": {
+        "1": 6
+      },
+      "file_size_bytes": 10787
+    },
+    {
+      "id": "75795",
+      "name": "GUARACI",
+      "uf": "PR",
+      "file": "municipalities/75795.jsonl.gz",
+      "records": 1437,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 26511
+    },
+    {
+      "id": "75817",
+      "name": "GUARANIAÇU",
+      "uf": "PR",
+      "file": "municipalities/75817.jsonl.gz",
+      "records": 4368,
+      "sections_by_turn": {
+        "1": 44
+      },
+      "file_size_bytes": 94569
+    },
+    {
+      "id": "75833",
+      "name": "GUARAPUAVA",
+      "uf": "PR",
+      "file": "municipalities/75833.jsonl.gz",
+      "records": 49652,
+      "sections_by_turn": {
+        "1": 438
+      },
+      "file_size_bytes": 1591160
+    },
+    {
+      "id": "75850",
+      "name": "GUARAQUEÇABA",
+      "uf": "PR",
+      "file": "municipalities/75850.jsonl.gz",
+      "records": 2675,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 59949
+    },
+    {
+      "id": "75876",
+      "name": "GUARATUBA",
+      "uf": "PR",
+      "file": "municipalities/75876.jsonl.gz",
+      "records": 14219,
+      "sections_by_turn": {
+        "1": 95
+      },
+      "file_size_bytes": 346069
+    },
+    {
+      "id": "75710",
+      "name": "GUAÍRA",
+      "uf": "PR",
+      "file": "municipalities/75710.jsonl.gz",
+      "records": 8806,
+      "sections_by_turn": {
+        "1": 82
+      },
+      "file_size_bytes": 183257
+    },
+    {
+      "id": "74365",
+      "name": "HONÓRIO SERPA",
+      "uf": "PR",
+      "file": "municipalities/74365.jsonl.gz",
+      "records": 1259,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 22977
+    },
+    {
+      "id": "75892",
+      "name": "IBAITI",
+      "uf": "PR",
+      "file": "municipalities/75892.jsonl.gz",
+      "records": 8074,
+      "sections_by_turn": {
+        "1": 74
+      },
+      "file_size_bytes": 170340
+    },
+    {
+      "id": "74020",
+      "name": "IBEMA",
+      "uf": "PR",
+      "file": "municipalities/74020.jsonl.gz",
+      "records": 2039,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 34314
+    },
+    {
+      "id": "75914",
+      "name": "IBIPORÃ",
+      "uf": "PR",
+      "file": "municipalities/75914.jsonl.gz",
+      "records": 15216,
+      "sections_by_turn": {
+        "1": 119
+      },
+      "file_size_bytes": 359160
+    },
+    {
+      "id": "75930",
+      "name": "ICARAÍMA",
+      "uf": "PR",
+      "file": "municipalities/75930.jsonl.gz",
+      "records": 2332,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 45330
+    },
+    {
+      "id": "75957",
+      "name": "IGUARAÇU",
+      "uf": "PR",
+      "file": "municipalities/75957.jsonl.gz",
+      "records": 1437,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 29246
+    },
+    {
+      "id": "74381",
+      "name": "IGUATU",
+      "uf": "PR",
+      "file": "municipalities/74381.jsonl.gz",
+      "records": 780,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 13353
+    },
+    {
+      "id": "75442",
+      "name": "IMBAÚ",
+      "uf": "PR",
+      "file": "municipalities/75442.jsonl.gz",
+      "records": 3217,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 62628
+    },
+    {
+      "id": "75973",
+      "name": "IMBITUVA",
+      "uf": "PR",
+      "file": "municipalities/75973.jsonl.gz",
+      "records": 9038,
+      "sections_by_turn": {
+        "1": 76
+      },
+      "file_size_bytes": 183879
+    },
+    {
+      "id": "76015",
+      "name": "INAJÁ",
+      "uf": "PR",
+      "file": "municipalities/76015.jsonl.gz",
+      "records": 668,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 12711
+    },
+    {
+      "id": "79618",
+      "name": "INDIANÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/79618.jsonl.gz",
+      "records": 1360,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 26636
+    },
+    {
+      "id": "75990",
+      "name": "INÁCIO MARTINS",
+      "uf": "PR",
+      "file": "municipalities/75990.jsonl.gz",
+      "records": 2888,
+      "sections_by_turn": {
+        "1": 31
+      },
+      "file_size_bytes": 64455
+    },
+    {
+      "id": "76031",
+      "name": "IPIRANGA",
+      "uf": "PR",
+      "file": "municipalities/76031.jsonl.gz",
+      "records": 3497,
+      "sections_by_turn": {
+        "1": 41
+      },
+      "file_size_bytes": 81109
+    },
+    {
+      "id": "76058",
+      "name": "IPORÃ",
+      "uf": "PR",
+      "file": "municipalities/76058.jsonl.gz",
+      "records": 4713,
+      "sections_by_turn": {
+        "1": 47
+      },
+      "file_size_bytes": 102837
+    },
+    {
+      "id": "74403",
+      "name": "IRACEMA DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/74403.jsonl.gz",
+      "records": 789,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 14058
+    },
+    {
+      "id": "76074",
+      "name": "IRATI",
+      "uf": "PR",
+      "file": "municipalities/76074.jsonl.gz",
+      "records": 17313,
+      "sections_by_turn": {
+        "1": 161
+      },
+      "file_size_bytes": 442152
+    },
+    {
+      "id": "76090",
+      "name": "IRETAMA",
+      "uf": "PR",
+      "file": "municipalities/76090.jsonl.gz",
+      "records": 2923,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 60060
+    },
+    {
+      "id": "76112",
+      "name": "ITAGUAJÉ",
+      "uf": "PR",
+      "file": "municipalities/76112.jsonl.gz",
+      "records": 985,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 16654
+    },
+    {
+      "id": "75000",
+      "name": "ITAIPULÂNDIA",
+      "uf": "PR",
+      "file": "municipalities/75000.jsonl.gz",
+      "records": 3451,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 62577
+    },
+    {
+      "id": "76139",
+      "name": "ITAMBARACÁ",
+      "uf": "PR",
+      "file": "municipalities/76139.jsonl.gz",
+      "records": 1712,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 29764
+    },
+    {
+      "id": "76155",
+      "name": "ITAMBÉ",
+      "uf": "PR",
+      "file": "municipalities/76155.jsonl.gz",
+      "records": 1927,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 38241
+    },
+    {
+      "id": "76171",
+      "name": "ITAPEJARA D OESTE",
+      "uf": "PR",
+      "file": "municipalities/76171.jsonl.gz",
+      "records": 3168,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 58644
+    },
+    {
+      "id": "74446",
+      "name": "ITAPERUÇU",
+      "uf": "PR",
+      "file": "municipalities/74446.jsonl.gz",
+      "records": 7064,
+      "sections_by_turn": {
+        "1": 61
+      },
+      "file_size_bytes": 139380
+    },
+    {
+      "id": "76198",
+      "name": "ITAÚNA DO SUL",
+      "uf": "PR",
+      "file": "municipalities/76198.jsonl.gz",
+      "records": 954,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 17232
+    },
+    {
+      "id": "76236",
+      "name": "IVAIPORÃ",
+      "uf": "PR",
+      "file": "municipalities/76236.jsonl.gz",
+      "records": 10002,
+      "sections_by_turn": {
+        "1": 82
+      },
+      "file_size_bytes": 216232
+    },
+    {
+      "id": "76252",
+      "name": "IVATUBA",
+      "uf": "PR",
+      "file": "municipalities/76252.jsonl.gz",
+      "records": 1179,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 22802
+    },
+    {
+      "id": "74462",
+      "name": "IVATÉ",
+      "uf": "PR",
+      "file": "municipalities/74462.jsonl.gz",
+      "records": 2009,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 35753
+    },
+    {
+      "id": "76210",
+      "name": "IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/76210.jsonl.gz",
+      "records": 3417,
+      "sections_by_turn": {
+        "1": 37
+      },
+      "file_size_bytes": 70218
+    },
+    {
+      "id": "76279",
+      "name": "JABOTI",
+      "uf": "PR",
+      "file": "municipalities/76279.jsonl.gz",
+      "records": 1404,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 28985
+    },
+    {
+      "id": "76295",
+      "name": "JACAREZINHO",
+      "uf": "PR",
+      "file": "municipalities/76295.jsonl.gz",
+      "records": 11518,
+      "sections_by_turn": {
+        "1": 102
+      },
+      "file_size_bytes": 265158
+    },
+    {
+      "id": "76317",
+      "name": "JAGUAPITÃ",
+      "uf": "PR",
+      "file": "municipalities/76317.jsonl.gz",
+      "records": 3883,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 68746
+    },
+    {
+      "id": "76333",
+      "name": "JAGUARIAÍVA",
+      "uf": "PR",
+      "file": "municipalities/76333.jsonl.gz",
+      "records": 10400,
+      "sections_by_turn": {
+        "1": 85
+      },
+      "file_size_bytes": 234818
+    },
+    {
+      "id": "76350",
+      "name": "JANDAIA DO SUL",
+      "uf": "PR",
+      "file": "municipalities/76350.jsonl.gz",
+      "records": 6911,
+      "sections_by_turn": {
+        "1": 56
+      },
+      "file_size_bytes": 151000
+    },
+    {
+      "id": "76376",
+      "name": "JANIÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/76376.jsonl.gz",
+      "records": 1510,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 29512
+    },
+    {
+      "id": "76392",
+      "name": "JAPIRA",
+      "uf": "PR",
+      "file": "municipalities/76392.jsonl.gz",
+      "records": 1411,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 31388
+    },
+    {
+      "id": "76414",
+      "name": "JAPURÁ",
+      "uf": "PR",
+      "file": "municipalities/76414.jsonl.gz",
+      "records": 2560,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 43475
+    },
+    {
+      "id": "76430",
+      "name": "JARDIM ALEGRE",
+      "uf": "PR",
+      "file": "municipalities/76430.jsonl.gz",
+      "records": 3787,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 76004
+    },
+    {
+      "id": "76457",
+      "name": "JARDIM OLINDA",
+      "uf": "PR",
+      "file": "municipalities/76457.jsonl.gz",
+      "records": 413,
+      "sections_by_turn": {
+        "1": 5
+      },
+      "file_size_bytes": 8514
+    },
+    {
+      "id": "76473",
+      "name": "JATAIZINHO",
+      "uf": "PR",
+      "file": "municipalities/76473.jsonl.gz",
+      "records": 3688,
+      "sections_by_turn": {
+        "1": 31
+      },
+      "file_size_bytes": 64150
+    },
+    {
+      "id": "79979",
+      "name": "JESUÍTAS",
+      "uf": "PR",
+      "file": "municipalities/79979.jsonl.gz",
+      "records": 2413,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 39925
+    },
+    {
+      "id": "76490",
+      "name": "JOAQUIM TÁVORA",
+      "uf": "PR",
+      "file": "municipalities/76490.jsonl.gz",
+      "records": 3027,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 55251
+    },
+    {
+      "id": "76511",
+      "name": "JUNDIAÍ DO SUL",
+      "uf": "PR",
+      "file": "municipalities/76511.jsonl.gz",
+      "records": 862,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 15494
+    },
+    {
+      "id": "84638",
+      "name": "JURANDA",
+      "uf": "PR",
+      "file": "municipalities/84638.jsonl.gz",
+      "records": 1833,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 32113
+    },
+    {
+      "id": "76538",
+      "name": "JUSSARA",
+      "uf": "PR",
+      "file": "municipalities/76538.jsonl.gz",
+      "records": 1703,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 28386
+    },
+    {
+      "id": "76554",
+      "name": "KALORÉ",
+      "uf": "PR",
+      "file": "municipalities/76554.jsonl.gz",
+      "records": 1243,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 23158
+    },
+    {
+      "id": "76570",
+      "name": "LAPA",
+      "uf": "PR",
+      "file": "municipalities/76570.jsonl.gz",
+      "records": 15429,
+      "sections_by_turn": {
+        "1": 119
+      },
+      "file_size_bytes": 390586
+    },
+    {
+      "id": "74985",
+      "name": "LARANJAL",
+      "uf": "PR",
+      "file": "municipalities/74985.jsonl.gz",
+      "records": 1389,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 25240
+    },
+    {
+      "id": "76597",
+      "name": "LARANJEIRAS DO SUL",
+      "uf": "PR",
+      "file": "municipalities/76597.jsonl.gz",
+      "records": 10433,
+      "sections_by_turn": {
+        "1": 84
+      },
+      "file_size_bytes": 257076
+    },
+    {
+      "id": "76619",
+      "name": "LEÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/76619.jsonl.gz",
+      "records": 1078,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 21495
+    },
+    {
+      "id": "74489",
+      "name": "LIDIANÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/74489.jsonl.gz",
+      "records": 1225,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 21926
+    },
+    {
+      "id": "74047",
+      "name": "LINDOESTE",
+      "uf": "PR",
+      "file": "municipalities/74047.jsonl.gz",
+      "records": 1539,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 30622
+    },
+    {
+      "id": "76635",
+      "name": "LOANDA",
+      "uf": "PR",
+      "file": "municipalities/76635.jsonl.gz",
+      "records": 5490,
+      "sections_by_turn": {
+        "1": 56
+      },
+      "file_size_bytes": 103660
+    },
+    {
+      "id": "76651",
+      "name": "LOBATO",
+      "uf": "PR",
+      "file": "municipalities/76651.jsonl.gz",
+      "records": 1412,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 24801
+    },
+    {
+      "id": "76678",
+      "name": "LONDRINA",
+      "uf": "PR",
+      "file": "municipalities/76678.jsonl.gz",
+      "records": 147688,
+      "sections_by_turn": {
+        "1": 1200
+      },
+      "file_size_bytes": 6105317
+    },
+    {
+      "id": "75809",
+      "name": "LUIZIANA",
+      "uf": "PR",
+      "file": "municipalities/75809.jsonl.gz",
+      "records": 1968,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 37865
+    },
+    {
+      "id": "84590",
+      "name": "LUNARDELLI",
+      "uf": "PR",
+      "file": "municipalities/84590.jsonl.gz",
+      "records": 1431,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 26576
+    },
+    {
+      "id": "76694",
+      "name": "LUPIONÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/76694.jsonl.gz",
+      "records": 1495,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 26976
+    },
+    {
+      "id": "76716",
+      "name": "MALLET",
+      "uf": "PR",
+      "file": "municipalities/76716.jsonl.gz",
+      "records": 3695,
+      "sections_by_turn": {
+        "1": 37
+      },
+      "file_size_bytes": 79595
+    },
+    {
+      "id": "76732",
+      "name": "MAMBORÊ",
+      "uf": "PR",
+      "file": "municipalities/76732.jsonl.gz",
+      "records": 3869,
+      "sections_by_turn": {
+        "1": 38
+      },
+      "file_size_bytes": 75808
+    },
+    {
+      "id": "76775",
+      "name": "MANDAGUARI",
+      "uf": "PR",
+      "file": "municipalities/76775.jsonl.gz",
+      "records": 10869,
+      "sections_by_turn": {
+        "1": 86
+      },
+      "file_size_bytes": 253306
+    },
+    {
+      "id": "76759",
+      "name": "MANDAGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/76759.jsonl.gz",
+      "records": 7874,
+      "sections_by_turn": {
+        "1": 64
+      },
+      "file_size_bytes": 155682
+    },
+    {
+      "id": "76791",
+      "name": "MANDIRITUBA",
+      "uf": "PR",
+      "file": "municipalities/76791.jsonl.gz",
+      "records": 8008,
+      "sections_by_turn": {
+        "1": 62
+      },
+      "file_size_bytes": 170372
+    },
+    {
+      "id": "75469",
+      "name": "MANFRINÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/75469.jsonl.gz",
+      "records": 956,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 18917
+    },
+    {
+      "id": "75116",
+      "name": "MANGUEIRINHA",
+      "uf": "PR",
+      "file": "municipalities/75116.jsonl.gz",
+      "records": 4925,
+      "sections_by_turn": {
+        "1": 47
+      },
+      "file_size_bytes": 97038
+    },
+    {
+      "id": "76813",
+      "name": "MANOEL RIBAS",
+      "uf": "PR",
+      "file": "municipalities/76813.jsonl.gz",
+      "records": 3843,
+      "sections_by_turn": {
+        "1": 42
+      },
+      "file_size_bytes": 92144
+    },
+    {
+      "id": "76830",
+      "name": "MARECHAL CÂNDIDO RONDON",
+      "uf": "PR",
+      "file": "municipalities/76830.jsonl.gz",
+      "records": 15948,
+      "sections_by_turn": {
+        "1": 154
+      },
+      "file_size_bytes": 373850
+    },
+    {
+      "id": "76856",
+      "name": "MARIA HELENA",
+      "uf": "PR",
+      "file": "municipalities/76856.jsonl.gz",
+      "records": 1511,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 31985
+    },
+    {
+      "id": "76872",
+      "name": "MARIALVA",
+      "uf": "PR",
+      "file": "municipalities/76872.jsonl.gz",
+      "records": 12187,
+      "sections_by_turn": {
+        "1": 99
+      },
+      "file_size_bytes": 280820
+    },
+    {
+      "id": "79758",
+      "name": "MARILENA",
+      "uf": "PR",
+      "file": "municipalities/79758.jsonl.gz",
+      "records": 1889,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 33459
+    },
+    {
+      "id": "76899",
+      "name": "MARILUZ",
+      "uf": "PR",
+      "file": "municipalities/76899.jsonl.gz",
+      "records": 2627,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 50629
+    },
+    {
+      "id": "74330",
+      "name": "MARILÂNDIA DO SUL",
+      "uf": "PR",
+      "file": "municipalities/74330.jsonl.gz",
+      "records": 2839,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 52579
+    },
+    {
+      "id": "76910",
+      "name": "MARINGÁ",
+      "uf": "PR",
+      "file": "municipalities/76910.jsonl.gz",
+      "records": 127661,
+      "sections_by_turn": {
+        "1": 974
+      },
+      "file_size_bytes": 4899331
+    },
+    {
+      "id": "74500",
+      "name": "MARIPÁ",
+      "uf": "PR",
+      "file": "municipalities/74500.jsonl.gz",
+      "records": 1828,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 35410
+    },
+    {
+      "id": "76937",
+      "name": "MARIÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/76937.jsonl.gz",
+      "records": 1970,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 36699
+    },
+    {
+      "id": "76953",
+      "name": "MARMELEIRO",
+      "uf": "PR",
+      "file": "municipalities/76953.jsonl.gz",
+      "records": 4257,
+      "sections_by_turn": {
+        "1": 37
+      },
+      "file_size_bytes": 88814
+    },
+    {
+      "id": "75485",
+      "name": "MARQUINHO",
+      "uf": "PR",
+      "file": "municipalities/75485.jsonl.gz",
+      "records": 1343,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 26136
+    },
+    {
+      "id": "76970",
+      "name": "MARUMBI",
+      "uf": "PR",
+      "file": "municipalities/76970.jsonl.gz",
+      "records": 1296,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 23006
+    },
+    {
+      "id": "76996",
+      "name": "MATELÂNDIA",
+      "uf": "PR",
+      "file": "municipalities/76996.jsonl.gz",
+      "records": 5357,
+      "sections_by_turn": {
+        "1": 42
+      },
+      "file_size_bytes": 105587
+    },
+    {
+      "id": "79634",
+      "name": "MATINHOS",
+      "uf": "PR",
+      "file": "municipalities/79634.jsonl.gz",
+      "records": 16279,
+      "sections_by_turn": {
+        "1": 100
+      },
+      "file_size_bytes": 375622
+    },
+    {
+      "id": "74527",
+      "name": "MATO RICO",
+      "uf": "PR",
+      "file": "municipalities/74527.jsonl.gz",
+      "records": 1354,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 25027
+    },
+    {
+      "id": "74543",
+      "name": "MAUÁ DA SERRA",
+      "uf": "PR",
+      "file": "municipalities/74543.jsonl.gz",
+      "records": 2772,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 53527
+    },
+    {
+      "id": "77011",
+      "name": "MEDIANEIRA",
+      "uf": "PR",
+      "file": "municipalities/77011.jsonl.gz",
+      "records": 15359,
+      "sections_by_turn": {
+        "1": 126
+      },
+      "file_size_bytes": 315876
+    },
+    {
+      "id": "74560",
+      "name": "MERCEDES",
+      "uf": "PR",
+      "file": "municipalities/74560.jsonl.gz",
+      "records": 1715,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 29290
+    },
+    {
+      "id": "77038",
+      "name": "MIRADOR",
+      "uf": "PR",
+      "file": "municipalities/77038.jsonl.gz",
+      "records": 531,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 9468
+    },
+    {
+      "id": "77054",
+      "name": "MIRASELVA",
+      "uf": "PR",
+      "file": "municipalities/77054.jsonl.gz",
+      "records": 621,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 11277
+    },
+    {
+      "id": "84697",
+      "name": "MISSAL",
+      "uf": "PR",
+      "file": "municipalities/84697.jsonl.gz",
+      "records": 3679,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 70902
+    },
+    {
+      "id": "77070",
+      "name": "MOREIRA SALES",
+      "uf": "PR",
+      "file": "municipalities/77070.jsonl.gz",
+      "records": 3548,
+      "sections_by_turn": {
+        "1": 36
+      },
+      "file_size_bytes": 56707
+    },
+    {
+      "id": "77097",
+      "name": "MORRETES",
+      "uf": "PR",
+      "file": "municipalities/77097.jsonl.gz",
+      "records": 6494,
+      "sections_by_turn": {
+        "1": 47
+      },
+      "file_size_bytes": 159613
+    },
+    {
+      "id": "77119",
+      "name": "MUNHOZ DE MELLO",
+      "uf": "PR",
+      "file": "municipalities/77119.jsonl.gz",
+      "records": 1162,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 20726
+    },
+    {
+      "id": "77135",
+      "name": "NOSSA SENHORA DAS GRAÇAS",
+      "uf": "PR",
+      "file": "municipalities/77135.jsonl.gz",
+      "records": 1073,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 22124
+    },
+    {
+      "id": "77151",
+      "name": "NOVA ALIANÇA DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/77151.jsonl.gz",
+      "records": 390,
+      "sections_by_turn": {
+        "1": 5
+      },
+      "file_size_bytes": 8607
+    },
+    {
+      "id": "77178",
+      "name": "NOVA AMÉRICA DA COLINA",
+      "uf": "PR",
+      "file": "municipalities/77178.jsonl.gz",
+      "records": 918,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 15892
+    },
+    {
+      "id": "79650",
+      "name": "NOVA AURORA",
+      "uf": "PR",
+      "file": "municipalities/79650.jsonl.gz",
+      "records": 3451,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 60755
+    },
+    {
+      "id": "77194",
+      "name": "NOVA CANTU",
+      "uf": "PR",
+      "file": "municipalities/77194.jsonl.gz",
+      "records": 2068,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 36147
+    },
+    {
+      "id": "77216",
+      "name": "NOVA ESPERANÇA",
+      "uf": "PR",
+      "file": "municipalities/77216.jsonl.gz",
+      "records": 8372,
+      "sections_by_turn": {
+        "1": 74
+      },
+      "file_size_bytes": 155928
+    },
+    {
+      "id": "75027",
+      "name": "NOVA ESPERANÇA DO SUDOESTE",
+      "uf": "PR",
+      "file": "municipalities/75027.jsonl.gz",
+      "records": 1470,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 29835
+    },
+    {
+      "id": "77232",
+      "name": "NOVA FÁTIMA",
+      "uf": "PR",
+      "file": "municipalities/77232.jsonl.gz",
+      "records": 2381,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 43663
+    },
+    {
+      "id": "74586",
+      "name": "NOVA LARANJEIRAS",
+      "uf": "PR",
+      "file": "municipalities/74586.jsonl.gz",
+      "records": 2801,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 62755
+    },
+    {
+      "id": "77259",
+      "name": "NOVA LONDRINA",
+      "uf": "PR",
+      "file": "municipalities/77259.jsonl.gz",
+      "records": 3457,
+      "sections_by_turn": {
+        "1": 34
+      },
+      "file_size_bytes": 61333
+    },
+    {
+      "id": "79677",
+      "name": "NOVA OLÍMPIA",
+      "uf": "PR",
+      "file": "municipalities/79677.jsonl.gz",
+      "records": 1736,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 31367
+    },
+    {
+      "id": "79952",
+      "name": "NOVA PRATA DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/79952.jsonl.gz",
+      "records": 2801,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 49865
+    },
+    {
+      "id": "74608",
+      "name": "NOVA SANTA BÁRBARA",
+      "uf": "PR",
+      "file": "municipalities/74608.jsonl.gz",
+      "records": 1335,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 24482
+    },
+    {
+      "id": "79790",
+      "name": "NOVA SANTA ROSA",
+      "uf": "PR",
+      "file": "municipalities/79790.jsonl.gz",
+      "records": 2518,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 46868
+    },
+    {
+      "id": "75760",
+      "name": "NOVA TEBAS",
+      "uf": "PR",
+      "file": "municipalities/75760.jsonl.gz",
+      "records": 2058,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 40551
+    },
+    {
+      "id": "74420",
+      "name": "NOVO ITACOLOMI",
+      "uf": "PR",
+      "file": "municipalities/74420.jsonl.gz",
+      "records": 944,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 17143
+    },
+    {
+      "id": "77275",
+      "name": "ORTIGUEIRA",
+      "uf": "PR",
+      "file": "municipalities/77275.jsonl.gz",
+      "records": 7423,
+      "sections_by_turn": {
+        "1": 71
+      },
+      "file_size_bytes": 163415
+    },
+    {
+      "id": "77291",
+      "name": "OURIZONA",
+      "uf": "PR",
+      "file": "municipalities/77291.jsonl.gz",
+      "records": 948,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 19751
+    },
+    {
+      "id": "74063",
+      "name": "OURO VERDE DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/74063.jsonl.gz",
+      "records": 1795,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 32838
+    },
+    {
+      "id": "77313",
+      "name": "PAIÇANDU",
+      "uf": "PR",
+      "file": "municipalities/77313.jsonl.gz",
+      "records": 12228,
+      "sections_by_turn": {
+        "1": 100
+      },
+      "file_size_bytes": 270798
+    },
+    {
+      "id": "77330",
+      "name": "PALMAS",
+      "uf": "PR",
+      "file": "municipalities/77330.jsonl.gz",
+      "records": 10718,
+      "sections_by_turn": {
+        "1": 103
+      },
+      "file_size_bytes": 231189
+    },
+    {
+      "id": "77356",
+      "name": "PALMEIRA",
+      "uf": "PR",
+      "file": "municipalities/77356.jsonl.gz",
+      "records": 10671,
+      "sections_by_turn": {
+        "1": 87
+      },
+      "file_size_bytes": 241749
+    },
+    {
+      "id": "77372",
+      "name": "PALMITAL",
+      "uf": "PR",
+      "file": "municipalities/77372.jsonl.gz",
+      "records": 3998,
+      "sections_by_turn": {
+        "1": 41
+      },
+      "file_size_bytes": 80610
+    },
+    {
+      "id": "77399",
+      "name": "PALOTINA",
+      "uf": "PR",
+      "file": "municipalities/77399.jsonl.gz",
+      "records": 9201,
+      "sections_by_turn": {
+        "1": 84
+      },
+      "file_size_bytes": 188298
+    },
+    {
+      "id": "77437",
+      "name": "PARANACITY",
+      "uf": "PR",
+      "file": "municipalities/77437.jsonl.gz",
+      "records": 2992,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 52171
+    },
+    {
+      "id": "77453",
+      "name": "PARANAGUÁ",
+      "uf": "PR",
+      "file": "municipalities/77453.jsonl.gz",
+      "records": 41181,
+      "sections_by_turn": {
+        "1": 322
+      },
+      "file_size_bytes": 1260031
+    },
+    {
+      "id": "77470",
+      "name": "PARANAPOEMA",
+      "uf": "PR",
+      "file": "municipalities/77470.jsonl.gz",
+      "records": 597,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 11333
+    },
+    {
+      "id": "77496",
+      "name": "PARANAVAÍ",
+      "uf": "PR",
+      "file": "municipalities/77496.jsonl.gz",
+      "records": 19741,
+      "sections_by_turn": {
+        "1": 202
+      },
+      "file_size_bytes": 492620
+    },
+    {
+      "id": "77410",
+      "name": "PARAÍSO DO NORTE",
+      "uf": "PR",
+      "file": "municipalities/77410.jsonl.gz",
+      "records": 2860,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 52496
+    },
+    {
+      "id": "74624",
+      "name": "PATO BRAGADO",
+      "uf": "PR",
+      "file": "municipalities/74624.jsonl.gz",
+      "records": 1439,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 28792
+    },
+    {
+      "id": "77518",
+      "name": "PATO BRANCO",
+      "uf": "PR",
+      "file": "municipalities/77518.jsonl.gz",
+      "records": 23519,
+      "sections_by_turn": {
+        "1": 204
+      },
+      "file_size_bytes": 614425
+    },
+    {
+      "id": "77534",
+      "name": "PAULA FREITAS",
+      "uf": "PR",
+      "file": "municipalities/77534.jsonl.gz",
+      "records": 1588,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 31643
+    },
+    {
+      "id": "77550",
+      "name": "PAULO FRONTIN",
+      "uf": "PR",
+      "file": "municipalities/77550.jsonl.gz",
+      "records": 1830,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 35536
+    },
+    {
+      "id": "77577",
+      "name": "PEABIRU",
+      "uf": "PR",
+      "file": "municipalities/77577.jsonl.gz",
+      "records": 3957,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 85014
+    },
+    {
+      "id": "75507",
+      "name": "PEROBAL",
+      "uf": "PR",
+      "file": "municipalities/75507.jsonl.gz",
+      "records": 1687,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 32248
+    },
+    {
+      "id": "75043",
+      "name": "PINHAIS",
+      "uf": "PR",
+      "file": "municipalities/75043.jsonl.gz",
+      "records": 40358,
+      "sections_by_turn": {
+        "1": 280
+      },
+      "file_size_bytes": 1154486
+    },
+    {
+      "id": "74640",
+      "name": "PINHAL DE SÃO BENTO",
+      "uf": "PR",
+      "file": "municipalities/74640.jsonl.gz",
+      "records": 851,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 18789
+    },
+    {
+      "id": "77631",
+      "name": "PINHALÃO",
+      "uf": "PR",
+      "file": "municipalities/77631.jsonl.gz",
+      "records": 1698,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 35204
+    },
+    {
+      "id": "77658",
+      "name": "PINHÃO",
+      "uf": "PR",
+      "file": "municipalities/77658.jsonl.gz",
+      "records": 8885,
+      "sections_by_turn": {
+        "1": 81
+      },
+      "file_size_bytes": 224225
+    },
+    {
+      "id": "77690",
+      "name": "PIRAQUARA",
+      "uf": "PR",
+      "file": "municipalities/77690.jsonl.gz",
+      "records": 32263,
+      "sections_by_turn": {
+        "1": 214
+      },
+      "file_size_bytes": 777808
+    },
+    {
+      "id": "77674",
+      "name": "PIRAÍ DO SUL",
+      "uf": "PR",
+      "file": "municipalities/77674.jsonl.gz",
+      "records": 6826,
+      "sections_by_turn": {
+        "1": 63
+      },
+      "file_size_bytes": 161817
+    },
+    {
+      "id": "77712",
+      "name": "PITANGA",
+      "uf": "PR",
+      "file": "municipalities/77712.jsonl.gz",
+      "records": 10458,
+      "sections_by_turn": {
+        "1": 98
+      },
+      "file_size_bytes": 258142
+    },
+    {
+      "id": "74667",
+      "name": "PITANGUEIRAS",
+      "uf": "PR",
+      "file": "municipalities/74667.jsonl.gz",
+      "records": 760,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 15274
+    },
+    {
+      "id": "77615",
+      "name": "PIÊN",
+      "uf": "PR",
+      "file": "municipalities/77615.jsonl.gz",
+      "records": 3354,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 69013
+    },
+    {
+      "id": "77739",
+      "name": "PLANALTINA DO PARANÁ",
+      "uf": "PR",
+      "file": "municipalities/77739.jsonl.gz",
+      "records": 1161,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 22809
+    },
+    {
+      "id": "77755",
+      "name": "PLANALTO",
+      "uf": "PR",
+      "file": "municipalities/77755.jsonl.gz",
+      "records": 3504,
+      "sections_by_turn": {
+        "1": 38
+      },
+      "file_size_bytes": 65682
+    },
+    {
+      "id": "77771",
+      "name": "PONTA GROSSA",
+      "uf": "PR",
+      "file": "municipalities/77771.jsonl.gz",
+      "records": 88283,
+      "sections_by_turn": {
+        "1": 781
+      },
+      "file_size_bytes": 3166150
+    },
+    {
+      "id": "75523",
+      "name": "PONTAL DO PARANÁ",
+      "uf": "PR",
+      "file": "municipalities/75523.jsonl.gz",
+      "records": 11328,
+      "sections_by_turn": {
+        "1": 72
+      },
+      "file_size_bytes": 268820
+    },
+    {
+      "id": "77798",
+      "name": "PORECATU",
+      "uf": "PR",
+      "file": "municipalities/77798.jsonl.gz",
+      "records": 3945,
+      "sections_by_turn": {
+        "1": 34
+      },
+      "file_size_bytes": 79059
+    },
+    {
+      "id": "77810",
+      "name": "PORTO AMAZONAS",
+      "uf": "PR",
+      "file": "municipalities/77810.jsonl.gz",
+      "records": 1547,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 28764
+    },
+    {
+      "id": "75540",
+      "name": "PORTO BARREIRO",
+      "uf": "PR",
+      "file": "municipalities/75540.jsonl.gz",
+      "records": 1043,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 21935
+    },
+    {
+      "id": "77836",
+      "name": "PORTO RICO",
+      "uf": "PR",
+      "file": "municipalities/77836.jsonl.gz",
+      "records": 994,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 18074
+    },
+    {
+      "id": "77852",
+      "name": "PORTO VITÓRIA",
+      "uf": "PR",
+      "file": "municipalities/77852.jsonl.gz",
+      "records": 1154,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 23552
+    },
+    {
+      "id": "75566",
+      "name": "PRADO FERREIRA",
+      "uf": "PR",
+      "file": "municipalities/75566.jsonl.gz",
+      "records": 1021,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 19087
+    },
+    {
+      "id": "79910",
+      "name": "PRANCHITA",
+      "uf": "PR",
+      "file": "municipalities/79910.jsonl.gz",
+      "records": 1544,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 34315
+    },
+    {
+      "id": "77879",
+      "name": "PRESIDENTE CASTELO BRANCO",
+      "uf": "PR",
+      "file": "municipalities/77879.jsonl.gz",
+      "records": 1457,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 26029
+    },
+    {
+      "id": "77895",
+      "name": "PRIMEIRO DE MAIO",
+      "uf": "PR",
+      "file": "municipalities/77895.jsonl.gz",
+      "records": 2808,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 52948
+    },
+    {
+      "id": "77917",
+      "name": "PRUDENTÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/77917.jsonl.gz",
+      "records": 14698,
+      "sections_by_turn": {
+        "1": 143
+      },
+      "file_size_bytes": 389716
+    },
+    {
+      "id": "79693",
+      "name": "PÉROLA",
+      "uf": "PR",
+      "file": "municipalities/79693.jsonl.gz",
+      "records": 3237,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 55190
+    },
+    {
+      "id": "77593",
+      "name": "PÉROLA D OESTE",
+      "uf": "PR",
+      "file": "municipalities/77593.jsonl.gz",
+      "records": 1550,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 29876
+    },
+    {
+      "id": "75582",
+      "name": "QUARTO CENTENÁRIO",
+      "uf": "PR",
+      "file": "municipalities/75582.jsonl.gz",
+      "records": 1170,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 21745
+    },
+    {
+      "id": "77933",
+      "name": "QUATIGUÁ",
+      "uf": "PR",
+      "file": "municipalities/77933.jsonl.gz",
+      "records": 2293,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 42080
+    },
+    {
+      "id": "77950",
+      "name": "QUATRO BARRAS",
+      "uf": "PR",
+      "file": "municipalities/77950.jsonl.gz",
+      "records": 7817,
+      "sections_by_turn": {
+        "1": 53
+      },
+      "file_size_bytes": 158060
+    },
+    {
+      "id": "74683",
+      "name": "QUATRO PONTES",
+      "uf": "PR",
+      "file": "municipalities/74683.jsonl.gz",
+      "records": 1402,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 23654
+    },
+    {
+      "id": "79553",
+      "name": "QUEDAS DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/79553.jsonl.gz",
+      "records": 8862,
+      "sections_by_turn": {
+        "1": 80
+      },
+      "file_size_bytes": 182673
+    },
+    {
+      "id": "77976",
+      "name": "QUERÊNCIA DO NORTE",
+      "uf": "PR",
+      "file": "municipalities/77976.jsonl.gz",
+      "records": 2562,
+      "sections_by_turn": {
+        "1": 32
+      },
+      "file_size_bytes": 48099
+    },
+    {
+      "id": "77992",
+      "name": "QUINTA DO SOL",
+      "uf": "PR",
+      "file": "municipalities/77992.jsonl.gz",
+      "records": 1391,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 24956
+    },
+    {
+      "id": "78018",
+      "name": "QUITANDINHA",
+      "uf": "PR",
+      "file": "municipalities/78018.jsonl.gz",
+      "records": 4949,
+      "sections_by_turn": {
+        "1": 46
+      },
+      "file_size_bytes": 113170
+    },
+    {
+      "id": "74705",
+      "name": "RAMILÂNDIA",
+      "uf": "PR",
+      "file": "municipalities/74705.jsonl.gz",
+      "records": 1142,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 19355
+    },
+    {
+      "id": "78034",
+      "name": "RANCHO ALEGRE",
+      "uf": "PR",
+      "file": "municipalities/78034.jsonl.gz",
+      "records": 870,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 16483
+    },
+    {
+      "id": "74721",
+      "name": "RANCHO ALEGRE D OESTE",
+      "uf": "PR",
+      "file": "municipalities/74721.jsonl.gz",
+      "records": 839,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 13895
+    },
+    {
+      "id": "78050",
+      "name": "REALEZA",
+      "uf": "PR",
+      "file": "municipalities/78050.jsonl.gz",
+      "records": 5278,
+      "sections_by_turn": {
+        "1": 46
+      },
+      "file_size_bytes": 108105
+    },
+    {
+      "id": "78077",
+      "name": "REBOUÇAS",
+      "uf": "PR",
+      "file": "municipalities/78077.jsonl.gz",
+      "records": 4190,
+      "sections_by_turn": {
+        "1": 38
+      },
+      "file_size_bytes": 78397
+    },
+    {
+      "id": "78093",
+      "name": "RENASCENÇA",
+      "uf": "PR",
+      "file": "municipalities/78093.jsonl.gz",
+      "records": 1865,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 37360
+    },
+    {
+      "id": "78115",
+      "name": "RESERVA",
+      "uf": "PR",
+      "file": "municipalities/78115.jsonl.gz",
+      "records": 7020,
+      "sections_by_turn": {
+        "1": 64
+      },
+      "file_size_bytes": 153874
+    },
+    {
+      "id": "75604",
+      "name": "RESERVA DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/75604.jsonl.gz",
+      "records": 1871,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 38715
+    },
+    {
+      "id": "78131",
+      "name": "RIBEIRÃO CLARO",
+      "uf": "PR",
+      "file": "municipalities/78131.jsonl.gz",
+      "records": 3064,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 60039
+    },
+    {
+      "id": "78158",
+      "name": "RIBEIRÃO DO PINHAL",
+      "uf": "PR",
+      "file": "municipalities/78158.jsonl.gz",
+      "records": 3793,
+      "sections_by_turn": {
+        "1": 34
+      },
+      "file_size_bytes": 71951
+    },
+    {
+      "id": "78174",
+      "name": "RIO AZUL",
+      "uf": "PR",
+      "file": "municipalities/78174.jsonl.gz",
+      "records": 3464,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 74277
+    },
+    {
+      "id": "78190",
+      "name": "RIO BOM",
+      "uf": "PR",
+      "file": "municipalities/78190.jsonl.gz",
+      "records": 950,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 16596
+    },
+    {
+      "id": "74748",
+      "name": "RIO BONITO DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/74748.jsonl.gz",
+      "records": 3732,
+      "sections_by_turn": {
+        "1": 40
+      },
+      "file_size_bytes": 80426
+    },
+    {
+      "id": "75620",
+      "name": "RIO BRANCO DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/75620.jsonl.gz",
+      "records": 1139,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 20198
+    },
+    {
+      "id": "78212",
+      "name": "RIO BRANCO DO SUL",
+      "uf": "PR",
+      "file": "municipalities/78212.jsonl.gz",
+      "records": 9266,
+      "sections_by_turn": {
+        "1": 89
+      },
+      "file_size_bytes": 201241
+    },
+    {
+      "id": "78239",
+      "name": "RIO NEGRO",
+      "uf": "PR",
+      "file": "municipalities/78239.jsonl.gz",
+      "records": 9796,
+      "sections_by_turn": {
+        "1": 84
+      },
+      "file_size_bytes": 226667
+    },
+    {
+      "id": "78255",
+      "name": "ROLÂNDIA",
+      "uf": "PR",
+      "file": "municipalities/78255.jsonl.gz",
+      "records": 17639,
+      "sections_by_turn": {
+        "1": 154
+      },
+      "file_size_bytes": 370663
+    },
+    {
+      "id": "78271",
+      "name": "RONCADOR",
+      "uf": "PR",
+      "file": "municipalities/78271.jsonl.gz",
+      "records": 3239,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 63579
+    },
+    {
+      "id": "78298",
+      "name": "RONDON",
+      "uf": "PR",
+      "file": "municipalities/78298.jsonl.gz",
+      "records": 2477,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 44996
+    },
+    {
+      "id": "75744",
+      "name": "ROSÁRIO DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/75744.jsonl.gz",
+      "records": 1473,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 25637
+    },
+    {
+      "id": "78310",
+      "name": "SABÁUDIA",
+      "uf": "PR",
+      "file": "municipalities/78310.jsonl.gz",
+      "records": 2054,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 37174
+    },
+    {
+      "id": "78336",
+      "name": "SALGADO FILHO",
+      "uf": "PR",
+      "file": "municipalities/78336.jsonl.gz",
+      "records": 1125,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 22340
+    },
+    {
+      "id": "78352",
+      "name": "SALTO DO ITARARÉ",
+      "uf": "PR",
+      "file": "municipalities/78352.jsonl.gz",
+      "records": 1607,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 28051
+    },
+    {
+      "id": "78379",
+      "name": "SALTO DO LONTRA",
+      "uf": "PR",
+      "file": "municipalities/78379.jsonl.gz",
+      "records": 3675,
+      "sections_by_turn": {
+        "1": 37
+      },
+      "file_size_bytes": 66995
+    },
+    {
+      "id": "78395",
+      "name": "SANTA AMÉLIA",
+      "uf": "PR",
+      "file": "municipalities/78395.jsonl.gz",
+      "records": 929,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 19220
+    },
+    {
+      "id": "78417",
+      "name": "SANTA CECÍLIA DO PAVÃO",
+      "uf": "PR",
+      "file": "municipalities/78417.jsonl.gz",
+      "records": 930,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 18899
+    },
+    {
+      "id": "78433",
+      "name": "SANTA CRUZ DE MONTE CASTELO",
+      "uf": "PR",
+      "file": "municipalities/78433.jsonl.gz",
+      "records": 1820,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 32441
+    },
+    {
+      "id": "78450",
+      "name": "SANTA FÉ",
+      "uf": "PR",
+      "file": "municipalities/78450.jsonl.gz",
+      "records": 3046,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 52589
+    },
+    {
+      "id": "79715",
+      "name": "SANTA HELENA",
+      "uf": "PR",
+      "file": "municipalities/79715.jsonl.gz",
+      "records": 7378,
+      "sections_by_turn": {
+        "1": 75
+      },
+      "file_size_bytes": 170706
+    },
+    {
+      "id": "78476",
+      "name": "SANTA INÊS",
+      "uf": "PR",
+      "file": "municipalities/78476.jsonl.gz",
+      "records": 571,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 10342
+    },
+    {
+      "id": "78492",
+      "name": "SANTA ISABEL DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/78492.jsonl.gz",
+      "records": 2336,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 40250
+    },
+    {
+      "id": "78514",
+      "name": "SANTA IZABEL DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/78514.jsonl.gz",
+      "records": 2894,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 66679
+    },
+    {
+      "id": "74764",
+      "name": "SANTA LÚCIA",
+      "uf": "PR",
+      "file": "municipalities/74764.jsonl.gz",
+      "records": 809,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 14714
+    },
+    {
+      "id": "74802",
+      "name": "SANTA MARIA DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/74802.jsonl.gz",
+      "records": 2825,
+      "sections_by_turn": {
+        "1": 31
+      },
+      "file_size_bytes": 62885
+    },
+    {
+      "id": "78530",
+      "name": "SANTA MARIANA",
+      "uf": "PR",
+      "file": "municipalities/78530.jsonl.gz",
+      "records": 3461,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 63822
+    },
+    {
+      "id": "74829",
+      "name": "SANTA MÔNICA",
+      "uf": "PR",
+      "file": "municipalities/74829.jsonl.gz",
+      "records": 781,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 14610
+    },
+    {
+      "id": "74080",
+      "name": "SANTA TEREZA DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/74080.jsonl.gz",
+      "records": 3706,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 70109
+    },
+    {
+      "id": "84670",
+      "name": "SANTA TEREZINHA DE ITAIPU",
+      "uf": "PR",
+      "file": "municipalities/84670.jsonl.gz",
+      "records": 7276,
+      "sections_by_turn": {
+        "1": 56
+      },
+      "file_size_bytes": 144196
+    },
+    {
+      "id": "78557",
+      "name": "SANTANA DO ITARARÉ",
+      "uf": "PR",
+      "file": "municipalities/78557.jsonl.gz",
+      "records": 1588,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 30223
+    },
+    {
+      "id": "78590",
+      "name": "SANTO ANTÔNIO DA PLATINA",
+      "uf": "PR",
+      "file": "municipalities/78590.jsonl.gz",
+      "records": 11385,
+      "sections_by_turn": {
+        "1": 107
+      },
+      "file_size_bytes": 251101
+    },
+    {
+      "id": "78611",
+      "name": "SANTO ANTÔNIO DO CAIUÁ",
+      "uf": "PR",
+      "file": "municipalities/78611.jsonl.gz",
+      "records": 598,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 10524
+    },
+    {
+      "id": "78638",
+      "name": "SANTO ANTÔNIO DO PARAÍSO",
+      "uf": "PR",
+      "file": "municipalities/78638.jsonl.gz",
+      "records": 842,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 14969
+    },
+    {
+      "id": "78573",
+      "name": "SANTO ANTÔNIO DO SUDOESTE",
+      "uf": "PR",
+      "file": "municipalities/78573.jsonl.gz",
+      "records": 4678,
+      "sections_by_turn": {
+        "1": 53
+      },
+      "file_size_bytes": 104904
+    },
+    {
+      "id": "78654",
+      "name": "SANTO INÁCIO",
+      "uf": "PR",
+      "file": "municipalities/78654.jsonl.gz",
+      "records": 1500,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 27758
+    },
+    {
+      "id": "78999",
+      "name": "SAPOPEMA",
+      "uf": "PR",
+      "file": "municipalities/78999.jsonl.gz",
+      "records": 1555,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 30008
+    },
+    {
+      "id": "84611",
+      "name": "SARANDI",
+      "uf": "PR",
+      "file": "municipalities/84611.jsonl.gz",
+      "records": 26725,
+      "sections_by_turn": {
+        "1": 218
+      },
+      "file_size_bytes": 639199
+    },
+    {
+      "id": "75060",
+      "name": "SAUDADE DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/75060.jsonl.gz",
+      "records": 1839,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 34142
+    },
+    {
+      "id": "79014",
+      "name": "SENGÉS",
+      "uf": "PR",
+      "file": "municipalities/79014.jsonl.gz",
+      "records": 4711,
+      "sections_by_turn": {
+        "1": 50
+      },
+      "file_size_bytes": 94661
+    },
+    {
+      "id": "75647",
+      "name": "SERRANÓPOLIS DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/75647.jsonl.gz",
+      "records": 1693,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 29338
+    },
+    {
+      "id": "79030",
+      "name": "SERTANEJA",
+      "uf": "PR",
+      "file": "municipalities/79030.jsonl.gz",
+      "records": 1397,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 28567
+    },
+    {
+      "id": "79057",
+      "name": "SERTANÓPOLIS",
+      "uf": "PR",
+      "file": "municipalities/79057.jsonl.gz",
+      "records": 4619,
+      "sections_by_turn": {
+        "1": 40
+      },
+      "file_size_bytes": 86313
+    },
+    {
+      "id": "79073",
+      "name": "SIQUEIRA CAMPOS",
+      "uf": "PR",
+      "file": "municipalities/79073.jsonl.gz",
+      "records": 5932,
+      "sections_by_turn": {
+        "1": 50
+      },
+      "file_size_bytes": 108004
+    },
+    {
+      "id": "75787",
+      "name": "SULINA",
+      "uf": "PR",
+      "file": "municipalities/75787.jsonl.gz",
+      "records": 885,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 16142
+    },
+    {
+      "id": "78670",
+      "name": "SÃO CARLOS DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/78670.jsonl.gz",
+      "records": 1582,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 30644
+    },
+    {
+      "id": "78697",
+      "name": "SÃO JERÔNIMO DA SERRA",
+      "uf": "PR",
+      "file": "municipalities/78697.jsonl.gz",
+      "records": 2766,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 56059
+    },
+    {
+      "id": "78816",
+      "name": "SÃO JORGE D OESTE",
+      "uf": "PR",
+      "file": "municipalities/78816.jsonl.gz",
+      "records": 2926,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 62580
+    },
+    {
+      "id": "78794",
+      "name": "SÃO JORGE DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/78794.jsonl.gz",
+      "records": 1736,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 29872
+    },
+    {
+      "id": "79995",
+      "name": "SÃO JORGE DO PATROCÍNIO",
+      "uf": "PR",
+      "file": "municipalities/79995.jsonl.gz",
+      "records": 1534,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 28293
+    },
+    {
+      "id": "78832",
+      "name": "SÃO JOSÉ DA BOA VISTA",
+      "uf": "PR",
+      "file": "municipalities/78832.jsonl.gz",
+      "records": 1634,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 30594
+    },
+    {
+      "id": "84719",
+      "name": "SÃO JOSÉ DAS PALMEIRAS",
+      "uf": "PR",
+      "file": "municipalities/84719.jsonl.gz",
+      "records": 1222,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 22177
+    },
+    {
+      "id": "78859",
+      "name": "SÃO JOSÉ DOS PINHAIS",
+      "uf": "PR",
+      "file": "municipalities/78859.jsonl.gz",
+      "records": 98504,
+      "sections_by_turn": {
+        "1": 641
+      },
+      "file_size_bytes": 3209514
+    },
+    {
+      "id": "78719",
+      "name": "SÃO JOÃO",
+      "uf": "PR",
+      "file": "municipalities/78719.jsonl.gz",
+      "records": 3681,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 73362
+    },
+    {
+      "id": "78735",
+      "name": "SÃO JOÃO DO CAIUÁ",
+      "uf": "PR",
+      "file": "municipalities/78735.jsonl.gz",
+      "records": 1495,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 29416
+    },
+    {
+      "id": "78751",
+      "name": "SÃO JOÃO DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/78751.jsonl.gz",
+      "records": 2934,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 54309
+    },
+    {
+      "id": "78778",
+      "name": "SÃO JOÃO DO TRIUNFO",
+      "uf": "PR",
+      "file": "municipalities/78778.jsonl.gz",
+      "records": 3749,
+      "sections_by_turn": {
+        "1": 46
+      },
+      "file_size_bytes": 84094
+    },
+    {
+      "id": "74845",
+      "name": "SÃO MANOEL DO PARANÁ",
+      "uf": "PR",
+      "file": "municipalities/74845.jsonl.gz",
+      "records": 617,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 9917
+    },
+    {
+      "id": "78875",
+      "name": "SÃO MATEUS DO SUL",
+      "uf": "PR",
+      "file": "municipalities/78875.jsonl.gz",
+      "records": 12339,
+      "sections_by_turn": {
+        "1": 115
+      },
+      "file_size_bytes": 301896
+    },
+    {
+      "id": "78891",
+      "name": "SÃO MIGUEL DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/78891.jsonl.gz",
+      "records": 9681,
+      "sections_by_turn": {
+        "1": 79
+      },
+      "file_size_bytes": 195055
+    },
+    {
+      "id": "74861",
+      "name": "SÃO PEDRO DO IGUAÇU",
+      "uf": "PR",
+      "file": "municipalities/74861.jsonl.gz",
+      "records": 1936,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 38163
+    },
+    {
+      "id": "78913",
+      "name": "SÃO PEDRO DO IVAÍ",
+      "uf": "PR",
+      "file": "municipalities/78913.jsonl.gz",
+      "records": 2495,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 46773
+    },
+    {
+      "id": "78930",
+      "name": "SÃO PEDRO DO PARANÁ",
+      "uf": "PR",
+      "file": "municipalities/78930.jsonl.gz",
+      "records": 889,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 17111
+    },
+    {
+      "id": "78956",
+      "name": "SÃO SEBASTIÃO DA AMOREIRA",
+      "uf": "PR",
+      "file": "municipalities/78956.jsonl.gz",
+      "records": 2434,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 46043
+    },
+    {
+      "id": "78972",
+      "name": "SÃO TOMÉ",
+      "uf": "PR",
+      "file": "municipalities/78972.jsonl.gz",
+      "records": 1605,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 30149
+    },
+    {
+      "id": "75663",
+      "name": "TAMARANA",
+      "uf": "PR",
+      "file": "municipalities/75663.jsonl.gz",
+      "records": 2913,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 57271
+    },
+    {
+      "id": "79090",
+      "name": "TAMBOARA",
+      "uf": "PR",
+      "file": "municipalities/79090.jsonl.gz",
+      "records": 1369,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 28351
+    },
+    {
+      "id": "79111",
+      "name": "TAPEJARA",
+      "uf": "PR",
+      "file": "municipalities/79111.jsonl.gz",
+      "records": 3910,
+      "sections_by_turn": {
+        "1": 36
+      },
+      "file_size_bytes": 73052
+    },
+    {
+      "id": "79731",
+      "name": "TAPIRA",
+      "uf": "PR",
+      "file": "municipalities/79731.jsonl.gz",
+      "records": 1546,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 28695
+    },
+    {
+      "id": "79138",
+      "name": "TEIXEIRA SOARES",
+      "uf": "PR",
+      "file": "municipalities/79138.jsonl.gz",
+      "records": 2824,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 60687
+    },
+    {
+      "id": "79154",
+      "name": "TELÊMACO BORBA",
+      "uf": "PR",
+      "file": "municipalities/79154.jsonl.gz",
+      "records": 20611,
+      "sections_by_turn": {
+        "1": 165
+      },
+      "file_size_bytes": 513642
+    },
+    {
+      "id": "79170",
+      "name": "TERRA BOA",
+      "uf": "PR",
+      "file": "municipalities/79170.jsonl.gz",
+      "records": 4173,
+      "sections_by_turn": {
+        "1": 41
+      },
+      "file_size_bytes": 80324
+    },
+    {
+      "id": "79197",
+      "name": "TERRA RICA",
+      "uf": "PR",
+      "file": "municipalities/79197.jsonl.gz",
+      "records": 4165,
+      "sections_by_turn": {
+        "1": 41
+      },
+      "file_size_bytes": 76866
+    },
+    {
+      "id": "79219",
+      "name": "TERRA ROXA",
+      "uf": "PR",
+      "file": "municipalities/79219.jsonl.gz",
+      "records": 5522,
+      "sections_by_turn": {
+        "1": 47
+      },
+      "file_size_bytes": 121715
+    },
+    {
+      "id": "79235",
+      "name": "TIBAGI",
+      "uf": "PR",
+      "file": "municipalities/79235.jsonl.gz",
+      "records": 5499,
+      "sections_by_turn": {
+        "1": 50
+      },
+      "file_size_bytes": 110618
+    },
+    {
+      "id": "79251",
+      "name": "TIJUCAS DO SUL",
+      "uf": "PR",
+      "file": "municipalities/79251.jsonl.gz",
+      "records": 4771,
+      "sections_by_turn": {
+        "1": 40
+      },
+      "file_size_bytes": 97329
+    },
+    {
+      "id": "79278",
+      "name": "TOLEDO",
+      "uf": "PR",
+      "file": "municipalities/79278.jsonl.gz",
+      "records": 36247,
+      "sections_by_turn": {
+        "1": 355
+      },
+      "file_size_bytes": 982960
+    },
+    {
+      "id": "79294",
+      "name": "TOMAZINA",
+      "uf": "PR",
+      "file": "municipalities/79294.jsonl.gz",
+      "records": 2100,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 43051
+    },
+    {
+      "id": "79871",
+      "name": "TRÊS BARRAS DO PARANÁ",
+      "uf": "PR",
+      "file": "municipalities/79871.jsonl.gz",
+      "records": 3461,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 58963
+    },
+    {
+      "id": "74888",
+      "name": "TUNAS DO PARANÁ",
+      "uf": "PR",
+      "file": "municipalities/74888.jsonl.gz",
+      "records": 1642,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 30745
+    },
+    {
+      "id": "79316",
+      "name": "TUNEIRAS DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/79316.jsonl.gz",
+      "records": 2085,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 40171
+    },
+    {
+      "id": "79936",
+      "name": "TUPÃSSI",
+      "uf": "PR",
+      "file": "municipalities/79936.jsonl.gz",
+      "records": 2244,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 48154
+    },
+    {
+      "id": "84530",
+      "name": "TURVO",
+      "uf": "PR",
+      "file": "municipalities/84530.jsonl.gz",
+      "records": 3982,
+      "sections_by_turn": {
+        "1": 46
+      },
+      "file_size_bytes": 88040
+    },
+    {
+      "id": "79332",
+      "name": "UBIRATÃ",
+      "uf": "PR",
+      "file": "municipalities/79332.jsonl.gz",
+      "records": 5983,
+      "sections_by_turn": {
+        "1": 66
+      },
+      "file_size_bytes": 129816
+    },
+    {
+      "id": "79359",
+      "name": "UMUARAMA",
+      "uf": "PR",
+      "file": "municipalities/79359.jsonl.gz",
+      "records": 27625,
+      "sections_by_turn": {
+        "1": 256
+      },
+      "file_size_bytes": 727328
+    },
+    {
+      "id": "79391",
+      "name": "UNIFLOR",
+      "uf": "PR",
+      "file": "municipalities/79391.jsonl.gz",
+      "records": 811,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 14809
+    },
+    {
+      "id": "79375",
+      "name": "UNIÃO DA VITÓRIA",
+      "uf": "PR",
+      "file": "municipalities/79375.jsonl.gz",
+      "records": 13844,
+      "sections_by_turn": {
+        "1": 139
+      },
+      "file_size_bytes": 308293
+    },
+    {
+      "id": "79413",
+      "name": "URAÍ",
+      "uf": "PR",
+      "file": "municipalities/79413.jsonl.gz",
+      "records": 3513,
+      "sections_by_turn": {
+        "1": 32
+      },
+      "file_size_bytes": 65892
+    },
+    {
+      "id": "74900",
+      "name": "VENTANIA",
+      "uf": "PR",
+      "file": "municipalities/74900.jsonl.gz",
+      "records": 2373,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 42577
+    },
+    {
+      "id": "79898",
+      "name": "VERA CRUZ DO OESTE",
+      "uf": "PR",
+      "file": "municipalities/79898.jsonl.gz",
+      "records": 2544,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 44529
+    },
+    {
+      "id": "79456",
+      "name": "VERÊ",
+      "uf": "PR",
+      "file": "municipalities/79456.jsonl.gz",
+      "records": 2494,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 49006
+    },
+    {
+      "id": "74969",
+      "name": "VIRMOND",
+      "uf": "PR",
+      "file": "municipalities/74969.jsonl.gz",
+      "records": 1146,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 24660
+    },
+    {
+      "id": "79472",
+      "name": "VITORINO",
+      "uf": "PR",
+      "file": "municipalities/79472.jsonl.gz",
+      "records": 1982,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 36563
+    },
+    {
+      "id": "79430",
+      "name": "WENCESLAU BRAZ",
+      "uf": "PR",
+      "file": "municipalities/79430.jsonl.gz",
+      "records": 5503,
+      "sections_by_turn": {
+        "1": 48
+      },
+      "file_size_bytes": 102707
+    },
+    {
+      "id": "79499",
+      "name": "XAMBRÊ",
+      "uf": "PR",
+      "file": "municipalities/79499.jsonl.gz",
+      "records": 1803,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 36159
+    },
+    {
+      "id": "74128",
+      "name": "ÂNGULO",
+      "uf": "PR",
+      "file": "municipalities/74128.jsonl.gz",
+      "records": 891,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 15770
+    }
+  ]
+}

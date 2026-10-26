@@ -1,0 +1,3262 @@
+{
+  "dataset": "Resultados eleitorais 2026 — votação por seção",
+  "uf": "SC",
+  "state": "Santa Catarina",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_SC.zip",
+  "municipality_count": 295,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1"
+  ],
+  "data_status": "pending_tse_update",
+  "municipalities": [
+    {
+      "id": "80225",
+      "name": "ABDON BATISTA",
+      "uf": "SC",
+      "file": "municipalities/80225.jsonl.gz",
+      "records": 799,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 15960
+    },
+    {
+      "id": "80012",
+      "name": "ABELARDO LUZ",
+      "uf": "SC",
+      "file": "municipalities/80012.jsonl.gz",
+      "records": 4543,
+      "sections_by_turn": {
+        "1": 45
+      },
+      "file_size_bytes": 85099
+    },
+    {
+      "id": "80039",
+      "name": "AGROLÂNDIA",
+      "uf": "SC",
+      "file": "municipalities/80039.jsonl.gz",
+      "records": 2522,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 43271
+    },
+    {
+      "id": "80055",
+      "name": "AGRONÔMICA",
+      "uf": "SC",
+      "file": "municipalities/80055.jsonl.gz",
+      "records": 1413,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 30594
+    },
+    {
+      "id": "80136",
+      "name": "ALFREDO WAGNER",
+      "uf": "SC",
+      "file": "municipalities/80136.jsonl.gz",
+      "records": 2551,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 50989
+    },
+    {
+      "id": "81302",
+      "name": "ALTO BELA VISTA",
+      "uf": "SC",
+      "file": "municipalities/81302.jsonl.gz",
+      "records": 573,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 11116
+    },
+    {
+      "id": "80152",
+      "name": "ANCHIETA",
+      "uf": "SC",
+      "file": "municipalities/80152.jsonl.gz",
+      "records": 1582,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 29292
+    },
+    {
+      "id": "80179",
+      "name": "ANGELINA",
+      "uf": "SC",
+      "file": "municipalities/80179.jsonl.gz",
+      "records": 1501,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 28614
+    },
+    {
+      "id": "80195",
+      "name": "ANITA GARIBALDI",
+      "uf": "SC",
+      "file": "municipalities/80195.jsonl.gz",
+      "records": 2342,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 46298
+    },
+    {
+      "id": "80217",
+      "name": "ANITÁPOLIS",
+      "uf": "SC",
+      "file": "municipalities/80217.jsonl.gz",
+      "records": 1246,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 23460
+    },
+    {
+      "id": "80233",
+      "name": "ANTÔNIO CARLOS",
+      "uf": "SC",
+      "file": "municipalities/80233.jsonl.gz",
+      "records": 3236,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 57510
+    },
+    {
+      "id": "80063",
+      "name": "APIÚNA",
+      "uf": "SC",
+      "file": "municipalities/80063.jsonl.gz",
+      "records": 2837,
+      "sections_by_turn": {
+        "1": 34
+      },
+      "file_size_bytes": 54436
+    },
+    {
+      "id": "80489",
+      "name": "ARABUTÃ",
+      "uf": "SC",
+      "file": "municipalities/80489.jsonl.gz",
+      "records": 1000,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 19156
+    },
+    {
+      "id": "80250",
+      "name": "ARAQUARI",
+      "uf": "SC",
+      "file": "municipalities/80250.jsonl.gz",
+      "records": 10025,
+      "sections_by_turn": {
+        "1": 78
+      },
+      "file_size_bytes": 210886
+    },
+    {
+      "id": "80276",
+      "name": "ARARANGUÁ",
+      "uf": "SC",
+      "file": "municipalities/80276.jsonl.gz",
+      "records": 17594,
+      "sections_by_turn": {
+        "1": 159
+      },
+      "file_size_bytes": 378666
+    },
+    {
+      "id": "80292",
+      "name": "ARMAZÉM",
+      "uf": "SC",
+      "file": "municipalities/80292.jsonl.gz",
+      "records": 2125,
+      "sections_by_turn": {
+        "1": 23
+      },
+      "file_size_bytes": 35211
+    },
+    {
+      "id": "80314",
+      "name": "ARROIO TRINTA",
+      "uf": "SC",
+      "file": "municipalities/80314.jsonl.gz",
+      "records": 1159,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 19342
+    },
+    {
+      "id": "80802",
+      "name": "ARVOREDO",
+      "uf": "SC",
+      "file": "municipalities/80802.jsonl.gz",
+      "records": 799,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 15808
+    },
+    {
+      "id": "80330",
+      "name": "ASCURRA",
+      "uf": "SC",
+      "file": "municipalities/80330.jsonl.gz",
+      "records": 2471,
+      "sections_by_turn": {
+        "1": 23
+      },
+      "file_size_bytes": 54979
+    },
+    {
+      "id": "80357",
+      "name": "ATALANTA",
+      "uf": "SC",
+      "file": "municipalities/80357.jsonl.gz",
+      "records": 968,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 16560
+    },
+    {
+      "id": "80373",
+      "name": "AURORA",
+      "uf": "SC",
+      "file": "municipalities/80373.jsonl.gz",
+      "records": 1694,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 36336
+    },
+    {
+      "id": "81728",
+      "name": "BALNEÁRIO ARROIO DO SILVA",
+      "uf": "SC",
+      "file": "municipalities/81728.jsonl.gz",
+      "records": 3808,
+      "sections_by_turn": {
+        "1": 37
+      },
+      "file_size_bytes": 66786
+    },
+    {
+      "id": "80683",
+      "name": "BALNEÁRIO BARRA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80683.jsonl.gz",
+      "records": 4300,
+      "sections_by_turn": {
+        "1": 32
+      },
+      "file_size_bytes": 83485
+    },
+    {
+      "id": "80390",
+      "name": "BALNEÁRIO CAMBORIÚ",
+      "uf": "SC",
+      "file": "municipalities/80390.jsonl.gz",
+      "records": 41129,
+      "sections_by_turn": {
+        "1": 318
+      },
+      "file_size_bytes": 964103
+    },
+    {
+      "id": "81744",
+      "name": "BALNEÁRIO GAIVOTA",
+      "uf": "SC",
+      "file": "municipalities/81744.jsonl.gz",
+      "records": 4002,
+      "sections_by_turn": {
+        "1": 37
+      },
+      "file_size_bytes": 74933
+    },
+    {
+      "id": "82511",
+      "name": "BALNEÁRIO PIÇARRAS",
+      "uf": "SC",
+      "file": "municipalities/82511.jsonl.gz",
+      "records": 10053,
+      "sections_by_turn": {
+        "1": 69
+      },
+      "file_size_bytes": 212913
+    },
+    {
+      "id": "83909",
+      "name": "BALNEÁRIO RINCÃO",
+      "uf": "SC",
+      "file": "municipalities/83909.jsonl.gz",
+      "records": 4117,
+      "sections_by_turn": {
+        "1": 39
+      },
+      "file_size_bytes": 83586
+    },
+    {
+      "id": "81582",
+      "name": "BANDEIRANTE",
+      "uf": "SC",
+      "file": "municipalities/81582.jsonl.gz",
+      "records": 910,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 16963
+    },
+    {
+      "id": "81760",
+      "name": "BARRA BONITA",
+      "uf": "SC",
+      "file": "municipalities/81760.jsonl.gz",
+      "records": 609,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 10940
+    },
+    {
+      "id": "80411",
+      "name": "BARRA VELHA",
+      "uf": "SC",
+      "file": "municipalities/80411.jsonl.gz",
+      "records": 12848,
+      "sections_by_turn": {
+        "1": 88
+      },
+      "file_size_bytes": 260612
+    },
+    {
+      "id": "81221",
+      "name": "BELA VISTA DO TOLDO",
+      "uf": "SC",
+      "file": "municipalities/81221.jsonl.gz",
+      "records": 1540,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 32230
+    },
+    {
+      "id": "80748",
+      "name": "BELMONTE",
+      "uf": "SC",
+      "file": "municipalities/80748.jsonl.gz",
+      "records": 814,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 14453
+    },
+    {
+      "id": "80438",
+      "name": "BENEDITO NOVO",
+      "uf": "SC",
+      "file": "municipalities/80438.jsonl.gz",
+      "records": 2719,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 48909
+    },
+    {
+      "id": "80454",
+      "name": "BIGUAÇU",
+      "uf": "SC",
+      "file": "municipalities/80454.jsonl.gz",
+      "records": 22540,
+      "sections_by_turn": {
+        "1": 166
+      },
+      "file_size_bytes": 553573
+    },
+    {
+      "id": "80470",
+      "name": "BLUMENAU",
+      "uf": "SC",
+      "file": "municipalities/80470.jsonl.gz",
+      "records": 92216,
+      "sections_by_turn": {
+        "1": 754
+      },
+      "file_size_bytes": 2680526
+    },
+    {
+      "id": "81280",
+      "name": "BOCAINA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/81280.jsonl.gz",
+      "records": 934,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 18298
+    },
+    {
+      "id": "83895",
+      "name": "BOM JARDIM DA SERRA",
+      "uf": "SC",
+      "file": "municipalities/83895.jsonl.gz",
+      "records": 1362,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 24887
+    },
+    {
+      "id": "81388",
+      "name": "BOM JESUS",
+      "uf": "SC",
+      "file": "municipalities/81388.jsonl.gz",
+      "records": 846,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 15994
+    },
+    {
+      "id": "81469",
+      "name": "BOM JESUS DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/81469.jsonl.gz",
+      "records": 684,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 12634
+    },
+    {
+      "id": "80497",
+      "name": "BOM RETIRO",
+      "uf": "SC",
+      "file": "municipalities/80497.jsonl.gz",
+      "records": 2327,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 40337
+    },
+    {
+      "id": "80985",
+      "name": "BOMBINHAS",
+      "uf": "SC",
+      "file": "municipalities/80985.jsonl.gz",
+      "records": 6406,
+      "sections_by_turn": {
+        "1": 54
+      },
+      "file_size_bytes": 115653
+    },
+    {
+      "id": "80519",
+      "name": "BOTUVERÁ",
+      "uf": "SC",
+      "file": "municipalities/80519.jsonl.gz",
+      "records": 1647,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 30384
+    },
+    {
+      "id": "80535",
+      "name": "BRAÇO DO NORTE",
+      "uf": "SC",
+      "file": "municipalities/80535.jsonl.gz",
+      "records": 7466,
+      "sections_by_turn": {
+        "1": 76
+      },
+      "file_size_bytes": 157974
+    },
+    {
+      "id": "80420",
+      "name": "BRAÇO DO TROMBUDO",
+      "uf": "SC",
+      "file": "municipalities/80420.jsonl.gz",
+      "records": 901,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 16717
+    },
+    {
+      "id": "81787",
+      "name": "BRUNÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81787.jsonl.gz",
+      "records": 968,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 18116
+    },
+    {
+      "id": "80551",
+      "name": "BRUSQUE",
+      "uf": "SC",
+      "file": "municipalities/80551.jsonl.gz",
+      "records": 32621,
+      "sections_by_turn": {
+        "1": 283
+      },
+      "file_size_bytes": 877394
+    },
+    {
+      "id": "80594",
+      "name": "CAIBI",
+      "uf": "SC",
+      "file": "municipalities/80594.jsonl.gz",
+      "records": 1618,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 29495
+    },
+    {
+      "id": "80667",
+      "name": "CALMON",
+      "uf": "SC",
+      "file": "municipalities/80667.jsonl.gz",
+      "records": 1006,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 18996
+    },
+    {
+      "id": "80616",
+      "name": "CAMBORIÚ",
+      "uf": "SC",
+      "file": "municipalities/80616.jsonl.gz",
+      "records": 21911,
+      "sections_by_turn": {
+        "1": 167
+      },
+      "file_size_bytes": 478178
+    },
+    {
+      "id": "80632",
+      "name": "CAMPO ALEGRE",
+      "uf": "SC",
+      "file": "municipalities/80632.jsonl.gz",
+      "records": 2932,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 57058
+    },
+    {
+      "id": "80659",
+      "name": "CAMPO BELO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80659.jsonl.gz",
+      "records": 1982,
+      "sections_by_turn": {
+        "1": 23
+      },
+      "file_size_bytes": 38367
+    },
+    {
+      "id": "80675",
+      "name": "CAMPO ERÊ",
+      "uf": "SC",
+      "file": "municipalities/80675.jsonl.gz",
+      "records": 2684,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 49145
+    },
+    {
+      "id": "80691",
+      "name": "CAMPOS NOVOS",
+      "uf": "SC",
+      "file": "municipalities/80691.jsonl.gz",
+      "records": 9625,
+      "sections_by_turn": {
+        "1": 90
+      },
+      "file_size_bytes": 216895
+    },
+    {
+      "id": "80713",
+      "name": "CANELINHA",
+      "uf": "SC",
+      "file": "municipalities/80713.jsonl.gz",
+      "records": 3555,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 67294
+    },
+    {
+      "id": "80730",
+      "name": "CANOINHAS",
+      "uf": "SC",
+      "file": "municipalities/80730.jsonl.gz",
+      "records": 13709,
+      "sections_by_turn": {
+        "1": 132
+      },
+      "file_size_bytes": 276035
+    },
+    {
+      "id": "80756",
+      "name": "CAPINZAL",
+      "uf": "SC",
+      "file": "municipalities/80756.jsonl.gz",
+      "records": 6358,
+      "sections_by_turn": {
+        "1": 57
+      },
+      "file_size_bytes": 128855
+    },
+    {
+      "id": "81027",
+      "name": "CAPIVARI DE BAIXO",
+      "uf": "SC",
+      "file": "municipalities/81027.jsonl.gz",
+      "records": 6847,
+      "sections_by_turn": {
+        "1": 59
+      },
+      "file_size_bytes": 128310
+    },
+    {
+      "id": "81248",
+      "name": "CAPÃO ALTO",
+      "uf": "SC",
+      "file": "municipalities/81248.jsonl.gz",
+      "records": 1014,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 20439
+    },
+    {
+      "id": "80772",
+      "name": "CATANDUVAS",
+      "uf": "SC",
+      "file": "municipalities/80772.jsonl.gz",
+      "records": 2897,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 52395
+    },
+    {
+      "id": "80799",
+      "name": "CAXAMBU DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80799.jsonl.gz",
+      "records": 1551,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 25110
+    },
+    {
+      "id": "80578",
+      "name": "CAÇADOR",
+      "uf": "SC",
+      "file": "municipalities/80578.jsonl.gz",
+      "records": 17152,
+      "sections_by_turn": {
+        "1": 175
+      },
+      "file_size_bytes": 384857
+    },
+    {
+      "id": "80268",
+      "name": "CELSO RAMOS",
+      "uf": "SC",
+      "file": "municipalities/80268.jsonl.gz",
+      "records": 860,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 15137
+    },
+    {
+      "id": "80381",
+      "name": "CERRO NEGRO",
+      "uf": "SC",
+      "file": "municipalities/80381.jsonl.gz",
+      "records": 920,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 17946
+    },
+    {
+      "id": "81701",
+      "name": "CHAPADÃO DO LAGEADO",
+      "uf": "SC",
+      "file": "municipalities/81701.jsonl.gz",
+      "records": 753,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 14606
+    },
+    {
+      "id": "80810",
+      "name": "CHAPECÓ",
+      "uf": "SC",
+      "file": "municipalities/80810.jsonl.gz",
+      "records": 53964,
+      "sections_by_turn": {
+        "1": 458
+      },
+      "file_size_bytes": 1383339
+    },
+    {
+      "id": "80306",
+      "name": "COCAL DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80306.jsonl.gz",
+      "records": 4760,
+      "sections_by_turn": {
+        "1": 47
+      },
+      "file_size_bytes": 86858
+    },
+    {
+      "id": "80837",
+      "name": "CONCÓRDIA",
+      "uf": "SC",
+      "file": "municipalities/80837.jsonl.gz",
+      "records": 16860,
+      "sections_by_turn": {
+        "1": 193
+      },
+      "file_size_bytes": 420590
+    },
+    {
+      "id": "81043",
+      "name": "CORDILHEIRA ALTA",
+      "uf": "SC",
+      "file": "municipalities/81043.jsonl.gz",
+      "records": 1269,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 20711
+    },
+    {
+      "id": "80853",
+      "name": "CORONEL FREITAS",
+      "uf": "SC",
+      "file": "municipalities/80853.jsonl.gz",
+      "records": 2475,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 44258
+    },
+    {
+      "id": "81108",
+      "name": "CORONEL MARTINS",
+      "uf": "SC",
+      "file": "municipalities/81108.jsonl.gz",
+      "records": 623,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 10670
+    },
+    {
+      "id": "83950",
+      "name": "CORREIA PINTO",
+      "uf": "SC",
+      "file": "municipalities/83950.jsonl.gz",
+      "records": 4483,
+      "sections_by_turn": {
+        "1": 44
+      },
+      "file_size_bytes": 87910
+    },
+    {
+      "id": "80870",
+      "name": "CORUPÁ",
+      "uf": "SC",
+      "file": "municipalities/80870.jsonl.gz",
+      "records": 4126,
+      "sections_by_turn": {
+        "1": 39
+      },
+      "file_size_bytes": 74833
+    },
+    {
+      "id": "80896",
+      "name": "CRICIÚMA",
+      "uf": "SC",
+      "file": "municipalities/80896.jsonl.gz",
+      "records": 47413,
+      "sections_by_turn": {
+        "1": 446
+      },
+      "file_size_bytes": 1340222
+    },
+    {
+      "id": "80918",
+      "name": "CUNHA PORÃ",
+      "uf": "SC",
+      "file": "municipalities/80918.jsonl.gz",
+      "records": 2574,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 51931
+    },
+    {
+      "id": "81620",
+      "name": "CUNHATAÍ",
+      "uf": "SC",
+      "file": "municipalities/81620.jsonl.gz",
+      "records": 465,
+      "sections_by_turn": {
+        "1": 5
+      },
+      "file_size_bytes": 9783
+    },
+    {
+      "id": "80934",
+      "name": "CURITIBANOS",
+      "uf": "SC",
+      "file": "municipalities/80934.jsonl.gz",
+      "records": 11810,
+      "sections_by_turn": {
+        "1": 104
+      },
+      "file_size_bytes": 233769
+    },
+    {
+      "id": "80950",
+      "name": "DESCANSO",
+      "uf": "SC",
+      "file": "municipalities/80950.jsonl.gz",
+      "records": 2203,
+      "sections_by_turn": {
+        "1": 23
+      },
+      "file_size_bytes": 42673
+    },
+    {
+      "id": "80977",
+      "name": "DIONÍSIO CERQUEIRA",
+      "uf": "SC",
+      "file": "municipalities/80977.jsonl.gz",
+      "records": 3823,
+      "sections_by_turn": {
+        "1": 42
+      },
+      "file_size_bytes": 75108
+    },
+    {
+      "id": "80993",
+      "name": "DONA EMMA",
+      "uf": "SC",
+      "file": "municipalities/80993.jsonl.gz",
+      "records": 979,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 17933
+    },
+    {
+      "id": "80080",
+      "name": "DOUTOR PEDRINHO",
+      "uf": "SC",
+      "file": "municipalities/80080.jsonl.gz",
+      "records": 980,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 19803
+    },
+    {
+      "id": "81426",
+      "name": "ENTRE RIOS",
+      "uf": "SC",
+      "file": "municipalities/81426.jsonl.gz",
+      "records": 823,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 13810
+    },
+    {
+      "id": "81167",
+      "name": "ERMO",
+      "uf": "SC",
+      "file": "municipalities/81167.jsonl.gz",
+      "records": 763,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 13556
+    },
+    {
+      "id": "81019",
+      "name": "ERVAL VELHO",
+      "uf": "SC",
+      "file": "municipalities/81019.jsonl.gz",
+      "records": 1398,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 24808
+    },
+    {
+      "id": "81035",
+      "name": "FAXINAL DOS GUEDES",
+      "uf": "SC",
+      "file": "municipalities/81035.jsonl.gz",
+      "records": 2878,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 50457
+    },
+    {
+      "id": "81604",
+      "name": "FLOR DO SERTÃO",
+      "uf": "SC",
+      "file": "municipalities/81604.jsonl.gz",
+      "records": 549,
+      "sections_by_turn": {
+        "1": 6
+      },
+      "file_size_bytes": 10827
+    },
+    {
+      "id": "81051",
+      "name": "FLORIANÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81051.jsonl.gz",
+      "records": 169650,
+      "sections_by_turn": {
+        "1": 1207
+      },
+      "file_size_bytes": 6186712
+    },
+    {
+      "id": "80888",
+      "name": "FORMOSA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80888.jsonl.gz",
+      "records": 682,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 12212
+    },
+    {
+      "id": "81060",
+      "name": "FORQUILHINHA",
+      "uf": "SC",
+      "file": "municipalities/81060.jsonl.gz",
+      "records": 6213,
+      "sections_by_turn": {
+        "1": 67
+      },
+      "file_size_bytes": 114693
+    },
+    {
+      "id": "81078",
+      "name": "FRAIBURGO",
+      "uf": "SC",
+      "file": "municipalities/81078.jsonl.gz",
+      "records": 10934,
+      "sections_by_turn": {
+        "1": 93
+      },
+      "file_size_bytes": 226949
+    },
+    {
+      "id": "81329",
+      "name": "FREI ROGÉRIO",
+      "uf": "SC",
+      "file": "municipalities/81329.jsonl.gz",
+      "records": 918,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 17365
+    },
+    {
+      "id": "81094",
+      "name": "GALVÃO",
+      "uf": "SC",
+      "file": "municipalities/81094.jsonl.gz",
+      "records": 1099,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 18456
+    },
+    {
+      "id": "81132",
+      "name": "GAROPABA",
+      "uf": "SC",
+      "file": "municipalities/81132.jsonl.gz",
+      "records": 8918,
+      "sections_by_turn": {
+        "1": 72
+      },
+      "file_size_bytes": 181584
+    },
+    {
+      "id": "81159",
+      "name": "GARUVA",
+      "uf": "SC",
+      "file": "municipalities/81159.jsonl.gz",
+      "records": 4328,
+      "sections_by_turn": {
+        "1": 38
+      },
+      "file_size_bytes": 85834
+    },
+    {
+      "id": "81175",
+      "name": "GASPAR",
+      "uf": "SC",
+      "file": "municipalities/81175.jsonl.gz",
+      "records": 18656,
+      "sections_by_turn": {
+        "1": 148
+      },
+      "file_size_bytes": 386027
+    },
+    {
+      "id": "81116",
+      "name": "GOVERNADOR CELSO RAMOS",
+      "uf": "SC",
+      "file": "municipalities/81116.jsonl.gz",
+      "records": 6171,
+      "sections_by_turn": {
+        "1": 50
+      },
+      "file_size_bytes": 118043
+    },
+    {
+      "id": "81213",
+      "name": "GRAVATAL",
+      "uf": "SC",
+      "file": "municipalities/81213.jsonl.gz",
+      "records": 3194,
+      "sections_by_turn": {
+        "1": 31
+      },
+      "file_size_bytes": 54321
+    },
+    {
+      "id": "81191",
+      "name": "GRÃO-PARÁ",
+      "uf": "SC",
+      "file": "municipalities/81191.jsonl.gz",
+      "records": 1886,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 39588
+    },
+    {
+      "id": "81230",
+      "name": "GUABIRUBA",
+      "uf": "SC",
+      "file": "municipalities/81230.jsonl.gz",
+      "records": 5425,
+      "sections_by_turn": {
+        "1": 48
+      },
+      "file_size_bytes": 104373
+    },
+    {
+      "id": "81256",
+      "name": "GUARACIABA",
+      "uf": "SC",
+      "file": "municipalities/81256.jsonl.gz",
+      "records": 2983,
+      "sections_by_turn": {
+        "1": 31
+      },
+      "file_size_bytes": 53706
+    },
+    {
+      "id": "81272",
+      "name": "GUARAMIRIM",
+      "uf": "SC",
+      "file": "municipalities/81272.jsonl.gz",
+      "records": 11602,
+      "sections_by_turn": {
+        "1": 98
+      },
+      "file_size_bytes": 236472
+    },
+    {
+      "id": "81299",
+      "name": "GUARUJÁ DO SUL",
+      "uf": "SC",
+      "file": "municipalities/81299.jsonl.gz",
+      "records": 1374,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 23441
+    },
+    {
+      "id": "80527",
+      "name": "GUATAMBÚ",
+      "uf": "SC",
+      "file": "municipalities/80527.jsonl.gz",
+      "records": 2111,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 37351
+    },
+    {
+      "id": "81310",
+      "name": "HERVAL D OESTE",
+      "uf": "SC",
+      "file": "municipalities/81310.jsonl.gz",
+      "records": 6769,
+      "sections_by_turn": {
+        "1": 56
+      },
+      "file_size_bytes": 158142
+    },
+    {
+      "id": "81400",
+      "name": "IBIAM",
+      "uf": "SC",
+      "file": "municipalities/81400.jsonl.gz",
+      "records": 665,
+      "sections_by_turn": {
+        "1": 6
+      },
+      "file_size_bytes": 12084
+    },
+    {
+      "id": "81337",
+      "name": "IBICARÉ",
+      "uf": "SC",
+      "file": "municipalities/81337.jsonl.gz",
+      "records": 1360,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 22288
+    },
+    {
+      "id": "81353",
+      "name": "IBIRAMA",
+      "uf": "SC",
+      "file": "municipalities/81353.jsonl.gz",
+      "records": 5168,
+      "sections_by_turn": {
+        "1": 45
+      },
+      "file_size_bytes": 96139
+    },
+    {
+      "id": "81396",
+      "name": "ILHOTA",
+      "uf": "SC",
+      "file": "municipalities/81396.jsonl.gz",
+      "records": 4588,
+      "sections_by_turn": {
+        "1": 38
+      },
+      "file_size_bytes": 94507
+    },
+    {
+      "id": "81418",
+      "name": "IMARUÍ",
+      "uf": "SC",
+      "file": "municipalities/81418.jsonl.gz",
+      "records": 3586,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 78860
+    },
+    {
+      "id": "81434",
+      "name": "IMBITUBA",
+      "uf": "SC",
+      "file": "municipalities/81434.jsonl.gz",
+      "records": 15978,
+      "sections_by_turn": {
+        "1": 120
+      },
+      "file_size_bytes": 302029
+    },
+    {
+      "id": "81450",
+      "name": "IMBUIA",
+      "uf": "SC",
+      "file": "municipalities/81450.jsonl.gz",
+      "records": 1739,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 29378
+    },
+    {
+      "id": "81477",
+      "name": "INDAIAL",
+      "uf": "SC",
+      "file": "municipalities/81477.jsonl.gz",
+      "records": 17907,
+      "sections_by_turn": {
+        "1": 154
+      },
+      "file_size_bytes": 378554
+    },
+    {
+      "id": "81361",
+      "name": "IOMERÊ",
+      "uf": "SC",
+      "file": "municipalities/81361.jsonl.gz",
+      "records": 993,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 17227
+    },
+    {
+      "id": "81493",
+      "name": "IPIRA",
+      "uf": "SC",
+      "file": "municipalities/81493.jsonl.gz",
+      "records": 1189,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 22198
+    },
+    {
+      "id": "80020",
+      "name": "IPORÃ DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/80020.jsonl.gz",
+      "records": 2439,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 48896
+    },
+    {
+      "id": "80829",
+      "name": "IPUAÇU",
+      "uf": "SC",
+      "file": "municipalities/80829.jsonl.gz",
+      "records": 1665,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 27479
+    },
+    {
+      "id": "81515",
+      "name": "IPUMIRIM",
+      "uf": "SC",
+      "file": "municipalities/81515.jsonl.gz",
+      "records": 1737,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 31456
+    },
+    {
+      "id": "80187",
+      "name": "IRACEMINHA",
+      "uf": "SC",
+      "file": "municipalities/80187.jsonl.gz",
+      "records": 1067,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 18848
+    },
+    {
+      "id": "81531",
+      "name": "IRANI",
+      "uf": "SC",
+      "file": "municipalities/81531.jsonl.gz",
+      "records": 2615,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 43970
+    },
+    {
+      "id": "80861",
+      "name": "IRATI",
+      "uf": "SC",
+      "file": "municipalities/80861.jsonl.gz",
+      "records": 589,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 9775
+    },
+    {
+      "id": "81558",
+      "name": "IRINEÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81558.jsonl.gz",
+      "records": 2441,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 47990
+    },
+    {
+      "id": "81590",
+      "name": "ITAIÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81590.jsonl.gz",
+      "records": 5101,
+      "sections_by_turn": {
+        "1": 54
+      },
+      "file_size_bytes": 104041
+    },
+    {
+      "id": "81612",
+      "name": "ITAJAÍ",
+      "uf": "SC",
+      "file": "municipalities/81612.jsonl.gz",
+      "records": 60861,
+      "sections_by_turn": {
+        "1": 525
+      },
+      "file_size_bytes": 1737206
+    },
+    {
+      "id": "81639",
+      "name": "ITAPEMA",
+      "uf": "SC",
+      "file": "municipalities/81639.jsonl.gz",
+      "records": 20894,
+      "sections_by_turn": {
+        "1": 168
+      },
+      "file_size_bytes": 435679
+    },
+    {
+      "id": "81655",
+      "name": "ITAPIRANGA",
+      "uf": "SC",
+      "file": "municipalities/81655.jsonl.gz",
+      "records": 3659,
+      "sections_by_turn": {
+        "1": 42
+      },
+      "file_size_bytes": 74472
+    },
+    {
+      "id": "81663",
+      "name": "ITAPOÁ",
+      "uf": "SC",
+      "file": "municipalities/81663.jsonl.gz",
+      "records": 8048,
+      "sections_by_turn": {
+        "1": 59
+      },
+      "file_size_bytes": 163026
+    },
+    {
+      "id": "81671",
+      "name": "ITUPORANGA",
+      "uf": "SC",
+      "file": "municipalities/81671.jsonl.gz",
+      "records": 6928,
+      "sections_by_turn": {
+        "1": 67
+      },
+      "file_size_bytes": 150746
+    },
+    {
+      "id": "81574",
+      "name": "ITÁ",
+      "uf": "SC",
+      "file": "municipalities/81574.jsonl.gz",
+      "records": 2105,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 37061
+    },
+    {
+      "id": "81370",
+      "name": "IÇARA",
+      "uf": "SC",
+      "file": "municipalities/81370.jsonl.gz",
+      "records": 13959,
+      "sections_by_turn": {
+        "1": 135
+      },
+      "file_size_bytes": 309028
+    },
+    {
+      "id": "81698",
+      "name": "JABORÁ",
+      "uf": "SC",
+      "file": "municipalities/81698.jsonl.gz",
+      "records": 1383,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 22714
+    },
+    {
+      "id": "81710",
+      "name": "JACINTO MACHADO",
+      "uf": "SC",
+      "file": "municipalities/81710.jsonl.gz",
+      "records": 2589,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 46879
+    },
+    {
+      "id": "81736",
+      "name": "JAGUARUNA",
+      "uf": "SC",
+      "file": "municipalities/81736.jsonl.gz",
+      "records": 5549,
+      "sections_by_turn": {
+        "1": 52
+      },
+      "file_size_bytes": 113835
+    },
+    {
+      "id": "81752",
+      "name": "JARAGUÁ DO SUL",
+      "uf": "SC",
+      "file": "municipalities/81752.jsonl.gz",
+      "records": 44353,
+      "sections_by_turn": {
+        "1": 384
+      },
+      "file_size_bytes": 1341662
+    },
+    {
+      "id": "81140",
+      "name": "JARDINÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81140.jsonl.gz",
+      "records": 511,
+      "sections_by_turn": {
+        "1": 6
+      },
+      "file_size_bytes": 8907
+    },
+    {
+      "id": "81779",
+      "name": "JOAÇABA",
+      "uf": "SC",
+      "file": "municipalities/81779.jsonl.gz",
+      "records": 9263,
+      "sections_by_turn": {
+        "1": 79
+      },
+      "file_size_bytes": 196979
+    },
+    {
+      "id": "81795",
+      "name": "JOINVILLE",
+      "uf": "SC",
+      "file": "municipalities/81795.jsonl.gz",
+      "records": 153335,
+      "sections_by_turn": {
+        "1": 1234
+      },
+      "file_size_bytes": 5192253
+    },
+    {
+      "id": "80101",
+      "name": "JOSÉ BOITEUX",
+      "uf": "SC",
+      "file": "municipalities/80101.jsonl.gz",
+      "records": 1470,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 25735
+    },
+    {
+      "id": "81540",
+      "name": "JUPIÁ",
+      "uf": "SC",
+      "file": "municipalities/81540.jsonl.gz",
+      "records": 721,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 12875
+    },
+    {
+      "id": "81817",
+      "name": "LACERDÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/81817.jsonl.gz",
+      "records": 754,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 14716
+    },
+    {
+      "id": "81833",
+      "name": "LAGES",
+      "uf": "SC",
+      "file": "municipalities/81833.jsonl.gz",
+      "records": 41010,
+      "sections_by_turn": {
+        "1": 393
+      },
+      "file_size_bytes": 1082835
+    },
+    {
+      "id": "81850",
+      "name": "LAGUNA",
+      "uf": "SC",
+      "file": "municipalities/81850.jsonl.gz",
+      "records": 13792,
+      "sections_by_turn": {
+        "1": 118
+      },
+      "file_size_bytes": 337308
+    },
+    {
+      "id": "80586",
+      "name": "LAJEADO GRANDE",
+      "uf": "SC",
+      "file": "municipalities/80586.jsonl.gz",
+      "records": 568,
+      "sections_by_turn": {
+        "1": 6
+      },
+      "file_size_bytes": 10283
+    },
+    {
+      "id": "81876",
+      "name": "LAURENTINO",
+      "uf": "SC",
+      "file": "municipalities/81876.jsonl.gz",
+      "records": 1963,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 35503
+    },
+    {
+      "id": "81892",
+      "name": "LAURO MÜLLER",
+      "uf": "SC",
+      "file": "municipalities/81892.jsonl.gz",
+      "records": 3928,
+      "sections_by_turn": {
+        "1": 44
+      },
+      "file_size_bytes": 75850
+    },
+    {
+      "id": "81914",
+      "name": "LEBON RÉGIS",
+      "uf": "SC",
+      "file": "municipalities/81914.jsonl.gz",
+      "records": 3091,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 58417
+    },
+    {
+      "id": "81930",
+      "name": "LEOBERTO LEAL",
+      "uf": "SC",
+      "file": "municipalities/81930.jsonl.gz",
+      "records": 953,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 17531
+    },
+    {
+      "id": "80047",
+      "name": "LINDÓIA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80047.jsonl.gz",
+      "records": 1102,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 20672
+    },
+    {
+      "id": "81957",
+      "name": "LONTRAS",
+      "uf": "SC",
+      "file": "municipalities/81957.jsonl.gz",
+      "records": 3035,
+      "sections_by_turn": {
+        "1": 31
+      },
+      "file_size_bytes": 53239
+    },
+    {
+      "id": "81973",
+      "name": "LUIZ ALVES",
+      "uf": "SC",
+      "file": "municipalities/81973.jsonl.gz",
+      "records": 3618,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 66302
+    },
+    {
+      "id": "81809",
+      "name": "LUZERNA",
+      "uf": "SC",
+      "file": "municipalities/81809.jsonl.gz",
+      "records": 1969,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 35328
+    },
+    {
+      "id": "80900",
+      "name": "MACIEIRA",
+      "uf": "SC",
+      "file": "municipalities/80900.jsonl.gz",
+      "records": 697,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 13455
+    },
+    {
+      "id": "81990",
+      "name": "MAFRA",
+      "uf": "SC",
+      "file": "municipalities/81990.jsonl.gz",
+      "records": 12983,
+      "sections_by_turn": {
+        "1": 136
+      },
+      "file_size_bytes": 282834
+    },
+    {
+      "id": "82015",
+      "name": "MAJOR GERCINO",
+      "uf": "SC",
+      "file": "municipalities/82015.jsonl.gz",
+      "records": 1101,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 21653
+    },
+    {
+      "id": "82031",
+      "name": "MAJOR VIEIRA",
+      "uf": "SC",
+      "file": "municipalities/82031.jsonl.gz",
+      "records": 1849,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 30578
+    },
+    {
+      "id": "83917",
+      "name": "MARACAJÁ",
+      "uf": "SC",
+      "file": "municipalities/83917.jsonl.gz",
+      "records": 1892,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 32699
+    },
+    {
+      "id": "82058",
+      "name": "MARAVILHA",
+      "uf": "SC",
+      "file": "municipalities/82058.jsonl.gz",
+      "records": 6481,
+      "sections_by_turn": {
+        "1": 60
+      },
+      "file_size_bytes": 109268
+    },
+    {
+      "id": "82066",
+      "name": "MAREMA",
+      "uf": "SC",
+      "file": "municipalities/82066.jsonl.gz",
+      "records": 787,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 14913
+    },
+    {
+      "id": "82074",
+      "name": "MASSARANDUBA",
+      "uf": "SC",
+      "file": "municipalities/82074.jsonl.gz",
+      "records": 4519,
+      "sections_by_turn": {
+        "1": 43
+      },
+      "file_size_bytes": 85774
+    },
+    {
+      "id": "82090",
+      "name": "MATOS COSTA",
+      "uf": "SC",
+      "file": "municipalities/82090.jsonl.gz",
+      "records": 809,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 14763
+    },
+    {
+      "id": "82112",
+      "name": "MELEIRO",
+      "uf": "SC",
+      "file": "municipalities/82112.jsonl.gz",
+      "records": 1646,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 27552
+    },
+    {
+      "id": "80365",
+      "name": "MIRIM DOCE",
+      "uf": "SC",
+      "file": "municipalities/80365.jsonl.gz",
+      "records": 678,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 12742
+    },
+    {
+      "id": "82139",
+      "name": "MODELO",
+      "uf": "SC",
+      "file": "municipalities/82139.jsonl.gz",
+      "records": 1188,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 22322
+    },
+    {
+      "id": "82155",
+      "name": "MONDAÍ",
+      "uf": "SC",
+      "file": "municipalities/82155.jsonl.gz",
+      "records": 2341,
+      "sections_by_turn": {
+        "1": 28
+      },
+      "file_size_bytes": 43814
+    },
+    {
+      "id": "80004",
+      "name": "MONTE CARLO",
+      "uf": "SC",
+      "file": "municipalities/80004.jsonl.gz",
+      "records": 2453,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 40488
+    },
+    {
+      "id": "82171",
+      "name": "MONTE CASTELO",
+      "uf": "SC",
+      "file": "municipalities/82171.jsonl.gz",
+      "records": 2336,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 39669
+    },
+    {
+      "id": "82198",
+      "name": "MORRO DA FUMAÇA",
+      "uf": "SC",
+      "file": "municipalities/82198.jsonl.gz",
+      "records": 3960,
+      "sections_by_turn": {
+        "1": 41
+      },
+      "file_size_bytes": 76350
+    },
+    {
+      "id": "81086",
+      "name": "MORRO GRANDE",
+      "uf": "SC",
+      "file": "municipalities/81086.jsonl.gz",
+      "records": 676,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 12797
+    },
+    {
+      "id": "82210",
+      "name": "NAVEGANTES",
+      "uf": "SC",
+      "file": "municipalities/82210.jsonl.gz",
+      "records": 24484,
+      "sections_by_turn": {
+        "1": 208
+      },
+      "file_size_bytes": 554362
+    },
+    {
+      "id": "82236",
+      "name": "NOVA ERECHIM",
+      "uf": "SC",
+      "file": "municipalities/82236.jsonl.gz",
+      "records": 1409,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 24792
+    },
+    {
+      "id": "80322",
+      "name": "NOVA ITABERABA",
+      "uf": "SC",
+      "file": "municipalities/80322.jsonl.gz",
+      "records": 1162,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 21297
+    },
+    {
+      "id": "82252",
+      "name": "NOVA TRENTO",
+      "uf": "SC",
+      "file": "municipalities/82252.jsonl.gz",
+      "records": 3968,
+      "sections_by_turn": {
+        "1": 34
+      },
+      "file_size_bytes": 81626
+    },
+    {
+      "id": "82279",
+      "name": "NOVA VENEZA",
+      "uf": "SC",
+      "file": "municipalities/82279.jsonl.gz",
+      "records": 3542,
+      "sections_by_turn": {
+        "1": 38
+      },
+      "file_size_bytes": 67286
+    },
+    {
+      "id": "80764",
+      "name": "NOVO HORIZONTE",
+      "uf": "SC",
+      "file": "municipalities/80764.jsonl.gz",
+      "records": 905,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 15061
+    },
+    {
+      "id": "82295",
+      "name": "ORLEANS",
+      "uf": "SC",
+      "file": "municipalities/82295.jsonl.gz",
+      "records": 5707,
+      "sections_by_turn": {
+        "1": 61
+      },
+      "file_size_bytes": 126161
+    },
+    {
+      "id": "83976",
+      "name": "OTACÍLIO COSTA",
+      "uf": "SC",
+      "file": "municipalities/83976.jsonl.gz",
+      "records": 4392,
+      "sections_by_turn": {
+        "1": 47
+      },
+      "file_size_bytes": 79263
+    },
+    {
+      "id": "82317",
+      "name": "OURO",
+      "uf": "SC",
+      "file": "municipalities/82317.jsonl.gz",
+      "records": 2034,
+      "sections_by_turn": {
+        "1": 22
+      },
+      "file_size_bytes": 35922
+    },
+    {
+      "id": "80845",
+      "name": "OURO VERDE",
+      "uf": "SC",
+      "file": "municipalities/80845.jsonl.gz",
+      "records": 627,
+      "sections_by_turn": {
+        "1": 6
+      },
+      "file_size_bytes": 10742
+    },
+    {
+      "id": "81442",
+      "name": "PAIAL",
+      "uf": "SC",
+      "file": "municipalities/81442.jsonl.gz",
+      "records": 595,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 9633
+    },
+    {
+      "id": "81264",
+      "name": "PAINEL",
+      "uf": "SC",
+      "file": "municipalities/81264.jsonl.gz",
+      "records": 782,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 14410
+    },
+    {
+      "id": "82333",
+      "name": "PALHOÇA",
+      "uf": "SC",
+      "file": "municipalities/82333.jsonl.gz",
+      "records": 55719,
+      "sections_by_turn": {
+        "1": 415
+      },
+      "file_size_bytes": 1518884
+    },
+    {
+      "id": "82350",
+      "name": "PALMA SOLA",
+      "uf": "SC",
+      "file": "municipalities/82350.jsonl.gz",
+      "records": 1806,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 33617
+    },
+    {
+      "id": "81566",
+      "name": "PALMEIRA",
+      "uf": "SC",
+      "file": "municipalities/81566.jsonl.gz",
+      "records": 886,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 15929
+    },
+    {
+      "id": "82376",
+      "name": "PALMITOS",
+      "uf": "SC",
+      "file": "municipalities/82376.jsonl.gz",
+      "records": 3662,
+      "sections_by_turn": {
+        "1": 43
+      },
+      "file_size_bytes": 79337
+    },
+    {
+      "id": "82392",
+      "name": "PAPANDUVA",
+      "uf": "SC",
+      "file": "municipalities/82392.jsonl.gz",
+      "records": 4928,
+      "sections_by_turn": {
+        "1": 54
+      },
+      "file_size_bytes": 98361
+    },
+    {
+      "id": "80705",
+      "name": "PARAÍSO",
+      "uf": "SC",
+      "file": "municipalities/80705.jsonl.gz",
+      "records": 1194,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 19988
+    },
+    {
+      "id": "80403",
+      "name": "PASSO DE TORRES",
+      "uf": "SC",
+      "file": "municipalities/80403.jsonl.gz",
+      "records": 2680,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 46279
+    },
+    {
+      "id": "80624",
+      "name": "PASSOS MAIA",
+      "uf": "SC",
+      "file": "municipalities/80624.jsonl.gz",
+      "records": 1051,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 20385
+    },
+    {
+      "id": "82414",
+      "name": "PAULO LOPES",
+      "uf": "SC",
+      "file": "municipalities/82414.jsonl.gz",
+      "records": 2650,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 50144
+    },
+    {
+      "id": "82430",
+      "name": "PEDRAS GRANDES",
+      "uf": "SC",
+      "file": "municipalities/82430.jsonl.gz",
+      "records": 1490,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 27476
+    },
+    {
+      "id": "82457",
+      "name": "PENHA",
+      "uf": "SC",
+      "file": "municipalities/82457.jsonl.gz",
+      "records": 10456,
+      "sections_by_turn": {
+        "1": 76
+      },
+      "file_size_bytes": 226022
+    },
+    {
+      "id": "82473",
+      "name": "PERITIBA",
+      "uf": "SC",
+      "file": "municipalities/82473.jsonl.gz",
+      "records": 838,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 16120
+    },
+    {
+      "id": "83925",
+      "name": "PESCARIA BRAVA",
+      "uf": "SC",
+      "file": "municipalities/83925.jsonl.gz",
+      "records": 2546,
+      "sections_by_turn": {
+        "1": 27
+      },
+      "file_size_bytes": 50933
+    },
+    {
+      "id": "82490",
+      "name": "PETROLÂNDIA",
+      "uf": "SC",
+      "file": "municipalities/82490.jsonl.gz",
+      "records": 1723,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 29511
+    },
+    {
+      "id": "82538",
+      "name": "PINHALZINHO",
+      "uf": "SC",
+      "file": "municipalities/82538.jsonl.gz",
+      "records": 4828,
+      "sections_by_turn": {
+        "1": 42
+      },
+      "file_size_bytes": 87293
+    },
+    {
+      "id": "82554",
+      "name": "PINHEIRO PRETO",
+      "uf": "SC",
+      "file": "municipalities/82554.jsonl.gz",
+      "records": 952,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 18816
+    },
+    {
+      "id": "82570",
+      "name": "PIRATUBA",
+      "uf": "SC",
+      "file": "municipalities/82570.jsonl.gz",
+      "records": 1848,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 33261
+    },
+    {
+      "id": "80543",
+      "name": "PLANALTO ALEGRE",
+      "uf": "SC",
+      "file": "municipalities/80543.jsonl.gz",
+      "records": 987,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 18589
+    },
+    {
+      "id": "82597",
+      "name": "POMERODE",
+      "uf": "SC",
+      "file": "municipalities/82597.jsonl.gz",
+      "records": 9602,
+      "sections_by_turn": {
+        "1": 79
+      },
+      "file_size_bytes": 185095
+    },
+    {
+      "id": "82619",
+      "name": "PONTE ALTA",
+      "uf": "SC",
+      "file": "municipalities/82619.jsonl.gz",
+      "records": 1735,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 31517
+    },
+    {
+      "id": "80926",
+      "name": "PONTE ALTA DO NORTE",
+      "uf": "SC",
+      "file": "municipalities/80926.jsonl.gz",
+      "records": 818,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 13674
+    },
+    {
+      "id": "82635",
+      "name": "PONTE SERRADA",
+      "uf": "SC",
+      "file": "municipalities/82635.jsonl.gz",
+      "records": 2977,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 53856
+    },
+    {
+      "id": "82651",
+      "name": "PORTO BELO",
+      "uf": "SC",
+      "file": "municipalities/82651.jsonl.gz",
+      "records": 6620,
+      "sections_by_turn": {
+        "1": 55
+      },
+      "file_size_bytes": 120427
+    },
+    {
+      "id": "82678",
+      "name": "PORTO UNIÃO",
+      "uf": "SC",
+      "file": "municipalities/82678.jsonl.gz",
+      "records": 9595,
+      "sections_by_turn": {
+        "1": 82
+      },
+      "file_size_bytes": 215565
+    },
+    {
+      "id": "82694",
+      "name": "POUSO REDONDO",
+      "uf": "SC",
+      "file": "municipalities/82694.jsonl.gz",
+      "records": 3288,
+      "sections_by_turn": {
+        "1": 37
+      },
+      "file_size_bytes": 59075
+    },
+    {
+      "id": "82716",
+      "name": "PRAIA GRANDE",
+      "uf": "SC",
+      "file": "municipalities/82716.jsonl.gz",
+      "records": 1907,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 31567
+    },
+    {
+      "id": "82732",
+      "name": "PRESIDENTE CASTELLO BRANCO",
+      "uf": "SC",
+      "file": "municipalities/82732.jsonl.gz",
+      "records": 453,
+      "sections_by_turn": {
+        "1": 6
+      },
+      "file_size_bytes": 8839
+    },
+    {
+      "id": "82759",
+      "name": "PRESIDENTE GETÚLIO",
+      "uf": "SC",
+      "file": "municipalities/82759.jsonl.gz",
+      "records": 4472,
+      "sections_by_turn": {
+        "1": 42
+      },
+      "file_size_bytes": 82586
+    },
+    {
+      "id": "82775",
+      "name": "PRESIDENTE NEREU",
+      "uf": "SC",
+      "file": "municipalities/82775.jsonl.gz",
+      "records": 758,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 14568
+    },
+    {
+      "id": "81647",
+      "name": "PRINCESA",
+      "uf": "SC",
+      "file": "municipalities/81647.jsonl.gz",
+      "records": 795,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 12977
+    },
+    {
+      "id": "82791",
+      "name": "QUILOMBO",
+      "uf": "SC",
+      "file": "municipalities/82791.jsonl.gz",
+      "records": 2414,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 44857
+    },
+    {
+      "id": "82813",
+      "name": "RANCHO QUEIMADO",
+      "uf": "SC",
+      "file": "municipalities/82813.jsonl.gz",
+      "records": 1201,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 25526
+    },
+    {
+      "id": "82830",
+      "name": "RIO DAS ANTAS",
+      "uf": "SC",
+      "file": "municipalities/82830.jsonl.gz",
+      "records": 1916,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 33937
+    },
+    {
+      "id": "82856",
+      "name": "RIO DO CAMPO",
+      "uf": "SC",
+      "file": "municipalities/82856.jsonl.gz",
+      "records": 1338,
+      "sections_by_turn": {
+        "1": 17
+      },
+      "file_size_bytes": 25394
+    },
+    {
+      "id": "82872",
+      "name": "RIO DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/82872.jsonl.gz",
+      "records": 2125,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 42745
+    },
+    {
+      "id": "82910",
+      "name": "RIO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/82910.jsonl.gz",
+      "records": 17357,
+      "sections_by_turn": {
+        "1": 151
+      },
+      "file_size_bytes": 428183
+    },
+    {
+      "id": "82899",
+      "name": "RIO DOS CEDROS",
+      "uf": "SC",
+      "file": "municipalities/82899.jsonl.gz",
+      "records": 3095,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 53158
+    },
+    {
+      "id": "82937",
+      "name": "RIO FORTUNA",
+      "uf": "SC",
+      "file": "municipalities/82937.jsonl.gz",
+      "records": 1347,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 27378
+    },
+    {
+      "id": "82953",
+      "name": "RIO NEGRINHO",
+      "uf": "SC",
+      "file": "municipalities/82953.jsonl.gz",
+      "records": 11247,
+      "sections_by_turn": {
+        "1": 100
+      },
+      "file_size_bytes": 246338
+    },
+    {
+      "id": "80608",
+      "name": "RIO RUFINO",
+      "uf": "SC",
+      "file": "municipalities/80608.jsonl.gz",
+      "records": 766,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 14781
+    },
+    {
+      "id": "80560",
+      "name": "RIQUEZA",
+      "uf": "SC",
+      "file": "municipalities/80560.jsonl.gz",
+      "records": 1383,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 24545
+    },
+    {
+      "id": "82970",
+      "name": "RODEIO",
+      "uf": "SC",
+      "file": "municipalities/82970.jsonl.gz",
+      "records": 3589,
+      "sections_by_turn": {
+        "1": 35
+      },
+      "file_size_bytes": 76636
+    },
+    {
+      "id": "82996",
+      "name": "ROMELÂNDIA",
+      "uf": "SC",
+      "file": "municipalities/82996.jsonl.gz",
+      "records": 1264,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 21780
+    },
+    {
+      "id": "83011",
+      "name": "SALETE",
+      "uf": "SC",
+      "file": "municipalities/83011.jsonl.gz",
+      "records": 1536,
+      "sections_by_turn": {
+        "1": 21
+      },
+      "file_size_bytes": 25794
+    },
+    {
+      "id": "81523",
+      "name": "SALTINHO",
+      "uf": "SC",
+      "file": "municipalities/81523.jsonl.gz",
+      "records": 1036,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 18020
+    },
+    {
+      "id": "83038",
+      "name": "SALTO VELOSO",
+      "uf": "SC",
+      "file": "municipalities/83038.jsonl.gz",
+      "records": 1199,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 23449
+    },
+    {
+      "id": "81000",
+      "name": "SANGÃO",
+      "uf": "SC",
+      "file": "municipalities/81000.jsonl.gz",
+      "records": 2486,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 45816
+    },
+    {
+      "id": "83054",
+      "name": "SANTA CECÍLIA",
+      "uf": "SC",
+      "file": "municipalities/83054.jsonl.gz",
+      "records": 3996,
+      "sections_by_turn": {
+        "1": 38
+      },
+      "file_size_bytes": 72688
+    },
+    {
+      "id": "80721",
+      "name": "SANTA HELENA",
+      "uf": "SC",
+      "file": "municipalities/80721.jsonl.gz",
+      "records": 643,
+      "sections_by_turn": {
+        "1": 7
+      },
+      "file_size_bytes": 12689
+    },
+    {
+      "id": "83070",
+      "name": "SANTA ROSA DE LIMA",
+      "uf": "SC",
+      "file": "municipalities/83070.jsonl.gz",
+      "records": 669,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 13719
+    },
+    {
+      "id": "80241",
+      "name": "SANTA ROSA DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80241.jsonl.gz",
+      "records": 2258,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 37163
+    },
+    {
+      "id": "80349",
+      "name": "SANTA TEREZINHA",
+      "uf": "SC",
+      "file": "municipalities/80349.jsonl.gz",
+      "records": 1727,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 30688
+    },
+    {
+      "id": "81507",
+      "name": "SANTA TEREZINHA DO PROGRESSO",
+      "uf": "SC",
+      "file": "municipalities/81507.jsonl.gz",
+      "records": 804,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 13914
+    },
+    {
+      "id": "81205",
+      "name": "SANTIAGO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/81205.jsonl.gz",
+      "records": 439,
+      "sections_by_turn": {
+        "1": 5
+      },
+      "file_size_bytes": 7874
+    },
+    {
+      "id": "83097",
+      "name": "SANTO AMARO DA IMPERATRIZ",
+      "uf": "SC",
+      "file": "municipalities/83097.jsonl.gz",
+      "records": 8210,
+      "sections_by_turn": {
+        "1": 69
+      },
+      "file_size_bytes": 177958
+    },
+    {
+      "id": "83410",
+      "name": "SAUDADES",
+      "uf": "SC",
+      "file": "municipalities/83410.jsonl.gz",
+      "records": 2421,
+      "sections_by_turn": {
+        "1": 25
+      },
+      "file_size_bytes": 41434
+    },
+    {
+      "id": "83437",
+      "name": "SCHROEDER",
+      "uf": "SC",
+      "file": "municipalities/83437.jsonl.gz",
+      "records": 4716,
+      "sections_by_turn": {
+        "1": 39
+      },
+      "file_size_bytes": 85506
+    },
+    {
+      "id": "83453",
+      "name": "SEARA",
+      "uf": "SC",
+      "file": "municipalities/83453.jsonl.gz",
+      "records": 4442,
+      "sections_by_turn": {
+        "1": 45
+      },
+      "file_size_bytes": 83074
+    },
+    {
+      "id": "80284",
+      "name": "SERRA ALTA",
+      "uf": "SC",
+      "file": "municipalities/80284.jsonl.gz",
+      "records": 896,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 15860
+    },
+    {
+      "id": "83470",
+      "name": "SIDERÓPOLIS",
+      "uf": "SC",
+      "file": "municipalities/83470.jsonl.gz",
+      "records": 3117,
+      "sections_by_turn": {
+        "1": 34
+      },
+      "file_size_bytes": 57436
+    },
+    {
+      "id": "83496",
+      "name": "SOMBRIO",
+      "uf": "SC",
+      "file": "municipalities/83496.jsonl.gz",
+      "records": 6846,
+      "sections_by_turn": {
+        "1": 70
+      },
+      "file_size_bytes": 142806
+    },
+    {
+      "id": "80446",
+      "name": "SUL BRASIL",
+      "uf": "SC",
+      "file": "municipalities/80446.jsonl.gz",
+      "records": 899,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 16350
+    },
+    {
+      "id": "83119",
+      "name": "SÃO BENTO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/83119.jsonl.gz",
+      "records": 21196,
+      "sections_by_turn": {
+        "1": 185
+      },
+      "file_size_bytes": 477985
+    },
+    {
+      "id": "81485",
+      "name": "SÃO BERNARDINO",
+      "uf": "SC",
+      "file": "municipalities/81485.jsonl.gz",
+      "records": 800,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 14002
+    },
+    {
+      "id": "83135",
+      "name": "SÃO BONIFÁCIO",
+      "uf": "SC",
+      "file": "municipalities/83135.jsonl.gz",
+      "records": 1123,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 22638
+    },
+    {
+      "id": "83151",
+      "name": "SÃO CARLOS",
+      "uf": "SC",
+      "file": "municipalities/83151.jsonl.gz",
+      "records": 2995,
+      "sections_by_turn": {
+        "1": 29
+      },
+      "file_size_bytes": 53063
+    },
+    {
+      "id": "80942",
+      "name": "SÃO CRISTÓVÃO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/80942.jsonl.gz",
+      "records": 1279,
+      "sections_by_turn": {
+        "1": 12
+      },
+      "file_size_bytes": 18871
+    },
+    {
+      "id": "83178",
+      "name": "SÃO DOMINGOS",
+      "uf": "SC",
+      "file": "municipalities/83178.jsonl.gz",
+      "records": 2448,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 46992
+    },
+    {
+      "id": "83194",
+      "name": "SÃO FRANCISCO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/83194.jsonl.gz",
+      "records": 16354,
+      "sections_by_turn": {
+        "1": 124
+      },
+      "file_size_bytes": 363286
+    },
+    {
+      "id": "83259",
+      "name": "SÃO JOAQUIM",
+      "uf": "SC",
+      "file": "municipalities/83259.jsonl.gz",
+      "records": 6591,
+      "sections_by_turn": {
+        "1": 67
+      },
+      "file_size_bytes": 129590
+    },
+    {
+      "id": "83275",
+      "name": "SÃO JOSÉ",
+      "uf": "SC",
+      "file": "municipalities/83275.jsonl.gz",
+      "records": 80414,
+      "sections_by_turn": {
+        "1": 550
+      },
+      "file_size_bytes": 2391851
+    },
+    {
+      "id": "83291",
+      "name": "SÃO JOSÉ DO CEDRO",
+      "uf": "SC",
+      "file": "municipalities/83291.jsonl.gz",
+      "records": 3672,
+      "sections_by_turn": {
+        "1": 36
+      },
+      "file_size_bytes": 61333
+    },
+    {
+      "id": "83313",
+      "name": "SÃO JOSÉ DO CERRITO",
+      "uf": "SC",
+      "file": "municipalities/83313.jsonl.gz",
+      "records": 2773,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 55042
+    },
+    {
+      "id": "83216",
+      "name": "SÃO JOÃO BATISTA",
+      "uf": "SC",
+      "file": "municipalities/83216.jsonl.gz",
+      "records": 8100,
+      "sections_by_turn": {
+        "1": 65
+      },
+      "file_size_bytes": 159266
+    },
+    {
+      "id": "81124",
+      "name": "SÃO JOÃO DO ITAPERIÚ",
+      "uf": "SC",
+      "file": "municipalities/81124.jsonl.gz",
+      "records": 1746,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 34028
+    },
+    {
+      "id": "80640",
+      "name": "SÃO JOÃO DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/80640.jsonl.gz",
+      "records": 1666,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 31132
+    },
+    {
+      "id": "83232",
+      "name": "SÃO JOÃO DO SUL",
+      "uf": "SC",
+      "file": "municipalities/83232.jsonl.gz",
+      "records": 1994,
+      "sections_by_turn": {
+        "1": 24
+      },
+      "file_size_bytes": 33185
+    },
+    {
+      "id": "83330",
+      "name": "SÃO LOURENÇO DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/83330.jsonl.gz",
+      "records": 6280,
+      "sections_by_turn": {
+        "1": 61
+      },
+      "file_size_bytes": 127254
+    },
+    {
+      "id": "83356",
+      "name": "SÃO LUDGERO",
+      "uf": "SC",
+      "file": "municipalities/83356.jsonl.gz",
+      "records": 3027,
+      "sections_by_turn": {
+        "1": 31
+      },
+      "file_size_bytes": 62995
+    },
+    {
+      "id": "83372",
+      "name": "SÃO MARTINHO",
+      "uf": "SC",
+      "file": "municipalities/83372.jsonl.gz",
+      "records": 983,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 17815
+    },
+    {
+      "id": "80780",
+      "name": "SÃO MIGUEL DA BOA VISTA",
+      "uf": "SC",
+      "file": "municipalities/80780.jsonl.gz",
+      "records": 458,
+      "sections_by_turn": {
+        "1": 5
+      },
+      "file_size_bytes": 9144
+    },
+    {
+      "id": "83399",
+      "name": "SÃO MIGUEL DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/83399.jsonl.gz",
+      "records": 10798,
+      "sections_by_turn": {
+        "1": 101
+      },
+      "file_size_bytes": 236060
+    },
+    {
+      "id": "81183",
+      "name": "SÃO PEDRO DE ALCÂNTARA",
+      "uf": "SC",
+      "file": "municipalities/81183.jsonl.gz",
+      "records": 1774,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 33528
+    },
+    {
+      "id": "83518",
+      "name": "TAIÓ",
+      "uf": "SC",
+      "file": "municipalities/83518.jsonl.gz",
+      "records": 4025,
+      "sections_by_turn": {
+        "1": 47
+      },
+      "file_size_bytes": 78942
+    },
+    {
+      "id": "83534",
+      "name": "TANGARÁ",
+      "uf": "SC",
+      "file": "municipalities/83534.jsonl.gz",
+      "records": 2465,
+      "sections_by_turn": {
+        "1": 26
+      },
+      "file_size_bytes": 44266
+    },
+    {
+      "id": "81680",
+      "name": "TIGRINHOS",
+      "uf": "SC",
+      "file": "municipalities/81680.jsonl.gz",
+      "records": 563,
+      "sections_by_turn": {
+        "1": 6
+      },
+      "file_size_bytes": 10606
+    },
+    {
+      "id": "83550",
+      "name": "TIJUCAS",
+      "uf": "SC",
+      "file": "municipalities/83550.jsonl.gz",
+      "records": 13716,
+      "sections_by_turn": {
+        "1": 102
+      },
+      "file_size_bytes": 269473
+    },
+    {
+      "id": "83933",
+      "name": "TIMBÉ DO SUL",
+      "uf": "SC",
+      "file": "municipalities/83933.jsonl.gz",
+      "records": 1204,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 20537
+    },
+    {
+      "id": "83577",
+      "name": "TIMBÓ",
+      "uf": "SC",
+      "file": "municipalities/83577.jsonl.gz",
+      "records": 11523,
+      "sections_by_turn": {
+        "1": 101
+      },
+      "file_size_bytes": 229636
+    },
+    {
+      "id": "80209",
+      "name": "TIMBÓ GRANDE",
+      "uf": "SC",
+      "file": "municipalities/80209.jsonl.gz",
+      "records": 1797,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 29905
+    },
+    {
+      "id": "81345",
+      "name": "TREVISO",
+      "uf": "SC",
+      "file": "municipalities/81345.jsonl.gz",
+      "records": 1197,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 20647
+    },
+    {
+      "id": "83615",
+      "name": "TREZE DE MAIO",
+      "uf": "SC",
+      "file": "municipalities/83615.jsonl.gz",
+      "records": 1916,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 34412
+    },
+    {
+      "id": "83631",
+      "name": "TREZE TÍLIAS",
+      "uf": "SC",
+      "file": "municipalities/83631.jsonl.gz",
+      "records": 2367,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 38383
+    },
+    {
+      "id": "83658",
+      "name": "TROMBUDO CENTRAL",
+      "uf": "SC",
+      "file": "municipalities/83658.jsonl.gz",
+      "records": 1802,
+      "sections_by_turn": {
+        "1": 18
+      },
+      "file_size_bytes": 28837
+    },
+    {
+      "id": "83593",
+      "name": "TRÊS BARRAS",
+      "uf": "SC",
+      "file": "municipalities/83593.jsonl.gz",
+      "records": 4448,
+      "sections_by_turn": {
+        "1": 46
+      },
+      "file_size_bytes": 84275
+    },
+    {
+      "id": "83674",
+      "name": "TUBARÃO",
+      "uf": "SC",
+      "file": "municipalities/83674.jsonl.gz",
+      "records": 28852,
+      "sections_by_turn": {
+        "1": 248
+      },
+      "file_size_bytes": 743099
+    },
+    {
+      "id": "83682",
+      "name": "TUNÁPOLIS",
+      "uf": "SC",
+      "file": "municipalities/83682.jsonl.gz",
+      "records": 1257,
+      "sections_by_turn": {
+        "1": 15
+      },
+      "file_size_bytes": 24144
+    },
+    {
+      "id": "83690",
+      "name": "TURVO",
+      "uf": "SC",
+      "file": "municipalities/83690.jsonl.gz",
+      "records": 2868,
+      "sections_by_turn": {
+        "1": 33
+      },
+      "file_size_bytes": 53653
+    },
+    {
+      "id": "80144",
+      "name": "UNIÃO DO OESTE",
+      "uf": "SC",
+      "file": "municipalities/80144.jsonl.gz",
+      "records": 735,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 13721
+    },
+    {
+      "id": "83712",
+      "name": "URUBICI",
+      "uf": "SC",
+      "file": "municipalities/83712.jsonl.gz",
+      "records": 3148,
+      "sections_by_turn": {
+        "1": 30
+      },
+      "file_size_bytes": 60577
+    },
+    {
+      "id": "80160",
+      "name": "URUPEMA",
+      "uf": "SC",
+      "file": "municipalities/80160.jsonl.gz",
+      "records": 779,
+      "sections_by_turn": {
+        "1": 8
+      },
+      "file_size_bytes": 15370
+    },
+    {
+      "id": "83739",
+      "name": "URUSSANGA",
+      "uf": "SC",
+      "file": "municipalities/83739.jsonl.gz",
+      "records": 5252,
+      "sections_by_turn": {
+        "1": 53
+      },
+      "file_size_bytes": 103683
+    },
+    {
+      "id": "80462",
+      "name": "VARGEM",
+      "uf": "SC",
+      "file": "municipalities/80462.jsonl.gz",
+      "records": 911,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 15978
+    },
+    {
+      "id": "80969",
+      "name": "VARGEM BONITA",
+      "uf": "SC",
+      "file": "municipalities/80969.jsonl.gz",
+      "records": 1401,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 24091
+    },
+    {
+      "id": "83755",
+      "name": "VARGEÃO",
+      "uf": "SC",
+      "file": "municipalities/83755.jsonl.gz",
+      "records": 1001,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 17956
+    },
+    {
+      "id": "83771",
+      "name": "VIDAL RAMOS",
+      "uf": "SC",
+      "file": "municipalities/83771.jsonl.gz",
+      "records": 1701,
+      "sections_by_turn": {
+        "1": 20
+      },
+      "file_size_bytes": 31781
+    },
+    {
+      "id": "83798",
+      "name": "VIDEIRA",
+      "uf": "SC",
+      "file": "municipalities/83798.jsonl.gz",
+      "records": 12972,
+      "sections_by_turn": {
+        "1": 117
+      },
+      "file_size_bytes": 283590
+    },
+    {
+      "id": "80128",
+      "name": "VITOR MEIRELES",
+      "uf": "SC",
+      "file": "municipalities/80128.jsonl.gz",
+      "records": 1240,
+      "sections_by_turn": {
+        "1": 16
+      },
+      "file_size_bytes": 20023
+    },
+    {
+      "id": "83810",
+      "name": "WITMARSUM",
+      "uf": "SC",
+      "file": "municipalities/83810.jsonl.gz",
+      "records": 970,
+      "sections_by_turn": {
+        "1": 11
+      },
+      "file_size_bytes": 17634
+    },
+    {
+      "id": "83836",
+      "name": "XANXERÊ",
+      "uf": "SC",
+      "file": "municipalities/83836.jsonl.gz",
+      "records": 13185,
+      "sections_by_turn": {
+        "1": 113
+      },
+      "file_size_bytes": 284657
+    },
+    {
+      "id": "83852",
+      "name": "XAVANTINA",
+      "uf": "SC",
+      "file": "municipalities/83852.jsonl.gz",
+      "records": 1081,
+      "sections_by_turn": {
+        "1": 14
+      },
+      "file_size_bytes": 21890
+    },
+    {
+      "id": "83879",
+      "name": "XAXIM",
+      "uf": "SC",
+      "file": "municipalities/83879.jsonl.gz",
+      "records": 7787,
+      "sections_by_turn": {
+        "1": 70
+      },
+      "file_size_bytes": 140348
+    },
+    {
+      "id": "81825",
+      "name": "ZORTÉA",
+      "uf": "SC",
+      "file": "municipalities/81825.jsonl.gz",
+      "records": 1039,
+      "sections_by_turn": {
+        "1": 10
+      },
+      "file_size_bytes": 18975
+    },
+    {
+      "id": "80071",
+      "name": "ÁGUA DOCE",
+      "uf": "SC",
+      "file": "municipalities/80071.jsonl.gz",
+      "records": 2022,
+      "sections_by_turn": {
+        "1": 19
+      },
+      "file_size_bytes": 38537
+    },
+    {
+      "id": "80098",
+      "name": "ÁGUAS DE CHAPECÓ",
+      "uf": "SC",
+      "file": "municipalities/80098.jsonl.gz",
+      "records": 1380,
+      "sections_by_turn": {
+        "1": 13
+      },
+      "file_size_bytes": 26595
+    },
+    {
+      "id": "80500",
+      "name": "ÁGUAS FRIAS",
+      "uf": "SC",
+      "file": "municipalities/80500.jsonl.gz",
+      "records": 789,
+      "sections_by_turn": {
+        "1": 9
+      },
+      "file_size_bytes": 14313
+    },
+    {
+      "id": "80110",
+      "name": "ÁGUAS MORNAS",
+      "uf": "SC",
+      "file": "municipalities/80110.jsonl.gz",
+      "records": 2336,
+      "sections_by_turn": {
+        "1": 23
+      },
+      "file_size_bytes": 49478
+    }
+  ]
+}

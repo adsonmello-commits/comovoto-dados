@@ -1,0 +1,28 @@
+{
+  "dataset": "Resultados eleitorais 2026 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "PR",
+    "municipalities": "all"
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_PR.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-26T17:29:16.764989+00:00",
+  "source_archive_size_bytes": 146080760,
+  "source_archive_sha256": "63ef4e0f03fa4ee68e55c931ea73294c7cf0949b638f0b8bdec2158899064ce2",
+  "source_archive_members": [
+    "votacao_secao_2026_PR.csv"
+  ],
+  "municipality_count": 399,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1"
+  ],
+  "data_status": "pending_tse_update",
+  "row_count": 3429027,
+  "partition_count": 399
+}
