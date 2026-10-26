@@ -2,7 +2,6 @@
 """Import presidential section results from the official TSE national archive."""
 from __future__ import annotations
 
-import argparse
 import csv
 import gzip
 import hashlib
@@ -12,7 +11,7 @@ import shutil
 import tempfile
 import urllib.request
 import zipfile
-from collections import Counter, defaultdict
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -28,7 +27,7 @@ def norm(value: str) -> str:
     return (value or "").strip().lstrip("\ufeff").upper()
 
 
-def num(value: str | None) -> int:
+def to_int(value: str | None) -> int:
     try:
         return int((value or "0").strip())
     except ValueError:
@@ -44,10 +43,10 @@ def main() -> None:
     streams: dict[tuple[str, str], io.TextIOWrapper] = {}
     raw_files = []
     cities: dict[str, dict[str, dict]] = {uf: {} for uf in EXPECTED}
-    sections: dict[tuple[str, str], set[tuple[str, str, str]]] = defaultdict(set)
-    candidate_names: dict[str, str] = {}
-    turns_by_state: dict[str, set[str]] = {uf: set() for uf in EXPECTED}
-    rows_by_state: Counter[str] = Counter()
+    sections: dict[tuple[str, str], set[tuple[str, str, str]]] = {}
+    candidates: dict[str, dict] = {}
+    turns: dict[str, set[str]] = {uf: set() for uf in EXPECTED}
+    rows_total: Counter[str] = Counter()
 
     try:
         with urllib.request.urlopen(request, timeout=360) as response, archive_path.open("wb") as output:
@@ -65,9 +64,9 @@ def main() -> None:
             for member in members:
                 with archive.open(member) as binary, io.TextIOWrapper(binary, encoding="latin-1", newline="") as text:
                     reader = csv.DictReader(text, delimiter=";")
-                    fields = {norm(f): f for f in (reader.fieldnames or [])}
+                    fields = {norm(field): field for field in (reader.fieldnames or [])}
                     required = ("SG_UF", "CD_MUNICIPIO", "NM_MUNICIPIO", "NR_TURNO", "NR_ZONA", "NR_SECAO", "NR_VOTAVEL", "NM_VOTAVEL", "QT_VOTOS")
-                    missing = [name for name in required if name not in fields]
+                    missing = [field for field in required if field not in fields]
                     if missing:
                         raise RuntimeError(f"Colunas ausentes em {member.filename}: {', '.join(missing)}")
                     cargo_field = fields.get("DS_CARGO")
@@ -87,16 +86,20 @@ def main() -> None:
                         section = (row.get(fields["NR_SECAO"]) or "").strip()
                         candidate = (row.get(fields["NR_VOTAVEL"]) or "").strip()
                         candidate_name = (row.get(fields["NM_VOTAVEL"]) or "").strip()
-                        votes = num(row.get(fields["QT_VOTOS"]))
+                        votes = to_int(row.get(fields["QT_VOTOS"]))
                         if turn not in {"1", "2"} or not candidate:
                             continue
-                        turns_by_state[state].add(turn)
-                        candidate_names.setdefault(candidate, candidate_name)
+                        turns[state].add(turn)
+                        candidates.setdefault(candidate, {
+                            "name": candidate_name,
+                            "short": candidate_name,
+                            "color": "#d64751" if candidate == "13" else "#3478d0" if candidate == "22" else "#71818a"
+                        })
                         key = (state, code)
                         if key not in streams:
-                            out_dir = OUT_BASE / state / "municipalities"
-                            out_dir.mkdir(parents=True, exist_ok=True)
-                            path = out_dir / f"{code}.jsonl.gz"
+                            folder = OUT_BASE / state / "municipalities"
+                            folder.mkdir(parents=True, exist_ok=True)
+                            path = folder / f"{code}.jsonl.gz"
                             raw = path.open("wb")
                             raw_files.append(raw)
                             compressed = gzip.GzipFile(fileobj=raw, mode="wb", compresslevel=9, mtime=0)
@@ -106,50 +109,48 @@ def main() -> None:
                                 "file": f"municipalities/{code}.jsonl.gz",
                                 "records": 0, "turns": {}
                             }
+                            sections[key] = set()
                         city = cities[state][code]
                         if not city["name"] and name:
                             city["name"] = name
                         streams[key].write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
                         city["records"] += 1
-                        rows_by_state[state] += 1
-                        turn_data = city["turns"].setdefault(turn, {"votes": {}, "valid": 0, "turnout": 0})
-                        turn_data["votes"][candidate] = turn_data["votes"].get(candidate, 0) + votes
-                        turn_data["turnout"] += votes
+                        rows_total[state] += 1
+                        values = city["turns"].setdefault(turn, {"votes": {}, "valid": 0, "turnout": 0})
+                        values["votes"][candidate] = values["votes"].get(candidate, 0) + votes
+                        values["turnout"] += votes
                         if candidate not in INVALID:
-                            turn_data["valid"] += votes
+                            values["valid"] += votes
                         sections[key].add((turn, zone, section))
             for stream in streams.values():
                 stream.close()
             for raw in raw_files:
                 raw.close()
 
-        for state, expected_count in EXPECTED.items():
+        for state, expected in EXPECTED.items():
             found = len(cities[state])
-            if found != expected_count:
-                raise RuntimeError(f"{state}: esperados {expected_count} municípios; encontrados {found}.")
-            if "1" not in turns_by_state[state]:
+            if found != expected:
+                raise RuntimeError(f"{state}: esperados {expected} municípios; encontrados {found}.")
+            if "1" not in turns[state]:
                 raise RuntimeError(f"{state}: o arquivo presidencial não trouxe o 1º turno.")
-            for code, city in cities[state].items():
-                by_turn = Counter(turn for turn, _, _ in sections[(state, code)])
-                for turn, data in city["turns"].items():
-                    data["sections"] = by_turn[turn]
-                path = OUT_BASE / state / city["file"]
-                city["file_size_bytes"] = path.stat().st_size
-
-            complete = {"1", "2"}.issubset(turns_by_state[state])
+            complete = {"1", "2"}.issubset(turns[state])
+            for (uf, code), section_rows in sections.items():
+                if uf != state:
+                    continue
+                section_counts = Counter(turn for turn, _, _ in section_rows)
+                city = cities[state][code]
+                for turn in city["turns"]:
+                    city["turns"][turn]["sections"] = section_counts[turn]
+                city["sections"] = max(section_counts.values(), default=0)
+                city["file_size_bytes"] = (OUT_BASE / state / city["file"]).stat().st_size
             index = {
                 "dataset": "Presidente — votação por seção — Eleições 2026",
                 "office": "Presidente da República",
-                "uf": state, "state": STATE_NAMES[state],
-                "source": SOURCE_URL,
+                "uf": state, "state": STATE_NAMES[state], "source": SOURCE_URL,
                 "municipality_count": found,
-                "expected_turns": ["1", "2"],
-                "turns": sorted(turns_by_state[state]),
+                "expected_turns": ["1", "2"], "turns": sorted(turns[state]),
                 "data_status": "complete" if complete else "pending_tse_update",
-                "candidates": {
-                    code: {"name": name, "short": name, "color": "#d64751" if code == "13" else "#3478d0" if code == "22" else "#71818a"}
-                    for code, name in sorted(candidate_names.items())
-                },
+                "candidates": candidates,
                 "municipalities": sorted(cities[state].values(), key=lambda item: item["name"])
             }
             out_dir = OUT_BASE / state
@@ -161,17 +162,14 @@ def main() -> None:
                 "source": SOURCE_URL, "source_portal": PORTAL_URL,
                 "license": "Creative Commons Attribution (CC BY)",
                 "retrieved_at_utc": datetime.now(timezone.utc).isoformat(),
-                "source_archive_size_bytes": archive_size,
-                "source_archive_sha256": source_sha,
+                "source_archive_size_bytes": archive_size, "source_archive_sha256": source_sha,
                 "source_archive_members": [m.filename for m in members],
-                "municipality_count": found,
-                "expected_turns": ["1", "2"], "turns": sorted(turns_by_state[state]),
-                "data_status": index["data_status"],
-                "row_count": rows_by_state[state],
-                "partition_count": found
+                "municipality_count": found, "expected_turns": ["1", "2"],
+                "turns": sorted(turns[state]), "data_status": index["data_status"],
+                "row_count": rows_total[state], "partition_count": found
             }
             (out_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-            print(f"{state}: {found} municípios, {rows_by_state[state]:,} registros presidenciais, turnos {sorted(turns_by_state[state])}.")
+            print(f"{state}: {found} municípios, {rows_total[state]:,} registros presidenciais, turnos {sorted(turns[state])}.")
     finally:
         for stream in streams.values():
             if not stream.closed:
