@@ -1,0 +1,28 @@
+{
+  "dataset": "Resultados eleitorais 2026 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "RS",
+    "municipalities": "all"
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_RS.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-26T17:19:22.822846+00:00",
+  "source_archive_size_bytes": 144569003,
+  "source_archive_sha256": "924062046eb3e9926d346dfb5b2525cb2ef43ee473cdf02e42bbc70a9a42c60e",
+  "source_archive_members": [
+    "votacao_secao_2026_RS.csv"
+  ],
+  "municipality_count": 497,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1"
+  ],
+  "data_status": "pending_tse_update",
+  "row_count": 3435949,
+  "partition_count": 497
+}
