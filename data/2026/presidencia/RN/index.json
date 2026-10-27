@@ -1,0 +1,6804 @@
+{
+  "dataset": "Presidente — votação por seção — Eleições 2026",
+  "office": "Presidente da República",
+  "uf": "RN",
+  "state": "Rio Grande do Norte",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip",
+  "municipality_count": 167,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1",
+    "2"
+  ],
+  "data_status": "complete",
+  "candidates": {
+    "55": {
+      "name": "RONALDO RAMOS CAIADO",
+      "short": "RONALDO RAMOS CAIADO",
+      "color": "#71818a"
+    },
+    "14": {
+      "name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "short": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "color": "#71818a"
+    },
+    "16": {
+      "name": "HERTZ DA CONCEICAO DIAS",
+      "short": "HERTZ DA CONCEICAO DIAS",
+      "color": "#71818a"
+    },
+    "96": {
+      "name": "VOTO NULO",
+      "short": "VOTO NULO",
+      "color": "#71818a"
+    },
+    "13": {
+      "name": "LUIZ INÁCIO LULA DA SILVA",
+      "short": "LUIZ INÁCIO LULA DA SILVA",
+      "color": "#d64751"
+    },
+    "70": {
+      "name": "AUGUSTO JORGE CURY",
+      "short": "AUGUSTO JORGE CURY",
+      "color": "#71818a"
+    },
+    "95": {
+      "name": "VOTO BRANCO",
+      "short": "VOTO BRANCO",
+      "color": "#71818a"
+    },
+    "21": {
+      "name": "EDMILSON SILVA COSTA",
+      "short": "EDMILSON SILVA COSTA",
+      "color": "#71818a"
+    },
+    "35": {
+      "name": "WILSON GRASSI JUNIOR",
+      "short": "WILSON GRASSI JUNIOR",
+      "color": "#71818a"
+    },
+    "30": {
+      "name": "ROMEU ZEMA NETO",
+      "short": "ROMEU ZEMA NETO",
+      "color": "#71818a"
+    },
+    "27": {
+      "name": "CLARIANA ZACARKIM BARAO",
+      "short": "CLARIANA ZACARKIM BARAO",
+      "color": "#71818a"
+    },
+    "22": {
+      "name": "FLAVIO NANTES BOLSONARO",
+      "short": "FLAVIO NANTES BOLSONARO",
+      "color": "#3478d0"
+    },
+    "80": {
+      "name": "SAMARA MARTINS DA SILVA FEITOSA",
+      "short": "SAMARA MARTINS DA SILVA FEITOSA",
+      "color": "#71818a"
+    },
+    "28": {
+      "name": "LEONARDO ALVES DE ARAUJO",
+      "short": "LEONARDO ALVES DE ARAUJO",
+      "color": "#71818a"
+    },
+    "29": {
+      "name": "RUI COSTA PIMENTA",
+      "short": "RUI COSTA PIMENTA",
+      "color": "#71818a"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "16012",
+      "name": "ACARI",
+      "uf": "RN",
+      "file": "municipalities/16012.jsonl.gz",
+      "records": 324,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 4971,
+            "95": 64,
+            "22": 2502,
+            "96": 233
+          },
+          "valid": 7473,
+          "turnout": 7770,
+          "sections": 29
+        },
+        "1": {
+          "votes": {
+            "27": 1,
+            "22": 2438,
+            "21": 2,
+            "95": 117,
+            "70": 212,
+            "13": 4256,
+            "14": 129,
+            "55": 72,
+            "28": 1,
+            "80": 5,
+            "30": 5,
+            "96": 291
+          },
+          "valid": 7121,
+          "turnout": 7529,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 4026
+    },
+    {
+      "id": "16055",
+      "name": "AFONSO BEZERRA",
+      "uf": "RN",
+      "file": "municipalities/16055.jsonl.gz",
+      "records": 347,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 5434,
+            "30": 5,
+            "96": 229,
+            "70": 202,
+            "55": 45,
+            "80": 1,
+            "95": 101,
+            "14": 115,
+            "22": 2322,
+            "27": 1
+          },
+          "valid": 8125,
+          "turnout": 8455,
+          "sections": 33
+        },
+        "2": {
+          "votes": {
+            "95": 60,
+            "22": 2061,
+            "96": 240,
+            "13": 5778
+          },
+          "valid": 7839,
+          "turnout": 8139,
+          "sections": 33
+        }
+      },
+      "sections": 33,
+      "file_size_bytes": 5217
+    },
+    {
+      "id": "16098",
+      "name": "ALEXANDRIA",
+      "uf": "RN",
+      "file": "municipalities/16098.jsonl.gz",
+      "records": 412,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 89,
+            "55": 35,
+            "21": 2,
+            "80": 3,
+            "29": 1,
+            "22": 1673,
+            "95": 77,
+            "70": 158,
+            "13": 7130,
+            "30": 2,
+            "96": 281,
+            "16": 1
+          },
+          "valid": 9094,
+          "turnout": 9452,
+          "sections": 41
+        },
+        "2": {
+          "votes": {
+            "96": 247,
+            "13": 7657,
+            "95": 52,
+            "22": 1640
+          },
+          "valid": 9297,
+          "turnout": 9596,
+          "sections": 41
+        }
+      },
+      "sections": 41,
+      "file_size_bytes": 5085
+    },
+    {
+      "id": "16110",
+      "name": "ALMINO AFONSO",
+      "uf": "RN",
+      "file": "municipalities/16110.jsonl.gz",
+      "records": 222,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 104,
+            "27": 2,
+            "22": 759,
+            "55": 13,
+            "80": 2,
+            "13": 3274,
+            "30": 5,
+            "95": 66,
+            "70": 66,
+            "14": 45,
+            "16": 3
+          },
+          "valid": 4169,
+          "turnout": 4339,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 85,
+            "13": 3429,
+            "22": 737,
+            "95": 39
+          },
+          "valid": 4166,
+          "turnout": 4290,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 2824
+    },
+    {
+      "id": "16136",
+      "name": "ALTO DO RODRIGUES",
+      "uf": "RN",
+      "file": "municipalities/16136.jsonl.gz",
+      "records": 416,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 4,
+            "13": 6898,
+            "96": 284,
+            "55": 55,
+            "70": 239,
+            "80": 1,
+            "95": 113,
+            "14": 171,
+            "21": 1,
+            "22": 1811,
+            "27": 1
+          },
+          "valid": 9181,
+          "turnout": 9578,
+          "sections": 39
+        },
+        "2": {
+          "votes": {
+            "22": 1901,
+            "95": 75,
+            "96": 235,
+            "13": 7629
+          },
+          "valid": 9530,
+          "turnout": 9840,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 5872
+    },
+    {
+      "id": "16152",
+      "name": "ANGICOS",
+      "uf": "RN",
+      "file": "municipalities/16152.jsonl.gz",
+      "records": 343,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 102,
+            "55": 58,
+            "21": 1,
+            "80": 1,
+            "29": 1,
+            "22": 2434,
+            "95": 95,
+            "70": 195,
+            "13": 5255,
+            "30": 8,
+            "96": 244,
+            "35": 1,
+            "27": 1
+          },
+          "valid": 8057,
+          "turnout": 8396,
+          "sections": 31
+        },
+        "2": {
+          "votes": {
+            "96": 208,
+            "13": 5678,
+            "95": 75,
+            "22": 2462
+          },
+          "valid": 8140,
+          "turnout": 8423,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 4304
+    },
+    {
+      "id": "16179",
+      "name": "ANTÔNIO MARTINS",
+      "uf": "RN",
+      "file": "municipalities/16179.jsonl.gz",
+      "records": 238,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 3807,
+            "30": 1,
+            "96": 217,
+            "70": 84,
+            "55": 26,
+            "95": 59,
+            "14": 34,
+            "16": 3,
+            "22": 796
+          },
+          "valid": 4751,
+          "turnout": 5027,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "95": 40,
+            "22": 760,
+            "96": 157,
+            "13": 4086
+          },
+          "valid": 4846,
+          "turnout": 5043,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3008
+    },
+    {
+      "id": "16195",
+      "name": "APODI",
+      "uf": "RN",
+      "file": "municipalities/16195.jsonl.gz",
+      "records": 1010,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 740,
+            "55": 179,
+            "13": 17301,
+            "30": 8,
+            "35": 3,
+            "14": 613,
+            "29": 2,
+            "16": 3,
+            "21": 1,
+            "95": 418,
+            "70": 699,
+            "27": 3,
+            "22": 5839,
+            "80": 12
+          },
+          "valid": 24663,
+          "turnout": 25821,
+          "sections": 91
+        },
+        "2": {
+          "votes": {
+            "22": 6331,
+            "95": 252,
+            "13": 19463,
+            "96": 651
+          },
+          "valid": 25794,
+          "turnout": 26697,
+          "sections": 91
+        }
+      },
+      "sections": 91,
+      "file_size_bytes": 13721
+    },
+    {
+      "id": "16217",
+      "name": "AREIA BRANCA",
+      "uf": "RN",
+      "file": "municipalities/16217.jsonl.gz",
+      "records": 805,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 669,
+            "27": 5,
+            "22": 5319,
+            "21": 5,
+            "55": 67,
+            "80": 14,
+            "70": 477,
+            "13": 10235,
+            "30": 5,
+            "35": 3,
+            "95": 323,
+            "14": 410,
+            "16": 1,
+            "29": 1
+          },
+          "valid": 16542,
+          "turnout": 17534,
+          "sections": 75
+        },
+        "2": {
+          "votes": {
+            "96": 582,
+            "13": 11851,
+            "95": 170,
+            "22": 5471
+          },
+          "valid": 17322,
+          "turnout": 18074,
+          "sections": 75
+        }
+      },
+      "sections": 75,
+      "file_size_bytes": 12685
+    },
+    {
+      "id": "16233",
+      "name": "AREZ",
+      "uf": "RN",
+      "file": "municipalities/16233.jsonl.gz",
+      "records": 383,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 196,
+            "22": 2899,
+            "70": 194,
+            "29": 1,
+            "28": 1,
+            "80": 2,
+            "55": 40,
+            "14": 96,
+            "30": 6,
+            "13": 5474,
+            "35": 1,
+            "96": 366,
+            "27": 1
+          },
+          "valid": 8715,
+          "turnout": 9277,
+          "sections": 36
+        },
+        "2": {
+          "votes": {
+            "96": 344,
+            "13": 6279,
+            "95": 122,
+            "22": 2870
+          },
+          "valid": 9149,
+          "turnout": 9615,
+          "sections": 36
+        }
+      },
+      "sections": 36,
+      "file_size_bytes": 4981
+    },
+    {
+      "id": "16039",
+      "name": "ASSÚ",
+      "uf": "RN",
+      "file": "municipalities/16039.jsonl.gz",
+      "records": 1476,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 1021,
+            "55": 224,
+            "13": 24169,
+            "30": 14,
+            "35": 3,
+            "14": 628,
+            "16": 14,
+            "29": 4,
+            "21": 5,
+            "95": 578,
+            "70": 889,
+            "27": 4,
+            "22": 9376,
+            "80": 9,
+            "28": 5
+          },
+          "valid": 35344,
+          "turnout": 36943,
+          "sections": 133
+        },
+        "2": {
+          "votes": {
+            "95": 339,
+            "22": 9541,
+            "13": 27426,
+            "96": 929
+          },
+          "valid": 36967,
+          "turnout": 38235,
+          "sections": 133
+        }
+      },
+      "sections": 133,
+      "file_size_bytes": 25811
+    },
+    {
+      "id": "30031",
+      "name": "BARAÚNA",
+      "uf": "RN",
+      "file": "municipalities/30031.jsonl.gz",
+      "records": 675,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 12381,
+            "95": 173,
+            "22": 6000,
+            "96": 501
+          },
+          "valid": 18381,
+          "turnout": 19055,
+          "sections": 63
+        },
+        "1": {
+          "votes": {
+            "27": 2,
+            "14": 259,
+            "29": 2,
+            "22": 5833,
+            "95": 271,
+            "70": 530,
+            "13": 10688,
+            "16": 3,
+            "55": 68,
+            "80": 2,
+            "35": 1,
+            "30": 6,
+            "96": 486
+          },
+          "valid": 17394,
+          "turnout": 18151,
+          "sections": 63
+        }
+      },
+      "sections": 63,
+      "file_size_bytes": 10170
+    },
+    {
+      "id": "16292",
+      "name": "BARCELONA",
+      "uf": "RN",
+      "file": "municipalities/16292.jsonl.gz",
+      "records": 152,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2305,
+            "95": 31,
+            "22": 1464,
+            "96": 113
+          },
+          "valid": 3769,
+          "turnout": 3913,
+          "sections": 14
+        },
+        "1": {
+          "votes": {
+            "14": 38,
+            "22": 1433,
+            "21": 1,
+            "95": 36,
+            "13": 2122,
+            "55": 32,
+            "80": 2,
+            "70": 80,
+            "35": 1,
+            "96": 132
+          },
+          "valid": 3709,
+          "turnout": 3877,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2331
+    },
+    {
+      "id": "16276",
+      "name": "BAÍA FORMOSA",
+      "uf": "RN",
+      "file": "municipalities/16276.jsonl.gz",
+      "records": 255,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 126,
+            "95": 91,
+            "13": 3331,
+            "14": 87,
+            "80": 3,
+            "55": 55,
+            "22": 2045,
+            "27": 4,
+            "96": 164
+          },
+          "valid": 5651,
+          "turnout": 5906,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "95": 72,
+            "22": 2045,
+            "13": 3749,
+            "96": 122
+          },
+          "valid": 5794,
+          "turnout": 5988,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3605
+    },
+    {
+      "id": "16314",
+      "name": "BENTO FERNANDES",
+      "uf": "RN",
+      "file": "municipalities/16314.jsonl.gz",
+      "records": 194,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3132,
+            "95": 26,
+            "22": 896,
+            "96": 79
+          },
+          "valid": 4028,
+          "turnout": 4133,
+          "sections": 19
+        },
+        "1": {
+          "votes": {
+            "22": 927,
+            "21": 1,
+            "95": 44,
+            "70": 110,
+            "14": 22,
+            "16": 1,
+            "55": 26,
+            "13": 2902,
+            "96": 115
+          },
+          "valid": 3989,
+          "turnout": 4148,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2602
+    },
+    {
+      "id": "17035",
+      "name": "BOA SAÚDE",
+      "uf": "RN",
+      "file": "municipalities/17035.jsonl.gz",
+      "records": 274,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 3665,
+            "80": 1,
+            "96": 301,
+            "55": 50,
+            "70": 188,
+            "95": 88,
+            "14": 66,
+            "16": 3,
+            "21": 2,
+            "29": 2,
+            "22": 2199,
+            "27": 1
+          },
+          "valid": 6177,
+          "turnout": 6566,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "22": 2178,
+            "95": 60,
+            "96": 269,
+            "13": 4109
+          },
+          "valid": 6287,
+          "turnout": 6616,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3682
+    },
+    {
+      "id": "16101",
+      "name": "BODÓ",
+      "uf": "RN",
+      "file": "municipalities/16101.jsonl.gz",
+      "records": 113,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 93,
+            "55": 20,
+            "13": 2094,
+            "95": 43,
+            "70": 57,
+            "80": 3,
+            "14": 29,
+            "22": 602
+          },
+          "valid": 2805,
+          "turnout": 2941,
+          "sections": 11
+        },
+        "2": {
+          "votes": {
+            "13": 2270,
+            "96": 63,
+            "95": 20,
+            "22": 589
+          },
+          "valid": 2859,
+          "turnout": 2942,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1706
+    },
+    {
+      "id": "16330",
+      "name": "BOM JESUS",
+      "uf": "RN",
+      "file": "municipalities/16330.jsonl.gz",
+      "records": 314,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 223,
+            "27": 1,
+            "55": 56,
+            "13": 4354,
+            "30": 2,
+            "95": 93,
+            "70": 196,
+            "80": 1,
+            "14": 84,
+            "16": 2,
+            "22": 2466
+          },
+          "valid": 7162,
+          "turnout": 7478,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "13": 4914,
+            "96": 225,
+            "95": 61,
+            "22": 2445
+          },
+          "valid": 7359,
+          "turnout": 7645,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4245
+    },
+    {
+      "id": "16357",
+      "name": "BREJINHO",
+      "uf": "RN",
+      "file": "municipalities/16357.jsonl.gz",
+      "records": 327,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 297,
+            "55": 79,
+            "13": 4750,
+            "30": 3,
+            "95": 140,
+            "70": 194,
+            "21": 2,
+            "14": 77,
+            "22": 2424
+          },
+          "valid": 7529,
+          "turnout": 7966,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "13": 5530,
+            "95": 80,
+            "22": 2432,
+            "96": 286
+          },
+          "valid": 7962,
+          "turnout": 8328,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4190
+    },
+    {
+      "id": "16390",
+      "name": "CAICÓ",
+      "uf": "RN",
+      "file": "municipalities/16390.jsonl.gz",
+      "records": 1545,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 1039,
+            "27": 12,
+            "55": 336,
+            "30": 31,
+            "13": 21376,
+            "35": 2,
+            "95": 605,
+            "70": 1199,
+            "21": 7,
+            "80": 21,
+            "28": 1,
+            "29": 1,
+            "14": 551,
+            "16": 10,
+            "22": 12738
+          },
+          "valid": 36285,
+          "turnout": 37929,
+          "sections": 137
+        },
+        "2": {
+          "votes": {
+            "13": 24689,
+            "96": 946,
+            "95": 352,
+            "22": 13042
+          },
+          "valid": 37731,
+          "turnout": 39029,
+          "sections": 137
+        }
+      },
+      "sections": 137,
+      "file_size_bytes": 25591
+    },
+    {
+      "id": "16047",
+      "name": "CAIÇARA DO NORTE",
+      "uf": "RN",
+      "file": "municipalities/16047.jsonl.gz",
+      "records": 195,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2536,
+            "80": 1,
+            "35": 1,
+            "96": 126,
+            "55": 19,
+            "70": 112,
+            "95": 61,
+            "14": 75,
+            "21": 1,
+            "16": 1,
+            "22": 1470
+          },
+          "valid": 4216,
+          "turnout": 4403,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "95": 40,
+            "22": 1397,
+            "96": 118,
+            "13": 2718
+          },
+          "valid": 4115,
+          "turnout": 4273,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2706
+    },
+    {
+      "id": "16373",
+      "name": "CAIÇARA DO RIO DO VENTO",
+      "uf": "RN",
+      "file": "municipalities/16373.jsonl.gz",
+      "records": 136,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 28,
+            "55": 22,
+            "80": 1,
+            "22": 1023,
+            "95": 29,
+            "70": 99,
+            "13": 2208,
+            "96": 103
+          },
+          "valid": 3381,
+          "turnout": 3513,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 105,
+            "13": 2377,
+            "22": 972,
+            "95": 18
+          },
+          "valid": 3349,
+          "turnout": 3472,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2092
+    },
+    {
+      "id": "16250",
+      "name": "CAMPO GRANDE",
+      "uf": "RN",
+      "file": "municipalities/16250.jsonl.gz",
+      "records": 341,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 154,
+            "95": 119,
+            "13": 4590,
+            "14": 90,
+            "16": 2,
+            "28": 1,
+            "80": 1,
+            "21": 5,
+            "55": 33,
+            "22": 2022,
+            "27": 1,
+            "96": 210
+          },
+          "valid": 6899,
+          "turnout": 7228,
+          "sections": 32
+        },
+        "2": {
+          "votes": {
+            "22": 1998,
+            "95": 65,
+            "13": 5119,
+            "96": 198
+          },
+          "valid": 7117,
+          "turnout": 7380,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 4340
+    },
+    {
+      "id": "16411",
+      "name": "CAMPO REDONDO",
+      "uf": "RN",
+      "file": "municipalities/16411.jsonl.gz",
+      "records": 280,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 5150,
+            "30": 2,
+            "80": 1,
+            "96": 211,
+            "70": 106,
+            "95": 109,
+            "14": 68,
+            "16": 1,
+            "55": 32,
+            "21": 2,
+            "22": 1330
+          },
+          "valid": 6692,
+          "turnout": 7012,
+          "sections": 26
+        },
+        "2": {
+          "votes": {
+            "13": 5514,
+            "95": 66,
+            "22": 1317,
+            "96": 186
+          },
+          "valid": 6831,
+          "turnout": 7083,
+          "sections": 26
+        }
+      },
+      "sections": 26,
+      "file_size_bytes": 3688
+    },
+    {
+      "id": "16438",
+      "name": "CANGUARETAMA",
+      "uf": "RN",
+      "file": "municipalities/16438.jsonl.gz",
+      "records": 921,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 455,
+            "95": 272,
+            "13": 13380,
+            "30": 4,
+            "35": 1,
+            "16": 1,
+            "14": 256,
+            "80": 3,
+            "55": 83,
+            "21": 1,
+            "22": 4971,
+            "27": 3,
+            "96": 537
+          },
+          "valid": 19158,
+          "turnout": 19967,
+          "sections": 88
+        },
+        "2": {
+          "votes": {
+            "95": 161,
+            "22": 4929,
+            "13": 14935,
+            "96": 522
+          },
+          "valid": 19864,
+          "turnout": 20547,
+          "sections": 88
+        }
+      },
+      "sections": 88,
+      "file_size_bytes": 12871
+    },
+    {
+      "id": "16454",
+      "name": "CARAÚBAS",
+      "uf": "RN",
+      "file": "municipalities/16454.jsonl.gz",
+      "records": 684,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 426,
+            "55": 103,
+            "13": 11048,
+            "30": 6,
+            "14": 249,
+            "21": 3,
+            "95": 305,
+            "70": 364,
+            "27": 2,
+            "22": 3295,
+            "28": 1,
+            "80": 6
+          },
+          "valid": 15077,
+          "turnout": 15808,
+          "sections": 63
+        },
+        "2": {
+          "votes": {
+            "22": 3359,
+            "95": 162,
+            "13": 12095,
+            "96": 494
+          },
+          "valid": 15454,
+          "turnout": 16110,
+          "sections": 63
+        }
+      },
+      "sections": 63,
+      "file_size_bytes": 9788
+    },
+    {
+      "id": "16497",
+      "name": "CARNAUBAIS",
+      "uf": "RN",
+      "file": "municipalities/16497.jsonl.gz",
+      "records": 295,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 185,
+            "13": 4791,
+            "30": 3,
+            "35": 1,
+            "14": 110,
+            "16": 2,
+            "95": 99,
+            "80": 1,
+            "28": 1,
+            "55": 27,
+            "21": 2,
+            "22": 1637,
+            "27": 1,
+            "96": 238
+          },
+          "valid": 6761,
+          "turnout": 7098,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "95": 62,
+            "22": 1738,
+            "13": 5288,
+            "96": 202
+          },
+          "valid": 7026,
+          "turnout": 7290,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 3979
+    },
+    {
+      "id": "16470",
+      "name": "CARNAÚBA DOS DANTAS",
+      "uf": "RN",
+      "file": "municipalities/16470.jsonl.gz",
+      "records": 195,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2382,
+            "30": 7,
+            "80": 3,
+            "35": 1,
+            "96": 233,
+            "55": 24,
+            "70": 362,
+            "95": 121,
+            "14": 90,
+            "21": 1,
+            "22": 2061,
+            "27": 2
+          },
+          "valid": 4933,
+          "turnout": 5287,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "95": 86,
+            "22": 2323,
+            "96": 210,
+            "13": 2894
+          },
+          "valid": 5217,
+          "turnout": 5513,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2750
+    },
+    {
+      "id": "16519",
+      "name": "CEARÁ-MIRIM",
+      "uf": "RN",
+      "file": "municipalities/16519.jsonl.gz",
+      "records": 2170,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 31895,
+            "30": 26,
+            "35": 3,
+            "80": 8,
+            "28": 1,
+            "96": 1519,
+            "55": 364,
+            "70": 1177,
+            "95": 865,
+            "14": 659,
+            "16": 16,
+            "21": 5,
+            "29": 2,
+            "22": 12957,
+            "27": 7
+          },
+          "valid": 47120,
+          "turnout": 49504,
+          "sections": 201
+        },
+        "2": {
+          "votes": {
+            "95": 478,
+            "22": 12929,
+            "96": 1443,
+            "13": 36107
+          },
+          "valid": 49036,
+          "turnout": 50957,
+          "sections": 201
+        }
+      },
+      "sections": 201,
+      "file_size_bytes": 48224
+    },
+    {
+      "id": "16535",
+      "name": "CERRO CORÁ",
+      "uf": "RN",
+      "file": "municipalities/16535.jsonl.gz",
+      "records": 315,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 91,
+            "21": 2,
+            "22": 1660,
+            "70": 209,
+            "29": 1,
+            "55": 51,
+            "14": 79,
+            "16": 1,
+            "13": 5130,
+            "30": 1,
+            "96": 301,
+            "27": 2
+          },
+          "valid": 7136,
+          "turnout": 7528,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "96": 247,
+            "13": 5655,
+            "95": 82,
+            "22": 1676
+          },
+          "valid": 7331,
+          "turnout": 7660,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 3854
+    },
+    {
+      "id": "16551",
+      "name": "CORONEL EZEQUIEL",
+      "uf": "RN",
+      "file": "municipalities/16551.jsonl.gz",
+      "records": 178,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 140,
+            "27": 2,
+            "55": 28,
+            "13": 2630,
+            "35": 1,
+            "30": 3,
+            "95": 50,
+            "70": 102,
+            "21": 2,
+            "14": 41,
+            "16": 2,
+            "22": 1021
+          },
+          "valid": 3832,
+          "turnout": 4022,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "13": 2843,
+            "96": 132,
+            "95": 40,
+            "22": 973
+          },
+          "valid": 3816,
+          "turnout": 3988,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2578
+    },
+    {
+      "id": "16578",
+      "name": "CORONEL JOÃO PESSOA",
+      "uf": "RN",
+      "file": "municipalities/16578.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 60,
+            "95": 37,
+            "13": 2430,
+            "30": 3,
+            "14": 66,
+            "55": 31,
+            "22": 568,
+            "96": 139
+          },
+          "valid": 3158,
+          "turnout": 3334,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "95": 31,
+            "22": 556,
+            "13": 2701,
+            "96": 105
+          },
+          "valid": 3257,
+          "turnout": 3393,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2490
+    },
+    {
+      "id": "16594",
+      "name": "CRUZETA",
+      "uf": "RN",
+      "file": "municipalities/16594.jsonl.gz",
+      "records": 229,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 50,
+            "55": 30,
+            "21": 5,
+            "22": 1479,
+            "95": 119,
+            "70": 180,
+            "13": 3654,
+            "96": 197
+          },
+          "valid": 5398,
+          "turnout": 5714,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 145,
+            "13": 4154,
+            "95": 69,
+            "22": 1521
+          },
+          "valid": 5675,
+          "turnout": 5889,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 2862
+    },
+    {
+      "id": "16616",
+      "name": "CURRAIS NOVOS",
+      "uf": "RN",
+      "file": "municipalities/16616.jsonl.gz",
+      "records": 1215,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 14921,
+            "30": 17,
+            "35": 1,
+            "80": 17,
+            "96": 863,
+            "55": 222,
+            "70": 791,
+            "95": 491,
+            "14": 380,
+            "16": 6,
+            "21": 2,
+            "29": 4,
+            "22": 8808,
+            "27": 6
+          },
+          "valid": 25175,
+          "turnout": 26529,
+          "sections": 109
+        },
+        "2": {
+          "votes": {
+            "95": 301,
+            "22": 9219,
+            "96": 787,
+            "13": 16991
+          },
+          "valid": 26210,
+          "turnout": 27298,
+          "sections": 109
+        }
+      },
+      "sections": 109,
+      "file_size_bytes": 17074
+    },
+    {
+      "id": "16632",
+      "name": "DOUTOR SEVERIANO",
+      "uf": "RN",
+      "file": "municipalities/16632.jsonl.gz",
+      "records": 246,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 47,
+            "21": 1,
+            "22": 758,
+            "70": 128,
+            "80": 1,
+            "55": 24,
+            "14": 82,
+            "13": 4046,
+            "35": 1,
+            "96": 124,
+            "27": 4
+          },
+          "valid": 5045,
+          "turnout": 5216,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 112,
+            "13": 4356,
+            "95": 46,
+            "22": 805
+          },
+          "valid": 5161,
+          "turnout": 5319,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3326
+    },
+    {
+      "id": "16659",
+      "name": "ENCANTO",
+      "uf": "RN",
+      "file": "municipalities/16659.jsonl.gz",
+      "records": 156,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 32,
+            "70": 51,
+            "13": 3137,
+            "30": 1,
+            "14": 66,
+            "16": 1,
+            "29": 1,
+            "21": 1,
+            "55": 12,
+            "22": 759,
+            "96": 131
+          },
+          "valid": 4029,
+          "turnout": 4192,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "22": 763,
+            "95": 23,
+            "13": 3543,
+            "96": 121
+          },
+          "valid": 4306,
+          "turnout": 4450,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2256
+    },
+    {
+      "id": "16675",
+      "name": "EQUADOR",
+      "uf": "RN",
+      "file": "municipalities/16675.jsonl.gz",
+      "records": 169,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 156,
+            "55": 22,
+            "13": 2470,
+            "14": 48,
+            "30": 1,
+            "21": 1,
+            "95": 60,
+            "70": 122,
+            "27": 1,
+            "22": 1097,
+            "80": 1
+          },
+          "valid": 3763,
+          "turnout": 3979,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "22": 1099,
+            "95": 43,
+            "13": 2749,
+            "96": 118
+          },
+          "valid": 3848,
+          "turnout": 4009,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2466
+    },
+    {
+      "id": "16691",
+      "name": "ESPÍRITO SANTO",
+      "uf": "RN",
+      "file": "municipalities/16691.jsonl.gz",
+      "records": 274,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 236,
+            "22": 2483,
+            "21": 2,
+            "55": 33,
+            "70": 112,
+            "13": 3306,
+            "30": 1,
+            "95": 109,
+            "35": 1,
+            "16": 5,
+            "14": 90,
+            "29": 2
+          },
+          "valid": 6035,
+          "turnout": 6380,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "96": 211,
+            "13": 3935,
+            "95": 67,
+            "22": 2348
+          },
+          "valid": 6283,
+          "turnout": 6561,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3863
+    },
+    {
+      "id": "16713",
+      "name": "EXTREMOZ",
+      "uf": "RN",
+      "file": "municipalities/16713.jsonl.gz",
+      "records": 1289,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 878,
+            "55": 254,
+            "30": 16,
+            "13": 15787,
+            "14": 606,
+            "16": 15,
+            "35": 1,
+            "29": 2,
+            "21": 4,
+            "95": 477,
+            "70": 938,
+            "27": 6,
+            "22": 13692,
+            "80": 12
+          },
+          "valid": 31333,
+          "turnout": 32688,
+          "sections": 116
+        },
+        "2": {
+          "votes": {
+            "22": 13823,
+            "95": 282,
+            "13": 18603,
+            "96": 900
+          },
+          "valid": 32426,
+          "turnout": 33608,
+          "sections": 116
+        }
+      },
+      "sections": 116,
+      "file_size_bytes": 20854
+    },
+    {
+      "id": "16730",
+      "name": "FELIPE GUERRA",
+      "uf": "RN",
+      "file": "municipalities/16730.jsonl.gz",
+      "records": 207,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 91,
+            "70": 109,
+            "13": 4477,
+            "30": 1,
+            "14": 82,
+            "55": 13,
+            "21": 1,
+            "22": 1091,
+            "96": 153
+          },
+          "valid": 5774,
+          "turnout": 6018,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "95": 44,
+            "22": 1165,
+            "13": 5017,
+            "96": 133
+          },
+          "valid": 6182,
+          "turnout": 6359,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2778
+    },
+    {
+      "id": "16144",
+      "name": "FERNANDO PEDROZA",
+      "uf": "RN",
+      "file": "municipalities/16144.jsonl.gz",
+      "records": 128,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 108,
+            "55": 16,
+            "30": 1,
+            "13": 1763,
+            "14": 20,
+            "95": 34,
+            "70": 41,
+            "22": 871,
+            "80": 5
+          },
+          "valid": 2717,
+          "turnout": 2859,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "22": 767,
+            "95": 23,
+            "13": 1809,
+            "96": 82
+          },
+          "valid": 2576,
+          "turnout": 2681,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1891
+    },
+    {
+      "id": "16756",
+      "name": "FLORÂNIA",
+      "uf": "RN",
+      "file": "municipalities/16756.jsonl.gz",
+      "records": 316,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 63,
+            "27": 2,
+            "22": 1722,
+            "70": 193,
+            "80": 1,
+            "29": 1,
+            "55": 76,
+            "14": 71,
+            "16": 2,
+            "13": 4517,
+            "30": 3,
+            "96": 217
+          },
+          "valid": 6588,
+          "turnout": 6868,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "96": 218,
+            "13": 5014,
+            "95": 45,
+            "22": 1785
+          },
+          "valid": 6799,
+          "turnout": 7062,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 4024
+    },
+    {
+      "id": "16772",
+      "name": "FRANCISCO DANTAS",
+      "uf": "RN",
+      "file": "municipalities/16772.jsonl.gz",
+      "records": 133,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 76,
+            "22": 486,
+            "55": 14,
+            "80": 2,
+            "70": 61,
+            "13": 1754,
+            "95": 15,
+            "30": 2,
+            "14": 30,
+            "16": 1
+          },
+          "valid": 2350,
+          "turnout": 2441,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 56,
+            "22": 487,
+            "95": 11,
+            "13": 1926
+          },
+          "valid": 2413,
+          "turnout": 2480,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2020
+    },
+    {
+      "id": "17515",
+      "name": "FRUTUOSO GOMES",
+      "uf": "RN",
+      "file": "municipalities/17515.jsonl.gz",
+      "records": 146,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 56,
+            "55": 20,
+            "13": 2677,
+            "14": 51,
+            "21": 1,
+            "95": 42,
+            "70": 57,
+            "22": 608,
+            "80": 2
+          },
+          "valid": 3416,
+          "turnout": 3514,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "22": 588,
+            "95": 29,
+            "13": 2860,
+            "96": 43
+          },
+          "valid": 3448,
+          "turnout": 3520,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2021
+    },
+    {
+      "id": "16799",
+      "name": "GALINHOS",
+      "uf": "RN",
+      "file": "municipalities/16799.jsonl.gz",
+      "records": 104,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 28,
+            "70": 78,
+            "29": 1,
+            "22": 1089,
+            "80": 3,
+            "55": 10,
+            "14": 30,
+            "13": 1041,
+            "30": 1,
+            "96": 45
+          },
+          "valid": 2253,
+          "turnout": 2326,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "96": 52,
+            "13": 1051,
+            "95": 18,
+            "22": 1044
+          },
+          "valid": 2095,
+          "turnout": 2165,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1762
+    },
+    {
+      "id": "16810",
+      "name": "GOIANINHA",
+      "uf": "RN",
+      "file": "municipalities/16810.jsonl.gz",
+      "records": 774,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 350,
+            "70": 431,
+            "13": 10212,
+            "30": 6,
+            "35": 1,
+            "14": 205,
+            "16": 1,
+            "29": 1,
+            "80": 4,
+            "28": 3,
+            "55": 143,
+            "21": 6,
+            "22": 6322,
+            "27": 3,
+            "96": 659
+          },
+          "valid": 17338,
+          "turnout": 18347,
+          "sections": 70
+        },
+        "2": {
+          "votes": {
+            "95": 184,
+            "22": 6304,
+            "13": 11832,
+            "96": 542
+          },
+          "valid": 18136,
+          "turnout": 18862,
+          "sections": 70
+        }
+      },
+      "sections": 70,
+      "file_size_bytes": 11382
+    },
+    {
+      "id": "16837",
+      "name": "GOVERNADOR DIX-SEPT ROSADO",
+      "uf": "RN",
+      "file": "municipalities/16837.jsonl.gz",
+      "records": 418,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 7792,
+            "95": 83,
+            "22": 2156,
+            "96": 339
+          },
+          "valid": 9948,
+          "turnout": 10370,
+          "sections": 39
+        },
+        "1": {
+          "votes": {
+            "27": 2,
+            "14": 153,
+            "29": 1,
+            "22": 2133,
+            "21": 1,
+            "95": 199,
+            "13": 6889,
+            "35": 2,
+            "16": 1,
+            "55": 45,
+            "80": 2,
+            "70": 220,
+            "30": 1,
+            "96": 392
+          },
+          "valid": 9450,
+          "turnout": 10041,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 5031
+    },
+    {
+      "id": "16853",
+      "name": "GROSSOS",
+      "uf": "RN",
+      "file": "municipalities/16853.jsonl.gz",
+      "records": 340,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 253,
+            "55": 36,
+            "13": 4909,
+            "14": 107,
+            "30": 2,
+            "21": 1,
+            "95": 176,
+            "70": 241,
+            "27": 1,
+            "22": 2484,
+            "80": 2,
+            "28": 2
+          },
+          "valid": 7785,
+          "turnout": 8214,
+          "sections": 31
+        },
+        "2": {
+          "votes": {
+            "22": 2512,
+            "95": 111,
+            "13": 5513,
+            "96": 233
+          },
+          "valid": 8025,
+          "turnout": 8369,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 4807
+    },
+    {
+      "id": "16870",
+      "name": "GUAMARÉ",
+      "uf": "RN",
+      "file": "municipalities/16870.jsonl.gz",
+      "records": 490,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 161,
+            "21": 2,
+            "22": 3479,
+            "70": 451,
+            "29": 1,
+            "80": 2,
+            "55": 74,
+            "14": 156,
+            "16": 1,
+            "13": 7385,
+            "30": 4,
+            "35": 2,
+            "96": 346,
+            "27": 2
+          },
+          "valid": 11559,
+          "turnout": 12066,
+          "sections": 45
+        },
+        "2": {
+          "votes": {
+            "96": 312,
+            "13": 8343,
+            "95": 115,
+            "22": 3524
+          },
+          "valid": 11867,
+          "turnout": 12294,
+          "sections": 45
+        }
+      },
+      "sections": 45,
+      "file_size_bytes": 6955
+    },
+    {
+      "id": "16896",
+      "name": "IELMO MARINHO",
+      "uf": "RN",
+      "file": "municipalities/16896.jsonl.gz",
+      "records": 419,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 210,
+            "55": 64,
+            "30": 1,
+            "13": 6124,
+            "95": 125,
+            "70": 324,
+            "80": 1,
+            "14": 92,
+            "16": 2,
+            "22": 2811
+          },
+          "valid": 9419,
+          "turnout": 9754,
+          "sections": 40
+        },
+        "2": {
+          "votes": {
+            "13": 6619,
+            "96": 212,
+            "22": 2780,
+            "95": 86
+          },
+          "valid": 9399,
+          "turnout": 9697,
+          "sections": 40
+        }
+      },
+      "sections": 40,
+      "file_size_bytes": 6661
+    },
+    {
+      "id": "16918",
+      "name": "IPANGUAÇU",
+      "uf": "RN",
+      "file": "municipalities/16918.jsonl.gz",
+      "records": 404,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 222,
+            "27": 3,
+            "22": 2301,
+            "55": 28,
+            "70": 172,
+            "13": 7437,
+            "30": 7,
+            "35": 1,
+            "95": 113,
+            "14": 130,
+            "16": 1
+          },
+          "valid": 10080,
+          "turnout": 10415,
+          "sections": 39
+        },
+        "2": {
+          "votes": {
+            "96": 238,
+            "13": 8219,
+            "22": 2211,
+            "95": 59
+          },
+          "valid": 10430,
+          "turnout": 10727,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 5143
+    },
+    {
+      "id": "16934",
+      "name": "IPUEIRA",
+      "uf": "RN",
+      "file": "municipalities/16934.jsonl.gz",
+      "records": 71,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 12,
+            "70": 44,
+            "22": 441,
+            "55": 13,
+            "14": 16,
+            "13": 1276,
+            "96": 31
+          },
+          "valid": 1790,
+          "turnout": 1833,
+          "sections": 7
+        },
+        "2": {
+          "votes": {
+            "96": 23,
+            "13": 1365,
+            "22": 447,
+            "95": 16
+          },
+          "valid": 1812,
+          "turnout": 1851,
+          "sections": 7
+        }
+      },
+      "sections": 7,
+      "file_size_bytes": 1189
+    },
+    {
+      "id": "16080",
+      "name": "ITAJÁ",
+      "uf": "RN",
+      "file": "municipalities/16080.jsonl.gz",
+      "records": 227,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 75,
+            "55": 37,
+            "21": 1,
+            "29": 1,
+            "22": 1693,
+            "95": 80,
+            "70": 108,
+            "13": 3859,
+            "30": 1,
+            "96": 119
+          },
+          "valid": 5775,
+          "turnout": 5974,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 128,
+            "13": 4250,
+            "95": 45,
+            "22": 1667
+          },
+          "valid": 5917,
+          "turnout": 6090,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 2787
+    },
+    {
+      "id": "16950",
+      "name": "ITAÚ",
+      "uf": "RN",
+      "file": "municipalities/16950.jsonl.gz",
+      "records": 170,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 136,
+            "55": 24,
+            "13": 2930,
+            "16": 2,
+            "14": 67,
+            "95": 47,
+            "70": 102,
+            "22": 976
+          },
+          "valid": 4101,
+          "turnout": 4284,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "95": 37,
+            "22": 1028,
+            "13": 3205,
+            "96": 122
+          },
+          "valid": 4233,
+          "turnout": 4392,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2225
+    },
+    {
+      "id": "16993",
+      "name": "JANDAÍRA",
+      "uf": "RN",
+      "file": "municipalities/16993.jsonl.gz",
+      "records": 200,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 51,
+            "55": 23,
+            "22": 1514,
+            "95": 57,
+            "70": 126,
+            "13": 3384,
+            "30": 3,
+            "35": 1,
+            "96": 165,
+            "27": 2
+          },
+          "valid": 5104,
+          "turnout": 5326,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 145,
+            "13": 3554,
+            "95": 26,
+            "22": 1518
+          },
+          "valid": 5072,
+          "turnout": 5243,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 3084
+    },
+    {
+      "id": "17019",
+      "name": "JANDUÍS",
+      "uf": "RN",
+      "file": "municipalities/17019.jsonl.gz",
+      "records": 168,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2715,
+            "30": 1,
+            "80": 1,
+            "96": 83,
+            "55": 9,
+            "70": 51,
+            "95": 49,
+            "14": 37,
+            "21": 1,
+            "16": 1,
+            "22": 778
+          },
+          "valid": 3594,
+          "turnout": 3726,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "95": 30,
+            "22": 794,
+            "96": 75,
+            "13": 2891
+          },
+          "valid": 3685,
+          "turnout": 3790,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2341
+    },
+    {
+      "id": "17051",
+      "name": "JAPI",
+      "uf": "RN",
+      "file": "municipalities/17051.jsonl.gz",
+      "records": 179,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 32,
+            "55": 27,
+            "21": 2,
+            "22": 859,
+            "70": 76,
+            "95": 43,
+            "13": 3530,
+            "30": 2,
+            "96": 143
+          },
+          "valid": 4528,
+          "turnout": 4714,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "96": 134,
+            "13": 3707,
+            "95": 23,
+            "22": 850
+          },
+          "valid": 4557,
+          "turnout": 4714,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2631
+    },
+    {
+      "id": "17078",
+      "name": "JARDIM DE ANGICOS",
+      "uf": "RN",
+      "file": "municipalities/17078.jsonl.gz",
+      "records": 140,
+      "turns": {
+        "1": {
+          "votes": {
+            "16": 2,
+            "14": 27,
+            "55": 18,
+            "80": 1,
+            "22": 587,
+            "95": 28,
+            "70": 99,
+            "13": 1865,
+            "30": 1,
+            "35": 1,
+            "96": 66
+          },
+          "valid": 2601,
+          "turnout": 2695,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 48,
+            "13": 1944,
+            "95": 23,
+            "22": 591
+          },
+          "valid": 2535,
+          "turnout": 2606,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2254
+    },
+    {
+      "id": "17094",
+      "name": "JARDIM DE PIRANHAS",
+      "uf": "RN",
+      "file": "municipalities/17094.jsonl.gz",
+      "records": 369,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 7782,
+            "95": 50,
+            "22": 1782,
+            "96": 191
+          },
+          "valid": 9564,
+          "turnout": 9805,
+          "sections": 35
+        },
+        "1": {
+          "votes": {
+            "27": 2,
+            "22": 1680,
+            "95": 118,
+            "70": 198,
+            "13": 7115,
+            "14": 143,
+            "16": 3,
+            "55": 32,
+            "28": 1,
+            "80": 1,
+            "30": 4,
+            "96": 223
+          },
+          "valid": 9179,
+          "turnout": 9520,
+          "sections": 35
+        }
+      },
+      "sections": 35,
+      "file_size_bytes": 4956
+    },
+    {
+      "id": "17116",
+      "name": "JARDIM DO SERIDÓ",
+      "uf": "RN",
+      "file": "municipalities/17116.jsonl.gz",
+      "records": 379,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 137,
+            "55": 68,
+            "80": 5,
+            "29": 1,
+            "22": 2599,
+            "95": 209,
+            "70": 318,
+            "13": 5010,
+            "30": 5,
+            "96": 391,
+            "16": 1,
+            "27": 1
+          },
+          "valid": 8145,
+          "turnout": 8745,
+          "sections": 34
+        },
+        "2": {
+          "votes": {
+            "96": 332,
+            "13": 5752,
+            "95": 111,
+            "22": 2760
+          },
+          "valid": 8512,
+          "turnout": 8955,
+          "sections": 34
+        }
+      },
+      "sections": 34,
+      "file_size_bytes": 5014
+    },
+    {
+      "id": "16977",
+      "name": "JAÇANÃ",
+      "uf": "RN",
+      "file": "municipalities/16977.jsonl.gz",
+      "records": 217,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 3488,
+            "80": 1,
+            "30": 1,
+            "96": 186,
+            "55": 42,
+            "70": 115,
+            "95": 69,
+            "16": 6,
+            "14": 45,
+            "21": 1,
+            "22": 1293
+          },
+          "valid": 4992,
+          "turnout": 5247,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "95": 39,
+            "22": 1303,
+            "96": 168,
+            "13": 3837
+          },
+          "valid": 5140,
+          "turnout": 5347,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 3034
+    },
+    {
+      "id": "17175",
+      "name": "JOSÉ DA PENHA",
+      "uf": "RN",
+      "file": "municipalities/17175.jsonl.gz",
+      "records": 179,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 56,
+            "21": 1,
+            "22": 627,
+            "70": 55,
+            "29": 2,
+            "80": 1,
+            "55": 29,
+            "14": 32,
+            "13": 3329,
+            "35": 2,
+            "30": 1,
+            "96": 129
+          },
+          "valid": 4079,
+          "turnout": 4264,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "96": 104,
+            "13": 3708,
+            "95": 24,
+            "22": 658
+          },
+          "valid": 4366,
+          "turnout": 4494,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2611
+    },
+    {
+      "id": "17132",
+      "name": "JOÃO CÂMARA",
+      "uf": "RN",
+      "file": "municipalities/17132.jsonl.gz",
+      "records": 973,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 263,
+            "55": 111,
+            "21": 2,
+            "80": 4,
+            "29": 1,
+            "22": 6155,
+            "95": 330,
+            "70": 621,
+            "13": 14852,
+            "30": 12,
+            "35": 1,
+            "96": 651,
+            "16": 3,
+            "27": 4
+          },
+          "valid": 22029,
+          "turnout": 23010,
+          "sections": 93
+        },
+        "2": {
+          "votes": {
+            "96": 662,
+            "13": 16514,
+            "95": 201,
+            "22": 6266
+          },
+          "valid": 22780,
+          "turnout": 23643,
+          "sections": 93
+        }
+      },
+      "sections": 93,
+      "file_size_bytes": 18243
+    },
+    {
+      "id": "17159",
+      "name": "JOÃO DIAS",
+      "uf": "RN",
+      "file": "municipalities/17159.jsonl.gz",
+      "records": 109,
+      "turns": {
+        "1": {
+          "votes": {
+            "16": 1,
+            "14": 28,
+            "55": 9,
+            "21": 3,
+            "80": 2,
+            "22": 494,
+            "95": 26,
+            "70": 44,
+            "13": 1689,
+            "96": 89
+          },
+          "valid": 2270,
+          "turnout": 2385,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "96": 72,
+            "13": 1776,
+            "95": 14,
+            "22": 423
+          },
+          "valid": 2199,
+          "turnout": 2285,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1686
+    },
+    {
+      "id": "17191",
+      "name": "JUCURUTU",
+      "uf": "RN",
+      "file": "municipalities/17191.jsonl.gz",
+      "records": 613,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 155,
+            "27": 1,
+            "21": 6,
+            "22": 3261,
+            "70": 310,
+            "80": 1,
+            "55": 59,
+            "14": 156,
+            "13": 8585,
+            "35": 2,
+            "30": 4,
+            "96": 392
+          },
+          "valid": 12385,
+          "turnout": 12932,
+          "sections": 59
+        },
+        "2": {
+          "votes": {
+            "96": 380,
+            "13": 9356,
+            "22": 3326,
+            "95": 86
+          },
+          "valid": 12682,
+          "turnout": 13148,
+          "sections": 59
+        }
+      },
+      "sections": 59,
+      "file_size_bytes": 7901
+    },
+    {
+      "id": "16306",
+      "name": "JUNDIÁ",
+      "uf": "RN",
+      "file": "municipalities/16306.jsonl.gz",
+      "records": 162,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 35,
+            "16": 2,
+            "55": 32,
+            "21": 1,
+            "22": 1282,
+            "70": 120,
+            "95": 59,
+            "13": 2251,
+            "30": 1,
+            "96": 142
+          },
+          "valid": 3724,
+          "turnout": 3925,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "96": 115,
+            "13": 2512,
+            "95": 28,
+            "22": 1235
+          },
+          "valid": 3747,
+          "turnout": 3890,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2307
+    },
+    {
+      "id": "17230",
+      "name": "LAGOA D ANTA",
+      "uf": "RN",
+      "file": "municipalities/17230.jsonl.gz",
+      "records": 204,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 3586,
+            "30": 1,
+            "96": 153,
+            "55": 20,
+            "70": 82,
+            "80": 2,
+            "28": 1,
+            "95": 52,
+            "14": 54,
+            "29": 2,
+            "22": 1160,
+            "27": 1
+          },
+          "valid": 4909,
+          "turnout": 5114,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "95": 35,
+            "22": 1194,
+            "96": 105,
+            "13": 3928
+          },
+          "valid": 5122,
+          "turnout": 5262,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2812
+    },
+    {
+      "id": "17256",
+      "name": "LAGOA DE PEDRAS",
+      "uf": "RN",
+      "file": "municipalities/17256.jsonl.gz",
+      "records": 255,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 99,
+            "22": 1589,
+            "70": 160,
+            "29": 1,
+            "55": 48,
+            "14": 82,
+            "16": 3,
+            "13": 4148,
+            "30": 2,
+            "96": 244,
+            "27": 1
+          },
+          "valid": 6034,
+          "turnout": 6377,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "96": 203,
+            "13": 4737,
+            "95": 67,
+            "22": 1480
+          },
+          "valid": 6217,
+          "turnout": 6487,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3385
+    },
+    {
+      "id": "17272",
+      "name": "LAGOA DE VELHOS",
+      "uf": "RN",
+      "file": "municipalities/17272.jsonl.gz",
+      "records": 118,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 33,
+            "21": 1,
+            "22": 834,
+            "70": 82,
+            "80": 1,
+            "55": 16,
+            "14": 35,
+            "16": 1,
+            "13": 1665,
+            "96": 87,
+            "27": 1
+          },
+          "valid": 2636,
+          "turnout": 2756,
+          "sections": 11
+        },
+        "2": {
+          "votes": {
+            "96": 78,
+            "13": 1808,
+            "95": 16,
+            "22": 820
+          },
+          "valid": 2628,
+          "turnout": 2722,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1876
+    },
+    {
+      "id": "17299",
+      "name": "LAGOA NOVA",
+      "uf": "RN",
+      "file": "municipalities/17299.jsonl.gz",
+      "records": 474,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 7264,
+            "95": 104,
+            "22": 2732,
+            "96": 302
+          },
+          "valid": 9996,
+          "turnout": 10402,
+          "sections": 45
+        },
+        "1": {
+          "votes": {
+            "27": 1,
+            "14": 119,
+            "22": 2666,
+            "21": 2,
+            "95": 186,
+            "70": 249,
+            "13": 6509,
+            "16": 4,
+            "55": 60,
+            "80": 1,
+            "30": 2,
+            "96": 321
+          },
+          "valid": 9613,
+          "turnout": 10120,
+          "sections": 45
+        }
+      },
+      "sections": 45,
+      "file_size_bytes": 5604
+    },
+    {
+      "id": "17310",
+      "name": "LAGOA SALGADA",
+      "uf": "RN",
+      "file": "municipalities/17310.jsonl.gz",
+      "records": 316,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 156,
+            "21": 4,
+            "22": 2255,
+            "70": 139,
+            "29": 2,
+            "80": 2,
+            "55": 47,
+            "14": 82,
+            "16": 3,
+            "13": 4669,
+            "30": 3,
+            "96": 363,
+            "27": 1
+          },
+          "valid": 7207,
+          "turnout": 7726,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "96": 272,
+            "13": 5441,
+            "95": 104,
+            "22": 2294
+          },
+          "valid": 7735,
+          "turnout": 8111,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 4129
+    },
+    {
+      "id": "17337",
+      "name": "LAJES",
+      "uf": "RN",
+      "file": "municipalities/17337.jsonl.gz",
+      "records": 321,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 72,
+            "27": 2,
+            "21": 2,
+            "22": 1935,
+            "70": 189,
+            "80": 8,
+            "28": 1,
+            "55": 48,
+            "14": 109,
+            "13": 5008,
+            "30": 2,
+            "96": 210
+          },
+          "valid": 7304,
+          "turnout": 7586,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "96": 212,
+            "13": 5471,
+            "95": 61,
+            "22": 1872
+          },
+          "valid": 7343,
+          "turnout": 7616,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 4271
+    },
+    {
+      "id": "17353",
+      "name": "LAJES PINTADAS",
+      "uf": "RN",
+      "file": "municipalities/17353.jsonl.gz",
+      "records": 199,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 1,
+            "22": 1331,
+            "96": 124,
+            "21": 1,
+            "55": 22,
+            "13": 2695,
+            "30": 1,
+            "95": 67,
+            "70": 76,
+            "14": 43,
+            "16": 2
+          },
+          "valid": 4172,
+          "turnout": 4363,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 134,
+            "95": 35,
+            "22": 1161,
+            "13": 3052
+          },
+          "valid": 4213,
+          "turnout": 4382,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2881
+    },
+    {
+      "id": "17370",
+      "name": "LUCRÉCIA",
+      "uf": "RN",
+      "file": "municipalities/17370.jsonl.gz",
+      "records": 122,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2433,
+            "95": 21,
+            "22": 538,
+            "96": 57
+          },
+          "valid": 2971,
+          "turnout": 3049,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "14": 50,
+            "22": 567,
+            "21": 1,
+            "95": 22,
+            "13": 2252,
+            "55": 14,
+            "80": 1,
+            "70": 41,
+            "96": 56
+          },
+          "valid": 2926,
+          "turnout": 3004,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1727
+    },
+    {
+      "id": "17396",
+      "name": "LUÍS GOMES",
+      "uf": "RN",
+      "file": "municipalities/17396.jsonl.gz",
+      "records": 258,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 224,
+            "55": 14,
+            "13": 4426,
+            "35": 1,
+            "14": 45,
+            "21": 2,
+            "95": 70,
+            "70": 52,
+            "27": 1,
+            "22": 807
+          },
+          "valid": 5348,
+          "turnout": 5642,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "95": 36,
+            "22": 798,
+            "13": 4819,
+            "96": 160
+          },
+          "valid": 5617,
+          "turnout": 5813,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 3248
+    },
+    {
+      "id": "17434",
+      "name": "MACAU",
+      "uf": "RN",
+      "file": "municipalities/17434.jsonl.gz",
+      "records": 838,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 329,
+            "16": 6,
+            "55": 79,
+            "21": 2,
+            "80": 6,
+            "29": 1,
+            "22": 3551,
+            "95": 273,
+            "70": 431,
+            "30": 7,
+            "13": 12556,
+            "96": 447,
+            "27": 3
+          },
+          "valid": 16971,
+          "turnout": 17691,
+          "sections": 78
+        },
+        "2": {
+          "votes": {
+            "96": 412,
+            "13": 13990,
+            "95": 167,
+            "22": 3556
+          },
+          "valid": 17546,
+          "turnout": 18125,
+          "sections": 78
+        }
+      },
+      "sections": 78,
+      "file_size_bytes": 11716
+    },
+    {
+      "id": "17418",
+      "name": "MACAÍBA",
+      "uf": "RN",
+      "file": "municipalities/17418.jsonl.gz",
+      "records": 1907,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 1592,
+            "27": 14,
+            "55": 371,
+            "13": 25616,
+            "35": 2,
+            "30": 19,
+            "95": 753,
+            "70": 1277,
+            "21": 3,
+            "80": 22,
+            "28": 1,
+            "29": 3,
+            "14": 587,
+            "16": 5,
+            "22": 14839
+          },
+          "valid": 42759,
+          "turnout": 45104,
+          "sections": 172
+        },
+        "2": {
+          "votes": {
+            "13": 29317,
+            "96": 1374,
+            "95": 452,
+            "22": 15215
+          },
+          "valid": 44532,
+          "turnout": 46358,
+          "sections": 172
+        }
+      },
+      "sections": 172,
+      "file_size_bytes": 43664
+    },
+    {
+      "id": "16160",
+      "name": "MAJOR SALES",
+      "uf": "RN",
+      "file": "municipalities/16160.jsonl.gz",
+      "records": 102,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 1944,
+            "80": 1,
+            "96": 85,
+            "70": 56,
+            "95": 24,
+            "14": 31,
+            "55": 14,
+            "21": 1,
+            "29": 1,
+            "22": 438
+          },
+          "valid": 2486,
+          "turnout": 2595,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "22": 454,
+            "95": 13,
+            "96": 68,
+            "13": 2121
+          },
+          "valid": 2575,
+          "turnout": 2656,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1656
+    },
+    {
+      "id": "17450",
+      "name": "MARCELINO VIEIRA",
+      "uf": "RN",
+      "file": "municipalities/17450.jsonl.gz",
+      "records": 221,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 68,
+            "13": 4576,
+            "30": 2,
+            "14": 58,
+            "95": 64,
+            "55": 15,
+            "22": 942,
+            "96": 191
+          },
+          "valid": 5661,
+          "turnout": 5916,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "95": 30,
+            "22": 875,
+            "13": 4954,
+            "96": 158
+          },
+          "valid": 5829,
+          "turnout": 6017,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 2978
+    },
+    {
+      "id": "17477",
+      "name": "MARTINS",
+      "uf": "RN",
+      "file": "municipalities/17477.jsonl.gz",
+      "records": 269,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 81,
+            "16": 1,
+            "55": 38,
+            "80": 3,
+            "22": 1436,
+            "70": 110,
+            "95": 56,
+            "13": 4300,
+            "30": 2,
+            "96": 173
+          },
+          "valid": 5971,
+          "turnout": 6200,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "96": 166,
+            "13": 4751,
+            "95": 46,
+            "22": 1537
+          },
+          "valid": 6288,
+          "turnout": 6500,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3782
+    },
+    {
+      "id": "17493",
+      "name": "MAXARANGUAPE",
+      "uf": "RN",
+      "file": "municipalities/17493.jsonl.gz",
+      "records": 345,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 223,
+            "55": 65,
+            "13": 4958,
+            "30": 5,
+            "14": 72,
+            "21": 1,
+            "95": 131,
+            "70": 231,
+            "22": 2810,
+            "80": 6
+          },
+          "valid": 8148,
+          "turnout": 8502,
+          "sections": 32
+        },
+        "2": {
+          "votes": {
+            "95": 73,
+            "22": 2654,
+            "13": 5550,
+            "96": 205
+          },
+          "valid": 8204,
+          "turnout": 8482,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 4923
+    },
+    {
+      "id": "17213",
+      "name": "MESSIAS TARGINO",
+      "uf": "RN",
+      "file": "municipalities/17213.jsonl.gz",
+      "records": 187,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 50,
+            "22": 1099,
+            "70": 75,
+            "80": 1,
+            "55": 16,
+            "14": 56,
+            "13": 2586,
+            "96": 123
+          },
+          "valid": 3833,
+          "turnout": 4006,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "96": 103,
+            "13": 2776,
+            "95": 29,
+            "22": 1035
+          },
+          "valid": 3811,
+          "turnout": 3943,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2359
+    },
+    {
+      "id": "17531",
+      "name": "MONTANHAS",
+      "uf": "RN",
+      "file": "municipalities/17531.jsonl.gz",
+      "records": 365,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 5215,
+            "80": 3,
+            "30": 1,
+            "35": 1,
+            "96": 284,
+            "55": 43,
+            "70": 180,
+            "95": 121,
+            "14": 60,
+            "21": 3,
+            "22": 1797
+          },
+          "valid": 7303,
+          "turnout": 7708,
+          "sections": 35
+        },
+        "2": {
+          "votes": {
+            "22": 1748,
+            "95": 64,
+            "96": 253,
+            "13": 5801
+          },
+          "valid": 7549,
+          "turnout": 7866,
+          "sections": 35
+        }
+      },
+      "sections": 35,
+      "file_size_bytes": 4538
+    },
+    {
+      "id": "17558",
+      "name": "MONTE ALEGRE",
+      "uf": "RN",
+      "file": "municipalities/17558.jsonl.gz",
+      "records": 618,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 236,
+            "21": 1,
+            "22": 5043,
+            "70": 369,
+            "80": 6,
+            "29": 1,
+            "55": 93,
+            "14": 108,
+            "16": 3,
+            "13": 7772,
+            "30": 1,
+            "35": 1,
+            "96": 485,
+            "27": 1
+          },
+          "valid": 13399,
+          "turnout": 14120,
+          "sections": 58
+        },
+        "2": {
+          "votes": {
+            "96": 438,
+            "13": 8951,
+            "95": 164,
+            "22": 5076
+          },
+          "valid": 14027,
+          "turnout": 14629,
+          "sections": 58
+        }
+      },
+      "sections": 58,
+      "file_size_bytes": 8943
+    },
+    {
+      "id": "17574",
+      "name": "MONTE DAS GAMELEIRAS",
+      "uf": "RN",
+      "file": "municipalities/17574.jsonl.gz",
+      "records": 105,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 28,
+            "22": 875,
+            "70": 66,
+            "80": 1,
+            "55": 11,
+            "14": 29,
+            "16": 1,
+            "13": 1480,
+            "30": 1,
+            "96": 85
+          },
+          "valid": 2464,
+          "turnout": 2577,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "96": 83,
+            "13": 1604,
+            "95": 17,
+            "22": 811
+          },
+          "valid": 2415,
+          "turnout": 2515,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1711
+    },
+    {
+      "id": "17590",
+      "name": "MOSSORÓ",
+      "uf": "RN",
+      "file": "municipalities/17590.jsonl.gz",
+      "records": 6322,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 2930,
+            "27": 29,
+            "21": 20,
+            "22": 54321,
+            "70": 4986,
+            "80": 111,
+            "29": 12,
+            "28": 7,
+            "55": 1022,
+            "14": 4004,
+            "16": 46,
+            "30": 88,
+            "13": 85507,
+            "35": 18,
+            "96": 4897
+          },
+          "valid": 150171,
+          "turnout": 157998,
+          "sections": 564
+        },
+        "2": {
+          "votes": {
+            "96": 4919,
+            "13": 99790,
+            "95": 1644,
+            "22": 56965
+          },
+          "valid": 156755,
+          "turnout": 163318,
+          "sections": 564
+        }
+      },
+      "sections": 564,
+      "file_size_bytes": 154623
+    },
+    {
+      "id": "17612",
+      "name": "NATAL",
+      "uf": "RN",
+      "file": "municipalities/17612.jsonl.gz",
+      "records": 17449,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 213790,
+            "30": 681,
+            "35": 57,
+            "80": 510,
+            "28": 14,
+            "96": 12481,
+            "55": 5253,
+            "70": 13267,
+            "95": 6708,
+            "14": 9578,
+            "16": 226,
+            "21": 76,
+            "29": 69,
+            "22": 192739,
+            "27": 131
+          },
+          "valid": 436391,
+          "turnout": 455580,
+          "sections": 1477
+        },
+        "2": {
+          "votes": {
+            "22": 202844,
+            "95": 4221,
+            "96": 12681,
+            "13": 258155
+          },
+          "valid": 460999,
+          "turnout": 477901,
+          "sections": 1477
+        }
+      },
+      "sections": 1477,
+      "file_size_bytes": 561853
+    },
+    {
+      "id": "17655",
+      "name": "NOVA CRUZ",
+      "uf": "RN",
+      "file": "municipalities/17655.jsonl.gz",
+      "records": 1045,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 784,
+            "55": 112,
+            "30": 11,
+            "13": 13168,
+            "14": 244,
+            "35": 1,
+            "29": 3,
+            "16": 2,
+            "21": 4,
+            "95": 410,
+            "70": 484,
+            "27": 1,
+            "22": 7238,
+            "28": 1,
+            "80": 4
+          },
+          "valid": 21273,
+          "turnout": 22467,
+          "sections": 97
+        },
+        "2": {
+          "votes": {
+            "22": 7192,
+            "95": 210,
+            "13": 15158,
+            "96": 696
+          },
+          "valid": 22350,
+          "turnout": 23256,
+          "sections": 97
+        }
+      },
+      "sections": 97,
+      "file_size_bytes": 14160
+    },
+    {
+      "id": "17639",
+      "name": "NÍSIA FLORESTA",
+      "uf": "RN",
+      "file": "municipalities/17639.jsonl.gz",
+      "records": 797,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 10173,
+            "30": 3,
+            "80": 8,
+            "96": 596,
+            "70": 493,
+            "55": 137,
+            "95": 316,
+            "14": 245,
+            "16": 3,
+            "22": 7562,
+            "27": 5
+          },
+          "valid": 18629,
+          "turnout": 19541,
+          "sections": 74
+        },
+        "2": {
+          "votes": {
+            "22": 7369,
+            "95": 192,
+            "96": 598,
+            "13": 11334
+          },
+          "valid": 18703,
+          "turnout": 19493,
+          "sections": 74
+        }
+      },
+      "sections": 74,
+      "file_size_bytes": 13384
+    },
+    {
+      "id": "17671",
+      "name": "OLHO D ÁGUA DO BORGES",
+      "uf": "RN",
+      "file": "municipalities/17671.jsonl.gz",
+      "records": 193,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2895,
+            "22": 824,
+            "95": 29,
+            "96": 125
+          },
+          "valid": 3719,
+          "turnout": 3873,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "14": 48,
+            "22": 851,
+            "95": 63,
+            "13": 2605,
+            "30": 2,
+            "55": 19,
+            "80": 3,
+            "70": 83,
+            "96": 122
+          },
+          "valid": 3611,
+          "turnout": 3796,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2536
+    },
+    {
+      "id": "17698",
+      "name": "OURO BRANCO",
+      "uf": "RN",
+      "file": "municipalities/17698.jsonl.gz",
+      "records": 155,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 126,
+            "55": 24,
+            "13": 2406,
+            "95": 64,
+            "70": 103,
+            "21": 1,
+            "80": 2,
+            "29": 1,
+            "14": 55,
+            "16": 1,
+            "22": 975
+          },
+          "valid": 3568,
+          "turnout": 3758,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "13": 2679,
+            "95": 30,
+            "22": 1043,
+            "96": 108
+          },
+          "valid": 3722,
+          "turnout": 3860,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2329
+    },
+    {
+      "id": "17710",
+      "name": "PARANÁ",
+      "uf": "RN",
+      "file": "municipalities/17710.jsonl.gz",
+      "records": 135,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2804,
+            "95": 12,
+            "22": 424,
+            "96": 85
+          },
+          "valid": 3228,
+          "turnout": 3325,
+          "sections": 14
+        },
+        "1": {
+          "votes": {
+            "27": 1,
+            "22": 461,
+            "95": 28,
+            "13": 2700,
+            "14": 30,
+            "55": 17,
+            "80": 1,
+            "70": 32,
+            "96": 89
+          },
+          "valid": 3242,
+          "turnout": 3359,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 1960
+    },
+    {
+      "id": "17752",
+      "name": "PARAZINHO",
+      "uf": "RN",
+      "file": "municipalities/17752.jsonl.gz",
+      "records": 180,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 41,
+            "55": 20,
+            "21": 1,
+            "28": 1,
+            "22": 1337,
+            "95": 46,
+            "70": 81,
+            "13": 2871,
+            "30": 1,
+            "96": 137
+          },
+          "valid": 4353,
+          "turnout": 4536,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "96": 133,
+            "13": 3113,
+            "95": 39,
+            "22": 1298
+          },
+          "valid": 4411,
+          "turnout": 4583,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2532
+    },
+    {
+      "id": "17736",
+      "name": "PARAÚ",
+      "uf": "RN",
+      "file": "municipalities/17736.jsonl.gz",
+      "records": 194,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 103,
+            "13": 2319,
+            "30": 3,
+            "14": 37,
+            "95": 53,
+            "80": 1,
+            "28": 1,
+            "55": 9,
+            "21": 2,
+            "22": 963,
+            "27": 2,
+            "96": 136
+          },
+          "valid": 3440,
+          "turnout": 3629,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "22": 896,
+            "13": 2487,
+            "95": 24,
+            "96": 103
+          },
+          "valid": 3383,
+          "turnout": 3510,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2579
+    },
+    {
+      "id": "17779",
+      "name": "PARELHAS",
+      "uf": "RN",
+      "file": "municipalities/17779.jsonl.gz",
+      "records": 634,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 365,
+            "27": 4,
+            "22": 5159,
+            "70": 821,
+            "29": 3,
+            "80": 7,
+            "55": 83,
+            "16": 2,
+            "14": 250,
+            "13": 7308,
+            "35": 2,
+            "30": 6,
+            "96": 677
+          },
+          "valid": 13645,
+          "turnout": 14687,
+          "sections": 57
+        },
+        "2": {
+          "votes": {
+            "96": 557,
+            "13": 8811,
+            "95": 206,
+            "22": 5521
+          },
+          "valid": 14332,
+          "turnout": 15095,
+          "sections": 57
+        }
+      },
+      "sections": 57,
+      "file_size_bytes": 8786
+    },
+    {
+      "id": "17795",
+      "name": "PARNAMIRIM",
+      "uf": "RN",
+      "file": "municipalities/17795.jsonl.gz",
+      "records": 4981,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 3269,
+            "55": 1240,
+            "13": 49084,
+            "30": 156,
+            "35": 14,
+            "14": 2720,
+            "16": 50,
+            "29": 7,
+            "21": 10,
+            "95": 1905,
+            "70": 3739,
+            "27": 44,
+            "22": 59345,
+            "80": 134,
+            "28": 2
+          },
+          "valid": 116545,
+          "turnout": 121719,
+          "sections": 427
+        },
+        "2": {
+          "votes": {
+            "22": 61690,
+            "95": 1276,
+            "13": 59088,
+            "96": 3327
+          },
+          "valid": 120778,
+          "turnout": 125381,
+          "sections": 427
+        }
+      },
+      "sections": 427,
+      "file_size_bytes": 121198
+    },
+    {
+      "id": "17817",
+      "name": "PASSA E FICA",
+      "uf": "RN",
+      "file": "municipalities/17817.jsonl.gz",
+      "records": 349,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5107,
+            "95": 91,
+            "22": 2953,
+            "96": 335
+          },
+          "valid": 8060,
+          "turnout": 8486,
+          "sections": 31
+        },
+        "1": {
+          "votes": {
+            "29": 1,
+            "22": 2928,
+            "21": 1,
+            "95": 144,
+            "70": 212,
+            "13": 4469,
+            "14": 102,
+            "16": 3,
+            "55": 54,
+            "80": 7,
+            "28": 1,
+            "30": 4,
+            "35": 1,
+            "96": 312
+          },
+          "valid": 7783,
+          "turnout": 8239,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 4511
+    },
+    {
+      "id": "17833",
+      "name": "PASSAGEM",
+      "uf": "RN",
+      "file": "municipalities/17833.jsonl.gz",
+      "records": 142,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 127,
+            "27": 2,
+            "55": 27,
+            "13": 2090,
+            "95": 56,
+            "70": 112,
+            "80": 5,
+            "14": 27,
+            "22": 1377
+          },
+          "valid": 3640,
+          "turnout": 3823,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "13": 2335,
+            "96": 104,
+            "95": 32,
+            "22": 1344
+          },
+          "valid": 3679,
+          "turnout": 3815,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2012
+    },
+    {
+      "id": "17850",
+      "name": "PATU",
+      "uf": "RN",
+      "file": "municipalities/17850.jsonl.gz",
+      "records": 313,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 97,
+            "22": 2113,
+            "70": 185,
+            "80": 4,
+            "55": 40,
+            "14": 125,
+            "13": 5488,
+            "30": 7,
+            "96": 251
+          },
+          "valid": 7962,
+          "turnout": 8310,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "96": 219,
+            "13": 5960,
+            "95": 62,
+            "22": 2228
+          },
+          "valid": 8188,
+          "turnout": 8469,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 3749
+    },
+    {
+      "id": "17876",
+      "name": "PAU DOS FERROS",
+      "uf": "RN",
+      "file": "municipalities/17876.jsonl.gz",
+      "records": 779,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 13111,
+            "95": 151,
+            "22": 4569,
+            "96": 392
+          },
+          "valid": 17680,
+          "turnout": 18223,
+          "sections": 72
+        },
+        "1": {
+          "votes": {
+            "27": 2,
+            "14": 315,
+            "29": 3,
+            "22": 4466,
+            "21": 1,
+            "95": 237,
+            "70": 271,
+            "13": 11673,
+            "35": 2,
+            "16": 1,
+            "55": 106,
+            "80": 5,
+            "28": 1,
+            "30": 10,
+            "96": 465
+          },
+          "valid": 16856,
+          "turnout": 17558,
+          "sections": 72
+        }
+      },
+      "sections": 72,
+      "file_size_bytes": 10192
+    },
+    {
+      "id": "17892",
+      "name": "PEDRA GRANDE",
+      "uf": "RN",
+      "file": "municipalities/17892.jsonl.gz",
+      "records": 153,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 82,
+            "27": 1,
+            "55": 21,
+            "13": 2292,
+            "30": 1,
+            "95": 30,
+            "70": 100,
+            "14": 28,
+            "16": 1,
+            "22": 832
+          },
+          "valid": 3276,
+          "turnout": 3388,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "13": 2458,
+            "96": 75,
+            "95": 18,
+            "22": 819
+          },
+          "valid": 3277,
+          "turnout": 3370,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2425
+    },
+    {
+      "id": "17914",
+      "name": "PEDRA PRETA",
+      "uf": "RN",
+      "file": "municipalities/17914.jsonl.gz",
+      "records": 108,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 1692,
+            "30": 3,
+            "96": 72,
+            "70": 58,
+            "95": 19,
+            "14": 30,
+            "55": 18,
+            "22": 833
+          },
+          "valid": 2634,
+          "turnout": 2725,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "95": 13,
+            "22": 744,
+            "96": 72,
+            "13": 1765
+          },
+          "valid": 2509,
+          "turnout": 2594,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1696
+    },
+    {
+      "id": "17930",
+      "name": "PEDRO AVELINO",
+      "uf": "RN",
+      "file": "municipalities/17930.jsonl.gz",
+      "records": 233,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 171,
+            "55": 33,
+            "13": 3214,
+            "30": 3,
+            "95": 58,
+            "70": 96,
+            "21": 3,
+            "80": 2,
+            "28": 1,
+            "14": 71,
+            "22": 1312
+          },
+          "valid": 4735,
+          "turnout": 4964,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "13": 3416,
+            "96": 142,
+            "22": 1156,
+            "95": 29
+          },
+          "valid": 4572,
+          "turnout": 4743,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3254
+    },
+    {
+      "id": "17957",
+      "name": "PEDRO VELHO",
+      "uf": "RN",
+      "file": "municipalities/17957.jsonl.gz",
+      "records": 452,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 339,
+            "27": 2,
+            "22": 2551,
+            "55": 55,
+            "80": 2,
+            "70": 183,
+            "13": 6346,
+            "30": 4,
+            "35": 1,
+            "95": 137,
+            "14": 104,
+            "16": 1
+          },
+          "valid": 9249,
+          "turnout": 9725,
+          "sections": 43
+        },
+        "2": {
+          "votes": {
+            "96": 295,
+            "13": 7005,
+            "22": 2503,
+            "95": 70
+          },
+          "valid": 9508,
+          "turnout": 9873,
+          "sections": 43
+        }
+      },
+      "sections": 43,
+      "file_size_bytes": 5592
+    },
+    {
+      "id": "17973",
+      "name": "PENDÊNCIAS",
+      "uf": "RN",
+      "file": "municipalities/17973.jsonl.gz",
+      "records": 405,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 225,
+            "27": 2,
+            "55": 47,
+            "13": 6152,
+            "30": 2,
+            "35": 1,
+            "95": 109,
+            "70": 154,
+            "80": 5,
+            "14": 127,
+            "16": 2,
+            "22": 1752
+          },
+          "valid": 8244,
+          "turnout": 8578,
+          "sections": 38
+        },
+        "2": {
+          "votes": {
+            "13": 6811,
+            "96": 216,
+            "95": 63,
+            "22": 1808
+          },
+          "valid": 8619,
+          "turnout": 8898,
+          "sections": 38
+        }
+      },
+      "sections": 38,
+      "file_size_bytes": 5492
+    },
+    {
+      "id": "17990",
+      "name": "PILÕES",
+      "uf": "RN",
+      "file": "municipalities/17990.jsonl.gz",
+      "records": 122,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 26,
+            "22": 406,
+            "70": 27,
+            "55": 16,
+            "14": 31,
+            "13": 2330,
+            "30": 1,
+            "96": 51,
+            "27": 1
+          },
+          "valid": 2812,
+          "turnout": 2889,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 50,
+            "13": 2459,
+            "95": 17,
+            "22": 416
+          },
+          "valid": 2875,
+          "turnout": 2942,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1921
+    },
+    {
+      "id": "18031",
+      "name": "PORTALEGRE",
+      "uf": "RN",
+      "file": "municipalities/18031.jsonl.gz",
+      "records": 222,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 59,
+            "55": 46,
+            "21": 1,
+            "80": 3,
+            "22": 1768,
+            "95": 101,
+            "70": 113,
+            "13": 3291,
+            "30": 9,
+            "96": 190
+          },
+          "valid": 5290,
+          "turnout": 5581,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "96": 212,
+            "13": 3644,
+            "95": 47,
+            "22": 1904
+          },
+          "valid": 5548,
+          "turnout": 5807,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2958
+    },
+    {
+      "id": "16284",
+      "name": "PORTO DO MANGUE",
+      "uf": "RN",
+      "file": "municipalities/16284.jsonl.gz",
+      "records": 167,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3143,
+            "22": 815,
+            "95": 29,
+            "96": 121
+          },
+          "valid": 3958,
+          "turnout": 4108,
+          "sections": 16
+        },
+        "1": {
+          "votes": {
+            "29": 1,
+            "22": 823,
+            "95": 50,
+            "13": 2980,
+            "14": 71,
+            "16": 1,
+            "55": 10,
+            "70": 124,
+            "96": 112
+          },
+          "valid": 4010,
+          "turnout": 4172,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2382
+    },
+    {
+      "id": "18015",
+      "name": "POÇO BRANCO",
+      "uf": "RN",
+      "file": "municipalities/18015.jsonl.gz",
+      "records": 444,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 109,
+            "55": 47,
+            "21": 1,
+            "80": 5,
+            "28": 1,
+            "22": 1756,
+            "95": 146,
+            "70": 195,
+            "30": 3,
+            "13": 7013,
+            "35": 2,
+            "96": 304,
+            "16": 1,
+            "27": 1
+          },
+          "valid": 9134,
+          "turnout": 9584,
+          "sections": 43
+        },
+        "2": {
+          "votes": {
+            "96": 214,
+            "13": 7573,
+            "95": 68,
+            "22": 1766
+          },
+          "valid": 9339,
+          "turnout": 9621,
+          "sections": 43
+        }
+      },
+      "sections": 43,
+      "file_size_bytes": 6436
+    },
+    {
+      "id": "18074",
+      "name": "PUREZA",
+      "uf": "RN",
+      "file": "municipalities/18074.jsonl.gz",
+      "records": 314,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 254,
+            "27": 1,
+            "22": 1690,
+            "21": 1,
+            "55": 31,
+            "70": 131,
+            "13": 4754,
+            "95": 116,
+            "30": 1,
+            "14": 66,
+            "16": 1
+          },
+          "valid": 6676,
+          "turnout": 7046,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "96": 196,
+            "13": 5067,
+            "95": 57,
+            "22": 1694
+          },
+          "valid": 6761,
+          "turnout": 7014,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4646
+    },
+    {
+      "id": "18090",
+      "name": "RAFAEL FERNANDES",
+      "uf": "RN",
+      "file": "municipalities/18090.jsonl.gz",
+      "records": 155,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 128,
+            "55": 9,
+            "13": 3032,
+            "30": 1,
+            "95": 60,
+            "70": 53,
+            "29": 1,
+            "14": 69,
+            "16": 1,
+            "22": 744
+          },
+          "valid": 3910,
+          "turnout": 4098,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "13": 3389,
+            "95": 28,
+            "22": 790,
+            "96": 118
+          },
+          "valid": 4179,
+          "turnout": 4325,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2229
+    },
+    {
+      "id": "18937",
+      "name": "RAFAEL GODEIRO",
+      "uf": "RN",
+      "file": "municipalities/18937.jsonl.gz",
+      "records": 115,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 35,
+            "55": 8,
+            "80": 3,
+            "29": 1,
+            "22": 1268,
+            "70": 26,
+            "95": 28,
+            "13": 1594,
+            "30": 1,
+            "96": 52,
+            "16": 1
+          },
+          "valid": 2937,
+          "turnout": 3017,
+          "sections": 11
+        },
+        "2": {
+          "votes": {
+            "96": 46,
+            "13": 1908,
+            "95": 16,
+            "22": 988
+          },
+          "valid": 2896,
+          "turnout": 2958,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1839
+    },
+    {
+      "id": "18112",
+      "name": "RIACHO DA CRUZ",
+      "uf": "RN",
+      "file": "municipalities/18112.jsonl.gz",
+      "records": 91,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 1787,
+            "95": 10,
+            "22": 495,
+            "96": 47
+          },
+          "valid": 2282,
+          "turnout": 2339,
+          "sections": 9
+        },
+        "1": {
+          "votes": {
+            "22": 499,
+            "21": 1,
+            "95": 24,
+            "13": 1712,
+            "14": 22,
+            "55": 15,
+            "70": 29,
+            "96": 62
+          },
+          "valid": 2278,
+          "turnout": 2364,
+          "sections": 9
+        }
+      },
+      "sections": 9,
+      "file_size_bytes": 1565
+    },
+    {
+      "id": "18139",
+      "name": "RIACHO DE SANTANA",
+      "uf": "RN",
+      "file": "municipalities/18139.jsonl.gz",
+      "records": 119,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2436,
+            "80": 1,
+            "96": 119,
+            "55": 17,
+            "70": 59,
+            "95": 26,
+            "14": 36,
+            "21": 1,
+            "22": 470
+          },
+          "valid": 3020,
+          "turnout": 3165,
+          "sections": 11
+        },
+        "2": {
+          "votes": {
+            "22": 492,
+            "96": 91,
+            "13": 2709,
+            "95": 23
+          },
+          "valid": 3201,
+          "turnout": 3315,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1743
+    },
+    {
+      "id": "18155",
+      "name": "RIACHUELO",
+      "uf": "RN",
+      "file": "municipalities/18155.jsonl.gz",
+      "records": 222,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 3609,
+            "30": 2,
+            "80": 3,
+            "96": 154,
+            "55": 33,
+            "70": 93,
+            "95": 45,
+            "14": 45,
+            "22": 1781
+          },
+          "valid": 5566,
+          "turnout": 5765,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "95": 26,
+            "22": 1734,
+            "96": 141,
+            "13": 4040
+          },
+          "valid": 5774,
+          "turnout": 5941,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 2910
+    },
+    {
+      "id": "16268",
+      "name": "RIO DO FOGO",
+      "uf": "RN",
+      "file": "municipalities/16268.jsonl.gz",
+      "records": 392,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 209,
+            "27": 1,
+            "22": 3468,
+            "21": 2,
+            "55": 47,
+            "80": 5,
+            "70": 206,
+            "13": 4901,
+            "35": 1,
+            "30": 4,
+            "95": 139,
+            "14": 114
+          },
+          "valid": 8749,
+          "turnout": 9097,
+          "sections": 37
+        },
+        "2": {
+          "votes": {
+            "96": 204,
+            "95": 79,
+            "22": 3369,
+            "13": 5315
+          },
+          "valid": 8684,
+          "turnout": 8967,
+          "sections": 37
+        }
+      },
+      "sections": 37,
+      "file_size_bytes": 5402
+    },
+    {
+      "id": "18171",
+      "name": "RODOLFO FERNANDES",
+      "uf": "RN",
+      "file": "municipalities/18171.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2488,
+            "30": 2,
+            "96": 105,
+            "70": 81,
+            "55": 13,
+            "80": 1,
+            "95": 32,
+            "14": 50,
+            "21": 1,
+            "22": 1095
+          },
+          "valid": 3731,
+          "turnout": 3868,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "95": 21,
+            "22": 1083,
+            "96": 106,
+            "13": 2659
+          },
+          "valid": 3742,
+          "turnout": 3869,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2145
+    },
+    {
+      "id": "18198",
+      "name": "RUY BARBOSA",
+      "uf": "RN",
+      "file": "municipalities/18198.jsonl.gz",
+      "records": 136,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 32,
+            "22": 1503,
+            "70": 55,
+            "55": 17,
+            "14": 38,
+            "16": 1,
+            "13": 1637,
+            "30": 1,
+            "96": 88
+          },
+          "valid": 3252,
+          "turnout": 3372,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 85,
+            "13": 1820,
+            "95": 24,
+            "22": 1350
+          },
+          "valid": 3170,
+          "turnout": 3279,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2033
+    },
+    {
+      "id": "18236",
+      "name": "SANTA CRUZ",
+      "uf": "RN",
+      "file": "municipalities/18236.jsonl.gz",
+      "records": 963,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 326,
+            "16": 8,
+            "55": 148,
+            "21": 4,
+            "80": 13,
+            "28": 1,
+            "29": 1,
+            "22": 6826,
+            "95": 359,
+            "70": 482,
+            "13": 13899,
+            "30": 15,
+            "96": 679
+          },
+          "valid": 21723,
+          "turnout": 22761,
+          "sections": 87
+        },
+        "2": {
+          "votes": {
+            "96": 616,
+            "13": 15632,
+            "95": 215,
+            "22": 6918
+          },
+          "valid": 22550,
+          "turnout": 23381,
+          "sections": 87
+        }
+      },
+      "sections": 87,
+      "file_size_bytes": 12176
+    },
+    {
+      "id": "16241",
+      "name": "SANTA MARIA",
+      "uf": "RN",
+      "file": "municipalities/16241.jsonl.gz",
+      "records": 175,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 125,
+            "27": 1,
+            "22": 1314,
+            "21": 1,
+            "55": 24,
+            "80": 1,
+            "70": 122,
+            "13": 2502,
+            "30": 3,
+            "95": 54,
+            "14": 32,
+            "29": 1
+          },
+          "valid": 4001,
+          "turnout": 4180,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 98,
+            "95": 42,
+            "22": 1307,
+            "13": 2790
+          },
+          "valid": 4097,
+          "turnout": 4237,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2497
+    },
+    {
+      "id": "18279",
+      "name": "SANTANA DO MATOS",
+      "uf": "RN",
+      "file": "municipalities/18279.jsonl.gz",
+      "records": 405,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 287,
+            "27": 3,
+            "55": 57,
+            "13": 6393,
+            "30": 2,
+            "35": 2,
+            "95": 141,
+            "70": 203,
+            "21": 1,
+            "80": 2,
+            "14": 61,
+            "16": 2,
+            "22": 1849
+          },
+          "valid": 8575,
+          "turnout": 9003,
+          "sections": 38
+        },
+        "2": {
+          "votes": {
+            "13": 6933,
+            "95": 62,
+            "22": 1912,
+            "96": 257
+          },
+          "valid": 8845,
+          "turnout": 9164,
+          "sections": 38
+        }
+      },
+      "sections": 38,
+      "file_size_bytes": 5709
+    },
+    {
+      "id": "18252",
+      "name": "SANTANA DO SERIDÓ",
+      "uf": "RN",
+      "file": "municipalities/18252.jsonl.gz",
+      "records": 119,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 1264,
+            "96": 95,
+            "55": 20,
+            "70": 139,
+            "80": 1,
+            "95": 58,
+            "14": 39,
+            "21": 1,
+            "29": 2,
+            "22": 645
+          },
+          "valid": 2111,
+          "turnout": 2264,
+          "sections": 11
+        },
+        "2": {
+          "votes": {
+            "95": 30,
+            "22": 717,
+            "96": 84,
+            "13": 1479
+          },
+          "valid": 2196,
+          "turnout": 2310,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1992
+    },
+    {
+      "id": "18295",
+      "name": "SANTO ANTÔNIO",
+      "uf": "RN",
+      "file": "municipalities/18295.jsonl.gz",
+      "records": 617,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 213,
+            "27": 2,
+            "21": 3,
+            "22": 4051,
+            "70": 291,
+            "28": 2,
+            "29": 1,
+            "80": 2,
+            "55": 89,
+            "14": 169,
+            "16": 1,
+            "30": 6,
+            "13": 9964,
+            "96": 582
+          },
+          "valid": 14581,
+          "turnout": 15376,
+          "sections": 57
+        },
+        "2": {
+          "votes": {
+            "96": 491,
+            "13": 11320,
+            "95": 127,
+            "22": 4215
+          },
+          "valid": 15535,
+          "turnout": 16153,
+          "sections": 57
+        }
+      },
+      "sections": 57,
+      "file_size_bytes": 8080
+    },
+    {
+      "id": "18597",
+      "name": "SENADOR ELÓI DE SOUZA",
+      "uf": "RN",
+      "file": "municipalities/18597.jsonl.gz",
+      "records": 181,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3468,
+            "95": 27,
+            "22": 1188,
+            "96": 161
+          },
+          "valid": 4656,
+          "turnout": 4844,
+          "sections": 17
+        },
+        "1": {
+          "votes": {
+            "14": 37,
+            "22": 1253,
+            "21": 1,
+            "95": 58,
+            "13": 3126,
+            "16": 2,
+            "55": 20,
+            "80": 1,
+            "70": 85,
+            "35": 1,
+            "96": 166
+          },
+          "valid": 4526,
+          "turnout": 4750,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2565
+    },
+    {
+      "id": "18619",
+      "name": "SENADOR GEORGINO AVELINO",
+      "uf": "RN",
+      "file": "municipalities/18619.jsonl.gz",
+      "records": 129,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 1999,
+            "95": 30,
+            "22": 993,
+            "96": 82
+          },
+          "valid": 2992,
+          "turnout": 3104,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "29": 1,
+            "22": 1018,
+            "95": 62,
+            "70": 79,
+            "14": 37,
+            "16": 1,
+            "55": 13,
+            "80": 3,
+            "13": 1717,
+            "30": 1,
+            "96": 116
+          },
+          "valid": 2870,
+          "turnout": 3048,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1945
+    },
+    {
+      "id": "18058",
+      "name": "SERRA CAIADA",
+      "uf": "RN",
+      "file": "municipalities/18058.jsonl.gz",
+      "records": 269,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 232,
+            "22": 2083,
+            "55": 36,
+            "70": 131,
+            "13": 4688,
+            "35": 2,
+            "95": 96,
+            "14": 57,
+            "16": 2
+          },
+          "valid": 6999,
+          "turnout": 7327,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "96": 194,
+            "13": 5174,
+            "95": 65,
+            "22": 2069
+          },
+          "valid": 7243,
+          "turnout": 7502,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3653
+    },
+    {
+      "id": "18635",
+      "name": "SERRA DE SÃO BENTO",
+      "uf": "RN",
+      "file": "municipalities/18635.jsonl.gz",
+      "records": 188,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3351,
+            "95": 41,
+            "22": 1397,
+            "96": 160
+          },
+          "valid": 4748,
+          "turnout": 4949,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "27": 2,
+            "14": 47,
+            "29": 1,
+            "22": 1546,
+            "95": 55,
+            "13": 3082,
+            "16": 1,
+            "55": 18,
+            "70": 109,
+            "35": 1,
+            "96": 184
+          },
+          "valid": 4807,
+          "turnout": 5046,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2706
+    },
+    {
+      "id": "16020",
+      "name": "SERRA DO MEL",
+      "uf": "RN",
+      "file": "municipalities/16020.jsonl.gz",
+      "records": 478,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 248,
+            "16": 2,
+            "55": 45,
+            "80": 2,
+            "28": 1,
+            "22": 4006,
+            "95": 191,
+            "70": 345,
+            "30": 6,
+            "13": 6263,
+            "35": 2,
+            "96": 272
+          },
+          "valid": 10920,
+          "turnout": 11383,
+          "sections": 45
+        },
+        "2": {
+          "votes": {
+            "96": 333,
+            "13": 6827,
+            "95": 127,
+            "22": 3914
+          },
+          "valid": 10741,
+          "turnout": 11201,
+          "sections": 45
+        }
+      },
+      "sections": 45,
+      "file_size_bytes": 7409
+    },
+    {
+      "id": "18651",
+      "name": "SERRA NEGRA DO NORTE",
+      "uf": "RN",
+      "file": "municipalities/18651.jsonl.gz",
+      "records": 234,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 2691,
+            "30": 2,
+            "96": 180,
+            "55": 28,
+            "70": 102,
+            "95": 86,
+            "14": 58,
+            "16": 1,
+            "21": 1,
+            "29": 1,
+            "22": 1988
+          },
+          "valid": 4872,
+          "turnout": 5138,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "95": 35,
+            "22": 2002,
+            "96": 170,
+            "13": 3138
+          },
+          "valid": 5140,
+          "turnout": 5345,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 2979
+    },
+    {
+      "id": "18678",
+      "name": "SERRINHA",
+      "uf": "RN",
+      "file": "municipalities/18678.jsonl.gz",
+      "records": 227,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 92,
+            "21": 1,
+            "22": 1625,
+            "70": 158,
+            "55": 45,
+            "14": 46,
+            "13": 3563,
+            "30": 2,
+            "35": 1,
+            "96": 251
+          },
+          "valid": 5441,
+          "turnout": 5784,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 197,
+            "13": 4053,
+            "95": 56,
+            "22": 1637
+          },
+          "valid": 5690,
+          "turnout": 5943,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 2962
+    },
+    {
+      "id": "16209",
+      "name": "SERRINHA DOS PINTOS",
+      "uf": "RN",
+      "file": "municipalities/16209.jsonl.gz",
+      "records": 163,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 60,
+            "13": 2625,
+            "14": 29,
+            "95": 60,
+            "80": 2,
+            "21": 3,
+            "55": 19,
+            "22": 651,
+            "27": 1,
+            "96": 113
+          },
+          "valid": 3390,
+          "turnout": 3563,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "95": 28,
+            "22": 679,
+            "13": 2914,
+            "96": 107
+          },
+          "valid": 3593,
+          "turnout": 3728,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2278
+    },
+    {
+      "id": "18694",
+      "name": "SEVERIANO MELO",
+      "uf": "RN",
+      "file": "municipalities/18694.jsonl.gz",
+      "records": 281,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 66,
+            "16": 1,
+            "55": 38,
+            "21": 1,
+            "80": 1,
+            "28": 1,
+            "22": 1182,
+            "70": 109,
+            "95": 75,
+            "30": 1,
+            "13": 4033,
+            "35": 1,
+            "96": 158,
+            "27": 1
+          },
+          "valid": 5435,
+          "turnout": 5668,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "96": 145,
+            "13": 4505,
+            "22": 1238,
+            "95": 33
+          },
+          "valid": 5743,
+          "turnout": 5921,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 3447
+    },
+    {
+      "id": "18317",
+      "name": "SÃO BENTO DO NORTE",
+      "uf": "RN",
+      "file": "municipalities/18317.jsonl.gz",
+      "records": 139,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 114,
+            "13": 2152,
+            "30": 3,
+            "14": 42,
+            "95": 37,
+            "80": 1,
+            "55": 22,
+            "21": 1,
+            "22": 889,
+            "96": 82
+          },
+          "valid": 3224,
+          "turnout": 3343,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "95": 26,
+            "22": 870,
+            "13": 2356,
+            "96": 88
+          },
+          "valid": 3226,
+          "turnout": 3340,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2266
+    },
+    {
+      "id": "18333",
+      "name": "SÃO BENTO DO TRAIRÍ",
+      "uf": "RN",
+      "file": "municipalities/18333.jsonl.gz",
+      "records": 132,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 42,
+            "22": 879,
+            "70": 82,
+            "55": 32,
+            "14": 31,
+            "13": 2312,
+            "30": 3,
+            "96": 147
+          },
+          "valid": 3339,
+          "turnout": 3528,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 134,
+            "13": 2543,
+            "95": 29,
+            "22": 900
+          },
+          "valid": 3443,
+          "turnout": 3606,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 2038
+    },
+    {
+      "id": "18350",
+      "name": "SÃO FERNANDO",
+      "uf": "RN",
+      "file": "municipalities/18350.jsonl.gz",
+      "records": 125,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 119,
+            "27": 1,
+            "22": 874,
+            "21": 1,
+            "55": 23,
+            "70": 84,
+            "13": 2021,
+            "95": 26,
+            "30": 1,
+            "16": 1,
+            "14": 52
+          },
+          "valid": 3058,
+          "turnout": 3203,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 83,
+            "22": 897,
+            "95": 9,
+            "13": 2269
+          },
+          "valid": 3166,
+          "turnout": 3258,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 2093
+    },
+    {
+      "id": "18210",
+      "name": "SÃO FRANCISCO DO OESTE",
+      "uf": "RN",
+      "file": "municipalities/18210.jsonl.gz",
+      "records": 130,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 78,
+            "95": 53,
+            "13": 2283,
+            "30": 1,
+            "35": 1,
+            "14": 51,
+            "16": 1,
+            "55": 21,
+            "22": 710,
+            "96": 89
+          },
+          "valid": 3146,
+          "turnout": 3288,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "95": 39,
+            "22": 762,
+            "13": 2586,
+            "96": 77
+          },
+          "valid": 3348,
+          "turnout": 3464,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1901
+    },
+    {
+      "id": "18376",
+      "name": "SÃO GONÇALO DO AMARANTE",
+      "uf": "RN",
+      "file": "municipalities/18376.jsonl.gz",
+      "records": 2698,
+      "turns": {
+        "1": {
+          "votes": {
+            "30": 54,
+            "13": 33449,
+            "35": 11,
+            "80": 43,
+            "28": 1,
+            "96": 1980,
+            "55": 615,
+            "70": 1984,
+            "95": 978,
+            "16": 22,
+            "14": 1091,
+            "21": 8,
+            "29": 6,
+            "22": 24704,
+            "27": 17
+          },
+          "valid": 62005,
+          "turnout": 64963,
+          "sections": 239
+        },
+        "2": {
+          "votes": {
+            "22": 25099,
+            "95": 583,
+            "96": 1996,
+            "13": 38741
+          },
+          "valid": 63840,
+          "turnout": 66419,
+          "sections": 239
+        }
+      },
+      "sections": 239,
+      "file_size_bytes": 46668
+    },
+    {
+      "id": "18414",
+      "name": "SÃO JOSÉ DE MIPIBU",
+      "uf": "RN",
+      "file": "municipalities/18414.jsonl.gz",
+      "records": 1237,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 401,
+            "55": 204,
+            "21": 5,
+            "80": 16,
+            "29": 3,
+            "22": 10291,
+            "95": 505,
+            "70": 757,
+            "30": 17,
+            "13": 15658,
+            "96": 1032,
+            "16": 3,
+            "27": 5
+          },
+          "valid": 27360,
+          "turnout": 28897,
+          "sections": 112
+        },
+        "2": {
+          "votes": {
+            "96": 890,
+            "13": 18328,
+            "95": 272,
+            "22": 10412
+          },
+          "valid": 28740,
+          "turnout": 29902,
+          "sections": 112
+        }
+      },
+      "sections": 112,
+      "file_size_bytes": 18719
+    },
+    {
+      "id": "18430",
+      "name": "SÃO JOSÉ DO CAMPESTRE",
+      "uf": "RN",
+      "file": "municipalities/18430.jsonl.gz",
+      "records": 344,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 289,
+            "27": 2,
+            "55": 38,
+            "13": 5388,
+            "30": 1,
+            "95": 157,
+            "70": 151,
+            "21": 2,
+            "80": 3,
+            "29": 2,
+            "14": 75,
+            "22": 2474
+          },
+          "valid": 8136,
+          "turnout": 8582,
+          "sections": 32
+        },
+        "2": {
+          "votes": {
+            "13": 5876,
+            "96": 266,
+            "95": 101,
+            "22": 2423
+          },
+          "valid": 8299,
+          "turnout": 8666,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 4387
+    },
+    {
+      "id": "18457",
+      "name": "SÃO JOSÉ DO SERIDÓ",
+      "uf": "RN",
+      "file": "municipalities/18457.jsonl.gz",
+      "records": 145,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 126,
+            "22": 949,
+            "21": 2,
+            "55": 36,
+            "80": 1,
+            "13": 2481,
+            "30": 3,
+            "95": 74,
+            "70": 159,
+            "14": 49
+          },
+          "valid": 3680,
+          "turnout": 3880,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 104,
+            "95": 39,
+            "22": 1010,
+            "13": 2840
+          },
+          "valid": 3850,
+          "turnout": 3993,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2125
+    },
+    {
+      "id": "18392",
+      "name": "SÃO JOÃO DO SABUGI",
+      "uf": "RN",
+      "file": "municipalities/18392.jsonl.gz",
+      "records": 194,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3301,
+            "95": 35,
+            "22": 1150,
+            "96": 88
+          },
+          "valid": 4451,
+          "turnout": 4574,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "14": 54,
+            "29": 1,
+            "22": 1130,
+            "95": 55,
+            "70": 100,
+            "13": 2979,
+            "30": 4,
+            "55": 48,
+            "80": 2,
+            "35": 1,
+            "96": 99
+          },
+          "valid": 4319,
+          "turnout": 4473,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2692
+    },
+    {
+      "id": "18473",
+      "name": "SÃO MIGUEL",
+      "uf": "RN",
+      "file": "municipalities/18473.jsonl.gz",
+      "records": 697,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 331,
+            "27": 1,
+            "21": 3,
+            "22": 3195,
+            "70": 314,
+            "80": 6,
+            "29": 1,
+            "55": 88,
+            "14": 238,
+            "16": 1,
+            "13": 10398,
+            "30": 6,
+            "35": 2,
+            "96": 655
+          },
+          "valid": 14253,
+          "turnout": 15239,
+          "sections": 64
+        },
+        "2": {
+          "votes": {
+            "96": 532,
+            "13": 11923,
+            "95": 178,
+            "22": 3316
+          },
+          "valid": 15239,
+          "turnout": 15949,
+          "sections": 64
+        }
+      },
+      "sections": 64,
+      "file_size_bytes": 9078
+    },
+    {
+      "id": "16063",
+      "name": "SÃO MIGUEL DO GOSTOSO",
+      "uf": "RN",
+      "file": "municipalities/16063.jsonl.gz",
+      "records": 333,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5207,
+            "95": 58,
+            "22": 2630,
+            "96": 205
+          },
+          "valid": 7837,
+          "turnout": 8100,
+          "sections": 32
+        },
+        "1": {
+          "votes": {
+            "27": 1,
+            "29": 1,
+            "22": 2645,
+            "21": 2,
+            "95": 95,
+            "70": 229,
+            "13": 4631,
+            "30": 15,
+            "14": 76,
+            "55": 37,
+            "80": 2,
+            "96": 275
+          },
+          "valid": 7639,
+          "turnout": 8009,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 5398
+    },
+    {
+      "id": "18490",
+      "name": "SÃO PAULO DO POTENGI",
+      "uf": "RN",
+      "file": "municipalities/18490.jsonl.gz",
+      "records": 487,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 209,
+            "70": 305,
+            "13": 5861,
+            "35": 1,
+            "30": 4,
+            "14": 126,
+            "16": 3,
+            "80": 5,
+            "21": 3,
+            "55": 72,
+            "22": 5020,
+            "27": 1,
+            "96": 357
+          },
+          "valid": 11401,
+          "turnout": 11967,
+          "sections": 44
+        },
+        "2": {
+          "votes": {
+            "95": 115,
+            "22": 5047,
+            "13": 6824,
+            "96": 375
+          },
+          "valid": 11871,
+          "turnout": 12361,
+          "sections": 44
+        }
+      },
+      "sections": 44,
+      "file_size_bytes": 5891
+    },
+    {
+      "id": "18511",
+      "name": "SÃO PEDRO",
+      "uf": "RN",
+      "file": "municipalities/18511.jsonl.gz",
+      "records": 229,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1510,
+            "96": 159,
+            "55": 32,
+            "80": 1,
+            "13": 3375,
+            "95": 78,
+            "70": 142,
+            "30": 4,
+            "14": 40,
+            "29": 2
+          },
+          "valid": 5106,
+          "turnout": 5343,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 135,
+            "95": 44,
+            "22": 1421,
+            "13": 3736
+          },
+          "valid": 5157,
+          "turnout": 5336,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 2866
+    },
+    {
+      "id": "18538",
+      "name": "SÃO RAFAEL",
+      "uf": "RN",
+      "file": "municipalities/18538.jsonl.gz",
+      "records": 256,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 224,
+            "55": 31,
+            "13": 3929,
+            "14": 94,
+            "30": 1,
+            "35": 1,
+            "95": 86,
+            "70": 151,
+            "22": 1628,
+            "80": 1
+          },
+          "valid": 5836,
+          "turnout": 6146,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "95": 38,
+            "22": 1665,
+            "13": 4297,
+            "96": 190
+          },
+          "valid": 5962,
+          "turnout": 6190,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3338
+    },
+    {
+      "id": "18554",
+      "name": "SÃO TOMÉ",
+      "uf": "RN",
+      "file": "municipalities/18554.jsonl.gz",
+      "records": 289,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 72,
+            "21": 1,
+            "22": 3127,
+            "70": 127,
+            "80": 5,
+            "55": 39,
+            "14": 52,
+            "13": 3817,
+            "35": 1,
+            "16": 1,
+            "96": 206
+          },
+          "valid": 7170,
+          "turnout": 7448,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "96": 252,
+            "13": 4430,
+            "95": 55,
+            "22": 2825
+          },
+          "valid": 7255,
+          "turnout": 7562,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 3738
+    },
+    {
+      "id": "18570",
+      "name": "SÃO VICENTE",
+      "uf": "RN",
+      "file": "municipalities/18570.jsonl.gz",
+      "records": 211,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 173,
+            "55": 21,
+            "13": 2882,
+            "14": 57,
+            "30": 1,
+            "16": 2,
+            "95": 57,
+            "70": 128,
+            "27": 1,
+            "22": 1190,
+            "80": 2
+          },
+          "valid": 4284,
+          "turnout": 4514,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "95": 20,
+            "22": 1241,
+            "13": 3228,
+            "96": 132
+          },
+          "valid": 4469,
+          "turnout": 4621,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2921
+    },
+    {
+      "id": "18716",
+      "name": "SÍTIO NOVO",
+      "uf": "RN",
+      "file": "municipalities/18716.jsonl.gz",
+      "records": 174,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 138,
+            "55": 25,
+            "13": 3015,
+            "30": 1,
+            "14": 39,
+            "95": 60,
+            "70": 88,
+            "22": 865,
+            "80": 1
+          },
+          "valid": 4034,
+          "turnout": 4232,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "95": 43,
+            "22": 799,
+            "13": 3300,
+            "96": 119
+          },
+          "valid": 4099,
+          "turnout": 4261,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2374
+    },
+    {
+      "id": "18732",
+      "name": "TABOLEIRO GRANDE",
+      "uf": "RN",
+      "file": "municipalities/18732.jsonl.gz",
+      "records": 109,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 31,
+            "55": 10,
+            "22": 518,
+            "70": 61,
+            "95": 33,
+            "13": 1547,
+            "30": 3,
+            "96": 48,
+            "16": 1
+          },
+          "valid": 2171,
+          "turnout": 2252,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "96": 48,
+            "13": 1638,
+            "22": 552,
+            "95": 15
+          },
+          "valid": 2190,
+          "turnout": 2253,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1740
+    },
+    {
+      "id": "18759",
+      "name": "TAIPU",
+      "uf": "RN",
+      "file": "municipalities/18759.jsonl.gz",
+      "records": 406,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 105,
+            "55": 61,
+            "21": 2,
+            "80": 1,
+            "22": 1829,
+            "95": 168,
+            "70": 218,
+            "13": 6177,
+            "30": 1,
+            "96": 275
+          },
+          "valid": 8394,
+          "turnout": 8837,
+          "sections": 38
+        },
+        "2": {
+          "votes": {
+            "96": 248,
+            "13": 6759,
+            "95": 81,
+            "22": 1803
+          },
+          "valid": 8562,
+          "turnout": 8891,
+          "sections": 38
+        }
+      },
+      "sections": 38,
+      "file_size_bytes": 5511
+    },
+    {
+      "id": "18775",
+      "name": "TANGARÁ",
+      "uf": "RN",
+      "file": "municipalities/18775.jsonl.gz",
+      "records": 427,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 221,
+            "95": 183,
+            "13": 5529,
+            "30": 3,
+            "35": 1,
+            "14": 141,
+            "80": 5,
+            "28": 1,
+            "55": 68,
+            "22": 3172,
+            "27": 1,
+            "96": 364
+          },
+          "valid": 9142,
+          "turnout": 9689,
+          "sections": 39
+        },
+        "2": {
+          "votes": {
+            "95": 102,
+            "22": 3200,
+            "13": 6254,
+            "96": 334
+          },
+          "valid": 9454,
+          "turnout": 9890,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 5093
+    },
+    {
+      "id": "18791",
+      "name": "TENENTE ANANIAS",
+      "uf": "RN",
+      "file": "municipalities/18791.jsonl.gz",
+      "records": 275,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 4567,
+            "22": 1959,
+            "95": 41,
+            "96": 200
+          },
+          "valid": 6526,
+          "turnout": 6767,
+          "sections": 27
+        },
+        "1": {
+          "votes": {
+            "14": 61,
+            "22": 2132,
+            "21": 1,
+            "95": 48,
+            "70": 103,
+            "13": 4324,
+            "55": 23,
+            "80": 2,
+            "35": 1,
+            "30": 1,
+            "96": 157
+          },
+          "valid": 6648,
+          "turnout": 6853,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 3724
+    },
+    {
+      "id": "16004",
+      "name": "TENENTE LAURENTINO CRUZ",
+      "uf": "RN",
+      "file": "municipalities/16004.jsonl.gz",
+      "records": 169,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 170,
+            "22": 1260,
+            "55": 17,
+            "70": 133,
+            "13": 2896,
+            "95": 48,
+            "30": 1,
+            "14": 66,
+            "29": 1
+          },
+          "valid": 4374,
+          "turnout": 4592,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 144,
+            "13": 3255,
+            "95": 25,
+            "22": 1359
+          },
+          "valid": 4614,
+          "turnout": 4783,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2255
+    },
+    {
+      "id": "16225",
+      "name": "TIBAU",
+      "uf": "RN",
+      "file": "municipalities/16225.jsonl.gz",
+      "records": 288,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 3855,
+            "30": 2,
+            "35": 1,
+            "80": 3,
+            "96": 191,
+            "55": 36,
+            "70": 199,
+            "28": 1,
+            "95": 118,
+            "14": 95,
+            "16": 1,
+            "21": 3,
+            "22": 2514,
+            "27": 1
+          },
+          "valid": 6711,
+          "turnout": 7020,
+          "sections": 26
+        },
+        "2": {
+          "votes": {
+            "95": 61,
+            "22": 2522,
+            "96": 211,
+            "13": 4623
+          },
+          "valid": 7145,
+          "turnout": 7417,
+          "sections": 26
+        }
+      },
+      "sections": 26,
+      "file_size_bytes": 3809
+    },
+    {
+      "id": "18813",
+      "name": "TIBAU DO SUL",
+      "uf": "RN",
+      "file": "municipalities/18813.jsonl.gz",
+      "records": 464,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 186,
+            "70": 208,
+            "13": 6133,
+            "30": 13,
+            "14": 126,
+            "16": 1,
+            "80": 9,
+            "21": 2,
+            "55": 61,
+            "22": 4010,
+            "27": 1,
+            "96": 307
+          },
+          "valid": 10564,
+          "turnout": 11057,
+          "sections": 42
+        },
+        "2": {
+          "votes": {
+            "95": 109,
+            "22": 3878,
+            "13": 7029,
+            "96": 282
+          },
+          "valid": 10907,
+          "turnout": 11298,
+          "sections": 42
+        }
+      },
+      "sections": 42,
+      "file_size_bytes": 5968
+    },
+    {
+      "id": "18830",
+      "name": "TIMBAÚBA DOS BATISTAS",
+      "uf": "RN",
+      "file": "municipalities/18830.jsonl.gz",
+      "records": 101,
+      "turns": {
+        "1": {
+          "votes": {
+            "27": 2,
+            "22": 718,
+            "96": 62,
+            "55": 20,
+            "80": 1,
+            "13": 1457,
+            "35": 1,
+            "95": 27,
+            "70": 54,
+            "14": 23,
+            "16": 1
+          },
+          "valid": 2277,
+          "turnout": 2366,
+          "sections": 9
+        },
+        "2": {
+          "votes": {
+            "96": 60,
+            "95": 18,
+            "22": 728,
+            "13": 1607
+          },
+          "valid": 2335,
+          "turnout": 2413,
+          "sections": 9
+        }
+      },
+      "sections": 9,
+      "file_size_bytes": 1796
+    },
+    {
+      "id": "18856",
+      "name": "TOUROS",
+      "uf": "RN",
+      "file": "municipalities/18856.jsonl.gz",
+      "records": 985,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 14545,
+            "95": 231,
+            "22": 7878,
+            "96": 698
+          },
+          "valid": 22423,
+          "turnout": 23352,
+          "sections": 92
+        },
+        "1": {
+          "votes": {
+            "27": 3,
+            "14": 256,
+            "22": 8127,
+            "21": 2,
+            "95": 313,
+            "70": 548,
+            "13": 13200,
+            "30": 4,
+            "16": 5,
+            "55": 149,
+            "80": 6,
+            "28": 2,
+            "35": 4,
+            "96": 770
+          },
+          "valid": 22306,
+          "turnout": 23389,
+          "sections": 92
+        }
+      },
+      "sections": 92,
+      "file_size_bytes": 18269
+    },
+    {
+      "id": "16128",
+      "name": "TRIUNFO POTIGUAR",
+      "uf": "RN",
+      "file": "municipalities/16128.jsonl.gz",
+      "records": 171,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 31,
+            "55": 18,
+            "21": 1,
+            "22": 1115,
+            "95": 43,
+            "70": 98,
+            "13": 2190,
+            "96": 107
+          },
+          "valid": 3453,
+          "turnout": 3603,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "96": 89,
+            "13": 2340,
+            "22": 1081,
+            "95": 16
+          },
+          "valid": 3421,
+          "turnout": 3526,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2351
+    },
+    {
+      "id": "18872",
+      "name": "UMARIZAL",
+      "uf": "RN",
+      "file": "municipalities/18872.jsonl.gz",
+      "records": 328,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 92,
+            "21": 2,
+            "22": 1466,
+            "70": 132,
+            "29": 1,
+            "80": 1,
+            "55": 24,
+            "14": 93,
+            "16": 1,
+            "30": 6,
+            "13": 5267,
+            "96": 270
+          },
+          "valid": 6993,
+          "turnout": 7355,
+          "sections": 31
+        },
+        "2": {
+          "votes": {
+            "96": 193,
+            "13": 5771,
+            "95": 61,
+            "22": 1594
+          },
+          "valid": 7365,
+          "turnout": 7619,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 3811
+    },
+    {
+      "id": "18899",
+      "name": "UPANEMA",
+      "uf": "RN",
+      "file": "municipalities/18899.jsonl.gz",
+      "records": 420,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 154,
+            "16": 2,
+            "55": 80,
+            "21": 1,
+            "80": 3,
+            "29": 1,
+            "22": 3690,
+            "95": 153,
+            "70": 195,
+            "13": 5509,
+            "30": 3,
+            "96": 340,
+            "27": 1
+          },
+          "valid": 9639,
+          "turnout": 10132,
+          "sections": 38
+        },
+        "2": {
+          "votes": {
+            "96": 289,
+            "13": 6287,
+            "22": 3781,
+            "95": 123
+          },
+          "valid": 10068,
+          "turnout": 10480,
+          "sections": 38
+        }
+      },
+      "sections": 38,
+      "file_size_bytes": 5606
+    },
+    {
+      "id": "16187",
+      "name": "VENHA-VER",
+      "uf": "RN",
+      "file": "municipalities/16187.jsonl.gz",
+      "records": 134,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 42,
+            "16": 2,
+            "55": 18,
+            "21": 3,
+            "22": 531,
+            "95": 34,
+            "70": 51,
+            "13": 2222,
+            "30": 1,
+            "35": 3,
+            "96": 100
+          },
+          "valid": 2873,
+          "turnout": 3007,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 88,
+            "13": 2449,
+            "95": 24,
+            "22": 471
+          },
+          "valid": 2920,
+          "turnout": 3032,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 2207
+    },
+    {
+      "id": "18953",
+      "name": "VERA CRUZ",
+      "uf": "RN",
+      "file": "municipalities/18953.jsonl.gz",
+      "records": 374,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 316,
+            "55": 77,
+            "30": 7,
+            "13": 5595,
+            "35": 1,
+            "14": 77,
+            "16": 3,
+            "21": 1,
+            "95": 182,
+            "70": 244,
+            "27": 1,
+            "22": 2811,
+            "80": 3
+          },
+          "valid": 8820,
+          "turnout": 9318,
+          "sections": 33
+        },
+        "2": {
+          "votes": {
+            "95": 100,
+            "22": 2913,
+            "13": 6372,
+            "96": 301
+          },
+          "valid": 9285,
+          "turnout": 9686,
+          "sections": 33
+        }
+      },
+      "sections": 33,
+      "file_size_bytes": 5047
+    },
+    {
+      "id": "18996",
+      "name": "VILA FLOR",
+      "uf": "RN",
+      "file": "municipalities/18996.jsonl.gz",
+      "records": 104,
+      "turns": {
+        "1": {
+          "votes": {
+            "13": 1758,
+            "96": 103,
+            "70": 53,
+            "28": 2,
+            "95": 55,
+            "14": 25,
+            "55": 8,
+            "22": 704
+          },
+          "valid": 2550,
+          "turnout": 2708,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "13": 1863,
+            "95": 30,
+            "22": 666,
+            "96": 81
+          },
+          "valid": 2529,
+          "turnout": 2640,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1619
+    },
+    {
+      "id": "18970",
+      "name": "VIÇOSA",
+      "uf": "RN",
+      "file": "municipalities/18970.jsonl.gz",
+      "records": 67,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 18,
+            "70": 23,
+            "13": 1080,
+            "30": 1,
+            "14": 20,
+            "55": 6,
+            "21": 1,
+            "22": 357,
+            "96": 58
+          },
+          "valid": 1488,
+          "turnout": 1564,
+          "sections": 6
+        },
+        "2": {
+          "votes": {
+            "95": 18,
+            "22": 352,
+            "13": 1175,
+            "96": 45
+          },
+          "valid": 1527,
+          "turnout": 1590,
+          "sections": 6
+        }
+      },
+      "sections": 6,
+      "file_size_bytes": 1170
+    },
+    {
+      "id": "18910",
+      "name": "VÁRZEA",
+      "uf": "RN",
+      "file": "municipalities/18910.jsonl.gz",
+      "records": 262,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2974,
+            "95": 25,
+            "22": 1592,
+            "96": 106
+          },
+          "valid": 4566,
+          "turnout": 4697,
+          "sections": 26
+        },
+        "1": {
+          "votes": {
+            "22": 1594,
+            "95": 55,
+            "70": 103,
+            "30": 1,
+            "13": 2759,
+            "14": 48,
+            "55": 26,
+            "96": 145
+          },
+          "valid": 4531,
+          "turnout": 4731,
+          "sections": 26
+        }
+      },
+      "sections": 26,
+      "file_size_bytes": 3237
+    },
+    {
+      "id": "16071",
+      "name": "ÁGUA NOVA",
+      "uf": "RN",
+      "file": "municipalities/16071.jsonl.gz",
+      "records": 117,
+      "turns": {
+        "1": {
+          "votes": {
+            "70": 60,
+            "13": 1870,
+            "30": 1,
+            "14": 42,
+            "95": 26,
+            "80": 1,
+            "55": 19,
+            "22": 408,
+            "96": 104
+          },
+          "valid": 2401,
+          "turnout": 2531,
+          "sections": 11
+        },
+        "2": {
+          "votes": {
+            "22": 408,
+            "95": 20,
+            "13": 2106,
+            "96": 75
+          },
+          "valid": 2514,
+          "turnout": 2609,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1742
+    }
+  ]
+}

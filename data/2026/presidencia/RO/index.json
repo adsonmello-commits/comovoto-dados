@@ -1,0 +1,2234 @@
+{
+  "dataset": "Presidente — votação por seção — Eleições 2026",
+  "office": "Presidente da República",
+  "uf": "RO",
+  "state": "Rondônia",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip",
+  "municipality_count": 52,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1",
+    "2"
+  ],
+  "data_status": "complete",
+  "candidates": {
+    "55": {
+      "name": "RONALDO RAMOS CAIADO",
+      "short": "RONALDO RAMOS CAIADO",
+      "color": "#71818a"
+    },
+    "14": {
+      "name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "short": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "color": "#71818a"
+    },
+    "16": {
+      "name": "HERTZ DA CONCEICAO DIAS",
+      "short": "HERTZ DA CONCEICAO DIAS",
+      "color": "#71818a"
+    },
+    "96": {
+      "name": "VOTO NULO",
+      "short": "VOTO NULO",
+      "color": "#71818a"
+    },
+    "13": {
+      "name": "LUIZ INÁCIO LULA DA SILVA",
+      "short": "LUIZ INÁCIO LULA DA SILVA",
+      "color": "#d64751"
+    },
+    "70": {
+      "name": "AUGUSTO JORGE CURY",
+      "short": "AUGUSTO JORGE CURY",
+      "color": "#71818a"
+    },
+    "95": {
+      "name": "VOTO BRANCO",
+      "short": "VOTO BRANCO",
+      "color": "#71818a"
+    },
+    "21": {
+      "name": "EDMILSON SILVA COSTA",
+      "short": "EDMILSON SILVA COSTA",
+      "color": "#71818a"
+    },
+    "35": {
+      "name": "WILSON GRASSI JUNIOR",
+      "short": "WILSON GRASSI JUNIOR",
+      "color": "#71818a"
+    },
+    "30": {
+      "name": "ROMEU ZEMA NETO",
+      "short": "ROMEU ZEMA NETO",
+      "color": "#71818a"
+    },
+    "27": {
+      "name": "CLARIANA ZACARKIM BARAO",
+      "short": "CLARIANA ZACARKIM BARAO",
+      "color": "#71818a"
+    },
+    "22": {
+      "name": "FLAVIO NANTES BOLSONARO",
+      "short": "FLAVIO NANTES BOLSONARO",
+      "color": "#3478d0"
+    },
+    "80": {
+      "name": "SAMARA MARTINS DA SILVA FEITOSA",
+      "short": "SAMARA MARTINS DA SILVA FEITOSA",
+      "color": "#71818a"
+    },
+    "28": {
+      "name": "LEONARDO ALVES DE ARAUJO",
+      "short": "LEONARDO ALVES DE ARAUJO",
+      "color": "#71818a"
+    },
+    "29": {
+      "name": "RUI COSTA PIMENTA",
+      "short": "RUI COSTA PIMENTA",
+      "color": "#71818a"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "00310",
+      "name": "ALTA FLORESTA D OESTE",
+      "uf": "RO",
+      "file": "municipalities/00310.jsonl.gz",
+      "records": 803,
+      "turns": {
+        "1": {
+          "votes": {
+            "28": 4,
+            "80": 5,
+            "55": 208,
+            "27": 5,
+            "22": 9816,
+            "95": 163,
+            "70": 254,
+            "13": 3533,
+            "14": 170,
+            "16": 3,
+            "21": 4,
+            "35": 1,
+            "30": 12,
+            "96": 174
+          },
+          "valid": 14015,
+          "turnout": 14352,
+          "sections": 78
+        },
+        "2": {
+          "votes": {
+            "96": 138,
+            "13": 4029,
+            "95": 111,
+            "22": 10185
+          },
+          "valid": 14214,
+          "turnout": 14463,
+          "sections": 78
+        }
+      },
+      "sections": 78,
+      "file_size_bytes": 11603
+    },
+    {
+      "id": "00736",
+      "name": "ALTO ALEGRE DOS PARECIS",
+      "uf": "RO",
+      "file": "municipalities/00736.jsonl.gz",
+      "records": 337,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 91,
+            "22": 4627,
+            "27": 1,
+            "80": 2,
+            "29": 1,
+            "95": 84,
+            "70": 115,
+            "13": 1931,
+            "30": 4,
+            "14": 87,
+            "16": 1,
+            "21": 2,
+            "55": 117
+          },
+          "valid": 6888,
+          "turnout": 7063,
+          "sections": 31
+        },
+        "2": {
+          "votes": {
+            "96": 80,
+            "13": 2176,
+            "95": 65,
+            "22": 4811
+          },
+          "valid": 6987,
+          "turnout": 7132,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 3988
+    },
+    {
+      "id": "00639",
+      "name": "ALTO PARAÍSO",
+      "uf": "RO",
+      "file": "municipalities/00639.jsonl.gz",
+      "records": 451,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 4,
+            "95": 80,
+            "70": 127,
+            "13": 1746,
+            "30": 18,
+            "14": 107,
+            "16": 1,
+            "55": 108,
+            "80": 3,
+            "96": 117,
+            "22": 7110,
+            "27": 2
+          },
+          "valid": 9226,
+          "turnout": 9423,
+          "sections": 43
+        },
+        "2": {
+          "votes": {
+            "96": 73,
+            "13": 1990,
+            "95": 66,
+            "22": 7298
+          },
+          "valid": 9288,
+          "turnout": 9427,
+          "sections": 43
+        }
+      },
+      "sections": 43,
+      "file_size_bytes": 5915
+    },
+    {
+      "id": "00337",
+      "name": "ALVORADA DO OESTE",
+      "uf": "RO",
+      "file": "municipalities/00337.jsonl.gz",
+      "records": 505,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 75,
+            "70": 229,
+            "13": 2658,
+            "30": 7,
+            "14": 82,
+            "16": 3,
+            "29": 1,
+            "22": 5358,
+            "27": 7,
+            "96": 122,
+            "21": 2,
+            "55": 129,
+            "80": 5
+          },
+          "valid": 8481,
+          "turnout": 8678,
+          "sections": 49
+        },
+        "2": {
+          "votes": {
+            "96": 106,
+            "13": 2983,
+            "95": 60,
+            "22": 5561
+          },
+          "valid": 8544,
+          "turnout": 8710,
+          "sections": 49
+        }
+      },
+      "sections": 49,
+      "file_size_bytes": 6412
+    },
+    {
+      "id": "00078",
+      "name": "ARIQUEMES",
+      "uf": "RO",
+      "file": "municipalities/00078.jsonl.gz",
+      "records": 2950,
+      "turns": {
+        "1": {
+          "votes": {
+            "29": 5,
+            "21": 8,
+            "95": 493,
+            "70": 1188,
+            "13": 9939,
+            "30": 74,
+            "14": 1075,
+            "16": 11,
+            "55": 590,
+            "80": 33,
+            "28": 3,
+            "96": 574,
+            "22": 41652,
+            "27": 17
+          },
+          "valid": 54595,
+          "turnout": 55662,
+          "sections": 280
+        },
+        "2": {
+          "votes": {
+            "96": 555,
+            "13": 12003,
+            "95": 398,
+            "22": 42973
+          },
+          "valid": 54976,
+          "turnout": 55929,
+          "sections": 280
+        }
+      },
+      "sections": 280,
+      "file_size_bytes": 48633
+    },
+    {
+      "id": "00779",
+      "name": "BURITIS",
+      "uf": "RO",
+      "file": "municipalities/00779.jsonl.gz",
+      "records": 819,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 3,
+            "95": 120,
+            "70": 390,
+            "30": 9,
+            "13": 2889,
+            "35": 1,
+            "14": 201,
+            "16": 2,
+            "55": 182,
+            "80": 7,
+            "96": 189,
+            "22": 13793,
+            "27": 1
+          },
+          "valid": 17478,
+          "turnout": 17787,
+          "sections": 80
+        },
+        "2": {
+          "votes": {
+            "96": 140,
+            "13": 3348,
+            "95": 104,
+            "22": 14277
+          },
+          "valid": 17625,
+          "turnout": 17869,
+          "sections": 80
+        }
+      },
+      "sections": 80,
+      "file_size_bytes": 10172
+    },
+    {
+      "id": "00450",
+      "name": "CABIXI",
+      "uf": "RO",
+      "file": "municipalities/00450.jsonl.gz",
+      "records": 238,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 33,
+            "70": 82,
+            "13": 1046,
+            "30": 5,
+            "14": 38,
+            "22": 2646,
+            "96": 48,
+            "21": 1,
+            "55": 49,
+            "80": 3,
+            "28": 1
+          },
+          "valid": 3871,
+          "turnout": 3952,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "96": 39,
+            "13": 1143,
+            "95": 34,
+            "22": 2719
+          },
+          "valid": 3862,
+          "turnout": 3935,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3082
+    },
+    {
+      "id": "00620",
+      "name": "CACAULÂNDIA",
+      "uf": "RO",
+      "file": "municipalities/00620.jsonl.gz",
+      "records": 185,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 41,
+            "27": 2,
+            "80": 2,
+            "28": 1,
+            "29": 1,
+            "95": 26,
+            "70": 61,
+            "22": 2278,
+            "30": 5,
+            "13": 599,
+            "14": 44,
+            "55": 41
+          },
+          "valid": 3034,
+          "turnout": 3101,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "96": 28,
+            "13": 694,
+            "95": 20,
+            "22": 2303
+          },
+          "valid": 2997,
+          "turnout": 3045,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2744
+    },
+    {
+      "id": "00094",
+      "name": "CACOAL",
+      "uf": "RO",
+      "file": "municipalities/00094.jsonl.gz",
+      "records": 2801,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 1188,
+            "16": 7,
+            "30": 95,
+            "13": 12099,
+            "35": 2,
+            "95": 527,
+            "70": 1369,
+            "96": 686,
+            "27": 10,
+            "22": 37751,
+            "28": 5,
+            "80": 30,
+            "29": 2,
+            "55": 1255,
+            "21": 6
+          },
+          "valid": 53819,
+          "turnout": 55032,
+          "sections": 256
+        },
+        "2": {
+          "votes": {
+            "96": 646,
+            "13": 14462,
+            "95": 505,
+            "22": 40014
+          },
+          "valid": 54476,
+          "turnout": 55627,
+          "sections": 256
+        }
+      },
+      "sections": 256,
+      "file_size_bytes": 54698
+    },
+    {
+      "id": "00671",
+      "name": "CAMPO NOVO DE RONDÔNIA",
+      "uf": "RO",
+      "file": "municipalities/00671.jsonl.gz",
+      "records": 293,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 93,
+            "13": 1270,
+            "30": 5,
+            "95": 40,
+            "70": 144,
+            "96": 49,
+            "22": 4218,
+            "80": 2,
+            "55": 93
+          },
+          "valid": 5825,
+          "turnout": 5914,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "96": 44,
+            "13": 1467,
+            "95": 43,
+            "22": 4337
+          },
+          "valid": 5804,
+          "turnout": 5891,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 3781
+    },
+    {
+      "id": "00477",
+      "name": "CANDEIAS DO JAMARI",
+      "uf": "RO",
+      "file": "municipalities/00477.jsonl.gz",
+      "records": 812,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 108,
+            "70": 396,
+            "13": 4864,
+            "30": 16,
+            "14": 288,
+            "16": 3,
+            "22": 9310,
+            "27": 8,
+            "96": 216,
+            "21": 2,
+            "55": 298,
+            "80": 11
+          },
+          "valid": 15196,
+          "turnout": 15520,
+          "sections": 76
+        },
+        "2": {
+          "votes": {
+            "96": 171,
+            "13": 5464,
+            "95": 90,
+            "22": 9233
+          },
+          "valid": 14697,
+          "turnout": 14958,
+          "sections": 76
+        }
+      },
+      "sections": 76,
+      "file_size_bytes": 10596
+    },
+    {
+      "id": "00531",
+      "name": "CASTANHEIRAS",
+      "uf": "RO",
+      "file": "municipalities/00531.jsonl.gz",
+      "records": 129,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 24,
+            "70": 55,
+            "13": 879,
+            "30": 3,
+            "14": 45,
+            "22": 1616,
+            "96": 37,
+            "55": 56
+          },
+          "valid": 2654,
+          "turnout": 2715,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "13": 939,
+            "95": 28,
+            "22": 1645,
+            "96": 25
+          },
+          "valid": 2584,
+          "turnout": 2637,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1815
+    },
+    {
+      "id": "00272",
+      "name": "CEREJEIRAS",
+      "uf": "RO",
+      "file": "municipalities/00272.jsonl.gz",
+      "records": 516,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 3,
+            "55": 121,
+            "27": 3,
+            "22": 7945,
+            "95": 66,
+            "70": 185,
+            "13": 1805,
+            "30": 14,
+            "14": 156,
+            "16": 1,
+            "35": 2,
+            "96": 110
+          },
+          "valid": 10235,
+          "turnout": 10411,
+          "sections": 49
+        },
+        "2": {
+          "votes": {
+            "96": 111,
+            "13": 2179,
+            "95": 72,
+            "22": 8255
+          },
+          "valid": 10434,
+          "turnout": 10617,
+          "sections": 49
+        }
+      },
+      "sections": 49,
+      "file_size_bytes": 5902
+    },
+    {
+      "id": "00809",
+      "name": "CHUPINGUAIA",
+      "uf": "RO",
+      "file": "municipalities/00809.jsonl.gz",
+      "records": 297,
+      "turns": {
+        "1": {
+          "votes": {
+            "29": 1,
+            "21": 1,
+            "55": 68,
+            "95": 44,
+            "70": 79,
+            "13": 1426,
+            "30": 4,
+            "35": 1,
+            "14": 59,
+            "96": 61,
+            "80": 2,
+            "22": 3752,
+            "27": 1
+          },
+          "valid": 5394,
+          "turnout": 5499,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "96": 47,
+            "13": 1624,
+            "95": 31,
+            "22": 3797
+          },
+          "valid": 5421,
+          "turnout": 5499,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4096
+    },
+    {
+      "id": "00230",
+      "name": "COLORADO DO OESTE",
+      "uf": "RO",
+      "file": "municipalities/00230.jsonl.gz",
+      "records": 608,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 144,
+            "70": 221,
+            "13": 2228,
+            "30": 20,
+            "14": 145,
+            "29": 2,
+            "27": 11,
+            "96": 138,
+            "22": 7050,
+            "21": 2,
+            "55": 175,
+            "80": 10,
+            "28": 1
+          },
+          "valid": 9865,
+          "turnout": 10147,
+          "sections": 55
+        },
+        "2": {
+          "votes": {
+            "13": 2648,
+            "95": 113,
+            "22": 7417,
+            "96": 131
+          },
+          "valid": 10065,
+          "turnout": 10309,
+          "sections": 55
+        }
+      },
+      "sections": 55,
+      "file_size_bytes": 8196
+    },
+    {
+      "id": "00655",
+      "name": "CORUMBIARA",
+      "uf": "RO",
+      "file": "municipalities/00655.jsonl.gz",
+      "records": 253,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 59,
+            "13": 1317,
+            "30": 2,
+            "35": 1,
+            "95": 39,
+            "70": 92,
+            "96": 51,
+            "27": 3,
+            "22": 2944,
+            "80": 4,
+            "28": 1,
+            "55": 72,
+            "21": 1
+          },
+          "valid": 4496,
+          "turnout": 4586,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 41,
+            "13": 1482,
+            "95": 38,
+            "22": 3022
+          },
+          "valid": 4504,
+          "turnout": 4583,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3600
+    },
+    {
+      "id": "00213",
+      "name": "COSTA MARQUES",
+      "uf": "RO",
+      "file": "municipalities/00213.jsonl.gz",
+      "records": 367,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 94,
+            "13": 2216,
+            "30": 3,
+            "95": 58,
+            "70": 92,
+            "96": 82,
+            "27": 1,
+            "22": 4413,
+            "80": 1,
+            "29": 1,
+            "55": 83,
+            "21": 1
+          },
+          "valid": 6905,
+          "turnout": 7045,
+          "sections": 37
+        },
+        "2": {
+          "votes": {
+            "96": 59,
+            "13": 2445,
+            "95": 36,
+            "22": 4445
+          },
+          "valid": 6890,
+          "turnout": 6985,
+          "sections": 37
+        }
+      },
+      "sections": 37,
+      "file_size_bytes": 4719
+    },
+    {
+      "id": "00680",
+      "name": "CUJUBIM",
+      "uf": "RO",
+      "file": "municipalities/00680.jsonl.gz",
+      "records": 397,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 99,
+            "70": 135,
+            "95": 67,
+            "13": 1481,
+            "30": 7,
+            "14": 95,
+            "22": 6631,
+            "96": 98,
+            "80": 2,
+            "27": 3
+          },
+          "valid": 8453,
+          "turnout": 8618,
+          "sections": 39
+        },
+        "2": {
+          "votes": {
+            "96": 65,
+            "13": 1731,
+            "95": 46,
+            "22": 6696
+          },
+          "valid": 8427,
+          "turnout": 8538,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 4912
+    },
+    {
+      "id": "00256",
+      "name": "ESPIGÃO DO OESTE",
+      "uf": "RO",
+      "file": "municipalities/00256.jsonl.gz",
+      "records": 960,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 187,
+            "70": 369,
+            "13": 3530,
+            "35": 1,
+            "30": 35,
+            "14": 241,
+            "27": 9,
+            "96": 201,
+            "22": 13446,
+            "21": 2,
+            "55": 383,
+            "80": 7,
+            "28": 1
+          },
+          "valid": 18024,
+          "turnout": 18412,
+          "sections": 90
+        },
+        "2": {
+          "votes": {
+            "13": 4209,
+            "95": 201,
+            "22": 14030,
+            "96": 201
+          },
+          "valid": 18239,
+          "turnout": 18641,
+          "sections": 90
+        }
+      },
+      "sections": 90,
+      "file_size_bytes": 15278
+    },
+    {
+      "id": "00612",
+      "name": "GOVERNADOR JORGE TEIXEIRA",
+      "uf": "RO",
+      "file": "municipalities/00612.jsonl.gz",
+      "records": 284,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 42,
+            "70": 128,
+            "13": 1339,
+            "30": 8,
+            "14": 85,
+            "29": 1,
+            "27": 1,
+            "96": 84,
+            "22": 3949,
+            "55": 121,
+            "28": 1,
+            "80": 1
+          },
+          "valid": 5634,
+          "turnout": 5760,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "13": 1515,
+            "95": 46,
+            "22": 4035,
+            "96": 47
+          },
+          "valid": 5550,
+          "turnout": 5643,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 3907
+    },
+    {
+      "id": "00019",
+      "name": "GUAJARÁ-MIRIM",
+      "uf": "RO",
+      "file": "municipalities/00019.jsonl.gz",
+      "records": 1152,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 18,
+            "55": 296,
+            "27": 3,
+            "22": 12523,
+            "95": 178,
+            "70": 387,
+            "13": 7825,
+            "30": 17,
+            "14": 367,
+            "16": 2,
+            "21": 3,
+            "35": 6,
+            "29": 2,
+            "96": 286
+          },
+          "valid": 21449,
+          "turnout": 21913,
+          "sections": 113
+        },
+        "2": {
+          "votes": {
+            "96": 228,
+            "13": 8516,
+            "22": 12631,
+            "95": 139
+          },
+          "valid": 21147,
+          "turnout": 21514,
+          "sections": 113
+        }
+      },
+      "sections": 113,
+      "file_size_bytes": 17061
+    },
+    {
+      "id": "00493",
+      "name": "ITAPUÃ DO OESTE",
+      "uf": "RO",
+      "file": "municipalities/00493.jsonl.gz",
+      "records": 264,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 89,
+            "70": 217,
+            "95": 44,
+            "30": 5,
+            "13": 1485,
+            "14": 74,
+            "22": 3460,
+            "96": 61,
+            "28": 2,
+            "27": 5
+          },
+          "valid": 5338,
+          "turnout": 5443,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "96": 43,
+            "13": 1766,
+            "95": 43,
+            "22": 3472
+          },
+          "valid": 5238,
+          "turnout": 5324,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3504
+    },
+    {
+      "id": "00159",
+      "name": "JARU",
+      "uf": "RO",
+      "file": "municipalities/00159.jsonl.gz",
+      "records": 1671,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 418,
+            "21": 4,
+            "55": 395,
+            "80": 17,
+            "28": 4,
+            "16": 5,
+            "14": 602,
+            "29": 4,
+            "27": 9,
+            "22": 22967,
+            "95": 319,
+            "70": 719,
+            "30": 38,
+            "13": 6201,
+            "35": 3
+          },
+          "valid": 30968,
+          "turnout": 31705,
+          "sections": 155
+        },
+        "2": {
+          "votes": {
+            "96": 379,
+            "13": 7423,
+            "95": 286,
+            "22": 23879
+          },
+          "valid": 31302,
+          "turnout": 31967,
+          "sections": 155
+        }
+      },
+      "sections": 155,
+      "file_size_bytes": 21863
+    },
+    {
+      "id": "00051",
+      "name": "JI-PARANÁ",
+      "uf": "RO",
+      "file": "municipalities/00051.jsonl.gz",
+      "records": 3647,
+      "turns": {
+        "1": {
+          "votes": {
+            "29": 4,
+            "21": 7,
+            "55": 1229,
+            "95": 689,
+            "70": 1582,
+            "13": 16702,
+            "30": 128,
+            "35": 3,
+            "14": 1541,
+            "16": 9,
+            "22": 52832,
+            "96": 820,
+            "80": 41,
+            "28": 6,
+            "27": 18
+          },
+          "valid": 74102,
+          "turnout": 75611,
+          "sections": 334
+        },
+        "2": {
+          "votes": {
+            "96": 772,
+            "13": 20020,
+            "95": 596,
+            "22": 54709
+          },
+          "valid": 74729,
+          "turnout": 76097,
+          "sections": 334
+        }
+      },
+      "sections": 334,
+      "file_size_bytes": 68738
+    },
+    {
+      "id": "00396",
+      "name": "MACHADINHO D OESTE",
+      "uf": "RO",
+      "file": "municipalities/00396.jsonl.gz",
+      "records": 964,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 157,
+            "21": 2,
+            "55": 295,
+            "80": 7,
+            "28": 1,
+            "14": 234,
+            "29": 3,
+            "27": 6,
+            "22": 12914,
+            "95": 145,
+            "70": 374,
+            "13": 4362,
+            "30": 16,
+            "35": 1
+          },
+          "valid": 18215,
+          "turnout": 18517,
+          "sections": 97
+        },
+        "2": {
+          "votes": {
+            "96": 114,
+            "13": 4980,
+            "22": 13221,
+            "95": 130
+          },
+          "valid": 18201,
+          "turnout": 18445,
+          "sections": 97
+        }
+      },
+      "sections": 97,
+      "file_size_bytes": 14696
+    },
+    {
+      "id": "00604",
+      "name": "MINISTRO ANDREAZZA",
+      "uf": "RO",
+      "file": "municipalities/00604.jsonl.gz",
+      "records": 275,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "95": 53,
+            "70": 89,
+            "13": 1471,
+            "30": 7,
+            "14": 60,
+            "55": 91,
+            "28": 1,
+            "96": 65,
+            "22": 3093
+          },
+          "valid": 4813,
+          "turnout": 4931,
+          "sections": 26
+        },
+        "2": {
+          "votes": {
+            "96": 46,
+            "13": 1604,
+            "95": 49,
+            "22": 3265
+          },
+          "valid": 4869,
+          "turnout": 4964,
+          "sections": 26
+        }
+      },
+      "sections": 26,
+      "file_size_bytes": 3383
+    },
+    {
+      "id": "00574",
+      "name": "MIRANTE DA SERRA",
+      "uf": "RO",
+      "file": "municipalities/00574.jsonl.gz",
+      "records": 374,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 66,
+            "70": 131,
+            "13": 2125,
+            "30": 12,
+            "14": 99,
+            "16": 1,
+            "22": 4003,
+            "96": 104,
+            "55": 122,
+            "80": 2,
+            "28": 1
+          },
+          "valid": 6496,
+          "turnout": 6666,
+          "sections": 35
+        },
+        "2": {
+          "votes": {
+            "96": 69,
+            "13": 2397,
+            "22": 4098,
+            "95": 61
+          },
+          "valid": 6495,
+          "turnout": 6625,
+          "sections": 35
+        }
+      },
+      "sections": 35,
+      "file_size_bytes": 4422
+    },
+    {
+      "id": "00663",
+      "name": "MONTE NEGRO",
+      "uf": "RO",
+      "file": "municipalities/00663.jsonl.gz",
+      "records": 395,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 92,
+            "13": 1662,
+            "30": 10,
+            "95": 47,
+            "70": 166,
+            "96": 93,
+            "27": 1,
+            "22": 5613,
+            "80": 2,
+            "28": 1,
+            "55": 138
+          },
+          "valid": 7685,
+          "turnout": 7825,
+          "sections": 39
+        },
+        "2": {
+          "votes": {
+            "96": 63,
+            "13": 1940,
+            "95": 46,
+            "22": 5793
+          },
+          "valid": 7733,
+          "turnout": 7842,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 4653
+    },
+    {
+      "id": "00370",
+      "name": "NOVA BRASILÂNDIA D OESTE",
+      "uf": "RO",
+      "file": "municipalities/00370.jsonl.gz",
+      "records": 548,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 92,
+            "70": 231,
+            "13": 2620,
+            "30": 11,
+            "14": 132,
+            "27": 5,
+            "96": 122,
+            "22": 7601,
+            "21": 3,
+            "55": 210,
+            "80": 7,
+            "28": 1
+          },
+          "valid": 10821,
+          "turnout": 11035,
+          "sections": 51
+        },
+        "2": {
+          "votes": {
+            "13": 2925,
+            "95": 110,
+            "22": 7909,
+            "96": 99
+          },
+          "valid": 10834,
+          "turnout": 11043,
+          "sections": 51
+        }
+      },
+      "sections": 51,
+      "file_size_bytes": 6763
+    },
+    {
+      "id": "00434",
+      "name": "NOVA MAMORÉ",
+      "uf": "RO",
+      "file": "municipalities/00434.jsonl.gz",
+      "records": 720,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 103,
+            "70": 177,
+            "30": 6,
+            "13": 2781,
+            "14": 162,
+            "16": 1,
+            "29": 1,
+            "27": 2,
+            "96": 145,
+            "22": 11731,
+            "55": 122,
+            "80": 7,
+            "28": 2
+          },
+          "valid": 14992,
+          "turnout": 15240,
+          "sections": 75
+        },
+        "2": {
+          "votes": {
+            "13": 3110,
+            "22": 11673,
+            "95": 74,
+            "96": 111
+          },
+          "valid": 14783,
+          "turnout": 14968,
+          "sections": 75
+        }
+      },
+      "sections": 75,
+      "file_size_bytes": 9033
+    },
+    {
+      "id": "00744",
+      "name": "NOVA UNIÃO",
+      "uf": "RO",
+      "file": "municipalities/00744.jsonl.gz",
+      "records": 245,
+      "turns": {
+        "1": {
+          "votes": {
+            "28": 1,
+            "80": 1,
+            "55": 68,
+            "22": 2424,
+            "95": 34,
+            "70": 80,
+            "30": 8,
+            "13": 1634,
+            "14": 56,
+            "21": 2,
+            "29": 1,
+            "96": 42
+          },
+          "valid": 4275,
+          "turnout": 4351,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "96": 51,
+            "13": 1762,
+            "95": 38,
+            "22": 2510
+          },
+          "valid": 4272,
+          "turnout": 4361,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 2959
+    },
+    {
+      "id": "00515",
+      "name": "NOVO HORIZONTE DO OESTE",
+      "uf": "RO",
+      "file": "municipalities/00515.jsonl.gz",
+      "records": 320,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 62,
+            "21": 1,
+            "55": 117,
+            "28": 1,
+            "80": 1,
+            "14": 76,
+            "27": 1,
+            "22": 3639,
+            "95": 57,
+            "70": 133,
+            "30": 9,
+            "13": 1737,
+            "35": 1
+          },
+          "valid": 5716,
+          "turnout": 5835,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "96": 56,
+            "13": 1926,
+            "95": 54,
+            "22": 3791
+          },
+          "valid": 5717,
+          "turnout": 5827,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 3576
+    },
+    {
+      "id": "00175",
+      "name": "OURO PRETO DO OESTE",
+      "uf": "RO",
+      "file": "municipalities/00175.jsonl.gz",
+      "records": 1207,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 190,
+            "70": 546,
+            "13": 5142,
+            "30": 31,
+            "35": 1,
+            "14": 362,
+            "16": 2,
+            "22": 14956,
+            "27": 8,
+            "96": 284,
+            "21": 5,
+            "55": 282,
+            "80": 17,
+            "28": 2
+          },
+          "valid": 21354,
+          "turnout": 21828,
+          "sections": 114
+        },
+        "2": {
+          "votes": {
+            "96": 259,
+            "13": 6087,
+            "95": 172,
+            "22": 15476
+          },
+          "valid": 21563,
+          "turnout": 21994,
+          "sections": 114
+        }
+      },
+      "sections": 114,
+      "file_size_bytes": 16084
+    },
+    {
+      "id": "00701",
+      "name": "PARECIS",
+      "uf": "RO",
+      "file": "municipalities/00701.jsonl.gz",
+      "records": 154,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 76,
+            "22": 1765,
+            "95": 17,
+            "70": 73,
+            "13": 942,
+            "14": 46,
+            "96": 42
+          },
+          "valid": 2902,
+          "turnout": 2961,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 31,
+            "13": 1025,
+            "95": 24,
+            "22": 1752
+          },
+          "valid": 2777,
+          "turnout": 2832,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2273
+    },
+    {
+      "id": "00116",
+      "name": "PIMENTA BUENO",
+      "uf": "RO",
+      "file": "municipalities/00116.jsonl.gz",
+      "records": 1239,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 227,
+            "70": 465,
+            "13": 4520,
+            "30": 25,
+            "14": 334,
+            "27": 6,
+            "96": 356,
+            "22": 15080,
+            "21": 2,
+            "55": 350,
+            "80": 8
+          },
+          "valid": 20790,
+          "turnout": 21373,
+          "sections": 117
+        },
+        "2": {
+          "votes": {
+            "13": 5423,
+            "95": 196,
+            "22": 15605,
+            "96": 308
+          },
+          "valid": 21028,
+          "turnout": 21532,
+          "sections": 117
+        }
+      },
+      "sections": 117,
+      "file_size_bytes": 19913
+    },
+    {
+      "id": "00787",
+      "name": "PIMENTEIRAS DO OESTE",
+      "uf": "RO",
+      "file": "municipalities/00787.jsonl.gz",
+      "records": 75,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 16,
+            "22": 1185,
+            "80": 1,
+            "95": 6,
+            "70": 40,
+            "13": 485,
+            "14": 12,
+            "16": 1,
+            "55": 12
+          },
+          "valid": 1736,
+          "turnout": 1758,
+          "sections": 8
+        },
+        "2": {
+          "votes": {
+            "96": 12,
+            "13": 519,
+            "22": 1183,
+            "95": 5
+          },
+          "valid": 1702,
+          "turnout": 1719,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1280
+    },
+    {
+      "id": "00035",
+      "name": "PORTO VELHO",
+      "uf": "RO",
+      "file": "municipalities/00035.jsonl.gz",
+      "records": 14750,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 4677,
+            "22": 169992,
+            "27": 165,
+            "28": 19,
+            "80": 479,
+            "29": 23,
+            "95": 3368,
+            "70": 10270,
+            "30": 442,
+            "13": 90889,
+            "35": 65,
+            "14": 7770,
+            "16": 91,
+            "21": 65,
+            "55": 6087
+          },
+          "valid": 286357,
+          "turnout": 294402,
+          "sections": 1285
+        },
+        "2": {
+          "votes": {
+            "96": 4055,
+            "13": 108657,
+            "95": 2694,
+            "22": 174754
+          },
+          "valid": 283411,
+          "turnout": 290160,
+          "sections": 1285
+        }
+      },
+      "sections": 1285,
+      "file_size_bytes": 419831
+    },
+    {
+      "id": "00191",
+      "name": "PRESIDENTE MÉDICI",
+      "uf": "RO",
+      "file": "municipalities/00191.jsonl.gz",
+      "records": 762,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 199,
+            "16": 2,
+            "13": 2807,
+            "30": 17,
+            "95": 143,
+            "70": 287,
+            "96": 138,
+            "27": 1,
+            "22": 8293,
+            "80": 2,
+            "28": 1,
+            "55": 215
+          },
+          "valid": 11824,
+          "turnout": 12105,
+          "sections": 75
+        },
+        "2": {
+          "votes": {
+            "96": 136,
+            "13": 3305,
+            "95": 108,
+            "22": 8661
+          },
+          "valid": 11966,
+          "turnout": 12210,
+          "sections": 75
+        }
+      },
+      "sections": 75,
+      "file_size_bytes": 11819
+    },
+    {
+      "id": "00728",
+      "name": "PRIMAVERA DE RONDÔNIA",
+      "uf": "RO",
+      "file": "municipalities/00728.jsonl.gz",
+      "records": 140,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 42,
+            "16": 1,
+            "13": 540,
+            "30": 1,
+            "95": 26,
+            "70": 52,
+            "96": 40,
+            "27": 2,
+            "22": 1746,
+            "80": 1,
+            "55": 51
+          },
+          "valid": 2436,
+          "turnout": 2502,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 34,
+            "13": 614,
+            "95": 28,
+            "22": 1754
+          },
+          "valid": 2368,
+          "turnout": 2430,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2129
+    },
+    {
+      "id": "00647",
+      "name": "RIO CRESPO",
+      "uf": "RO",
+      "file": "municipalities/00647.jsonl.gz",
+      "records": 134,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 26,
+            "70": 31,
+            "30": 5,
+            "13": 539,
+            "14": 21,
+            "29": 1,
+            "22": 1981,
+            "27": 2,
+            "96": 26,
+            "21": 1,
+            "55": 47,
+            "80": 1
+          },
+          "valid": 2629,
+          "turnout": 2681,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 16,
+            "13": 597,
+            "95": 15,
+            "22": 1989
+          },
+          "valid": 2586,
+          "turnout": 2617,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 1819
+    },
+    {
+      "id": "00299",
+      "name": "ROLIM DE MOURA",
+      "uf": "RO",
+      "file": "municipalities/00299.jsonl.gz",
+      "records": 1635,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 447,
+            "22": 21501,
+            "27": 6,
+            "80": 23,
+            "28": 1,
+            "29": 1,
+            "95": 392,
+            "70": 799,
+            "13": 7001,
+            "30": 36,
+            "35": 2,
+            "14": 583,
+            "16": 9,
+            "21": 6,
+            "55": 557
+          },
+          "valid": 30525,
+          "turnout": 31364,
+          "sections": 147
+        },
+        "2": {
+          "votes": {
+            "96": 332,
+            "13": 8525,
+            "95": 342,
+            "22": 22611
+          },
+          "valid": 31136,
+          "turnout": 31810,
+          "sections": 147
+        }
+      },
+      "sections": 147,
+      "file_size_bytes": 21163
+    },
+    {
+      "id": "00353",
+      "name": "SANTA LUZIA D OESTE",
+      "uf": "RO",
+      "file": "municipalities/00353.jsonl.gz",
+      "records": 298,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 78,
+            "16": 1,
+            "13": 1580,
+            "30": 6,
+            "95": 77,
+            "70": 124,
+            "96": 78,
+            "22": 3293,
+            "80": 5,
+            "55": 87,
+            "21": 1
+          },
+          "valid": 5175,
+          "turnout": 5330,
+          "sections": 28
+        },
+        "2": {
+          "votes": {
+            "96": 55,
+            "13": 1770,
+            "95": 69,
+            "22": 3442
+          },
+          "valid": 5212,
+          "turnout": 5336,
+          "sections": 28
+        }
+      },
+      "sections": 28,
+      "file_size_bytes": 3776
+    },
+    {
+      "id": "00582",
+      "name": "SERINGUEIRAS",
+      "uf": "RO",
+      "file": "municipalities/00582.jsonl.gz",
+      "records": 388,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 69,
+            "70": 144,
+            "13": 2248,
+            "30": 15,
+            "14": 78,
+            "22": 5117,
+            "96": 83,
+            "21": 1,
+            "55": 126,
+            "80": 3
+          },
+          "valid": 7732,
+          "turnout": 7884,
+          "sections": 37
+        },
+        "2": {
+          "votes": {
+            "96": 69,
+            "13": 2452,
+            "95": 58,
+            "22": 5226
+          },
+          "valid": 7678,
+          "turnout": 7805,
+          "sections": 37
+        }
+      },
+      "sections": 37,
+      "file_size_bytes": 4786
+    },
+    {
+      "id": "00710",
+      "name": "SÃO FELIPE D OESTE",
+      "uf": "RO",
+      "file": "municipalities/00710.jsonl.gz",
+      "records": 205,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 61,
+            "55": 56,
+            "80": 3,
+            "14": 41,
+            "16": 1,
+            "29": 1,
+            "27": 1,
+            "22": 2293,
+            "95": 45,
+            "70": 102,
+            "13": 1007,
+            "30": 4
+          },
+          "valid": 3509,
+          "turnout": 3615,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 71,
+            "13": 1139,
+            "95": 31,
+            "22": 2393
+          },
+          "valid": 3532,
+          "turnout": 3634,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2800
+    },
+    {
+      "id": "00795",
+      "name": "SÃO FRANCISCO DO GUAPORÉ",
+      "uf": "RO",
+      "file": "municipalities/00795.jsonl.gz",
+      "records": 476,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 4,
+            "55": 150,
+            "27": 1,
+            "22": 7180,
+            "95": 70,
+            "70": 248,
+            "30": 7,
+            "13": 2210,
+            "14": 135,
+            "21": 1,
+            "29": 1,
+            "96": 92
+          },
+          "valid": 9937,
+          "turnout": 10099,
+          "sections": 47
+        },
+        "2": {
+          "votes": {
+            "96": 72,
+            "13": 2495,
+            "22": 7352,
+            "95": 67
+          },
+          "valid": 9847,
+          "turnout": 9986,
+          "sections": 47
+        }
+      },
+      "sections": 47,
+      "file_size_bytes": 6198
+    },
+    {
+      "id": "00418",
+      "name": "SÃO MIGUEL DO GUAPORÉ",
+      "uf": "RO",
+      "file": "municipalities/00418.jsonl.gz",
+      "records": 642,
+      "turns": {
+        "1": {
+          "votes": {
+            "29": 1,
+            "21": 5,
+            "95": 138,
+            "70": 328,
+            "13": 3704,
+            "30": 13,
+            "35": 1,
+            "14": 217,
+            "55": 220,
+            "80": 5,
+            "96": 160,
+            "22": 8939,
+            "27": 3
+          },
+          "valid": 13436,
+          "turnout": 13734,
+          "sections": 59
+        },
+        "2": {
+          "votes": {
+            "96": 133,
+            "13": 4209,
+            "95": 124,
+            "22": 9297
+          },
+          "valid": 13506,
+          "turnout": 13763,
+          "sections": 59
+        }
+      },
+      "sections": 59,
+      "file_size_bytes": 7603
+    },
+    {
+      "id": "00752",
+      "name": "TEIXEIRÓPOLIS",
+      "uf": "RO",
+      "file": "municipalities/00752.jsonl.gz",
+      "records": 163,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 37,
+            "22": 1938,
+            "27": 1,
+            "80": 1,
+            "95": 32,
+            "70": 52,
+            "13": 1035,
+            "30": 3,
+            "14": 29,
+            "21": 1,
+            "55": 45
+          },
+          "valid": 3105,
+          "turnout": 3174,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 28,
+            "13": 1139,
+            "22": 2023,
+            "95": 33
+          },
+          "valid": 3162,
+          "turnout": 3223,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2196
+    },
+    {
+      "id": "00590",
+      "name": "THEOBROMA",
+      "uf": "RO",
+      "file": "municipalities/00590.jsonl.gz",
+      "records": 325,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 51,
+            "16": 3,
+            "13": 1638,
+            "30": 6,
+            "35": 1,
+            "95": 46,
+            "70": 150,
+            "96": 70,
+            "27": 2,
+            "22": 3966,
+            "80": 3,
+            "55": 91
+          },
+          "valid": 5911,
+          "turnout": 6027,
+          "sections": 31
+        },
+        "2": {
+          "votes": {
+            "96": 59,
+            "13": 1754,
+            "95": 45,
+            "22": 4080
+          },
+          "valid": 5834,
+          "turnout": 5938,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 4003
+    },
+    {
+      "id": "00566",
+      "name": "URUPÁ",
+      "uf": "RO",
+      "file": "municipalities/00566.jsonl.gz",
+      "records": 374,
+      "turns": {
+        "1": {
+          "votes": {
+            "80": 7,
+            "28": 1,
+            "55": 100,
+            "27": 3,
+            "22": 4765,
+            "95": 71,
+            "70": 154,
+            "13": 2027,
+            "14": 84,
+            "21": 1,
+            "30": 1,
+            "96": 91
+          },
+          "valid": 7143,
+          "turnout": 7305,
+          "sections": 35
+        },
+        "2": {
+          "votes": {
+            "96": 72,
+            "13": 2283,
+            "95": 74,
+            "22": 4906
+          },
+          "valid": 7189,
+          "turnout": 7335,
+          "sections": 35
+        }
+      },
+      "sections": 35,
+      "file_size_bytes": 4443
+    },
+    {
+      "id": "00698",
+      "name": "VALE DO ANARI",
+      "uf": "RO",
+      "file": "municipalities/00698.jsonl.gz",
+      "records": 248,
+      "turns": {
+        "1": {
+          "votes": {
+            "29": 1,
+            "95": 27,
+            "70": 149,
+            "13": 1270,
+            "30": 4,
+            "14": 52,
+            "55": 83,
+            "80": 1,
+            "96": 64,
+            "22": 3524,
+            "27": 1
+          },
+          "valid": 5085,
+          "turnout": 5176,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 46,
+            "13": 1445,
+            "95": 39,
+            "22": 3577
+          },
+          "valid": 5022,
+          "turnout": 5107,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3146
+    },
+    {
+      "id": "00558",
+      "name": "VALE DO PARAÍSO",
+      "uf": "RO",
+      "file": "municipalities/00558.jsonl.gz",
+      "records": 256,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 62,
+            "55": 68,
+            "80": 6,
+            "14": 60,
+            "27": 2,
+            "22": 2755,
+            "95": 28,
+            "70": 74,
+            "13": 1356,
+            "30": 2
+          },
+          "valid": 4323,
+          "turnout": 4413,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "96": 48,
+            "13": 1504,
+            "95": 28,
+            "22": 2836
+          },
+          "valid": 4340,
+          "turnout": 4416,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3308
+    },
+    {
+      "id": "00132",
+      "name": "VILHENA",
+      "uf": "RO",
+      "file": "municipalities/00132.jsonl.gz",
+      "records": 2863,
+      "turns": {
+        "1": {
+          "votes": {
+            "14": 1146,
+            "16": 13,
+            "30": 87,
+            "13": 10327,
+            "35": 4,
+            "95": 601,
+            "70": 1195,
+            "96": 741,
+            "27": 17,
+            "22": 39614,
+            "80": 37,
+            "28": 3,
+            "29": 1,
+            "55": 806,
+            "21": 8
+          },
+          "valid": 53258,
+          "turnout": 54600,
+          "sections": 261
+        },
+        "2": {
+          "votes": {
+            "96": 686,
+            "13": 12604,
+            "95": 476,
+            "22": 41461
+          },
+          "valid": 54065,
+          "turnout": 55227,
+          "sections": 261
+        }
+      },
+      "sections": 261,
+      "file_size_bytes": 50362
+    }
+  ]
+}

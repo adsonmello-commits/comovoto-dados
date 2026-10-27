@@ -15,6 +15,11 @@
   ],
   "data_status": "complete",
   "candidates": {
+    "55": {
+      "name": "RONALDO RAMOS CAIADO",
+      "short": "RONALDO RAMOS CAIADO",
+      "color": "#71818a"
+    },
     "14": {
       "name": "RENAN ANTONIO FERREIRA DOS SANTOS",
       "short": "RENAN ANTONIO FERREIRA DOS SANTOS",
@@ -35,9 +40,19 @@
       "short": "LUIZ INÁCIO LULA DA SILVA",
       "color": "#d64751"
     },
-    "30": {
-      "name": "ROMEU ZEMA NETO",
-      "short": "ROMEU ZEMA NETO",
+    "70": {
+      "name": "AUGUSTO JORGE CURY",
+      "short": "AUGUSTO JORGE CURY",
+      "color": "#71818a"
+    },
+    "95": {
+      "name": "VOTO BRANCO",
+      "short": "VOTO BRANCO",
+      "color": "#71818a"
+    },
+    "21": {
+      "name": "EDMILSON SILVA COSTA",
+      "short": "EDMILSON SILVA COSTA",
       "color": "#71818a"
     },
     "35": {
@@ -45,15 +60,20 @@
       "short": "WILSON GRASSI JUNIOR",
       "color": "#71818a"
     },
+    "30": {
+      "name": "ROMEU ZEMA NETO",
+      "short": "ROMEU ZEMA NETO",
+      "color": "#71818a"
+    },
+    "27": {
+      "name": "CLARIANA ZACARKIM BARAO",
+      "short": "CLARIANA ZACARKIM BARAO",
+      "color": "#71818a"
+    },
     "22": {
       "name": "FLAVIO NANTES BOLSONARO",
       "short": "FLAVIO NANTES BOLSONARO",
       "color": "#3478d0"
-    },
-    "95": {
-      "name": "VOTO BRANCO",
-      "short": "VOTO BRANCO",
-      "color": "#71818a"
     },
     "80": {
       "name": "SAMARA MARTINS DA SILVA FEITOSA",
@@ -63,26 +83,6 @@
     "28": {
       "name": "LEONARDO ALVES DE ARAUJO",
       "short": "LEONARDO ALVES DE ARAUJO",
-      "color": "#71818a"
-    },
-    "21": {
-      "name": "EDMILSON SILVA COSTA",
-      "short": "EDMILSON SILVA COSTA",
-      "color": "#71818a"
-    },
-    "55": {
-      "name": "RONALDO RAMOS CAIADO",
-      "short": "RONALDO RAMOS CAIADO",
-      "color": "#71818a"
-    },
-    "70": {
-      "name": "AUGUSTO JORGE CURY",
-      "short": "AUGUSTO JORGE CURY",
-      "color": "#71818a"
-    },
-    "27": {
-      "name": "CLARIANA ZACARKIM BARAO",
-      "short": "CLARIANA ZACARKIM BARAO",
       "color": "#71818a"
     },
     "29": {

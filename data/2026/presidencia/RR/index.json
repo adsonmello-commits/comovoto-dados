@@ -1,0 +1,709 @@
+{
+  "dataset": "Presidente — votação por seção — Eleições 2026",
+  "office": "Presidente da República",
+  "uf": "RR",
+  "state": "Roraima",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip",
+  "municipality_count": 15,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1",
+    "2"
+  ],
+  "data_status": "complete",
+  "candidates": {
+    "55": {
+      "name": "RONALDO RAMOS CAIADO",
+      "short": "RONALDO RAMOS CAIADO",
+      "color": "#71818a"
+    },
+    "14": {
+      "name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "short": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "color": "#71818a"
+    },
+    "16": {
+      "name": "HERTZ DA CONCEICAO DIAS",
+      "short": "HERTZ DA CONCEICAO DIAS",
+      "color": "#71818a"
+    },
+    "96": {
+      "name": "VOTO NULO",
+      "short": "VOTO NULO",
+      "color": "#71818a"
+    },
+    "13": {
+      "name": "LUIZ INÁCIO LULA DA SILVA",
+      "short": "LUIZ INÁCIO LULA DA SILVA",
+      "color": "#d64751"
+    },
+    "70": {
+      "name": "AUGUSTO JORGE CURY",
+      "short": "AUGUSTO JORGE CURY",
+      "color": "#71818a"
+    },
+    "95": {
+      "name": "VOTO BRANCO",
+      "short": "VOTO BRANCO",
+      "color": "#71818a"
+    },
+    "21": {
+      "name": "EDMILSON SILVA COSTA",
+      "short": "EDMILSON SILVA COSTA",
+      "color": "#71818a"
+    },
+    "35": {
+      "name": "WILSON GRASSI JUNIOR",
+      "short": "WILSON GRASSI JUNIOR",
+      "color": "#71818a"
+    },
+    "30": {
+      "name": "ROMEU ZEMA NETO",
+      "short": "ROMEU ZEMA NETO",
+      "color": "#71818a"
+    },
+    "27": {
+      "name": "CLARIANA ZACARKIM BARAO",
+      "short": "CLARIANA ZACARKIM BARAO",
+      "color": "#71818a"
+    },
+    "22": {
+      "name": "FLAVIO NANTES BOLSONARO",
+      "short": "FLAVIO NANTES BOLSONARO",
+      "color": "#3478d0"
+    },
+    "80": {
+      "name": "SAMARA MARTINS DA SILVA FEITOSA",
+      "short": "SAMARA MARTINS DA SILVA FEITOSA",
+      "color": "#71818a"
+    },
+    "28": {
+      "name": "LEONARDO ALVES DE ARAUJO",
+      "short": "LEONARDO ALVES DE ARAUJO",
+      "color": "#71818a"
+    },
+    "29": {
+      "name": "RUI COSTA PIMENTA",
+      "short": "RUI COSTA PIMENTA",
+      "color": "#71818a"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "03050",
+      "name": "ALTO ALEGRE",
+      "uf": "RR",
+      "file": "municipalities/03050.jsonl.gz",
+      "records": 494,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 80,
+            "13": 2748,
+            "22": 6962,
+            "95": 40
+          },
+          "valid": 9710,
+          "turnout": 9830,
+          "sections": 50
+        },
+        "1": {
+          "votes": {
+            "22": 7951,
+            "95": 68,
+            "70": 227,
+            "14": 138,
+            "13": 2657,
+            "30": 3,
+            "28": 2,
+            "80": 6,
+            "55": 116,
+            "96": 171,
+            "27": 8
+          },
+          "valid": 11108,
+          "turnout": 11347,
+          "sections": 50
+        }
+      },
+      "sections": 50,
+      "file_size_bytes": 7308
+    },
+    {
+      "id": "03042",
+      "name": "AMAJARI",
+      "uf": "RR",
+      "file": "municipalities/03042.jsonl.gz",
+      "records": 294,
+      "turns": {
+        "1": {
+          "votes": {
+            "95": 32,
+            "70": 138,
+            "14": 64,
+            "13": 1426,
+            "30": 5,
+            "35": 1,
+            "21": 2,
+            "55": 69,
+            "80": 1,
+            "28": 1,
+            "22": 4635,
+            "96": 144,
+            "27": 2
+          },
+          "valid": 6344,
+          "turnout": 6520,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "22": 3797,
+            "95": 20,
+            "13": 1442,
+            "96": 43
+          },
+          "valid": 5239,
+          "turnout": 5302,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4671
+    },
+    {
+      "id": "03018",
+      "name": "BOA VISTA",
+      "uf": "RR",
+      "file": "municipalities/03018.jsonl.gz",
+      "records": 9712,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 2253,
+            "13": 45675,
+            "22": 142680,
+            "95": 1620
+          },
+          "valid": 188355,
+          "turnout": 192228,
+          "sections": 869
+        },
+        "1": {
+          "votes": {
+            "22": 143225,
+            "95": 1885,
+            "70": 6075,
+            "29": 29,
+            "14": 5077,
+            "16": 53,
+            "13": 37547,
+            "30": 255,
+            "35": 34,
+            "55": 2530,
+            "21": 26,
+            "80": 216,
+            "28": 6,
+            "96": 2486,
+            "27": 127
+          },
+          "valid": 195200,
+          "turnout": 199571,
+          "sections": 869
+        }
+      },
+      "sections": 869,
+      "file_size_bytes": 325085
+    },
+    {
+      "id": "03077",
+      "name": "BONFIM",
+      "uf": "RR",
+      "file": "municipalities/03077.jsonl.gz",
+      "records": 463,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 73,
+            "13": 3193,
+            "22": 5611,
+            "95": 34
+          },
+          "valid": 8804,
+          "turnout": 8911,
+          "sections": 49
+        },
+        "1": {
+          "votes": {
+            "22": 6564,
+            "95": 48,
+            "70": 126,
+            "14": 87,
+            "13": 3037,
+            "30": 6,
+            "35": 2,
+            "55": 58,
+            "21": 2,
+            "80": 8,
+            "96": 151,
+            "27": 2
+          },
+          "valid": 9892,
+          "turnout": 10091,
+          "sections": 49
+        }
+      },
+      "sections": 49,
+      "file_size_bytes": 7696
+    },
+    {
+      "id": "03069",
+      "name": "CANTÁ",
+      "uf": "RR",
+      "file": "municipalities/03069.jsonl.gz",
+      "records": 694,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3915,
+            "95": 54,
+            "22": 8828,
+            "96": 96
+          },
+          "valid": 12743,
+          "turnout": 12893,
+          "sections": 72
+        },
+        "1": {
+          "votes": {
+            "14": 168,
+            "22": 10037,
+            "70": 275,
+            "95": 67,
+            "13": 3667,
+            "30": 14,
+            "55": 192,
+            "96": 207,
+            "80": 3,
+            "27": 5
+          },
+          "valid": 14361,
+          "turnout": 14635,
+          "sections": 72
+        }
+      },
+      "sections": 72,
+      "file_size_bytes": 13093
+    },
+    {
+      "id": "03034",
+      "name": "CARACARAÍ",
+      "uf": "RR",
+      "file": "municipalities/03034.jsonl.gz",
+      "records": 609,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 105,
+            "13": 2881,
+            "95": 62,
+            "22": 7372
+          },
+          "valid": 10253,
+          "turnout": 10420,
+          "sections": 62
+        },
+        "1": {
+          "votes": {
+            "80": 6,
+            "28": 1,
+            "13": 2987,
+            "30": 9,
+            "70": 283,
+            "95": 90,
+            "14": 174,
+            "21": 1,
+            "22": 8598,
+            "27": 4,
+            "55": 108,
+            "96": 191
+          },
+          "valid": 12171,
+          "turnout": 12452,
+          "sections": 62
+        }
+      },
+      "sections": 62,
+      "file_size_bytes": 9949
+    },
+    {
+      "id": "03000",
+      "name": "CAROEBE",
+      "uf": "RR",
+      "file": "municipalities/03000.jsonl.gz",
+      "records": 307,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 71,
+            "13": 1227,
+            "22": 4682,
+            "95": 48
+          },
+          "valid": 5909,
+          "turnout": 6028,
+          "sections": 30
+        },
+        "1": {
+          "votes": {
+            "80": 6,
+            "13": 1201,
+            "30": 4,
+            "70": 108,
+            "95": 46,
+            "14": 89,
+            "21": 2,
+            "22": 4989,
+            "27": 2,
+            "55": 72,
+            "96": 93
+          },
+          "valid": 6473,
+          "turnout": 6612,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4268
+    },
+    {
+      "id": "03026",
+      "name": "IRACEMA",
+      "uf": "RR",
+      "file": "municipalities/03026.jsonl.gz",
+      "records": 304,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 66,
+            "13": 1296,
+            "95": 38,
+            "22": 3706
+          },
+          "valid": 5002,
+          "turnout": 5106,
+          "sections": 30
+        },
+        "1": {
+          "votes": {
+            "80": 2,
+            "13": 1295,
+            "30": 4,
+            "70": 173,
+            "29": 2,
+            "35": 1,
+            "95": 49,
+            "14": 65,
+            "21": 1,
+            "22": 4384,
+            "16": 2,
+            "55": 54,
+            "96": 121
+          },
+          "valid": 5983,
+          "turnout": 6153,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4098
+    },
+    {
+      "id": "03093",
+      "name": "MUCAJAÍ",
+      "uf": "RR",
+      "file": "municipalities/03093.jsonl.gz",
+      "records": 592,
+      "turns": {
+        "2": {
+          "votes": {
+            "22": 8342,
+            "95": 42,
+            "13": 2120,
+            "96": 96
+          },
+          "valid": 10462,
+          "turnout": 10600,
+          "sections": 61
+        },
+        "1": {
+          "votes": {
+            "14": 142,
+            "22": 9218,
+            "16": 1,
+            "95": 76,
+            "70": 228,
+            "30": 4,
+            "13": 2022,
+            "55": 109,
+            "96": 193,
+            "21": 2,
+            "80": 4,
+            "27": 4
+          },
+          "valid": 11734,
+          "turnout": 12003,
+          "sections": 61
+        }
+      },
+      "sections": 61,
+      "file_size_bytes": 9203
+    },
+    {
+      "id": "03115",
+      "name": "NORMANDIA",
+      "uf": "RR",
+      "file": "municipalities/03115.jsonl.gz",
+      "records": 339,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3566,
+            "96": 38,
+            "95": 19,
+            "22": 3793
+          },
+          "valid": 7359,
+          "turnout": 7416,
+          "sections": 42
+        },
+        "1": {
+          "votes": {
+            "22": 4440,
+            "27": 1,
+            "14": 57,
+            "16": 1,
+            "70": 151,
+            "95": 24,
+            "96": 96,
+            "55": 33,
+            "29": 1,
+            "80": 2,
+            "13": 3558,
+            "30": 3
+          },
+          "valid": 8247,
+          "turnout": 8367,
+          "sections": 42
+        }
+      },
+      "sections": 42,
+      "file_size_bytes": 5680
+    },
+    {
+      "id": "03123",
+      "name": "PACARAIMA",
+      "uf": "RR",
+      "file": "municipalities/03123.jsonl.gz",
+      "records": 384,
+      "turns": {
+        "2": {
+          "votes": {
+            "95": 29,
+            "22": 3948,
+            "96": 45,
+            "13": 3063
+          },
+          "valid": 7011,
+          "turnout": 7085,
+          "sections": 42
+        },
+        "1": {
+          "votes": {
+            "96": 112,
+            "14": 86,
+            "95": 29,
+            "13": 3065,
+            "27": 6,
+            "22": 4619,
+            "80": 3,
+            "55": 37,
+            "28": 2,
+            "30": 2,
+            "29": 1,
+            "70": 120,
+            "21": 2
+          },
+          "valid": 7943,
+          "turnout": 8084,
+          "sections": 42
+        }
+      },
+      "sections": 42,
+      "file_size_bytes": 6102
+    },
+    {
+      "id": "03085",
+      "name": "RORAINÓPOLIS",
+      "uf": "RR",
+      "file": "municipalities/03085.jsonl.gz",
+      "records": 970,
+      "turns": {
+        "2": {
+          "votes": {
+            "22": 12114,
+            "95": 113,
+            "96": 143,
+            "13": 4430
+          },
+          "valid": 16544,
+          "turnout": 16800,
+          "sections": 96
+        },
+        "1": {
+          "votes": {
+            "96": 331,
+            "14": 314,
+            "16": 3,
+            "95": 127,
+            "13": 4189,
+            "27": 5,
+            "22": 13503,
+            "80": 14,
+            "28": 2,
+            "55": 135,
+            "30": 17,
+            "35": 3,
+            "70": 408,
+            "21": 3
+          },
+          "valid": 18596,
+          "turnout": 19054,
+          "sections": 96
+        }
+      },
+      "sections": 96,
+      "file_size_bytes": 15797
+    },
+    {
+      "id": "03131",
+      "name": "SÃO JOÃO DA BALIZA",
+      "uf": "RR",
+      "file": "municipalities/03131.jsonl.gz",
+      "records": 245,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 40,
+            "13": 1198,
+            "22": 2848,
+            "95": 26
+          },
+          "valid": 4046,
+          "turnout": 4112,
+          "sections": 23
+        },
+        "1": {
+          "votes": {
+            "80": 6,
+            "30": 6,
+            "13": 1154,
+            "70": 108,
+            "95": 38,
+            "14": 74,
+            "22": 3319,
+            "27": 1,
+            "55": 61,
+            "96": 76
+          },
+          "valid": 4729,
+          "turnout": 4843,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3290
+    },
+    {
+      "id": "03158",
+      "name": "SÃO LUIZ",
+      "uf": "RR",
+      "file": "municipalities/03158.jsonl.gz",
+      "records": 250,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 38,
+            "13": 1216,
+            "95": 22,
+            "22": 2931
+          },
+          "valid": 4147,
+          "turnout": 4207,
+          "sections": 25
+        },
+        "1": {
+          "votes": {
+            "80": 3,
+            "13": 1240,
+            "30": 2,
+            "70": 111,
+            "29": 1,
+            "95": 32,
+            "14": 65,
+            "21": 1,
+            "22": 3513,
+            "27": 1,
+            "55": 46,
+            "96": 99
+          },
+          "valid": 4983,
+          "turnout": 5114,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3734
+    },
+    {
+      "id": "03107",
+      "name": "UIRAMUTÃ",
+      "uf": "RR",
+      "file": "municipalities/03107.jsonl.gz",
+      "records": 263,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 54,
+            "13": 5535,
+            "95": 9,
+            "22": 2061
+          },
+          "valid": 7596,
+          "turnout": 7659,
+          "sections": 38
+        },
+        "1": {
+          "votes": {
+            "96": 124,
+            "22": 2327,
+            "70": 48,
+            "95": 7,
+            "55": 19,
+            "13": 5375,
+            "30": 3,
+            "14": 23
+          },
+          "valid": 7795,
+          "turnout": 7926,
+          "sections": 38
+        }
+      },
+      "sections": 38,
+      "file_size_bytes": 4822
+    }
+  ]
+}

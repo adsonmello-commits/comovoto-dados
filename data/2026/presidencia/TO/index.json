@@ -1,0 +1,5468 @@
+{
+  "dataset": "Presidente — votação por seção — Eleições 2026",
+  "office": "Presidente da República",
+  "uf": "TO",
+  "state": "Tocantins",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip",
+  "municipality_count": 139,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1",
+    "2"
+  ],
+  "data_status": "complete",
+  "candidates": {
+    "55": {
+      "name": "RONALDO RAMOS CAIADO",
+      "short": "RONALDO RAMOS CAIADO",
+      "color": "#71818a"
+    },
+    "14": {
+      "name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "short": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "color": "#71818a"
+    },
+    "16": {
+      "name": "HERTZ DA CONCEICAO DIAS",
+      "short": "HERTZ DA CONCEICAO DIAS",
+      "color": "#71818a"
+    },
+    "96": {
+      "name": "VOTO NULO",
+      "short": "VOTO NULO",
+      "color": "#71818a"
+    },
+    "13": {
+      "name": "LUIZ INÁCIO LULA DA SILVA",
+      "short": "LUIZ INÁCIO LULA DA SILVA",
+      "color": "#d64751"
+    },
+    "70": {
+      "name": "AUGUSTO JORGE CURY",
+      "short": "AUGUSTO JORGE CURY",
+      "color": "#71818a"
+    },
+    "95": {
+      "name": "VOTO BRANCO",
+      "short": "VOTO BRANCO",
+      "color": "#71818a"
+    },
+    "21": {
+      "name": "EDMILSON SILVA COSTA",
+      "short": "EDMILSON SILVA COSTA",
+      "color": "#71818a"
+    },
+    "35": {
+      "name": "WILSON GRASSI JUNIOR",
+      "short": "WILSON GRASSI JUNIOR",
+      "color": "#71818a"
+    },
+    "30": {
+      "name": "ROMEU ZEMA NETO",
+      "short": "ROMEU ZEMA NETO",
+      "color": "#71818a"
+    },
+    "27": {
+      "name": "CLARIANA ZACARKIM BARAO",
+      "short": "CLARIANA ZACARKIM BARAO",
+      "color": "#71818a"
+    },
+    "22": {
+      "name": "FLAVIO NANTES BOLSONARO",
+      "short": "FLAVIO NANTES BOLSONARO",
+      "color": "#3478d0"
+    },
+    "80": {
+      "name": "SAMARA MARTINS DA SILVA FEITOSA",
+      "short": "SAMARA MARTINS DA SILVA FEITOSA",
+      "color": "#71818a"
+    },
+    "28": {
+      "name": "LEONARDO ALVES DE ARAUJO",
+      "short": "LEONARDO ALVES DE ARAUJO",
+      "color": "#71818a"
+    },
+    "29": {
+      "name": "RUI COSTA PIMENTA",
+      "short": "RUI COSTA PIMENTA",
+      "color": "#71818a"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "73008",
+      "name": "ABREULÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/73008.jsonl.gz",
+      "records": 99,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 77,
+            "13": 949,
+            "95": 10,
+            "22": 942
+          },
+          "valid": 1891,
+          "turnout": 1978,
+          "sections": 10
+        },
+        "1": {
+          "votes": {
+            "22": 1013,
+            "96": 52,
+            "55": 27,
+            "14": 20,
+            "95": 13,
+            "70": 28,
+            "13": 884
+          },
+          "valid": 1972,
+          "turnout": 2037,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1594
+    },
+    {
+      "id": "73512",
+      "name": "AGUIARNÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/73512.jsonl.gz",
+      "records": 163,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1221,
+            "96": 94,
+            "95": 20,
+            "70": 76,
+            "55": 30,
+            "80": 1,
+            "30": 2,
+            "13": 1660,
+            "35": 1,
+            "14": 55,
+            "21": 2
+          },
+          "valid": 3048,
+          "turnout": 3162,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "96": 106,
+            "13": 1762,
+            "22": 1222,
+            "95": 21
+          },
+          "valid": 2984,
+          "turnout": 3111,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2214
+    },
+    {
+      "id": "96954",
+      "name": "ALIANÇA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/96954.jsonl.gz",
+      "records": 191,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 150,
+            "13": 1447,
+            "95": 39,
+            "22": 1669
+          },
+          "valid": 3116,
+          "turnout": 3305,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 91,
+            "80": 1,
+            "22": 1738,
+            "96": 93,
+            "95": 35,
+            "70": 74,
+            "13": 1361,
+            "30": 1,
+            "14": 25
+          },
+          "valid": 3292,
+          "turnout": 3420,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2519
+    },
+    {
+      "id": "92070",
+      "name": "ALMAS",
+      "uf": "TO",
+      "file": "municipalities/92070.jsonl.gz",
+      "records": 242,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 245,
+            "13": 2661,
+            "95": 35,
+            "22": 1519
+          },
+          "valid": 4180,
+          "turnout": 4460,
+          "sections": 23
+        },
+        "1": {
+          "votes": {
+            "55": 131,
+            "80": 1,
+            "22": 1590,
+            "96": 169,
+            "95": 39,
+            "70": 91,
+            "13": 2446,
+            "30": 3,
+            "35": 1,
+            "14": 37
+          },
+          "valid": 4300,
+          "turnout": 4508,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3124
+    },
+    {
+      "id": "92134",
+      "name": "ALVORADA",
+      "uf": "TO",
+      "file": "municipalities/92134.jsonl.gz",
+      "records": 321,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 194,
+            "95": 41,
+            "70": 80,
+            "21": 2,
+            "55": 151,
+            "80": 2,
+            "22": 3557,
+            "13": 2101,
+            "14": 81,
+            "29": 1
+          },
+          "valid": 5975,
+          "turnout": 6210,
+          "sections": 31
+        },
+        "2": {
+          "votes": {
+            "96": 233,
+            "13": 2376,
+            "22": 3517,
+            "95": 48
+          },
+          "valid": 5893,
+          "turnout": 6174,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 4402
+    },
+    {
+      "id": "92193",
+      "name": "ANANÁS",
+      "uf": "TO",
+      "file": "municipalities/92193.jsonl.gz",
+      "records": 330,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 169,
+            "95": 55,
+            "70": 135,
+            "80": 2,
+            "55": 96,
+            "22": 2493,
+            "13": 3337,
+            "30": 1,
+            "14": 54
+          },
+          "valid": 6118,
+          "turnout": 6342,
+          "sections": 32
+        },
+        "2": {
+          "votes": {
+            "96": 235,
+            "13": 3451,
+            "95": 33,
+            "22": 2465
+          },
+          "valid": 5916,
+          "turnout": 6184,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 4316
+    },
+    {
+      "id": "73075",
+      "name": "ANGICO",
+      "uf": "TO",
+      "file": "municipalities/73075.jsonl.gz",
+      "records": 114,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 74,
+            "13": 1119,
+            "95": 19,
+            "22": 940
+          },
+          "valid": 2059,
+          "turnout": 2152,
+          "sections": 11
+        },
+        "1": {
+          "votes": {
+            "55": 47,
+            "22": 985,
+            "96": 49,
+            "95": 14,
+            "70": 46,
+            "13": 1101,
+            "14": 33
+          },
+          "valid": 2212,
+          "turnout": 2275,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1640
+    },
+    {
+      "id": "96970",
+      "name": "APARECIDA DO RIO NEGRO",
+      "uf": "TO",
+      "file": "municipalities/96970.jsonl.gz",
+      "records": 190,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 185,
+            "13": 1758,
+            "95": 31,
+            "22": 1960
+          },
+          "valid": 3718,
+          "turnout": 3934,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "55": 72,
+            "80": 1,
+            "22": 1997,
+            "96": 109,
+            "95": 27,
+            "70": 87,
+            "13": 1683,
+            "30": 1,
+            "14": 29
+          },
+          "valid": 3870,
+          "turnout": 4006,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2445
+    },
+    {
+      "id": "73334",
+      "name": "ARAGOMINAS",
+      "uf": "TO",
+      "file": "municipalities/73334.jsonl.gz",
+      "records": 197,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1484,
+            "27": 1,
+            "96": 99,
+            "95": 28,
+            "70": 54,
+            "55": 67,
+            "80": 1,
+            "13": 1882,
+            "30": 2,
+            "14": 27,
+            "21": 1
+          },
+          "valid": 3519,
+          "turnout": 3646,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "96": 156,
+            "13": 1876,
+            "95": 24,
+            "22": 1458
+          },
+          "valid": 3334,
+          "turnout": 3514,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2863
+    },
+    {
+      "id": "92371",
+      "name": "ARAGUACEMA",
+      "uf": "TO",
+      "file": "municipalities/92371.jsonl.gz",
+      "records": 203,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 177,
+            "13": 2126,
+            "95": 28,
+            "22": 1572
+          },
+          "valid": 3698,
+          "turnout": 3903,
+          "sections": 20
+        },
+        "1": {
+          "votes": {
+            "22": 1647,
+            "96": 138,
+            "21": 2,
+            "55": 82,
+            "14": 26,
+            "95": 21,
+            "70": 67,
+            "13": 2084,
+            "30": 1,
+            "28": 1
+          },
+          "valid": 3910,
+          "turnout": 4069,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2858
+    },
+    {
+      "id": "73318",
+      "name": "ARAGUANÃ",
+      "uf": "TO",
+      "file": "municipalities/73318.jsonl.gz",
+      "records": 158,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 105,
+            "13": 1338,
+            "22": 1355,
+            "95": 14
+          },
+          "valid": 2693,
+          "turnout": 2812,
+          "sections": 16
+        },
+        "1": {
+          "votes": {
+            "22": 1397,
+            "27": 1,
+            "96": 70,
+            "21": 1,
+            "55": 38,
+            "14": 31,
+            "95": 11,
+            "70": 48,
+            "13": 1321,
+            "28": 1
+          },
+          "valid": 2838,
+          "turnout": 2919,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2441
+    },
+    {
+      "id": "92436",
+      "name": "ARAGUATINS",
+      "uf": "TO",
+      "file": "municipalities/92436.jsonl.gz",
+      "records": 902,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 7176,
+            "27": 5,
+            "96": 578,
+            "16": 5,
+            "14": 276,
+            "13": 8731,
+            "30": 12,
+            "55": 238,
+            "80": 7,
+            "95": 155,
+            "70": 512,
+            "21": 3
+          },
+          "valid": 16965,
+          "turnout": 17698,
+          "sections": 84
+        },
+        "2": {
+          "votes": {
+            "96": 770,
+            "13": 9259,
+            "95": 155,
+            "22": 7244
+          },
+          "valid": 16503,
+          "turnout": 17428,
+          "sections": 84
+        }
+      },
+      "sections": 84,
+      "file_size_bytes": 12181
+    },
+    {
+      "id": "92398",
+      "name": "ARAGUAÇU",
+      "uf": "TO",
+      "file": "municipalities/92398.jsonl.gz",
+      "records": 262,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 157,
+            "95": 29,
+            "70": 62,
+            "21": 1,
+            "80": 1,
+            "28": 1,
+            "55": 174,
+            "22": 3585,
+            "27": 2,
+            "13": 1177,
+            "30": 6,
+            "14": 44
+          },
+          "valid": 5053,
+          "turnout": 5239,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "96": 188,
+            "13": 1355,
+            "95": 39,
+            "22": 3589
+          },
+          "valid": 4944,
+          "turnout": 5171,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3752
+    },
+    {
+      "id": "92410",
+      "name": "ARAGUAÍNA",
+      "uf": "TO",
+      "file": "municipalities/92410.jsonl.gz",
+      "records": 4700,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 57270,
+            "27": 28,
+            "96": 2750,
+            "14": 2030,
+            "16": 16,
+            "29": 18,
+            "13": 35210,
+            "30": 83,
+            "35": 11,
+            "55": 2091,
+            "80": 66,
+            "28": 3,
+            "95": 1151,
+            "70": 2684,
+            "21": 11
+          },
+          "valid": 99521,
+          "turnout": 103422,
+          "sections": 416
+        },
+        "2": {
+          "votes": {
+            "96": 3764,
+            "13": 40692,
+            "95": 1035,
+            "22": 57758
+          },
+          "valid": 98450,
+          "turnout": 103249,
+          "sections": 416
+        }
+      },
+      "sections": 416,
+      "file_size_bytes": 109888
+    },
+    {
+      "id": "92452",
+      "name": "ARAPOEMA",
+      "uf": "TO",
+      "file": "municipalities/92452.jsonl.gz",
+      "records": 213,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 167,
+            "13": 1794,
+            "95": 31,
+            "22": 1553
+          },
+          "valid": 3347,
+          "turnout": 3545,
+          "sections": 21
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 70,
+            "22": 1658,
+            "27": 1,
+            "96": 126,
+            "95": 26,
+            "70": 61,
+            "13": 1638,
+            "30": 1,
+            "14": 31
+          },
+          "valid": 3461,
+          "turnout": 3613,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3004
+    },
+    {
+      "id": "92479",
+      "name": "ARRAIAS",
+      "uf": "TO",
+      "file": "municipalities/92479.jsonl.gz",
+      "records": 349,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 319,
+            "13": 4183,
+            "95": 61,
+            "22": 1668
+          },
+          "valid": 5851,
+          "turnout": 6231,
+          "sections": 34
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 192,
+            "80": 3,
+            "22": 1650,
+            "27": 1,
+            "96": 276,
+            "95": 41,
+            "70": 90,
+            "13": 3928,
+            "35": 1,
+            "14": 39
+          },
+          "valid": 5905,
+          "turnout": 6222,
+          "sections": 34
+        }
+      },
+      "sections": 34,
+      "file_size_bytes": 4656
+    },
+    {
+      "id": "96857",
+      "name": "AUGUSTINÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/96857.jsonl.gz",
+      "records": 513,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 435,
+            "13": 6170,
+            "22": 4294,
+            "95": 106
+          },
+          "valid": 10464,
+          "turnout": 11005,
+          "sections": 47
+        },
+        "1": {
+          "votes": {
+            "22": 4391,
+            "27": 4,
+            "96": 371,
+            "21": 4,
+            "55": 115,
+            "14": 144,
+            "95": 105,
+            "70": 250,
+            "13": 5553,
+            "30": 1,
+            "80": 2,
+            "28": 1
+          },
+          "valid": 10465,
+          "turnout": 10941,
+          "sections": 47
+        }
+      },
+      "sections": 47,
+      "file_size_bytes": 7038
+    },
+    {
+      "id": "92533",
+      "name": "AURORA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/92533.jsonl.gz",
+      "records": 138,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 990,
+            "96": 139,
+            "13": 1288,
+            "14": 28,
+            "55": 82,
+            "80": 1,
+            "95": 25,
+            "70": 46
+          },
+          "valid": 2435,
+          "turnout": 2599,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 116,
+            "13": 1413,
+            "22": 967,
+            "95": 26
+          },
+          "valid": 2380,
+          "turnout": 2522,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 1821
+    },
+    {
+      "id": "92576",
+      "name": "AXIXÁ DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/92576.jsonl.gz",
+      "records": 380,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 327,
+            "13": 4174,
+            "95": 57,
+            "22": 2837
+          },
+          "valid": 7011,
+          "turnout": 7395,
+          "sections": 39
+        },
+        "1": {
+          "votes": {
+            "55": 85,
+            "13": 3979,
+            "30": 1,
+            "14": 40,
+            "96": 259,
+            "95": 54,
+            "70": 100,
+            "22": 2982
+          },
+          "valid": 7187,
+          "turnout": 7500,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 5104
+    },
+    {
+      "id": "92592",
+      "name": "BABAÇULÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/92592.jsonl.gz",
+      "records": 321,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 237,
+            "13": 3365,
+            "95": 52,
+            "22": 1891
+          },
+          "valid": 5256,
+          "turnout": 5545,
+          "sections": 31
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 78,
+            "22": 1916,
+            "27": 2,
+            "96": 192,
+            "95": 60,
+            "70": 89,
+            "13": 3268,
+            "30": 2,
+            "14": 38
+          },
+          "valid": 5394,
+          "turnout": 5646,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 3975
+    },
+    {
+      "id": "73580",
+      "name": "BANDEIRANTES DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73580.jsonl.gz",
+      "records": 126,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 60,
+            "13": 965,
+            "22": 1259,
+            "95": 10
+          },
+          "valid": 2224,
+          "turnout": 2294,
+          "sections": 13
+        },
+        "1": {
+          "votes": {
+            "55": 35,
+            "22": 1308,
+            "96": 46,
+            "95": 14,
+            "70": 53,
+            "13": 906,
+            "14": 27
+          },
+          "valid": 2329,
+          "turnout": 2389,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 1982
+    },
+    {
+      "id": "73610",
+      "name": "BARRA DO OURO",
+      "uf": "TO",
+      "file": "municipalities/73610.jsonl.gz",
+      "records": 142,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 126,
+            "13": 1775,
+            "95": 18,
+            "22": 1213
+          },
+          "valid": 2988,
+          "turnout": 3132,
+          "sections": 14
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 32,
+            "13": 1758,
+            "14": 16,
+            "96": 131,
+            "95": 18,
+            "70": 45,
+            "22": 1263,
+            "27": 1
+          },
+          "valid": 3116,
+          "turnout": 3265,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2088
+    },
+    {
+      "id": "96997",
+      "name": "BARROLÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/96997.jsonl.gz",
+      "records": 193,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 111,
+            "95": 42,
+            "70": 77,
+            "55": 107,
+            "22": 2004,
+            "30": 2,
+            "13": 1710,
+            "14": 30
+          },
+          "valid": 3930,
+          "turnout": 4083,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "96": 155,
+            "13": 1849,
+            "95": 35,
+            "22": 1971
+          },
+          "valid": 3820,
+          "turnout": 4010,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2488
+    },
+    {
+      "id": "92002",
+      "name": "BERNARDO SAYÃO",
+      "uf": "TO",
+      "file": "municipalities/92002.jsonl.gz",
+      "records": 168,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 107,
+            "13": 1163,
+            "95": 19,
+            "22": 1601
+          },
+          "valid": 2764,
+          "turnout": 2890,
+          "sections": 17
+        },
+        "1": {
+          "votes": {
+            "22": 1602,
+            "27": 1,
+            "96": 91,
+            "55": 54,
+            "14": 31,
+            "95": 19,
+            "70": 48,
+            "13": 1155,
+            "80": 1
+          },
+          "valid": 2892,
+          "turnout": 3002,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2442
+    },
+    {
+      "id": "73121",
+      "name": "BOM JESUS DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73121.jsonl.gz",
+      "records": 159,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 143,
+            "13": 1485,
+            "95": 22,
+            "22": 1403
+          },
+          "valid": 2888,
+          "turnout": 3053,
+          "sections": 15
+        },
+        "1": {
+          "votes": {
+            "22": 1483,
+            "96": 104,
+            "21": 2,
+            "55": 38,
+            "14": 26,
+            "16": 1,
+            "95": 21,
+            "70": 54,
+            "13": 1390,
+            "80": 3
+          },
+          "valid": 2997,
+          "turnout": 3122,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2257
+    },
+    {
+      "id": "73245",
+      "name": "BRASILÂNDIA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73245.jsonl.gz",
+      "records": 102,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 51,
+            "13": 827,
+            "95": 12,
+            "22": 732
+          },
+          "valid": 1559,
+          "turnout": 1622,
+          "sections": 10
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 26,
+            "22": 762,
+            "96": 58,
+            "95": 11,
+            "70": 37,
+            "13": 752,
+            "14": 19
+          },
+          "valid": 1597,
+          "turnout": 1666,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1683
+    },
+    {
+      "id": "92738",
+      "name": "BREJINHO DE NAZARÉ",
+      "uf": "TO",
+      "file": "municipalities/92738.jsonl.gz",
+      "records": 173,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 116,
+            "95": 29,
+            "70": 51,
+            "21": 1,
+            "80": 1,
+            "55": 114,
+            "22": 1562,
+            "27": 1,
+            "13": 1612,
+            "30": 1,
+            "14": 15
+          },
+          "valid": 3358,
+          "turnout": 3503,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 154,
+            "13": 1704,
+            "95": 26,
+            "22": 1528
+          },
+          "valid": 3232,
+          "turnout": 3412,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2444
+    },
+    {
+      "id": "92045",
+      "name": "BURITI DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/92045.jsonl.gz",
+      "records": 248,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 180,
+            "95": 33,
+            "70": 113,
+            "21": 2,
+            "80": 4,
+            "55": 62,
+            "22": 2296,
+            "27": 1,
+            "13": 2793,
+            "30": 1,
+            "14": 42
+          },
+          "valid": 5314,
+          "turnout": 5527,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 229,
+            "13": 3005,
+            "95": 28,
+            "22": 2226
+          },
+          "valid": 5231,
+          "turnout": 5488,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3280
+    },
+    {
+      "id": "73067",
+      "name": "CACHOEIRINHA",
+      "uf": "TO",
+      "file": "municipalities/73067.jsonl.gz",
+      "records": 80,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 48,
+            "13": 994,
+            "95": 20,
+            "22": 532
+          },
+          "valid": 1526,
+          "turnout": 1594,
+          "sections": 8
+        },
+        "1": {
+          "votes": {
+            "22": 553,
+            "96": 36,
+            "55": 23,
+            "14": 11,
+            "70": 63,
+            "95": 7,
+            "13": 968
+          },
+          "valid": 1618,
+          "turnout": 1661,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1269
+    },
+    {
+      "id": "73091",
+      "name": "CAMPOS LINDOS",
+      "uf": "TO",
+      "file": "municipalities/73091.jsonl.gz",
+      "records": 262,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 226,
+            "13": 3006,
+            "95": 51,
+            "22": 2243
+          },
+          "valid": 5249,
+          "turnout": 5526,
+          "sections": 25
+        },
+        "1": {
+          "votes": {
+            "55": 131,
+            "22": 2434,
+            "96": 182,
+            "95": 34,
+            "70": 160,
+            "13": 2712,
+            "30": 1,
+            "14": 56
+          },
+          "valid": 5494,
+          "turnout": 5710,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3352
+    },
+    {
+      "id": "73300",
+      "name": "CARIRI DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73300.jsonl.gz",
+      "records": 126,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 119,
+            "13": 1272,
+            "95": 24,
+            "22": 1600
+          },
+          "valid": 2872,
+          "turnout": 3015,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "55": 61,
+            "22": 1621,
+            "27": 1,
+            "96": 78,
+            "95": 19,
+            "70": 60,
+            "30": 1,
+            "13": 1184,
+            "14": 22
+          },
+          "valid": 2950,
+          "turnout": 3047,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1833
+    },
+    {
+      "id": "73326",
+      "name": "CARMOLÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/73326.jsonl.gz",
+      "records": 82,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 95,
+            "13": 1045,
+            "22": 817,
+            "95": 8
+          },
+          "valid": 1862,
+          "turnout": 1965,
+          "sections": 8
+        },
+        "1": {
+          "votes": {
+            "55": 21,
+            "13": 998,
+            "14": 20,
+            "96": 63,
+            "22": 809,
+            "95": 11,
+            "70": 51
+          },
+          "valid": 1899,
+          "turnout": 1973,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1254
+    },
+    {
+      "id": "73423",
+      "name": "CARRASCO BONITO",
+      "uf": "TO",
+      "file": "municipalities/73423.jsonl.gz",
+      "records": 136,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 117,
+            "13": 1596,
+            "22": 932,
+            "95": 19
+          },
+          "valid": 2528,
+          "turnout": 2664,
+          "sections": 14
+        },
+        "1": {
+          "votes": {
+            "55": 9,
+            "22": 1031,
+            "96": 114,
+            "95": 17,
+            "70": 34,
+            "13": 1575,
+            "30": 1,
+            "35": 1,
+            "14": 25
+          },
+          "valid": 2676,
+          "turnout": 2807,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2268
+    },
+    {
+      "id": "92088",
+      "name": "CASEARA",
+      "uf": "TO",
+      "file": "municipalities/92088.jsonl.gz",
+      "records": 135,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 107,
+            "13": 1593,
+            "22": 1466,
+            "95": 11
+          },
+          "valid": 3059,
+          "turnout": 3177,
+          "sections": 13
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 60,
+            "13": 1470,
+            "14": 19,
+            "29": 1,
+            "96": 93,
+            "95": 18,
+            "70": 66,
+            "22": 1518,
+            "27": 1
+          },
+          "valid": 3136,
+          "turnout": 3247,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 1892
+    },
+    {
+      "id": "73210",
+      "name": "CENTENÁRIO",
+      "uf": "TO",
+      "file": "municipalities/73210.jsonl.gz",
+      "records": 82,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 599,
+            "96": 58,
+            "14": 12,
+            "13": 858,
+            "55": 31,
+            "95": 6,
+            "70": 28
+          },
+          "valid": 1528,
+          "turnout": 1592,
+          "sections": 8
+        },
+        "2": {
+          "votes": {
+            "96": 67,
+            "13": 880,
+            "95": 16,
+            "22": 556
+          },
+          "valid": 1436,
+          "turnout": 1519,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1338
+    },
+    {
+      "id": "73482",
+      "name": "CHAPADA DA NATIVIDADE",
+      "uf": "TO",
+      "file": "municipalities/73482.jsonl.gz",
+      "records": 119,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 688,
+            "96": 104,
+            "95": 21,
+            "70": 65,
+            "55": 44,
+            "80": 1,
+            "13": 1550,
+            "30": 1,
+            "14": 7
+          },
+          "valid": 2356,
+          "turnout": 2481,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 104,
+            "13": 1611,
+            "22": 630,
+            "95": 13
+          },
+          "valid": 2241,
+          "turnout": 2358,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1802
+    },
+    {
+      "id": "73474",
+      "name": "CHAPADA DE AREIA",
+      "uf": "TO",
+      "file": "municipalities/73474.jsonl.gz",
+      "records": 95,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 66,
+            "13": 784,
+            "22": 1028,
+            "95": 16
+          },
+          "valid": 1812,
+          "turnout": 1894,
+          "sections": 9
+        },
+        "1": {
+          "votes": {
+            "55": 53,
+            "80": 1,
+            "22": 1063,
+            "27": 1,
+            "96": 38,
+            "95": 11,
+            "70": 65,
+            "13": 767,
+            "14": 13
+          },
+          "valid": 1963,
+          "turnout": 2012,
+          "sections": 9
+        }
+      },
+      "sections": 9,
+      "file_size_bytes": 1575
+    },
+    {
+      "id": "93114",
+      "name": "COLINAS DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/93114.jsonl.gz",
+      "records": 998,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 733,
+            "13": 7722,
+            "95": 177,
+            "22": 11530
+          },
+          "valid": 19252,
+          "turnout": 20162,
+          "sections": 91
+        },
+        "1": {
+          "votes": {
+            "21": 4,
+            "55": 348,
+            "28": 1,
+            "80": 13,
+            "13": 6858,
+            "35": 3,
+            "30": 6,
+            "14": 251,
+            "16": 2,
+            "29": 1,
+            "96": 498,
+            "95": 204,
+            "70": 403,
+            "22": 11628,
+            "27": 3
+          },
+          "valid": 19521,
+          "turnout": 20223,
+          "sections": 91
+        }
+      },
+      "sections": 91,
+      "file_size_bytes": 15014
+    },
+    {
+      "id": "95290",
+      "name": "COLMÉIA",
+      "uf": "TO",
+      "file": "municipalities/95290.jsonl.gz",
+      "records": 296,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 176,
+            "95": 46,
+            "70": 76,
+            "80": 1,
+            "55": 103,
+            "22": 3168,
+            "13": 1803,
+            "30": 4,
+            "14": 42
+          },
+          "valid": 5197,
+          "turnout": 5419,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "96": 182,
+            "13": 1909,
+            "95": 39,
+            "22": 3143
+          },
+          "valid": 5052,
+          "turnout": 5273,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 4299
+    },
+    {
+      "id": "92142",
+      "name": "COMBINADO",
+      "uf": "TO",
+      "file": "municipalities/92142.jsonl.gz",
+      "records": 150,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 153,
+            "13": 1476,
+            "22": 1564,
+            "95": 27
+          },
+          "valid": 3040,
+          "turnout": 3220,
+          "sections": 14
+        },
+        "1": {
+          "votes": {
+            "22": 1548,
+            "96": 109,
+            "21": 1,
+            "55": 141,
+            "14": 25,
+            "70": 71,
+            "13": 1339,
+            "95": 29
+          },
+          "valid": 3125,
+          "turnout": 3263,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2029
+    },
+    {
+      "id": "93130",
+      "name": "CONCEIÇÃO DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/93130.jsonl.gz",
+      "records": 167,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 153,
+            "13": 1639,
+            "95": 25,
+            "22": 723
+          },
+          "valid": 2362,
+          "turnout": 2540,
+          "sections": 16
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 103,
+            "80": 1,
+            "13": 1636,
+            "30": 1,
+            "35": 1,
+            "14": 9,
+            "29": 1,
+            "96": 132,
+            "95": 15,
+            "70": 34,
+            "22": 781
+          },
+          "valid": 2568,
+          "turnout": 2715,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2320
+    },
+    {
+      "id": "93211",
+      "name": "COUTO MAGALHÃES",
+      "uf": "TO",
+      "file": "municipalities/93211.jsonl.gz",
+      "records": 189,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 117,
+            "13": 2097,
+            "95": 26,
+            "22": 1553
+          },
+          "valid": 3650,
+          "turnout": 3793,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 39,
+            "22": 1624,
+            "27": 3,
+            "96": 95,
+            "95": 20,
+            "70": 50,
+            "13": 1989,
+            "30": 1,
+            "14": 21
+          },
+          "valid": 3728,
+          "turnout": 3843,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2707
+    },
+    {
+      "id": "93238",
+      "name": "CRISTALÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/93238.jsonl.gz",
+      "records": 235,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 143,
+            "13": 2054,
+            "95": 25,
+            "22": 2266
+          },
+          "valid": 4320,
+          "turnout": 4488,
+          "sections": 23
+        },
+        "1": {
+          "votes": {
+            "55": 106,
+            "80": 1,
+            "22": 2327,
+            "96": 98,
+            "95": 20,
+            "70": 92,
+            "30": 6,
+            "13": 1834,
+            "14": 31,
+            "16": 1
+          },
+          "valid": 4398,
+          "turnout": 4516,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3018
+    },
+    {
+      "id": "73555",
+      "name": "CRIXÁS DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73555.jsonl.gz",
+      "records": 70,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 46,
+            "13": 699,
+            "95": 11,
+            "22": 668
+          },
+          "valid": 1367,
+          "turnout": 1424,
+          "sections": 7
+        },
+        "1": {
+          "votes": {
+            "55": 32,
+            "80": 1,
+            "13": 679,
+            "14": 8,
+            "96": 37,
+            "22": 679,
+            "95": 7,
+            "70": 23
+          },
+          "valid": 1422,
+          "turnout": 1466,
+          "sections": 7
+        }
+      },
+      "sections": 7,
+      "file_size_bytes": 1231
+    },
+    {
+      "id": "73032",
+      "name": "DARCINÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/73032.jsonl.gz",
+      "records": 173,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1600,
+            "96": 102,
+            "95": 23,
+            "70": 75,
+            "55": 66,
+            "80": 2,
+            "30": 1,
+            "13": 1929,
+            "14": 30
+          },
+          "valid": 3703,
+          "turnout": 3828,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "96": 153,
+            "13": 2022,
+            "95": 33,
+            "22": 1524
+          },
+          "valid": 3546,
+          "turnout": 3732,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2453
+    },
+    {
+      "id": "93416",
+      "name": "DIANÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/93416.jsonl.gz",
+      "records": 548,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 3935,
+            "27": 1,
+            "96": 382,
+            "95": 125,
+            "70": 338,
+            "55": 248,
+            "80": 1,
+            "30": 4,
+            "13": 5368,
+            "35": 2,
+            "14": 112
+          },
+          "valid": 10009,
+          "turnout": 10516,
+          "sections": 51
+        },
+        "2": {
+          "votes": {
+            "96": 478,
+            "13": 5968,
+            "95": 111,
+            "22": 3911
+          },
+          "valid": 9879,
+          "turnout": 10468,
+          "sections": 51
+        }
+      },
+      "sections": 51,
+      "file_size_bytes": 7058
+    },
+    {
+      "id": "92185",
+      "name": "DIVINÓPOLIS DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/92185.jsonl.gz",
+      "records": 226,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2153,
+            "96": 170,
+            "95": 40,
+            "70": 103,
+            "55": 72,
+            "80": 1,
+            "13": 2086,
+            "35": 1,
+            "14": 49
+          },
+          "valid": 4465,
+          "turnout": 4675,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "96": 211,
+            "13": 2256,
+            "95": 24,
+            "22": 2111
+          },
+          "valid": 4367,
+          "turnout": 4602,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3129
+    },
+    {
+      "id": "93459",
+      "name": "DOIS IRMÃOS DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/93459.jsonl.gz",
+      "records": 190,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 184,
+            "13": 2171,
+            "95": 25,
+            "22": 1692
+          },
+          "valid": 3863,
+          "turnout": 4072,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "55": 103,
+            "80": 1,
+            "13": 1986,
+            "30": 1,
+            "14": 25,
+            "96": 143,
+            "22": 1712,
+            "95": 24,
+            "70": 105
+          },
+          "valid": 3933,
+          "turnout": 4100,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2619
+    },
+    {
+      "id": "93475",
+      "name": "DUERÉ",
+      "uf": "TO",
+      "file": "municipalities/93475.jsonl.gz",
+      "records": 181,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 127,
+            "13": 1464,
+            "22": 1314,
+            "95": 17
+          },
+          "valid": 2778,
+          "turnout": 2922,
+          "sections": 17
+        },
+        "1": {
+          "votes": {
+            "55": 102,
+            "80": 1,
+            "13": 1352,
+            "30": 6,
+            "14": 46,
+            "16": 1,
+            "29": 1,
+            "96": 77,
+            "95": 24,
+            "70": 49,
+            "22": 1307
+          },
+          "valid": 2865,
+          "turnout": 2966,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2521
+    },
+    {
+      "id": "73296",
+      "name": "ESPERANTINA",
+      "uf": "TO",
+      "file": "municipalities/73296.jsonl.gz",
+      "records": 247,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1521,
+            "27": 1,
+            "96": 159,
+            "14": 63,
+            "13": 3289,
+            "55": 59,
+            "95": 35,
+            "70": 92
+          },
+          "valid": 5025,
+          "turnout": 5219,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 201,
+            "13": 3396,
+            "22": 1459,
+            "95": 37
+          },
+          "valid": 4855,
+          "turnout": 5093,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3200
+    },
+    {
+      "id": "96679",
+      "name": "FIGUEIRÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/96679.jsonl.gz",
+      "records": 195,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 149,
+            "13": 1468,
+            "95": 29,
+            "22": 1967
+          },
+          "valid": 3435,
+          "turnout": 3613,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "21": 2,
+            "55": 107,
+            "80": 1,
+            "28": 1,
+            "13": 1365,
+            "30": 3,
+            "14": 44,
+            "29": 1,
+            "96": 87,
+            "95": 25,
+            "70": 49,
+            "22": 2037,
+            "27": 1
+          },
+          "valid": 3611,
+          "turnout": 3723,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2807
+    },
+    {
+      "id": "93556",
+      "name": "FILADÉLFIA",
+      "uf": "TO",
+      "file": "municipalities/93556.jsonl.gz",
+      "records": 296,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1965,
+            "27": 2,
+            "96": 158,
+            "14": 57,
+            "13": 2649,
+            "35": 1,
+            "30": 4,
+            "55": 91,
+            "80": 3,
+            "95": 37,
+            "70": 61
+          },
+          "valid": 4833,
+          "turnout": 5028,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "96": 193,
+            "13": 2704,
+            "95": 46,
+            "22": 1921
+          },
+          "valid": 4625,
+          "turnout": 4864,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 4236
+    },
+    {
+      "id": "93653",
+      "name": "FORMOSO DO ARAGUAIA",
+      "uf": "TO",
+      "file": "municipalities/93653.jsonl.gz",
+      "records": 602,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 437,
+            "13": 4353,
+            "95": 82,
+            "22": 6115
+          },
+          "valid": 10468,
+          "turnout": 10987,
+          "sections": 59
+        },
+        "1": {
+          "votes": {
+            "21": 2,
+            "55": 224,
+            "80": 1,
+            "30": 6,
+            "13": 4014,
+            "14": 70,
+            "96": 277,
+            "95": 85,
+            "70": 168,
+            "22": 6319,
+            "27": 1
+          },
+          "valid": 10805,
+          "turnout": 11167,
+          "sections": 59
+        }
+      },
+      "sections": 59,
+      "file_size_bytes": 8279
+    },
+    {
+      "id": "96830",
+      "name": "FÁTIMA",
+      "uf": "TO",
+      "file": "municipalities/96830.jsonl.gz",
+      "records": 130,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 87,
+            "13": 1099,
+            "22": 1481,
+            "95": 19
+          },
+          "valid": 2580,
+          "turnout": 2686,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "55": 55,
+            "22": 1482,
+            "96": 69,
+            "95": 30,
+            "70": 48,
+            "13": 1010,
+            "30": 1,
+            "35": 1,
+            "14": 22
+          },
+          "valid": 2619,
+          "turnout": 2718,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1735
+    },
+    {
+      "id": "92240",
+      "name": "GOIANORTE",
+      "uf": "TO",
+      "file": "municipalities/92240.jsonl.gz",
+      "records": 182,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 122,
+            "13": 1621,
+            "22": 1871,
+            "95": 30
+          },
+          "valid": 3492,
+          "turnout": 3644,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "55": 124,
+            "80": 1,
+            "22": 1893,
+            "96": 86,
+            "95": 21,
+            "70": 81,
+            "13": 1516,
+            "35": 1,
+            "14": 24
+          },
+          "valid": 3640,
+          "turnout": 3747,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2700
+    },
+    {
+      "id": "95338",
+      "name": "GOIATINS",
+      "uf": "TO",
+      "file": "municipalities/95338.jsonl.gz",
+      "records": 327,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 575,
+            "13": 4839,
+            "95": 44,
+            "22": 2246
+          },
+          "valid": 7085,
+          "turnout": 7704,
+          "sections": 34
+        },
+        "1": {
+          "votes": {
+            "22": 2163,
+            "96": 277,
+            "21": 1,
+            "55": 128,
+            "14": 44,
+            "95": 48,
+            "70": 114,
+            "13": 4537,
+            "35": 1
+          },
+          "valid": 6988,
+          "turnout": 7313,
+          "sections": 34
+        }
+      },
+      "sections": 34,
+      "file_size_bytes": 4619
+    },
+    {
+      "id": "96270",
+      "name": "GUARAÍ",
+      "uf": "TO",
+      "file": "municipalities/96270.jsonl.gz",
+      "records": 691,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 7851,
+            "27": 2,
+            "96": 414,
+            "14": 195,
+            "29": 1,
+            "13": 5367,
+            "30": 3,
+            "55": 313,
+            "80": 2,
+            "28": 4,
+            "95": 111,
+            "70": 339,
+            "21": 2
+          },
+          "valid": 14079,
+          "turnout": 14604,
+          "sections": 64
+        },
+        "2": {
+          "votes": {
+            "96": 550,
+            "13": 5967,
+            "95": 108,
+            "22": 7837
+          },
+          "valid": 13804,
+          "turnout": 14462,
+          "sections": 64
+        }
+      },
+      "sections": 64,
+      "file_size_bytes": 9414
+    },
+    {
+      "id": "93858",
+      "name": "GURUPI",
+      "uf": "TO",
+      "file": "municipalities/93858.jsonl.gz",
+      "records": 2421,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 1831,
+            "13": 17972,
+            "95": 476,
+            "22": 28947
+          },
+          "valid": 46919,
+          "turnout": 49226,
+          "sections": 218
+        },
+        "1": {
+          "votes": {
+            "22": 28803,
+            "27": 9,
+            "96": 1153,
+            "21": 7,
+            "55": 1420,
+            "14": 663,
+            "16": 5,
+            "29": 4,
+            "95": 563,
+            "70": 1051,
+            "30": 41,
+            "13": 15383,
+            "35": 5,
+            "80": 28,
+            "28": 1
+          },
+          "valid": 47420,
+          "turnout": 49136,
+          "sections": 218
+        }
+      },
+      "sections": 218,
+      "file_size_bytes": 47579
+    },
+    {
+      "id": "73598",
+      "name": "IPUEIRAS",
+      "uf": "TO",
+      "file": "municipalities/73598.jsonl.gz",
+      "records": 79,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 527,
+            "96": 37,
+            "13": 965,
+            "14": 4,
+            "55": 33,
+            "95": 9,
+            "70": 28
+          },
+          "valid": 1557,
+          "turnout": 1603,
+          "sections": 8
+        },
+        "2": {
+          "votes": {
+            "96": 46,
+            "13": 1017,
+            "95": 11,
+            "22": 512
+          },
+          "valid": 1529,
+          "turnout": 1586,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1340
+    },
+    {
+      "id": "94056",
+      "name": "ITACAJÁ",
+      "uf": "TO",
+      "file": "municipalities/94056.jsonl.gz",
+      "records": 219,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 187,
+            "13": 2584,
+            "95": 27,
+            "22": 1736
+          },
+          "valid": 4320,
+          "turnout": 4534,
+          "sections": 22
+        },
+        "1": {
+          "votes": {
+            "22": 1737,
+            "96": 132,
+            "55": 79,
+            "14": 28,
+            "95": 29,
+            "70": 63,
+            "13": 2542,
+            "30": 1,
+            "80": 1
+          },
+          "valid": 4451,
+          "turnout": 4612,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 2953
+    },
+    {
+      "id": "94099",
+      "name": "ITAGUATINS",
+      "uf": "TO",
+      "file": "municipalities/94099.jsonl.gz",
+      "records": 247,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 149,
+            "13": 2339,
+            "22": 1272,
+            "95": 33
+          },
+          "valid": 3611,
+          "turnout": 3793,
+          "sections": 25
+        },
+        "1": {
+          "votes": {
+            "55": 54,
+            "80": 1,
+            "13": 2252,
+            "30": 1,
+            "14": 41,
+            "96": 126,
+            "22": 1330,
+            "95": 21,
+            "70": 64
+          },
+          "valid": 3743,
+          "turnout": 3890,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3571
+    },
+    {
+      "id": "73202",
+      "name": "ITAPIRATINS",
+      "uf": "TO",
+      "file": "municipalities/73202.jsonl.gz",
+      "records": 127,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 153,
+            "13": 1539,
+            "95": 31,
+            "22": 1079
+          },
+          "valid": 2618,
+          "turnout": 2802,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 30,
+            "13": 1439,
+            "14": 17,
+            "29": 1,
+            "96": 108,
+            "95": 16,
+            "70": 155,
+            "22": 1106
+          },
+          "valid": 2749,
+          "turnout": 2873,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1860
+    },
+    {
+      "id": "94170",
+      "name": "ITAPORÃ DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/94170.jsonl.gz",
+      "records": 100,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 65,
+            "13": 1064,
+            "95": 18,
+            "22": 1031
+          },
+          "valid": 2095,
+          "turnout": 2178,
+          "sections": 10
+        },
+        "1": {
+          "votes": {
+            "55": 45,
+            "22": 1055,
+            "96": 44,
+            "95": 16,
+            "70": 45,
+            "13": 1022,
+            "14": 7
+          },
+          "valid": 2174,
+          "turnout": 2234,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1598
+    },
+    {
+      "id": "73369",
+      "name": "JAÚ DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73369.jsonl.gz",
+      "records": 141,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 86,
+            "13": 1083,
+            "95": 21,
+            "22": 1147
+          },
+          "valid": 2230,
+          "turnout": 2337,
+          "sections": 14
+        },
+        "1": {
+          "votes": {
+            "55": 60,
+            "13": 1083,
+            "30": 2,
+            "14": 7,
+            "27": 1,
+            "96": 71,
+            "22": 1165,
+            "95": 20,
+            "70": 25
+          },
+          "valid": 2343,
+          "turnout": 2434,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2224
+    },
+    {
+      "id": "73253",
+      "name": "JUARINA",
+      "uf": "TO",
+      "file": "municipalities/73253.jsonl.gz",
+      "records": 103,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 44,
+            "95": 17,
+            "70": 43,
+            "55": 35,
+            "22": 812,
+            "13": 901,
+            "30": 1,
+            "16": 1,
+            "14": 15
+          },
+          "valid": 1808,
+          "turnout": 1869,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "96": 63,
+            "13": 912,
+            "95": 15,
+            "22": 812
+          },
+          "valid": 1724,
+          "turnout": 1802,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1581
+    },
+    {
+      "id": "73385",
+      "name": "LAGOA DA CONFUSÃO",
+      "uf": "TO",
+      "file": "municipalities/73385.jsonl.gz",
+      "records": 364,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 4535,
+            "27": 1,
+            "96": 127,
+            "14": 83,
+            "13": 3194,
+            "55": 128,
+            "28": 1,
+            "80": 1,
+            "95": 30,
+            "70": 135
+          },
+          "valid": 8078,
+          "turnout": 8235,
+          "sections": 37
+        },
+        "2": {
+          "votes": {
+            "96": 288,
+            "13": 3451,
+            "95": 42,
+            "22": 4335
+          },
+          "valid": 7786,
+          "turnout": 8116,
+          "sections": 37
+        }
+      },
+      "sections": 37,
+      "file_size_bytes": 4767
+    },
+    {
+      "id": "73113",
+      "name": "LAGOA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73113.jsonl.gz",
+      "records": 152,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 104,
+            "95": 19,
+            "70": 87,
+            "21": 1,
+            "55": 41,
+            "22": 1060,
+            "13": 1443,
+            "14": 17,
+            "16": 2
+          },
+          "valid": 2651,
+          "turnout": 2774,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "96": 150,
+            "13": 1503,
+            "95": 20,
+            "22": 1038
+          },
+          "valid": 2541,
+          "turnout": 2711,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2025
+    },
+    {
+      "id": "73407",
+      "name": "LAJEADO",
+      "uf": "TO",
+      "file": "municipalities/73407.jsonl.gz",
+      "records": 182,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 78,
+            "13": 1264,
+            "95": 22,
+            "22": 1419
+          },
+          "valid": 2683,
+          "turnout": 2783,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "55": 67,
+            "28": 2,
+            "80": 1,
+            "13": 1187,
+            "30": 1,
+            "16": 1,
+            "14": 30,
+            "96": 47,
+            "22": 1432,
+            "95": 21,
+            "70": 54
+          },
+          "valid": 2775,
+          "turnout": 2843,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2620
+    },
+    {
+      "id": "73601",
+      "name": "LAVANDEIRA",
+      "uf": "TO",
+      "file": "municipalities/73601.jsonl.gz",
+      "records": 77,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 83,
+            "13": 826,
+            "95": 11,
+            "22": 598
+          },
+          "valid": 1424,
+          "turnout": 1518,
+          "sections": 7
+        },
+        "1": {
+          "votes": {
+            "29": 1,
+            "55": 75,
+            "22": 630,
+            "96": 64,
+            "95": 13,
+            "70": 38,
+            "13": 807,
+            "30": 1,
+            "35": 1,
+            "14": 23,
+            "16": 1
+          },
+          "valid": 1577,
+          "turnout": 1654,
+          "sections": 7
+        }
+      },
+      "sections": 7,
+      "file_size_bytes": 1290
+    },
+    {
+      "id": "95699",
+      "name": "LIZARDA",
+      "uf": "TO",
+      "file": "municipalities/95699.jsonl.gz",
+      "records": 139,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 727,
+            "27": 1,
+            "96": 124,
+            "14": 11,
+            "13": 1412,
+            "55": 35,
+            "80": 1,
+            "95": 14,
+            "70": 57
+          },
+          "valid": 2244,
+          "turnout": 2382,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "96": 120,
+            "13": 1457,
+            "22": 621,
+            "95": 11
+          },
+          "valid": 2078,
+          "turnout": 2209,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2108
+    },
+    {
+      "id": "73520",
+      "name": "LUZINÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/73520.jsonl.gz",
+      "records": 105,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 78,
+            "13": 1185,
+            "95": 20,
+            "22": 799
+          },
+          "valid": 1984,
+          "turnout": 2082,
+          "sections": 10
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 26,
+            "80": 1,
+            "13": 1109,
+            "30": 1,
+            "14": 22,
+            "96": 92,
+            "22": 870,
+            "95": 11,
+            "70": 63
+          },
+          "valid": 2093,
+          "turnout": 2196,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1556
+    },
+    {
+      "id": "92304",
+      "name": "MARIANÓPOLIS DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/92304.jsonl.gz",
+      "records": 165,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 91,
+            "95": 29,
+            "70": 48,
+            "21": 1,
+            "80": 2,
+            "28": 1,
+            "55": 50,
+            "22": 1528,
+            "13": 1265,
+            "30": 1,
+            "14": 30
+          },
+          "valid": 2926,
+          "turnout": 3046,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 124,
+            "13": 1377,
+            "95": 20,
+            "22": 1497
+          },
+          "valid": 2874,
+          "turnout": 3018,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2383
+    },
+    {
+      "id": "73270",
+      "name": "MATEIROS",
+      "uf": "TO",
+      "file": "municipalities/73270.jsonl.gz",
+      "records": 92,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 494,
+            "96": 52,
+            "95": 13,
+            "70": 23,
+            "55": 14,
+            "13": 984,
+            "14": 8
+          },
+          "valid": 1523,
+          "turnout": 1588,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "96": 69,
+            "13": 991,
+            "95": 13,
+            "22": 504
+          },
+          "valid": 1495,
+          "turnout": 1577,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1856
+    },
+    {
+      "id": "73059",
+      "name": "MAURILÂNDIA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73059.jsonl.gz",
+      "records": 144,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 786,
+            "96": 111,
+            "14": 21,
+            "13": 1869,
+            "30": 2,
+            "16": 1,
+            "55": 25,
+            "95": 18,
+            "70": 74
+          },
+          "valid": 2778,
+          "turnout": 2907,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "96": 136,
+            "13": 1940,
+            "95": 23,
+            "22": 769
+          },
+          "valid": 2709,
+          "turnout": 2868,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2231
+    },
+    {
+      "id": "94617",
+      "name": "MIRACEMA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/94617.jsonl.gz",
+      "records": 707,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 370,
+            "95": 107,
+            "70": 326,
+            "21": 2,
+            "80": 7,
+            "55": 249,
+            "22": 4603,
+            "27": 5,
+            "30": 14,
+            "13": 5810,
+            "14": 136,
+            "16": 1,
+            "29": 1
+          },
+          "valid": 11154,
+          "turnout": 11631,
+          "sections": 65
+        },
+        "2": {
+          "votes": {
+            "96": 479,
+            "13": 6311,
+            "95": 113,
+            "22": 4594
+          },
+          "valid": 10905,
+          "turnout": 11497,
+          "sections": 65
+        }
+      },
+      "sections": 65,
+      "file_size_bytes": 8948
+    },
+    {
+      "id": "94633",
+      "name": "MIRANORTE",
+      "uf": "TO",
+      "file": "municipalities/94633.jsonl.gz",
+      "records": 405,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 4303,
+            "96": 264,
+            "95": 65,
+            "70": 186,
+            "55": 165,
+            "80": 2,
+            "13": 3139,
+            "30": 4,
+            "35": 1,
+            "14": 77,
+            "16": 1
+          },
+          "valid": 7878,
+          "turnout": 8207,
+          "sections": 38
+        },
+        "2": {
+          "votes": {
+            "96": 315,
+            "13": 3488,
+            "95": 61,
+            "22": 4331
+          },
+          "valid": 7819,
+          "turnout": 8195,
+          "sections": 38
+        }
+      },
+      "sections": 38,
+      "file_size_bytes": 4597
+    },
+    {
+      "id": "94692",
+      "name": "MONTE DO CARMO",
+      "uf": "TO",
+      "file": "municipalities/94692.jsonl.gz",
+      "records": 230,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 180,
+            "13": 2145,
+            "22": 1674,
+            "95": 26
+          },
+          "valid": 3819,
+          "turnout": 4025,
+          "sections": 23
+        },
+        "1": {
+          "votes": {
+            "22": 1709,
+            "96": 119,
+            "55": 102,
+            "14": 22,
+            "29": 1,
+            "95": 25,
+            "70": 108,
+            "13": 1977,
+            "80": 1
+          },
+          "valid": 3920,
+          "turnout": 4064,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3262
+    },
+    {
+      "id": "73563",
+      "name": "MONTE SANTO DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73563.jsonl.gz",
+      "records": 105,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 81,
+            "13": 735,
+            "95": 16,
+            "22": 1167
+          },
+          "valid": 1902,
+          "turnout": 1999,
+          "sections": 10
+        },
+        "1": {
+          "votes": {
+            "55": 60,
+            "22": 1199,
+            "27": 1,
+            "96": 59,
+            "95": 18,
+            "70": 16,
+            "13": 702,
+            "30": 1,
+            "14": 10
+          },
+          "valid": 1989,
+          "turnout": 2066,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1603
+    },
+    {
+      "id": "73342",
+      "name": "MURICILÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/73342.jsonl.gz",
+      "records": 115,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 90,
+            "13": 1271,
+            "95": 13,
+            "22": 880
+          },
+          "valid": 2151,
+          "turnout": 2254,
+          "sections": 11
+        },
+        "1": {
+          "votes": {
+            "55": 24,
+            "13": 1254,
+            "35": 1,
+            "30": 6,
+            "14": 26,
+            "16": 1,
+            "96": 62,
+            "95": 11,
+            "70": 41,
+            "22": 939
+          },
+          "valid": 2292,
+          "turnout": 2365,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1882
+    },
+    {
+      "id": "94811",
+      "name": "NATIVIDADE",
+      "uf": "TO",
+      "file": "municipalities/94811.jsonl.gz",
+      "records": 315,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2187,
+            "27": 1,
+            "96": 225,
+            "14": 40,
+            "30": 1,
+            "13": 2522,
+            "55": 203,
+            "80": 2,
+            "95": 41,
+            "70": 131,
+            "21": 1
+          },
+          "valid": 5088,
+          "turnout": 5354,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "96": 278,
+            "13": 2757,
+            "95": 52,
+            "22": 2111
+          },
+          "valid": 4868,
+          "turnout": 5198,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4628
+    },
+    {
+      "id": "94838",
+      "name": "NAZARÉ",
+      "uf": "TO",
+      "file": "municipalities/94838.jsonl.gz",
+      "records": 162,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 102,
+            "13": 2324,
+            "95": 31,
+            "22": 965
+          },
+          "valid": 3289,
+          "turnout": 3422,
+          "sections": 15
+        },
+        "1": {
+          "votes": {
+            "55": 75,
+            "80": 3,
+            "22": 968,
+            "27": 1,
+            "96": 109,
+            "95": 27,
+            "70": 86,
+            "13": 2150,
+            "14": 56
+          },
+          "valid": 3339,
+          "turnout": 3475,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2417
+    },
+    {
+      "id": "96636",
+      "name": "NOVA OLINDA",
+      "uf": "TO",
+      "file": "municipalities/96636.jsonl.gz",
+      "records": 332,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 214,
+            "95": 58,
+            "70": 137,
+            "80": 1,
+            "55": 89,
+            "22": 3064,
+            "13": 3104,
+            "14": 60,
+            "29": 1
+          },
+          "valid": 6456,
+          "turnout": 6728,
+          "sections": 33
+        },
+        "2": {
+          "votes": {
+            "96": 276,
+            "13": 3306,
+            "95": 47,
+            "22": 3112
+          },
+          "valid": 6418,
+          "turnout": 6741,
+          "sections": 33
+        }
+      },
+      "sections": 33,
+      "file_size_bytes": 4349
+    },
+    {
+      "id": "92401",
+      "name": "NOVA ROSALÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/92401.jsonl.gz",
+      "records": 110,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1312,
+            "96": 63,
+            "14": 38,
+            "13": 901,
+            "30": 1,
+            "55": 34,
+            "95": 17,
+            "70": 47
+          },
+          "valid": 2333,
+          "turnout": 2413,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "96": 84,
+            "13": 951,
+            "95": 17,
+            "22": 1300
+          },
+          "valid": 2251,
+          "turnout": 2352,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1583
+    },
+    {
+      "id": "94994",
+      "name": "NOVO ACORDO",
+      "uf": "TO",
+      "file": "municipalities/94994.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 123,
+            "95": 22,
+            "70": 73,
+            "55": 58,
+            "22": 1598,
+            "13": 1507,
+            "30": 1,
+            "14": 23
+          },
+          "valid": 3260,
+          "turnout": 3405,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 146,
+            "13": 1583,
+            "95": 22,
+            "22": 1530
+          },
+          "valid": 3113,
+          "turnout": 3281,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2166
+    },
+    {
+      "id": "73148",
+      "name": "NOVO ALEGRE",
+      "uf": "TO",
+      "file": "municipalities/73148.jsonl.gz",
+      "records": 78,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 58,
+            "13": 938,
+            "95": 19,
+            "22": 568
+          },
+          "valid": 1506,
+          "turnout": 1583,
+          "sections": 7
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 84,
+            "22": 572,
+            "96": 83,
+            "95": 14,
+            "70": 32,
+            "13": 820,
+            "14": 23
+          },
+          "valid": 1532,
+          "turnout": 1629,
+          "sections": 7
+        }
+      },
+      "sections": 7,
+      "file_size_bytes": 1264
+    },
+    {
+      "id": "73172",
+      "name": "NOVO JARDIM",
+      "uf": "TO",
+      "file": "municipalities/73172.jsonl.gz",
+      "records": 102,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 79,
+            "13": 1122,
+            "95": 12,
+            "22": 574
+          },
+          "valid": 1696,
+          "turnout": 1787,
+          "sections": 10
+        },
+        "1": {
+          "votes": {
+            "55": 43,
+            "22": 614,
+            "96": 63,
+            "95": 11,
+            "70": 34,
+            "13": 1034,
+            "14": 20
+          },
+          "valid": 1745,
+          "turnout": 1819,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1633
+    },
+    {
+      "id": "73466",
+      "name": "OLIVEIRA DE FÁTIMA",
+      "uf": "TO",
+      "file": "municipalities/73466.jsonl.gz",
+      "records": 61,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 41,
+            "13": 653,
+            "95": 7,
+            "22": 618
+          },
+          "valid": 1271,
+          "turnout": 1319,
+          "sections": 6
+        },
+        "1": {
+          "votes": {
+            "55": 22,
+            "22": 657,
+            "96": 28,
+            "95": 9,
+            "70": 22,
+            "13": 632,
+            "14": 13
+          },
+          "valid": 1346,
+          "turnout": 1383,
+          "sections": 6
+        }
+      },
+      "sections": 6,
+      "file_size_bytes": 1168
+    },
+    {
+      "id": "73440",
+      "name": "PALMAS",
+      "uf": "TO",
+      "file": "municipalities/73440.jsonl.gz",
+      "records": 7710,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 3464,
+            "95": 1849,
+            "70": 5737,
+            "21": 20,
+            "55": 4333,
+            "80": 133,
+            "28": 4,
+            "22": 103652,
+            "27": 49,
+            "30": 245,
+            "13": 59524,
+            "35": 15,
+            "14": 4164,
+            "16": 42,
+            "29": 12
+          },
+          "valid": 177930,
+          "turnout": 183243,
+          "sections": 673
+        },
+        "2": {
+          "votes": {
+            "96": 4929,
+            "13": 69981,
+            "95": 1734,
+            "22": 106514
+          },
+          "valid": 176495,
+          "turnout": 183158,
+          "sections": 673
+        }
+      },
+      "sections": 673,
+      "file_size_bytes": 216057
+    },
+    {
+      "id": "73083",
+      "name": "PALMEIRANTE",
+      "uf": "TO",
+      "file": "municipalities/73083.jsonl.gz",
+      "records": 195,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 118,
+            "95": 21,
+            "70": 65,
+            "21": 1,
+            "55": 73,
+            "22": 1367,
+            "13": 1886,
+            "14": 26,
+            "29": 1
+          },
+          "valid": 3419,
+          "turnout": 3558,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 141,
+            "13": 1930,
+            "95": 31,
+            "22": 1328
+          },
+          "valid": 3258,
+          "turnout": 3430,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2745
+    },
+    {
+      "id": "73040",
+      "name": "PALMEIRAS DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73040.jsonl.gz",
+      "records": 167,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 112,
+            "13": 1945,
+            "95": 29,
+            "22": 1306
+          },
+          "valid": 3251,
+          "turnout": 3392,
+          "sections": 16
+        },
+        "1": {
+          "votes": {
+            "55": 46,
+            "13": 1841,
+            "14": 33,
+            "29": 1,
+            "96": 96,
+            "95": 23,
+            "70": 62,
+            "22": 1336
+          },
+          "valid": 3319,
+          "turnout": 3438,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2244
+    },
+    {
+      "id": "96490",
+      "name": "PALMEIRÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/96490.jsonl.gz",
+      "records": 231,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 182,
+            "13": 1842,
+            "95": 38,
+            "22": 2779
+          },
+          "valid": 4621,
+          "turnout": 4841,
+          "sections": 22
+        },
+        "1": {
+          "votes": {
+            "55": 184,
+            "22": 2777,
+            "27": 1,
+            "96": 154,
+            "95": 40,
+            "70": 58,
+            "13": 1716,
+            "35": 1,
+            "30": 2,
+            "14": 53
+          },
+          "valid": 4792,
+          "turnout": 4986,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3127
+    },
+    {
+      "id": "95214",
+      "name": "PARANÃ",
+      "uf": "TO",
+      "file": "municipalities/95214.jsonl.gz",
+      "records": 335,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 349,
+            "95": 29,
+            "70": 103,
+            "21": 3,
+            "55": 191,
+            "80": 2,
+            "22": 1562,
+            "13": 4160,
+            "30": 4,
+            "14": 34
+          },
+          "valid": 6059,
+          "turnout": 6437,
+          "sections": 34
+        },
+        "2": {
+          "votes": {
+            "96": 410,
+            "13": 4323,
+            "95": 29,
+            "22": 1502
+          },
+          "valid": 5825,
+          "turnout": 6264,
+          "sections": 34
+        }
+      },
+      "sections": 34,
+      "file_size_bytes": 4859
+    },
+    {
+      "id": "95192",
+      "name": "PARAÍSO DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/95192.jsonl.gz",
+      "records": 1478,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 972,
+            "13": 8474,
+            "95": 269,
+            "22": 19303
+          },
+          "valid": 27777,
+          "turnout": 29018,
+          "sections": 135
+        },
+        "1": {
+          "votes": {
+            "22": 19188,
+            "27": 10,
+            "96": 707,
+            "21": 2,
+            "55": 616,
+            "14": 396,
+            "16": 5,
+            "29": 4,
+            "95": 330,
+            "70": 597,
+            "13": 7337,
+            "30": 14,
+            "35": 4,
+            "80": 5
+          },
+          "valid": 28178,
+          "turnout": 29215,
+          "sections": 135
+        }
+      },
+      "sections": 135,
+      "file_size_bytes": 25823
+    },
+    {
+      "id": "73261",
+      "name": "PAU D ARCO",
+      "uf": "TO",
+      "file": "municipalities/73261.jsonl.gz",
+      "records": 164,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 98,
+            "13": 1349,
+            "95": 25,
+            "22": 1283
+          },
+          "valid": 2632,
+          "turnout": 2755,
+          "sections": 16
+        },
+        "1": {
+          "votes": {
+            "55": 67,
+            "80": 1,
+            "22": 1331,
+            "27": 1,
+            "96": 75,
+            "95": 15,
+            "70": 56,
+            "13": 1333,
+            "14": 18
+          },
+          "valid": 2807,
+          "turnout": 2897,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2391
+    },
+    {
+      "id": "95257",
+      "name": "PEDRO AFONSO",
+      "uf": "TO",
+      "file": "municipalities/95257.jsonl.gz",
+      "records": 482,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 4586,
+            "27": 1,
+            "96": 250,
+            "95": 64,
+            "70": 195,
+            "55": 141,
+            "80": 3,
+            "13": 3415,
+            "35": 1,
+            "30": 2,
+            "14": 94,
+            "16": 3,
+            "21": 2
+          },
+          "valid": 8443,
+          "turnout": 8757,
+          "sections": 47
+        },
+        "2": {
+          "votes": {
+            "96": 343,
+            "13": 3792,
+            "95": 65,
+            "22": 4487
+          },
+          "valid": 8279,
+          "turnout": 8687,
+          "sections": 47
+        }
+      },
+      "sections": 47,
+      "file_size_bytes": 6751
+    },
+    {
+      "id": "95273",
+      "name": "PEIXE",
+      "uf": "TO",
+      "file": "municipalities/95273.jsonl.gz",
+      "records": 302,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 240,
+            "13": 3366,
+            "22": 2025,
+            "95": 36
+          },
+          "valid": 5391,
+          "turnout": 5667,
+          "sections": 30
+        },
+        "1": {
+          "votes": {
+            "55": 144,
+            "28": 1,
+            "22": 2029,
+            "27": 2,
+            "96": 185,
+            "95": 28,
+            "70": 116,
+            "13": 3189,
+            "30": 1,
+            "35": 1,
+            "16": 1,
+            "14": 50
+          },
+          "valid": 5534,
+          "turnout": 5747,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4401
+    },
+    {
+      "id": "92487",
+      "name": "PEQUIZEIRO",
+      "uf": "TO",
+      "file": "municipalities/92487.jsonl.gz",
+      "records": 165,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 113,
+            "13": 1816,
+            "95": 22,
+            "22": 1566
+          },
+          "valid": 3382,
+          "turnout": 3517,
+          "sections": 16
+        },
+        "1": {
+          "votes": {
+            "55": 42,
+            "80": 2,
+            "13": 1786,
+            "30": 1,
+            "14": 22,
+            "96": 87,
+            "95": 20,
+            "70": 59,
+            "22": 1616
+          },
+          "valid": 3528,
+          "turnout": 3635,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2571
+    },
+    {
+      "id": "95370",
+      "name": "PINDORAMA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/95370.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1283,
+            "96": 112,
+            "14": 23,
+            "29": 1,
+            "13": 1463,
+            "55": 63,
+            "28": 1,
+            "95": 13,
+            "70": 43
+          },
+          "valid": 2877,
+          "turnout": 3002,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 147,
+            "13": 1493,
+            "22": 1285,
+            "95": 21
+          },
+          "valid": 2778,
+          "turnout": 2946,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2396
+    },
+    {
+      "id": "73016",
+      "name": "PIRAQUÊ",
+      "uf": "TO",
+      "file": "municipalities/73016.jsonl.gz",
+      "records": 113,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 79,
+            "13": 1019,
+            "22": 774,
+            "95": 11
+          },
+          "valid": 1793,
+          "turnout": 1883,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "55": 39,
+            "80": 1,
+            "22": 826,
+            "96": 44,
+            "95": 6,
+            "70": 41,
+            "13": 983,
+            "35": 1,
+            "14": 15
+          },
+          "valid": 1906,
+          "turnout": 1956,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1850
+    },
+    {
+      "id": "95478",
+      "name": "PIUM",
+      "uf": "TO",
+      "file": "municipalities/95478.jsonl.gz",
+      "records": 232,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 114,
+            "95": 27,
+            "70": 80,
+            "28": 1,
+            "55": 99,
+            "22": 2519,
+            "13": 1825,
+            "30": 1,
+            "14": 40
+          },
+          "valid": 4565,
+          "turnout": 4706,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "96": 165,
+            "13": 1889,
+            "22": 2445,
+            "95": 25
+          },
+          "valid": 4334,
+          "turnout": 4524,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 2906
+    },
+    {
+      "id": "95516",
+      "name": "PONTE ALTA DO BOM JESUS",
+      "uf": "TO",
+      "file": "municipalities/95516.jsonl.gz",
+      "records": 144,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 143,
+            "13": 1726,
+            "95": 26,
+            "22": 990
+          },
+          "valid": 2716,
+          "turnout": 2885,
+          "sections": 14
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 88,
+            "30": 3,
+            "13": 1609,
+            "14": 14,
+            "96": 105,
+            "22": 1014,
+            "95": 19,
+            "70": 69
+          },
+          "valid": 2798,
+          "turnout": 2922,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2255
+    },
+    {
+      "id": "95532",
+      "name": "PONTE ALTA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/95532.jsonl.gz",
+      "records": 245,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 170,
+            "95": 32,
+            "70": 77,
+            "21": 2,
+            "80": 1,
+            "55": 141,
+            "22": 2221,
+            "27": 2,
+            "13": 1852,
+            "30": 4,
+            "14": 26
+          },
+          "valid": 4326,
+          "turnout": 4528,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 252,
+            "13": 1969,
+            "95": 44,
+            "22": 2215
+          },
+          "valid": 4184,
+          "turnout": 4480,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3969
+    },
+    {
+      "id": "92509",
+      "name": "PORTO ALEGRE DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/92509.jsonl.gz",
+      "records": 131,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 94,
+            "13": 1236,
+            "22": 661,
+            "95": 17
+          },
+          "valid": 1897,
+          "turnout": 2008,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "55": 49,
+            "80": 1,
+            "30": 7,
+            "13": 1140,
+            "14": 14,
+            "96": 71,
+            "95": 21,
+            "70": 61,
+            "22": 705
+          },
+          "valid": 1977,
+          "turnout": 2069,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1878
+    },
+    {
+      "id": "95591",
+      "name": "PORTO NACIONAL",
+      "uf": "TO",
+      "file": "municipalities/95591.jsonl.gz",
+      "records": 1831,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 965,
+            "95": 374,
+            "70": 1181,
+            "21": 4,
+            "55": 789,
+            "80": 34,
+            "22": 18594,
+            "27": 7,
+            "13": 16193,
+            "30": 20,
+            "35": 2,
+            "14": 479,
+            "16": 4,
+            "29": 7
+          },
+          "valid": 37314,
+          "turnout": 38653,
+          "sections": 166
+        },
+        "2": {
+          "votes": {
+            "96": 1452,
+            "13": 18449,
+            "95": 316,
+            "22": 18811
+          },
+          "valid": 37260,
+          "turnout": 39028,
+          "sections": 166
+        }
+      },
+      "sections": 166,
+      "file_size_bytes": 34734
+    },
+    {
+      "id": "92525",
+      "name": "PRAIA NORTE",
+      "uf": "TO",
+      "file": "municipalities/92525.jsonl.gz",
+      "records": 248,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1475,
+            "27": 1,
+            "96": 155,
+            "14": 52,
+            "13": 2766,
+            "30": 1,
+            "55": 57,
+            "80": 2,
+            "95": 38,
+            "70": 96,
+            "21": 1
+          },
+          "valid": 4451,
+          "turnout": 4644,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 191,
+            "13": 2917,
+            "22": 1417,
+            "95": 36
+          },
+          "valid": 4334,
+          "turnout": 4561,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3670
+    },
+    {
+      "id": "96296",
+      "name": "PRESIDENTE KENNEDY",
+      "uf": "TO",
+      "file": "municipalities/96296.jsonl.gz",
+      "records": 125,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 85,
+            "13": 1115,
+            "22": 1042,
+            "95": 17
+          },
+          "valid": 2157,
+          "turnout": 2259,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 55,
+            "80": 1,
+            "22": 1067,
+            "27": 2,
+            "96": 93,
+            "95": 17,
+            "70": 55,
+            "13": 1051,
+            "30": 1,
+            "14": 10
+          },
+          "valid": 2243,
+          "turnout": 2353,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1917
+    },
+    {
+      "id": "73571",
+      "name": "PUGMIL",
+      "uf": "TO",
+      "file": "municipalities/73571.jsonl.gz",
+      "records": 91,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 69,
+            "13": 790,
+            "95": 7,
+            "22": 1009
+          },
+          "valid": 1799,
+          "turnout": 1875,
+          "sections": 9
+        },
+        "1": {
+          "votes": {
+            "55": 19,
+            "22": 1038,
+            "96": 41,
+            "95": 12,
+            "70": 54,
+            "13": 743,
+            "30": 1,
+            "14": 15
+          },
+          "valid": 1870,
+          "turnout": 1923,
+          "sections": 9
+        }
+      },
+      "sections": 9,
+      "file_size_bytes": 1453
+    },
+    {
+      "id": "73229",
+      "name": "RECURSOLÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/73229.jsonl.gz",
+      "records": 116,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 760,
+            "96": 47,
+            "13": 1591,
+            "14": 11,
+            "55": 24,
+            "95": 10,
+            "70": 42
+          },
+          "valid": 2428,
+          "turnout": 2485,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 102,
+            "13": 1534,
+            "95": 13,
+            "22": 710
+          },
+          "valid": 2244,
+          "turnout": 2359,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1607
+    },
+    {
+      "id": "73024",
+      "name": "RIACHINHO",
+      "uf": "TO",
+      "file": "municipalities/73024.jsonl.gz",
+      "records": 158,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 93,
+            "13": 1560,
+            "95": 16,
+            "22": 1180
+          },
+          "valid": 2740,
+          "turnout": 2849,
+          "sections": 16
+        },
+        "1": {
+          "votes": {
+            "22": 1220,
+            "96": 60,
+            "55": 29,
+            "14": 22,
+            "70": 49,
+            "95": 13,
+            "13": 1535,
+            "35": 1
+          },
+          "valid": 2856,
+          "turnout": 2929,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2370
+    },
+    {
+      "id": "73431",
+      "name": "RIO DA CONCEIÇÃO",
+      "uf": "TO",
+      "file": "municipalities/73431.jsonl.gz",
+      "records": 94,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 64,
+            "13": 969,
+            "22": 511,
+            "95": 8
+          },
+          "valid": 1480,
+          "turnout": 1552,
+          "sections": 9
+        },
+        "1": {
+          "votes": {
+            "55": 40,
+            "22": 527,
+            "96": 46,
+            "95": 15,
+            "70": 39,
+            "13": 894,
+            "30": 2,
+            "14": 16,
+            "29": 1
+          },
+          "valid": 1519,
+          "turnout": 1580,
+          "sections": 9
+        }
+      },
+      "sections": 9,
+      "file_size_bytes": 1573
+    },
+    {
+      "id": "73415",
+      "name": "RIO DOS BOIS",
+      "uf": "TO",
+      "file": "municipalities/73415.jsonl.gz",
+      "records": 106,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 83,
+            "13": 1202,
+            "95": 18,
+            "22": 813
+          },
+          "valid": 2015,
+          "turnout": 2116,
+          "sections": 10
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 32,
+            "13": 1142,
+            "30": 1,
+            "35": 1,
+            "14": 13,
+            "16": 1,
+            "96": 76,
+            "95": 13,
+            "70": 44,
+            "22": 840
+          },
+          "valid": 2075,
+          "turnout": 2164,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1712
+    },
+    {
+      "id": "96792",
+      "name": "RIO SONO",
+      "uf": "TO",
+      "file": "municipalities/96792.jsonl.gz",
+      "records": 182,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 114,
+            "13": 1779,
+            "95": 25,
+            "22": 1613
+          },
+          "valid": 3392,
+          "turnout": 3531,
+          "sections": 19
+        },
+        "1": {
+          "votes": {
+            "55": 61,
+            "22": 1690,
+            "96": 68,
+            "95": 16,
+            "70": 65,
+            "13": 1783,
+            "35": 1,
+            "14": 16,
+            "16": 1
+          },
+          "valid": 3617,
+          "turnout": 3701,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2657
+    },
+    {
+      "id": "92541",
+      "name": "SAMPAIO",
+      "uf": "TO",
+      "file": "municipalities/92541.jsonl.gz",
+      "records": 145,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 136,
+            "13": 2011,
+            "95": 31,
+            "22": 907
+          },
+          "valid": 2918,
+          "turnout": 3085,
+          "sections": 14
+        },
+        "1": {
+          "votes": {
+            "22": 966,
+            "96": 123,
+            "55": 28,
+            "14": 20,
+            "95": 27,
+            "70": 47,
+            "13": 1927,
+            "80": 1
+          },
+          "valid": 2989,
+          "turnout": 3139,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2086
+    },
+    {
+      "id": "73156",
+      "name": "SANDOLÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/73156.jsonl.gz",
+      "records": 147,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 114,
+            "13": 1072,
+            "95": 22,
+            "22": 1534
+          },
+          "valid": 2606,
+          "turnout": 2742,
+          "sections": 15
+        },
+        "1": {
+          "votes": {
+            "55": 104,
+            "13": 1002,
+            "30": 3,
+            "35": 1,
+            "14": 15,
+            "96": 86,
+            "95": 11,
+            "70": 24,
+            "22": 1523
+          },
+          "valid": 2672,
+          "turnout": 2769,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2212
+    },
+    {
+      "id": "73350",
+      "name": "SANTA FÉ DO ARAGUAIA",
+      "uf": "TO",
+      "file": "municipalities/73350.jsonl.gz",
+      "records": 220,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 181,
+            "13": 2220,
+            "95": 19,
+            "22": 1928
+          },
+          "valid": 4148,
+          "turnout": 4348,
+          "sections": 22
+        },
+        "1": {
+          "votes": {
+            "22": 2038,
+            "96": 144,
+            "55": 63,
+            "14": 34,
+            "70": 62,
+            "95": 20,
+            "13": 2164,
+            "30": 2
+          },
+          "valid": 4363,
+          "turnout": 4527,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3137
+    },
+    {
+      "id": "73130",
+      "name": "SANTA MARIA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73130.jsonl.gz",
+      "records": 106,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 67,
+            "13": 932,
+            "95": 9,
+            "22": 1021
+          },
+          "valid": 1953,
+          "turnout": 2029,
+          "sections": 11
+        },
+        "1": {
+          "votes": {
+            "22": 1050,
+            "96": 50,
+            "55": 33,
+            "14": 13,
+            "70": 42,
+            "95": 4,
+            "13": 897,
+            "80": 1
+          },
+          "valid": 2036,
+          "turnout": 2090,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1649
+    },
+    {
+      "id": "73547",
+      "name": "SANTA RITA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73547.jsonl.gz",
+      "records": 77,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 61,
+            "13": 676,
+            "95": 6,
+            "22": 873
+          },
+          "valid": 1549,
+          "turnout": 1616,
+          "sections": 8
+        },
+        "1": {
+          "votes": {
+            "55": 35,
+            "80": 1,
+            "22": 898,
+            "96": 32,
+            "95": 8,
+            "70": 54,
+            "13": 643,
+            "35": 1,
+            "14": 4
+          },
+          "valid": 1636,
+          "turnout": 1676,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1399
+    },
+    {
+      "id": "92584",
+      "name": "SANTA ROSA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/92584.jsonl.gz",
+      "records": 186,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 149,
+            "13": 2038,
+            "95": 32,
+            "22": 1168
+          },
+          "valid": 3206,
+          "turnout": 3387,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 73,
+            "80": 1,
+            "22": 1253,
+            "96": 112,
+            "95": 29,
+            "70": 67,
+            "13": 1923,
+            "30": 1,
+            "14": 19
+          },
+          "valid": 3338,
+          "turnout": 3479,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2751
+    },
+    {
+      "id": "92606",
+      "name": "SANTA TEREZA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/92606.jsonl.gz",
+      "records": 131,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 112,
+            "13": 1101,
+            "95": 25,
+            "22": 1300
+          },
+          "valid": 2401,
+          "turnout": 2538,
+          "sections": 13
+        },
+        "1": {
+          "votes": {
+            "22": 1296,
+            "96": 92,
+            "55": 70,
+            "14": 17,
+            "95": 14,
+            "70": 60,
+            "13": 1049
+          },
+          "valid": 2492,
+          "turnout": 2598,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 1980
+    },
+    {
+      "id": "73539",
+      "name": "SANTA TEREZINHA DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73539.jsonl.gz",
+      "records": 86,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 55,
+            "13": 970,
+            "95": 8,
+            "22": 618
+          },
+          "valid": 1588,
+          "turnout": 1651,
+          "sections": 8
+        },
+        "1": {
+          "votes": {
+            "55": 52,
+            "80": 1,
+            "13": 913,
+            "14": 13,
+            "16": 1,
+            "96": 59,
+            "95": 12,
+            "70": 58,
+            "22": 601
+          },
+          "valid": 1639,
+          "turnout": 1710,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1481
+    },
+    {
+      "id": "96598",
+      "name": "SILVANÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/96598.jsonl.gz",
+      "records": 182,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 163,
+            "13": 1993,
+            "95": 27,
+            "22": 1757
+          },
+          "valid": 3750,
+          "turnout": 3940,
+          "sections": 17
+        },
+        "1": {
+          "votes": {
+            "55": 124,
+            "80": 2,
+            "22": 1827,
+            "27": 1,
+            "96": 111,
+            "95": 28,
+            "70": 59,
+            "13": 1834,
+            "30": 2,
+            "14": 36,
+            "16": 1
+          },
+          "valid": 3886,
+          "turnout": 4025,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2620
+    },
+    {
+      "id": "73377",
+      "name": "SUCUPIRA",
+      "uf": "TO",
+      "file": "municipalities/73377.jsonl.gz",
+      "records": 79,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 54,
+            "13": 654,
+            "95": 16,
+            "22": 695
+          },
+          "valid": 1349,
+          "turnout": 1419,
+          "sections": 7
+        },
+        "1": {
+          "votes": {
+            "55": 35,
+            "80": 1,
+            "13": 608,
+            "30": 2,
+            "14": 12,
+            "96": 53,
+            "95": 10,
+            "70": 28,
+            "22": 725,
+            "27": 1
+          },
+          "valid": 1412,
+          "turnout": 1475,
+          "sections": 7
+        }
+      },
+      "sections": 7,
+      "file_size_bytes": 1416
+    },
+    {
+      "id": "73288",
+      "name": "SÃO BENTO DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73288.jsonl.gz",
+      "records": 222,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 160,
+            "13": 2586,
+            "95": 35,
+            "22": 1402
+          },
+          "valid": 3988,
+          "turnout": 4183,
+          "sections": 21
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 67,
+            "80": 1,
+            "13": 2518,
+            "30": 1,
+            "14": 50,
+            "96": 107,
+            "22": 1476,
+            "95": 41,
+            "70": 115
+          },
+          "valid": 4229,
+          "turnout": 4377,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3097
+    },
+    {
+      "id": "73105",
+      "name": "SÃO FÉLIX DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73105.jsonl.gz",
+      "records": 81,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 56,
+            "95": 7,
+            "70": 45,
+            "55": 45,
+            "22": 510,
+            "13": 878,
+            "30": 1,
+            "14": 18
+          },
+          "valid": 1497,
+          "turnout": 1560,
+          "sections": 8
+        },
+        "2": {
+          "votes": {
+            "96": 67,
+            "13": 891,
+            "22": 497,
+            "95": 14
+          },
+          "valid": 1388,
+          "turnout": 1469,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1427
+    },
+    {
+      "id": "73180",
+      "name": "SÃO MIGUEL DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73180.jsonl.gz",
+      "records": 370,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 194,
+            "95": 54,
+            "70": 222,
+            "55": 114,
+            "80": 1,
+            "22": 3258,
+            "27": 1,
+            "13": 4432,
+            "30": 2,
+            "14": 137,
+            "29": 1
+          },
+          "valid": 8168,
+          "turnout": 8416,
+          "sections": 35
+        },
+        "2": {
+          "votes": {
+            "96": 254,
+            "13": 4795,
+            "95": 68,
+            "22": 3167
+          },
+          "valid": 7962,
+          "turnout": 8284,
+          "sections": 35
+        }
+      },
+      "sections": 35,
+      "file_size_bytes": 5223
+    },
+    {
+      "id": "73393",
+      "name": "SÃO SALVADOR DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73393.jsonl.gz",
+      "records": 114,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 586,
+            "96": 73,
+            "95": 5,
+            "70": 21,
+            "55": 102,
+            "13": 1155,
+            "35": 1,
+            "30": 1,
+            "14": 15,
+            "21": 2
+          },
+          "valid": 1883,
+          "turnout": 1961,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 93,
+            "13": 1185,
+            "22": 602,
+            "95": 8
+          },
+          "valid": 1787,
+          "turnout": 1888,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1906
+    },
+    {
+      "id": "96032",
+      "name": "SÃO SEBASTIÃO DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/96032.jsonl.gz",
+      "records": 134,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 105,
+            "13": 1767,
+            "95": 20,
+            "22": 754
+          },
+          "valid": 2521,
+          "turnout": 2646,
+          "sections": 13
+        },
+        "1": {
+          "votes": {
+            "22": 812,
+            "96": 85,
+            "55": 22,
+            "14": 34,
+            "29": 1,
+            "95": 20,
+            "70": 42,
+            "13": 1712,
+            "80": 1
+          },
+          "valid": 2624,
+          "turnout": 2729,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2123
+    },
+    {
+      "id": "92681",
+      "name": "SÃO VALÉRIO",
+      "uf": "TO",
+      "file": "municipalities/92681.jsonl.gz",
+      "records": 165,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 123,
+            "13": 1903,
+            "22": 1039,
+            "95": 21
+          },
+          "valid": 2942,
+          "turnout": 3086,
+          "sections": 16
+        },
+        "1": {
+          "votes": {
+            "55": 75,
+            "80": 1,
+            "22": 1087,
+            "96": 95,
+            "95": 21,
+            "70": 75,
+            "13": 1792,
+            "30": 4,
+            "14": 24
+          },
+          "valid": 3058,
+          "turnout": 3174,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2415
+    },
+    {
+      "id": "96130",
+      "name": "SÍTIO NOVO DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/96130.jsonl.gz",
+      "records": 339,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2187,
+            "96": 171,
+            "14": 94,
+            "13": 3992,
+            "30": 1,
+            "55": 96,
+            "95": 55,
+            "70": 133,
+            "21": 1
+          },
+          "valid": 6504,
+          "turnout": 6730,
+          "sections": 33
+        },
+        "2": {
+          "votes": {
+            "96": 225,
+            "13": 4226,
+            "95": 58,
+            "22": 2170
+          },
+          "valid": 6396,
+          "turnout": 6679,
+          "sections": 33
+        }
+      },
+      "sections": 33,
+      "file_size_bytes": 4875
+    },
+    {
+      "id": "73199",
+      "name": "TABOCÃO",
+      "uf": "TO",
+      "file": "municipalities/73199.jsonl.gz",
+      "records": 115,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 100,
+            "13": 1166,
+            "22": 1102,
+            "95": 12
+          },
+          "valid": 2268,
+          "turnout": 2380,
+          "sections": 11
+        },
+        "1": {
+          "votes": {
+            "55": 66,
+            "13": 1114,
+            "30": 1,
+            "14": 27,
+            "29": 1,
+            "96": 81,
+            "95": 20,
+            "70": 42,
+            "22": 1131
+          },
+          "valid": 2382,
+          "turnout": 2483,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1752
+    },
+    {
+      "id": "96156",
+      "name": "TAGUATINGA",
+      "uf": "TO",
+      "file": "municipalities/96156.jsonl.gz",
+      "records": 475,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 3353,
+            "96": 392,
+            "95": 76,
+            "70": 148,
+            "55": 241,
+            "80": 4,
+            "28": 1,
+            "13": 4524,
+            "14": 75,
+            "21": 2
+          },
+          "valid": 8348,
+          "turnout": 8816,
+          "sections": 46
+        },
+        "2": {
+          "votes": {
+            "96": 436,
+            "13": 4965,
+            "95": 69,
+            "22": 3420
+          },
+          "valid": 8385,
+          "turnout": 8890,
+          "sections": 46
+        }
+      },
+      "sections": 46,
+      "file_size_bytes": 5970
+    },
+    {
+      "id": "73164",
+      "name": "TAIPAS DO TOCANTINS",
+      "uf": "TO",
+      "file": "municipalities/73164.jsonl.gz",
+      "records": 76,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 84,
+            "13": 1008,
+            "95": 14,
+            "22": 365
+          },
+          "valid": 1373,
+          "turnout": 1471,
+          "sections": 7
+        },
+        "1": {
+          "votes": {
+            "55": 27,
+            "80": 1,
+            "22": 366,
+            "96": 67,
+            "95": 16,
+            "70": 23,
+            "13": 973,
+            "14": 15
+          },
+          "valid": 1405,
+          "turnout": 1488,
+          "sections": 7
+        }
+      },
+      "sections": 7,
+      "file_size_bytes": 1281
+    },
+    {
+      "id": "73504",
+      "name": "TALISMÃ",
+      "uf": "TO",
+      "file": "municipalities/73504.jsonl.gz",
+      "records": 118,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 56,
+            "95": 10,
+            "70": 28,
+            "55": 55,
+            "22": 1008,
+            "13": 763,
+            "35": 1,
+            "14": 14
+          },
+          "valid": 1869,
+          "turnout": 1935,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 79,
+            "13": 795,
+            "22": 979,
+            "95": 11
+          },
+          "valid": 1774,
+          "turnout": 1864,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1925
+    },
+    {
+      "id": "96210",
+      "name": "TOCANTINÓPOLIS",
+      "uf": "TO",
+      "file": "municipalities/96210.jsonl.gz",
+      "records": 692,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 4330,
+            "27": 3,
+            "96": 346,
+            "14": 189,
+            "13": 7921,
+            "30": 2,
+            "55": 167,
+            "28": 1,
+            "80": 6,
+            "95": 131,
+            "70": 263,
+            "21": 1
+          },
+          "valid": 12883,
+          "turnout": 13360,
+          "sections": 67
+        },
+        "2": {
+          "votes": {
+            "96": 562,
+            "13": 8513,
+            "22": 4189,
+            "95": 122
+          },
+          "valid": 12702,
+          "turnout": 13386,
+          "sections": 67
+        }
+      },
+      "sections": 67,
+      "file_size_bytes": 10063
+    },
+    {
+      "id": "96199",
+      "name": "TOCANTÍNIA",
+      "uf": "TO",
+      "file": "municipalities/96199.jsonl.gz",
+      "records": 245,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 111,
+            "95": 22,
+            "70": 52,
+            "55": 42,
+            "22": 1234,
+            "13": 3206,
+            "30": 2,
+            "14": 27
+          },
+          "valid": 4563,
+          "turnout": 4696,
+          "sections": 28
+        },
+        "2": {
+          "votes": {
+            "96": 173,
+            "13": 3284,
+            "22": 1155,
+            "95": 30
+          },
+          "valid": 4439,
+          "turnout": 4642,
+          "sections": 28
+        }
+      },
+      "sections": 28,
+      "file_size_bytes": 3576
+    },
+    {
+      "id": "73458",
+      "name": "TUPIRAMA",
+      "uf": "TO",
+      "file": "municipalities/73458.jsonl.gz",
+      "records": 84,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 55,
+            "13": 815,
+            "95": 16,
+            "22": 585
+          },
+          "valid": 1400,
+          "turnout": 1471,
+          "sections": 8
+        },
+        "1": {
+          "votes": {
+            "55": 19,
+            "13": 770,
+            "30": 1,
+            "14": 11,
+            "27": 1,
+            "96": 45,
+            "22": 619,
+            "95": 17,
+            "70": 28
+          },
+          "valid": 1449,
+          "turnout": 1511,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1466
+    },
+    {
+      "id": "73237",
+      "name": "TUPIRATINS",
+      "uf": "TO",
+      "file": "municipalities/73237.jsonl.gz",
+      "records": 72,
+      "turns": {
+        "2": {
+          "votes": {
+            "96": 58,
+            "13": 866,
+            "95": 8,
+            "22": 507
+          },
+          "valid": 1373,
+          "turnout": 1439,
+          "sections": 7
+        },
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 16,
+            "13": 798,
+            "14": 3,
+            "96": 50,
+            "22": 526,
+            "16": 1,
+            "95": 15,
+            "70": 47
+          },
+          "valid": 1392,
+          "turnout": 1457,
+          "sections": 7
+        }
+      },
+      "sections": 7,
+      "file_size_bytes": 1229
+    },
+    {
+      "id": "96652",
+      "name": "WANDERLÂNDIA",
+      "uf": "TO",
+      "file": "municipalities/96652.jsonl.gz",
+      "records": 313,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2519,
+            "27": 1,
+            "96": 221,
+            "95": 50,
+            "70": 100,
+            "55": 72,
+            "80": 2,
+            "30": 4,
+            "13": 2933,
+            "14": 84,
+            "21": 1
+          },
+          "valid": 5716,
+          "turnout": 5987,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "96": 286,
+            "13": 3090,
+            "95": 37,
+            "22": 2468
+          },
+          "valid": 5558,
+          "turnout": 5881,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4206
+    },
+    {
+      "id": "96431",
+      "name": "XAMBIOÁ",
+      "uf": "TO",
+      "file": "municipalities/96431.jsonl.gz",
+      "records": 368,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 3568,
+            "27": 1,
+            "96": 171,
+            "14": 109,
+            "16": 1,
+            "29": 1,
+            "13": 3006,
+            "30": 3,
+            "35": 1,
+            "55": 77,
+            "80": 1,
+            "28": 1,
+            "95": 42,
+            "70": 92,
+            "21": 1
+          },
+          "valid": 6862,
+          "turnout": 7075,
+          "sections": 35
+        },
+        "2": {
+          "votes": {
+            "96": 252,
+            "13": 3141,
+            "95": 46,
+            "22": 3552
+          },
+          "valid": 6693,
+          "turnout": 6991,
+          "sections": 35
+        }
+      },
+      "sections": 35,
+      "file_size_bytes": 5265
+    }
+  ]
+}

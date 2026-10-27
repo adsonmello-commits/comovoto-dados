@@ -1,0 +1,9005 @@
+{
+  "dataset": "Presidente — votação por seção — Eleições 2026",
+  "office": "Presidente da República",
+  "uf": "PI",
+  "state": "Piauí",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip",
+  "municipality_count": 224,
+  "expected_turns": [
+    "1",
+    "2"
+  ],
+  "turns": [
+    "1",
+    "2"
+  ],
+  "data_status": "complete",
+  "candidates": {
+    "55": {
+      "name": "RONALDO RAMOS CAIADO",
+      "short": "RONALDO RAMOS CAIADO",
+      "color": "#71818a"
+    },
+    "14": {
+      "name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "short": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "color": "#71818a"
+    },
+    "16": {
+      "name": "HERTZ DA CONCEICAO DIAS",
+      "short": "HERTZ DA CONCEICAO DIAS",
+      "color": "#71818a"
+    },
+    "96": {
+      "name": "VOTO NULO",
+      "short": "VOTO NULO",
+      "color": "#71818a"
+    },
+    "13": {
+      "name": "LUIZ INÁCIO LULA DA SILVA",
+      "short": "LUIZ INÁCIO LULA DA SILVA",
+      "color": "#d64751"
+    },
+    "70": {
+      "name": "AUGUSTO JORGE CURY",
+      "short": "AUGUSTO JORGE CURY",
+      "color": "#71818a"
+    },
+    "95": {
+      "name": "VOTO BRANCO",
+      "short": "VOTO BRANCO",
+      "color": "#71818a"
+    },
+    "21": {
+      "name": "EDMILSON SILVA COSTA",
+      "short": "EDMILSON SILVA COSTA",
+      "color": "#71818a"
+    },
+    "35": {
+      "name": "WILSON GRASSI JUNIOR",
+      "short": "WILSON GRASSI JUNIOR",
+      "color": "#71818a"
+    },
+    "30": {
+      "name": "ROMEU ZEMA NETO",
+      "short": "ROMEU ZEMA NETO",
+      "color": "#71818a"
+    },
+    "27": {
+      "name": "CLARIANA ZACARKIM BARAO",
+      "short": "CLARIANA ZACARKIM BARAO",
+      "color": "#71818a"
+    },
+    "22": {
+      "name": "FLAVIO NANTES BOLSONARO",
+      "short": "FLAVIO NANTES BOLSONARO",
+      "color": "#3478d0"
+    },
+    "80": {
+      "name": "SAMARA MARTINS DA SILVA FEITOSA",
+      "short": "SAMARA MARTINS DA SILVA FEITOSA",
+      "color": "#71818a"
+    },
+    "28": {
+      "name": "LEONARDO ALVES DE ARAUJO",
+      "short": "LEONARDO ALVES DE ARAUJO",
+      "color": "#71818a"
+    },
+    "29": {
+      "name": "RUI COSTA PIMENTA",
+      "short": "RUI COSTA PIMENTA",
+      "color": "#71818a"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "12327",
+      "name": "ACAUÃ",
+      "uf": "PI",
+      "file": "municipalities/12327.jsonl.gz",
+      "records": 294,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 793,
+            "95": 118,
+            "27": 1,
+            "70": 193,
+            "96": 185,
+            "29": 2,
+            "14": 78,
+            "16": 1,
+            "30": 2,
+            "13": 4315,
+            "55": 54,
+            "80": 4,
+            "28": 1
+          },
+          "valid": 5444,
+          "turnout": 5747,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "96": 127,
+            "13": 4705,
+            "95": 53,
+            "22": 820
+          },
+          "valid": 5525,
+          "turnout": 5705,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 4575
+    },
+    {
+      "id": "10014",
+      "name": "AGRICOLÂNDIA",
+      "uf": "PI",
+      "file": "municipalities/10014.jsonl.gz",
+      "records": 228,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 114,
+            "22": 792,
+            "80": 1,
+            "55": 44,
+            "95": 34,
+            "70": 68,
+            "21": 1,
+            "30": 4,
+            "13": 3373,
+            "14": 42
+          },
+          "valid": 4325,
+          "turnout": 4473,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "13": 3539,
+            "95": 26,
+            "22": 768,
+            "96": 69
+          },
+          "valid": 4307,
+          "turnout": 4402,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3181
+    },
+    {
+      "id": "12319",
+      "name": "ALAGOINHA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12319.jsonl.gz",
+      "records": 279,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 80,
+            "80": 6,
+            "13": 3537,
+            "35": 1,
+            "14": 58,
+            "16": 2,
+            "70": 99,
+            "30": 1,
+            "95": 70,
+            "96": 223,
+            "22": 1249,
+            "27": 1
+          },
+          "valid": 5034,
+          "turnout": 5327,
+          "sections": 26
+        },
+        "2": {
+          "votes": {
+            "95": 54,
+            "22": 1333,
+            "96": 128,
+            "13": 3633
+          },
+          "valid": 4966,
+          "turnout": 5148,
+          "sections": 26
+        }
+      },
+      "sections": 26,
+      "file_size_bytes": 3699
+    },
+    {
+      "id": "10022",
+      "name": "ALEGRETE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10022.jsonl.gz",
+      "records": 182,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 24,
+            "96": 73,
+            "22": 864,
+            "27": 1,
+            "95": 18,
+            "13": 2512,
+            "70": 73,
+            "14": 37
+          },
+          "valid": 3511,
+          "turnout": 3602,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "95": 6,
+            "22": 811,
+            "96": 40,
+            "13": 2532
+          },
+          "valid": 3343,
+          "turnout": 3389,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2549
+    },
+    {
+      "id": "10057",
+      "name": "ALTO LONGÁ",
+      "uf": "PI",
+      "file": "municipalities/10057.jsonl.gz",
+      "records": 487,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 266,
+            "27": 3,
+            "95": 106,
+            "22": 1876,
+            "28": 1,
+            "80": 2,
+            "55": 107,
+            "70": 185,
+            "29": 1,
+            "21": 1,
+            "14": 119,
+            "16": 1,
+            "13": 8458,
+            "35": 1,
+            "30": 2
+          },
+          "valid": 10757,
+          "turnout": 11129,
+          "sections": 47
+        },
+        "2": {
+          "votes": {
+            "13": 8725,
+            "95": 45,
+            "22": 1827,
+            "96": 173
+          },
+          "valid": 10552,
+          "turnout": 10770,
+          "sections": 47
+        }
+      },
+      "sections": 47,
+      "file_size_bytes": 8968
+    },
+    {
+      "id": "10073",
+      "name": "ALTOS",
+      "uf": "PI",
+      "file": "municipalities/10073.jsonl.gz",
+      "records": 1456,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 276,
+            "80": 16,
+            "21": 8,
+            "96": 916,
+            "22": 5950,
+            "27": 10,
+            "95": 452,
+            "13": 23026,
+            "35": 3,
+            "30": 14,
+            "70": 712,
+            "14": 496,
+            "16": 2,
+            "29": 3
+          },
+          "valid": 30516,
+          "turnout": 31884,
+          "sections": 134
+        },
+        "2": {
+          "votes": {
+            "95": 228,
+            "22": 5986,
+            "96": 691,
+            "13": 25447
+          },
+          "valid": 31433,
+          "turnout": 32352,
+          "sections": 134
+        }
+      },
+      "sections": 134,
+      "file_size_bytes": 25988
+    },
+    {
+      "id": "12084",
+      "name": "ALVORADA DO GURGUÉIA",
+      "uf": "PI",
+      "file": "municipalities/12084.jsonl.gz",
+      "records": 181,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 824,
+            "95": 22,
+            "27": 2,
+            "70": 75,
+            "96": 107,
+            "14": 43,
+            "16": 1,
+            "13": 2725,
+            "30": 1,
+            "80": 1,
+            "55": 20,
+            "21": 1
+          },
+          "valid": 3693,
+          "turnout": 3822,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "96": 56,
+            "13": 2907,
+            "95": 16,
+            "22": 782
+          },
+          "valid": 3689,
+          "turnout": 3761,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2681
+    },
+    {
+      "id": "10090",
+      "name": "AMARANTE",
+      "uf": "PI",
+      "file": "municipalities/10090.jsonl.gz",
+      "records": 646,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1905,
+            "95": 125,
+            "96": 347,
+            "27": 2,
+            "13": 10090,
+            "30": 5,
+            "35": 1,
+            "14": 136,
+            "70": 142,
+            "80": 7,
+            "28": 1,
+            "16": 1,
+            "21": 3,
+            "55": 46
+          },
+          "valid": 12339,
+          "turnout": 12811,
+          "sections": 69
+        },
+        "2": {
+          "votes": {
+            "22": 1902,
+            "95": 73,
+            "96": 241,
+            "13": 10460
+          },
+          "valid": 12362,
+          "turnout": 12676,
+          "sections": 69
+        }
+      },
+      "sections": 69,
+      "file_size_bytes": 16331
+    },
+    {
+      "id": "10111",
+      "name": "ANGICAL DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10111.jsonl.gz",
+      "records": 293,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1006,
+            "70": 84,
+            "55": 25,
+            "13": 4025,
+            "30": 2,
+            "80": 4,
+            "95": 50,
+            "27": 1,
+            "96": 161,
+            "14": 85,
+            "16": 1
+          },
+          "valid": 5233,
+          "turnout": 5444,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "96": 96,
+            "13": 4281,
+            "95": 22,
+            "22": 1023
+          },
+          "valid": 5304,
+          "turnout": 5422,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4547
+    },
+    {
+      "id": "10154",
+      "name": "ANTÔNIO ALMEIDA",
+      "uf": "PI",
+      "file": "municipalities/10154.jsonl.gz",
+      "records": 135,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 837,
+            "70": 33,
+            "55": 22,
+            "13": 1517,
+            "95": 24,
+            "96": 52,
+            "14": 14
+          },
+          "valid": 2423,
+          "turnout": 2499,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "96": 29,
+            "13": 1564,
+            "95": 18,
+            "22": 805
+          },
+          "valid": 2369,
+          "turnout": 2416,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2252
+    },
+    {
+      "id": "10138",
+      "name": "ANÍSIO DE ABREU",
+      "uf": "PI",
+      "file": "municipalities/10138.jsonl.gz",
+      "records": 262,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 29,
+            "21": 1,
+            "96": 169,
+            "22": 765,
+            "27": 1,
+            "95": 39,
+            "13": 4957,
+            "70": 76,
+            "14": 24
+          },
+          "valid": 5853,
+          "turnout": 6061,
+          "sections": 29
+        },
+        "2": {
+          "votes": {
+            "22": 739,
+            "95": 17,
+            "96": 89,
+            "13": 5176
+          },
+          "valid": 5915,
+          "turnout": 6021,
+          "sections": 29
+        }
+      },
+      "sections": 29,
+      "file_size_bytes": 3924
+    },
+    {
+      "id": "10170",
+      "name": "AROAZES",
+      "uf": "PI",
+      "file": "municipalities/10170.jsonl.gz",
+      "records": 218,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 735,
+            "95": 40,
+            "96": 137,
+            "13": 3445,
+            "14": 56,
+            "70": 42,
+            "30": 1,
+            "80": 3,
+            "16": 1,
+            "55": 27
+          },
+          "valid": 4310,
+          "turnout": 4487,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "22": 719,
+            "95": 19,
+            "96": 99,
+            "13": 3535
+          },
+          "valid": 4254,
+          "turnout": 4372,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3272
+    },
+    {
+      "id": "12734",
+      "name": "AROEIRAS DO ITAIM",
+      "uf": "PI",
+      "file": "municipalities/12734.jsonl.gz",
+      "records": 178,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 42,
+            "80": 4,
+            "96": 113,
+            "22": 682,
+            "95": 34,
+            "13": 2937,
+            "30": 3,
+            "70": 50,
+            "14": 62,
+            "16": 1
+          },
+          "valid": 3781,
+          "turnout": 3928,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "22": 700,
+            "95": 18,
+            "96": 63,
+            "13": 3104
+          },
+          "valid": 3804,
+          "turnout": 3885,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2687
+    },
+    {
+      "id": "10197",
+      "name": "ARRAIAL",
+      "uf": "PI",
+      "file": "municipalities/10197.jsonl.gz",
+      "records": 176,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 534,
+            "55": 25,
+            "70": 68,
+            "13": 2858,
+            "30": 1,
+            "95": 22,
+            "27": 3,
+            "96": 112,
+            "14": 37
+          },
+          "valid": 3526,
+          "turnout": 3660,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "96": 57,
+            "13": 2917,
+            "22": 551,
+            "95": 12
+          },
+          "valid": 3468,
+          "turnout": 3537,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 3008
+    },
+    {
+      "id": "12106",
+      "name": "ASSUNÇÃO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12106.jsonl.gz",
+      "records": 314,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 2,
+            "22": 725,
+            "70": 107,
+            "55": 55,
+            "13": 4225,
+            "30": 2,
+            "35": 1,
+            "80": 3,
+            "95": 70,
+            "27": 1,
+            "96": 201,
+            "14": 40
+          },
+          "valid": 5161,
+          "turnout": 5432,
+          "sections": 32
+        },
+        "2": {
+          "votes": {
+            "96": 94,
+            "13": 4619,
+            "22": 743,
+            "95": 28
+          },
+          "valid": 5362,
+          "turnout": 5484,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 4941
+    },
+    {
+      "id": "10219",
+      "name": "AVELINO LOPES",
+      "uf": "PI",
+      "file": "municipalities/10219.jsonl.gz",
+      "records": 365,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5387,
+            "22": 1805,
+            "95": 64,
+            "96": 167
+          },
+          "valid": 7192,
+          "turnout": 7423,
+          "sections": 35
+        },
+        "1": {
+          "votes": {
+            "14": 40,
+            "16": 1,
+            "28": 3,
+            "13": 5070,
+            "30": 2,
+            "21": 4,
+            "55": 148,
+            "96": 262,
+            "27": 2,
+            "22": 1751,
+            "70": 187,
+            "95": 51
+          },
+          "valid": 7208,
+          "turnout": 7521,
+          "sections": 35
+        }
+      },
+      "sections": 35,
+      "file_size_bytes": 5593
+    },
+    {
+      "id": "10049",
+      "name": "BAIXA GRANDE DO RIBEIRO",
+      "uf": "PI",
+      "file": "municipalities/10049.jsonl.gz",
+      "records": 424,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 299,
+            "27": 1,
+            "95": 84,
+            "22": 3764,
+            "80": 2,
+            "55": 105,
+            "70": 324,
+            "14": 84,
+            "13": 4996,
+            "16": 1,
+            "30": 5
+          },
+          "valid": 9282,
+          "turnout": 9665,
+          "sections": 40
+        },
+        "2": {
+          "votes": {
+            "13": 5733,
+            "95": 69,
+            "22": 3797,
+            "96": 183
+          },
+          "valid": 9530,
+          "turnout": 9782,
+          "sections": 40
+        }
+      },
+      "sections": 40,
+      "file_size_bytes": 5958
+    },
+    {
+      "id": "10600",
+      "name": "BARRA D ALCÂNTARA",
+      "uf": "PI",
+      "file": "municipalities/10600.jsonl.gz",
+      "records": 136,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 468,
+            "95": 45,
+            "27": 1,
+            "70": 23,
+            "96": 135,
+            "14": 21,
+            "13": 2172,
+            "30": 1,
+            "55": 12,
+            "21": 1
+          },
+          "valid": 2699,
+          "turnout": 2879,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "95": 19,
+            "22": 483,
+            "96": 58,
+            "13": 2334
+          },
+          "valid": 2817,
+          "turnout": 2894,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2183
+    },
+    {
+      "id": "10235",
+      "name": "BARRAS",
+      "uf": "PI",
+      "file": "municipalities/10235.jsonl.gz",
+      "records": 1473,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 23317,
+            "95": 279,
+            "22": 6708,
+            "96": 716
+          },
+          "valid": 30025,
+          "turnout": 31020,
+          "sections": 140
+        },
+        "1": {
+          "votes": {
+            "55": 272,
+            "14": 353,
+            "16": 4,
+            "29": 2,
+            "80": 4,
+            "13": 21523,
+            "30": 16,
+            "35": 5,
+            "21": 7,
+            "96": 871,
+            "27": 6,
+            "22": 6806,
+            "70": 628,
+            "95": 444
+          },
+          "valid": 29626,
+          "turnout": 30941,
+          "sections": 140
+        }
+      },
+      "sections": 140,
+      "file_size_bytes": 27654
+    },
+    {
+      "id": "10251",
+      "name": "BARREIRAS DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10251.jsonl.gz",
+      "records": 157,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 71,
+            "96": 60,
+            "22": 565,
+            "95": 23,
+            "13": 1816,
+            "70": 63,
+            "14": 19
+          },
+          "valid": 2534,
+          "turnout": 2617,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "22": 569,
+            "95": 19,
+            "96": 45,
+            "13": 1947
+          },
+          "valid": 2516,
+          "turnout": 2580,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2641
+    },
+    {
+      "id": "10278",
+      "name": "BARRO DURO",
+      "uf": "PI",
+      "file": "municipalities/10278.jsonl.gz",
+      "records": 253,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 1375,
+            "70": 78,
+            "55": 61,
+            "13": 3441,
+            "30": 1,
+            "80": 2,
+            "95": 49,
+            "96": 69,
+            "14": 55
+          },
+          "valid": 5014,
+          "turnout": 5132,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "96": 66,
+            "13": 3576,
+            "95": 32,
+            "22": 1318
+          },
+          "valid": 4894,
+          "turnout": 4992,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3572
+    },
+    {
+      "id": "10294",
+      "name": "BATALHA",
+      "uf": "PI",
+      "file": "municipalities/10294.jsonl.gz",
+      "records": 872,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 4032,
+            "95": 262,
+            "96": 635,
+            "27": 2,
+            "30": 9,
+            "13": 11524,
+            "14": 183,
+            "70": 303,
+            "35": 2,
+            "80": 8,
+            "29": 2,
+            "16": 1,
+            "21": 2,
+            "55": 139
+          },
+          "valid": 16207,
+          "turnout": 17104,
+          "sections": 83
+        },
+        "2": {
+          "votes": {
+            "22": 4231,
+            "95": 143,
+            "96": 439,
+            "13": 12458
+          },
+          "valid": 16689,
+          "turnout": 17271,
+          "sections": 83
+        }
+      },
+      "sections": 83,
+      "file_size_bytes": 16720
+    },
+    {
+      "id": "10626",
+      "name": "BELA VISTA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10626.jsonl.gz",
+      "records": 153,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 514,
+            "55": 47,
+            "70": 99,
+            "13": 2195,
+            "30": 1,
+            "95": 76,
+            "96": 216,
+            "14": 61
+          },
+          "valid": 2917,
+          "turnout": 3209,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "96": 138,
+            "13": 2453,
+            "95": 55,
+            "22": 577
+          },
+          "valid": 3030,
+          "turnout": 3223,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2486
+    },
+    {
+      "id": "12335",
+      "name": "BELÉM DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12335.jsonl.gz",
+      "records": 146,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 570,
+            "95": 42,
+            "96": 99,
+            "27": 1,
+            "13": 2161,
+            "70": 64,
+            "35": 2,
+            "29": 1,
+            "14": 33,
+            "55": 17
+          },
+          "valid": 2849,
+          "turnout": 2990,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "22": 541,
+            "95": 22,
+            "96": 60,
+            "13": 2220
+          },
+          "valid": 2761,
+          "turnout": 2843,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2375
+    },
+    {
+      "id": "10316",
+      "name": "BENEDITINOS",
+      "uf": "PI",
+      "file": "municipalities/10316.jsonl.gz",
+      "records": 368,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1172,
+            "95": 81,
+            "96": 226,
+            "27": 1,
+            "13": 6156,
+            "14": 84,
+            "70": 144,
+            "35": 1,
+            "30": 2,
+            "80": 3,
+            "16": 1,
+            "55": 94
+          },
+          "valid": 7658,
+          "turnout": 7965,
+          "sections": 36
+        },
+        "2": {
+          "votes": {
+            "22": 1218,
+            "95": 58,
+            "96": 197,
+            "13": 6585
+          },
+          "valid": 7803,
+          "turnout": 8058,
+          "sections": 36
+        }
+      },
+      "sections": 36,
+      "file_size_bytes": 7561
+    },
+    {
+      "id": "10332",
+      "name": "BERTOLÍNIA",
+      "uf": "PI",
+      "file": "municipalities/10332.jsonl.gz",
+      "records": 235,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 127,
+            "95": 38,
+            "80": 1,
+            "22": 1054,
+            "55": 49,
+            "70": 107,
+            "14": 59,
+            "13": 2718
+          },
+          "valid": 3988,
+          "turnout": 4153,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "13": 2881,
+            "95": 20,
+            "22": 1104,
+            "96": 85
+          },
+          "valid": 3985,
+          "turnout": 4090,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3327
+    },
+    {
+      "id": "12122",
+      "name": "BETÂNIA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12122.jsonl.gz",
+      "records": 240,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 605,
+            "95": 32,
+            "27": 1,
+            "70": 185,
+            "96": 168,
+            "14": 45,
+            "13": 3969,
+            "55": 51,
+            "21": 2
+          },
+          "valid": 4858,
+          "turnout": 5058,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 110,
+            "13": 4383,
+            "95": 33,
+            "22": 574
+          },
+          "valid": 4957,
+          "turnout": 5100,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3691
+    },
+    {
+      "id": "10669",
+      "name": "BOA HORA",
+      "uf": "PI",
+      "file": "municipalities/10669.jsonl.gz",
+      "records": 244,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1055,
+            "95": 68,
+            "70": 103,
+            "96": 151,
+            "14": 56,
+            "13": 4079,
+            "30": 1,
+            "55": 52,
+            "80": 2,
+            "21": 3
+          },
+          "valid": 5351,
+          "turnout": 5570,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "96": 104,
+            "13": 4262,
+            "95": 38,
+            "22": 1078
+          },
+          "valid": 5340,
+          "turnout": 5482,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3063
+    },
+    {
+      "id": "10359",
+      "name": "BOCAINA",
+      "uf": "PI",
+      "file": "municipalities/10359.jsonl.gz",
+      "records": 236,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 82,
+            "70": 82,
+            "22": 890,
+            "13": 3541,
+            "30": 1,
+            "27": 1,
+            "95": 52,
+            "29": 1,
+            "14": 104,
+            "16": 3,
+            "80": 8,
+            "55": 23
+          },
+          "valid": 4654,
+          "turnout": 4788,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "13": 3666,
+            "22": 943,
+            "95": 24,
+            "96": 45
+          },
+          "valid": 4609,
+          "turnout": 4678,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3421
+    },
+    {
+      "id": "10375",
+      "name": "BOM JESUS",
+      "uf": "PI",
+      "file": "municipalities/10375.jsonl.gz",
+      "records": 796,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 10689,
+            "95": 126,
+            "22": 5861,
+            "96": 283
+          },
+          "valid": 16550,
+          "turnout": 16959,
+          "sections": 77
+        },
+        "1": {
+          "votes": {
+            "14": 180,
+            "29": 2,
+            "80": 3,
+            "13": 9349,
+            "30": 8,
+            "16": 4,
+            "21": 1,
+            "55": 136,
+            "96": 485,
+            "27": 5,
+            "22": 6023,
+            "70": 396,
+            "95": 198
+          },
+          "valid": 16107,
+          "turnout": 16790,
+          "sections": 77
+        }
+      },
+      "sections": 77,
+      "file_size_bytes": 12193
+    },
+    {
+      "id": "10065",
+      "name": "BOM PRINCÍPIO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10065.jsonl.gz",
+      "records": 269,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1365,
+            "95": 70,
+            "96": 236,
+            "13": 3906,
+            "14": 49,
+            "70": 121,
+            "80": 2,
+            "21": 2,
+            "55": 26
+          },
+          "valid": 5471,
+          "turnout": 5777,
+          "sections": 26
+        },
+        "2": {
+          "votes": {
+            "95": 47,
+            "22": 1332,
+            "96": 116,
+            "13": 4159
+          },
+          "valid": 5491,
+          "turnout": 5654,
+          "sections": 26
+        }
+      },
+      "sections": 26,
+      "file_size_bytes": 4150
+    },
+    {
+      "id": "10081",
+      "name": "BONFIM DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10081.jsonl.gz",
+      "records": 198,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 344,
+            "95": 35,
+            "96": 132,
+            "27": 1,
+            "13": 3549,
+            "14": 35,
+            "70": 42,
+            "30": 1,
+            "35": 1,
+            "80": 1,
+            "55": 26
+          },
+          "valid": 4000,
+          "turnout": 4167,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "95": 13,
+            "22": 350,
+            "96": 85,
+            "13": 3650
+          },
+          "valid": 4000,
+          "turnout": 4098,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3319
+    },
+    {
+      "id": "12149",
+      "name": "BOQUEIRÃO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12149.jsonl.gz",
+      "records": 233,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 698,
+            "70": 95,
+            "55": 29,
+            "13": 3701,
+            "30": 2,
+            "80": 1,
+            "95": 54,
+            "27": 2,
+            "96": 118,
+            "14": 61,
+            "29": 1
+          },
+          "valid": 4590,
+          "turnout": 4762,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "96": 87,
+            "13": 3864,
+            "22": 717,
+            "95": 26
+          },
+          "valid": 4581,
+          "turnout": 4694,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3758
+    },
+    {
+      "id": "10006",
+      "name": "BRASILEIRA",
+      "uf": "PI",
+      "file": "municipalities/10006.jsonl.gz",
+      "records": 341,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5486,
+            "95": 35,
+            "22": 1154,
+            "96": 132
+          },
+          "valid": 6640,
+          "turnout": 6807,
+          "sections": 33
+        },
+        "1": {
+          "votes": {
+            "55": 36,
+            "14": 95,
+            "29": 1,
+            "80": 5,
+            "13": 5054,
+            "21": 3,
+            "96": 250,
+            "27": 2,
+            "22": 1122,
+            "70": 118,
+            "95": 87
+          },
+          "valid": 6436,
+          "turnout": 6773,
+          "sections": 33
+        }
+      },
+      "sections": 33,
+      "file_size_bytes": 5651
+    },
+    {
+      "id": "10642",
+      "name": "BREJO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10642.jsonl.gz",
+      "records": 112,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 101,
+            "70": 21,
+            "22": 379,
+            "13": 2605,
+            "27": 1,
+            "95": 17,
+            "30": 1,
+            "14": 18,
+            "55": 10
+          },
+          "valid": 3035,
+          "turnout": 3153,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "13": 2790,
+            "22": 366,
+            "95": 5,
+            "96": 46
+          },
+          "valid": 3156,
+          "turnout": 3207,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 1736
+    },
+    {
+      "id": "10391",
+      "name": "BURITI DOS LOPES",
+      "uf": "PI",
+      "file": "municipalities/10391.jsonl.gz",
+      "records": 734,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 6,
+            "55": 107,
+            "80": 3,
+            "13": 9990,
+            "35": 1,
+            "30": 5,
+            "14": 167,
+            "16": 3,
+            "70": 342,
+            "95": 216,
+            "29": 1,
+            "96": 469,
+            "22": 3553,
+            "27": 2
+          },
+          "valid": 14180,
+          "turnout": 14865,
+          "sections": 71
+        },
+        "2": {
+          "votes": {
+            "95": 115,
+            "22": 3558,
+            "96": 286,
+            "13": 10806
+          },
+          "valid": 14364,
+          "turnout": 14765,
+          "sections": 71
+        }
+      },
+      "sections": 71,
+      "file_size_bytes": 13205
+    },
+    {
+      "id": "10103",
+      "name": "BURITI DOS MONTES",
+      "uf": "PI",
+      "file": "municipalities/10103.jsonl.gz",
+      "records": 276,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 30,
+            "21": 1,
+            "80": 2,
+            "96": 116,
+            "22": 917,
+            "27": 2,
+            "95": 62,
+            "13": 4749,
+            "70": 73,
+            "14": 67,
+            "16": 3
+          },
+          "valid": 5844,
+          "turnout": 6022,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "95": 26,
+            "22": 870,
+            "96": 74,
+            "13": 4931
+          },
+          "valid": 5801,
+          "turnout": 5901,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4956
+    },
+    {
+      "id": "10120",
+      "name": "CABECEIRAS DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10120.jsonl.gz",
+      "records": 379,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1060,
+            "95": 114,
+            "27": 2,
+            "70": 169,
+            "96": 205,
+            "14": 77,
+            "13": 6010,
+            "30": 2,
+            "35": 1,
+            "55": 79,
+            "80": 1,
+            "21": 2
+          },
+          "valid": 7403,
+          "turnout": 7722,
+          "sections": 36
+        },
+        "2": {
+          "votes": {
+            "96": 148,
+            "13": 6459,
+            "95": 56,
+            "22": 1014
+          },
+          "valid": 7473,
+          "turnout": 7677,
+          "sections": 36
+        }
+      },
+      "sections": 36,
+      "file_size_bytes": 5233
+    },
+    {
+      "id": "12343",
+      "name": "CAJAZEIRAS DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12343.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 121,
+            "22": 387,
+            "80": 2,
+            "55": 12,
+            "95": 31,
+            "70": 26,
+            "14": 18,
+            "13": 2349,
+            "30": 1
+          },
+          "valid": 2795,
+          "turnout": 2947,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "13": 2342,
+            "95": 14,
+            "22": 429,
+            "96": 54
+          },
+          "valid": 2771,
+          "turnout": 2839,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 3002
+    },
+    {
+      "id": "12572",
+      "name": "CAJUEIRO DA PRAIA",
+      "uf": "PI",
+      "file": "municipalities/12572.jsonl.gz",
+      "records": 318,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 24,
+            "80": 4,
+            "13": 4555,
+            "30": 4,
+            "35": 1,
+            "14": 56,
+            "16": 1,
+            "70": 118,
+            "95": 90,
+            "29": 1,
+            "96": 149,
+            "22": 1453,
+            "27": 9
+          },
+          "valid": 6227,
+          "turnout": 6466,
+          "sections": 31
+        },
+        "2": {
+          "votes": {
+            "95": 42,
+            "22": 1436,
+            "96": 91,
+            "13": 4950
+          },
+          "valid": 6386,
+          "turnout": 6519,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 5096
+    },
+    {
+      "id": "10146",
+      "name": "CALDEIRÃO GRANDE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10146.jsonl.gz",
+      "records": 220,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 786,
+            "70": 149,
+            "55": 41,
+            "13": 3290,
+            "30": 1,
+            "95": 46,
+            "96": 75,
+            "14": 41
+          },
+          "valid": 4309,
+          "turnout": 4430,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 69,
+            "13": 3432,
+            "22": 806,
+            "95": 37
+          },
+          "valid": 4238,
+          "turnout": 4344,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3098
+    },
+    {
+      "id": "10413",
+      "name": "CAMPINAS DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10413.jsonl.gz",
+      "records": 213,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 149,
+            "22": 429,
+            "55": 24,
+            "95": 43,
+            "70": 40,
+            "21": 2,
+            "14": 27,
+            "13": 3523
+          },
+          "valid": 4045,
+          "turnout": 4237,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "13": 3723,
+            "22": 427,
+            "95": 15,
+            "96": 64
+          },
+          "valid": 4150,
+          "turnout": 4229,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3736
+    },
+    {
+      "id": "12351",
+      "name": "CAMPO ALEGRE DO FIDALGO",
+      "uf": "PI",
+      "file": "municipalities/12351.jsonl.gz",
+      "records": 191,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 654,
+            "70": 98,
+            "55": 21,
+            "13": 2978,
+            "30": 2,
+            "80": 2,
+            "95": 37,
+            "96": 153,
+            "14": 36
+          },
+          "valid": 3792,
+          "turnout": 3982,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "13": 3123,
+            "95": 24,
+            "22": 659,
+            "96": 72
+          },
+          "valid": 3782,
+          "turnout": 3878,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 3274
+    },
+    {
+      "id": "10723",
+      "name": "CAMPO GRANDE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10723.jsonl.gz",
+      "records": 242,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 42,
+            "80": 1,
+            "13": 3478,
+            "30": 4,
+            "14": 49,
+            "16": 1,
+            "70": 88,
+            "95": 56,
+            "29": 1,
+            "96": 173,
+            "22": 571
+          },
+          "valid": 4236,
+          "turnout": 4465,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "95": 27,
+            "22": 611,
+            "96": 107,
+            "13": 3660
+          },
+          "valid": 4271,
+          "turnout": 4405,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3513
+    },
+    {
+      "id": "10740",
+      "name": "CAMPO LARGO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10740.jsonl.gz",
+      "records": 240,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1007,
+            "95": 59,
+            "27": 1,
+            "70": 46,
+            "96": 139,
+            "14": 58,
+            "16": 2,
+            "13": 3349,
+            "30": 1,
+            "55": 35,
+            "80": 1,
+            "28": 1
+          },
+          "valid": 4501,
+          "turnout": 4699,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "96": 91,
+            "13": 3507,
+            "95": 35,
+            "22": 959
+          },
+          "valid": 4466,
+          "turnout": 4592,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3415
+    },
+    {
+      "id": "10430",
+      "name": "CAMPO MAIOR",
+      "uf": "PI",
+      "file": "municipalities/10430.jsonl.gz",
+      "records": 1554,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 268,
+            "80": 15,
+            "21": 2,
+            "96": 893,
+            "22": 6975,
+            "27": 6,
+            "95": 456,
+            "13": 20616,
+            "35": 3,
+            "30": 14,
+            "70": 625,
+            "14": 526,
+            "16": 5,
+            "29": 3
+          },
+          "valid": 29058,
+          "turnout": 30407,
+          "sections": 146
+        },
+        "2": {
+          "votes": {
+            "22": 7096,
+            "95": 234,
+            "96": 638,
+            "13": 22681
+          },
+          "valid": 29777,
+          "turnout": 30649,
+          "sections": 146
+        }
+      },
+      "sections": 146,
+      "file_size_bytes": 34420
+    },
+    {
+      "id": "10162",
+      "name": "CANAVIEIRA",
+      "uf": "PI",
+      "file": "municipalities/10162.jsonl.gz",
+      "records": 138,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 25,
+            "21": 1,
+            "80": 1,
+            "96": 64,
+            "22": 596,
+            "95": 30,
+            "13": 1968,
+            "30": 2,
+            "70": 26,
+            "14": 10,
+            "16": 1
+          },
+          "valid": 2630,
+          "turnout": 2724,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "95": 8,
+            "22": 587,
+            "96": 30,
+            "13": 1995
+          },
+          "valid": 2582,
+          "turnout": 2620,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2187
+    },
+    {
+      "id": "10456",
+      "name": "CANTO DO BURITI",
+      "uf": "PI",
+      "file": "municipalities/10456.jsonl.gz",
+      "records": 657,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2803,
+            "95": 158,
+            "96": 506,
+            "27": 3,
+            "14": 110,
+            "16": 4,
+            "70": 217,
+            "13": 8739,
+            "30": 7,
+            "80": 1,
+            "29": 1,
+            "21": 2,
+            "55": 115
+          },
+          "valid": 12002,
+          "turnout": 12666,
+          "sections": 64
+        },
+        "2": {
+          "votes": {
+            "95": 93,
+            "22": 2822,
+            "96": 285,
+            "13": 9564
+          },
+          "valid": 12386,
+          "turnout": 12764,
+          "sections": 64
+        }
+      },
+      "sections": 64,
+      "file_size_bytes": 9350
+    },
+    {
+      "id": "10472",
+      "name": "CAPITÃO DE CAMPOS",
+      "uf": "PI",
+      "file": "municipalities/10472.jsonl.gz",
+      "records": 456,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1419,
+            "95": 121,
+            "96": 320,
+            "27": 1,
+            "14": 109,
+            "70": 224,
+            "30": 8,
+            "13": 6107,
+            "35": 2,
+            "80": 2,
+            "21": 1,
+            "55": 83
+          },
+          "valid": 7956,
+          "turnout": 8397,
+          "sections": 43
+        },
+        "2": {
+          "votes": {
+            "95": 59,
+            "22": 1481,
+            "96": 243,
+            "13": 6733
+          },
+          "valid": 8214,
+          "turnout": 8516,
+          "sections": 43
+        }
+      },
+      "sections": 43,
+      "file_size_bytes": 6781
+    },
+    {
+      "id": "10707",
+      "name": "CAPITÃO GERVÁSIO OLIVEIRA",
+      "uf": "PI",
+      "file": "municipalities/10707.jsonl.gz",
+      "records": 162,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2971,
+            "22": 397,
+            "95": 12,
+            "96": 63
+          },
+          "valid": 3368,
+          "turnout": 3443,
+          "sections": 17
+        },
+        "1": {
+          "votes": {
+            "55": 15,
+            "14": 32,
+            "16": 1,
+            "80": 1,
+            "30": 1,
+            "13": 2776,
+            "96": 138,
+            "27": 1,
+            "22": 416,
+            "70": 93,
+            "95": 28
+          },
+          "valid": 3336,
+          "turnout": 3502,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2796
+    },
+    {
+      "id": "10499",
+      "name": "CARACOL",
+      "uf": "PI",
+      "file": "municipalities/10499.jsonl.gz",
+      "records": 358,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 52,
+            "21": 1,
+            "80": 1,
+            "96": 237,
+            "22": 1087,
+            "27": 1,
+            "95": 69,
+            "13": 5324,
+            "30": 1,
+            "70": 98,
+            "14": 45,
+            "29": 1
+          },
+          "valid": 6611,
+          "turnout": 6917,
+          "sections": 36
+        },
+        "2": {
+          "votes": {
+            "95": 45,
+            "22": 1100,
+            "96": 120,
+            "13": 5615
+          },
+          "valid": 6715,
+          "turnout": 6880,
+          "sections": 36
+        }
+      },
+      "sections": 36,
+      "file_size_bytes": 5146
+    },
+    {
+      "id": "12670",
+      "name": "CARAÚBAS DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12670.jsonl.gz",
+      "records": 225,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3115,
+            "95": 33,
+            "22": 1144,
+            "96": 136
+          },
+          "valid": 4259,
+          "turnout": 4428,
+          "sections": 22
+        },
+        "1": {
+          "votes": {
+            "14": 44,
+            "16": 2,
+            "80": 4,
+            "13": 2861,
+            "30": 2,
+            "21": 1,
+            "55": 32,
+            "96": 222,
+            "27": 1,
+            "22": 1115,
+            "70": 108,
+            "95": 50
+          },
+          "valid": 4170,
+          "turnout": 4442,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3607
+    },
+    {
+      "id": "12165",
+      "name": "CARIDADE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12165.jsonl.gz",
+      "records": 202,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 121,
+            "22": 617,
+            "80": 1,
+            "55": 64,
+            "95": 41,
+            "70": 117,
+            "14": 52,
+            "13": 3235,
+            "30": 1
+          },
+          "valid": 4087,
+          "turnout": 4249,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "13": 3343,
+            "95": 28,
+            "22": 583,
+            "96": 82
+          },
+          "valid": 3926,
+          "turnout": 4036,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 3101
+    },
+    {
+      "id": "10510",
+      "name": "CASTELO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10510.jsonl.gz",
+      "records": 757,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 101,
+            "80": 4,
+            "21": 4,
+            "28": 1,
+            "96": 419,
+            "22": 3228,
+            "27": 1,
+            "95": 191,
+            "13": 8570,
+            "30": 4,
+            "70": 265,
+            "14": 193,
+            "16": 2
+          },
+          "valid": 12373,
+          "turnout": 12983,
+          "sections": 75
+        },
+        "2": {
+          "votes": {
+            "22": 3244,
+            "95": 98,
+            "96": 246,
+            "13": 9390
+          },
+          "valid": 12634,
+          "turnout": 12978,
+          "sections": 75
+        }
+      },
+      "sections": 75,
+      "file_size_bytes": 15501
+    },
+    {
+      "id": "12688",
+      "name": "CAXINGÓ",
+      "uf": "PI",
+      "file": "municipalities/12688.jsonl.gz",
+      "records": 241,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 2,
+            "55": 33,
+            "13": 3632,
+            "14": 66,
+            "16": 3,
+            "70": 100,
+            "95": 61,
+            "96": 201,
+            "22": 884
+          },
+          "valid": 4720,
+          "turnout": 4982,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "95": 32,
+            "22": 828,
+            "96": 124,
+            "13": 3800
+          },
+          "valid": 4628,
+          "turnout": 4784,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3540
+    },
+    {
+      "id": "10537",
+      "name": "COCAL",
+      "uf": "PI",
+      "file": "municipalities/10537.jsonl.gz",
+      "records": 973,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 5217,
+            "95": 342,
+            "96": 784,
+            "27": 6,
+            "13": 12569,
+            "30": 4,
+            "35": 2,
+            "14": 236,
+            "16": 2,
+            "70": 350,
+            "80": 4,
+            "28": 1,
+            "21": 3,
+            "55": 145
+          },
+          "valid": 18539,
+          "turnout": 19665,
+          "sections": 92
+        },
+        "2": {
+          "votes": {
+            "22": 5173,
+            "95": 181,
+            "96": 424,
+            "13": 14171
+          },
+          "valid": 19344,
+          "turnout": 19949,
+          "sections": 92
+        }
+      },
+      "sections": 92,
+      "file_size_bytes": 14993
+    },
+    {
+      "id": "12360",
+      "name": "COCAL DE TELHA",
+      "uf": "PI",
+      "file": "municipalities/12360.jsonl.gz",
+      "records": 183,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 27,
+            "80": 1,
+            "96": 156,
+            "22": 485,
+            "95": 63,
+            "13": 2737,
+            "70": 66,
+            "14": 52,
+            "16": 2
+          },
+          "valid": 3370,
+          "turnout": 3589,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "22": 467,
+            "95": 30,
+            "96": 127,
+            "13": 3072
+          },
+          "valid": 3539,
+          "turnout": 3696,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2718
+    },
+    {
+      "id": "12696",
+      "name": "COCAL DOS ALVES",
+      "uf": "PI",
+      "file": "municipalities/12696.jsonl.gz",
+      "records": 240,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 47,
+            "13": 3550,
+            "14": 42,
+            "16": 2,
+            "70": 102,
+            "95": 113,
+            "96": 160,
+            "22": 597
+          },
+          "valid": 4341,
+          "turnout": 4614,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "95": 38,
+            "22": 593,
+            "96": 79,
+            "13": 4035
+          },
+          "valid": 4628,
+          "turnout": 4745,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3276
+    },
+    {
+      "id": "10189",
+      "name": "COIVARAS",
+      "uf": "PI",
+      "file": "municipalities/10189.jsonl.gz",
+      "records": 241,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 66,
+            "80": 1,
+            "96": 152,
+            "22": 991,
+            "27": 1,
+            "95": 43,
+            "13": 3652,
+            "30": 3,
+            "70": 67,
+            "14": 71,
+            "16": 1
+          },
+          "valid": 4853,
+          "turnout": 5048,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "22": 946,
+            "95": 36,
+            "96": 81,
+            "13": 3802
+          },
+          "valid": 4748,
+          "turnout": 4865,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3487
+    },
+    {
+      "id": "10200",
+      "name": "COLÔNIA DO GURGUÉIA",
+      "uf": "PI",
+      "file": "municipalities/10200.jsonl.gz",
+      "records": 199,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 960,
+            "95": 33,
+            "70": 51,
+            "96": 124,
+            "14": 55,
+            "13": 3182,
+            "55": 35,
+            "80": 1
+          },
+          "valid": 4284,
+          "turnout": 4441,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "96": 47,
+            "13": 3412,
+            "22": 927,
+            "95": 12
+          },
+          "valid": 4339,
+          "turnout": 4398,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2818
+    },
+    {
+      "id": "10227",
+      "name": "COLÔNIA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10227.jsonl.gz",
+      "records": 246,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 17,
+            "80": 2,
+            "96": 140,
+            "22": 669,
+            "95": 37,
+            "13": 3861,
+            "70": 53,
+            "14": 24
+          },
+          "valid": 4626,
+          "turnout": 4803,
+          "sections": 28
+        },
+        "2": {
+          "votes": {
+            "22": 691,
+            "95": 26,
+            "96": 75,
+            "13": 3975
+          },
+          "valid": 4666,
+          "turnout": 4767,
+          "sections": 28
+        }
+      },
+      "sections": 28,
+      "file_size_bytes": 4216
+    },
+    {
+      "id": "10553",
+      "name": "CONCEIÇÃO DO CANINDÉ",
+      "uf": "PI",
+      "file": "municipalities/10553.jsonl.gz",
+      "records": 217,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 199,
+            "95": 46,
+            "22": 819,
+            "80": 5,
+            "55": 50,
+            "70": 103,
+            "21": 3,
+            "14": 37,
+            "13": 2949,
+            "30": 1
+          },
+          "valid": 3967,
+          "turnout": 4212,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "13": 3098,
+            "95": 26,
+            "22": 764,
+            "96": 102
+          },
+          "valid": 3862,
+          "turnout": 3990,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3337
+    },
+    {
+      "id": "10243",
+      "name": "CORONEL JOSÉ DIAS",
+      "uf": "PI",
+      "file": "municipalities/10243.jsonl.gz",
+      "records": 229,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 588,
+            "95": 48,
+            "70": 54,
+            "96": 105,
+            "16": 1,
+            "14": 56,
+            "13": 3773,
+            "30": 3,
+            "55": 51
+          },
+          "valid": 4526,
+          "turnout": 4679,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "96": 57,
+            "13": 3886,
+            "22": 545,
+            "95": 16
+          },
+          "valid": 4431,
+          "turnout": 4504,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3937
+    },
+    {
+      "id": "10570",
+      "name": "CORRENTE",
+      "uf": "PI",
+      "file": "municipalities/10570.jsonl.gz",
+      "records": 888,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 593,
+            "70": 394,
+            "95": 201,
+            "22": 4663,
+            "13": 10577,
+            "30": 3,
+            "14": 126,
+            "27": 2,
+            "21": 3,
+            "16": 1,
+            "80": 1,
+            "55": 279
+          },
+          "valid": 16049,
+          "turnout": 16843,
+          "sections": 87
+        },
+        "2": {
+          "votes": {
+            "13": 11773,
+            "95": 109,
+            "22": 4924,
+            "96": 326
+          },
+          "valid": 16697,
+          "turnout": 17132,
+          "sections": 87
+        }
+      },
+      "sections": 87,
+      "file_size_bytes": 14477
+    },
+    {
+      "id": "10596",
+      "name": "CRISTALÂNDIA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10596.jsonl.gz",
+      "records": 254,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 171,
+            "95": 42,
+            "70": 93,
+            "22": 912,
+            "13": 3580,
+            "14": 27,
+            "27": 1,
+            "30": 1,
+            "35": 1,
+            "21": 1,
+            "80": 2,
+            "28": 1,
+            "55": 63
+          },
+          "valid": 4682,
+          "turnout": 4895,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "13": 3857,
+            "95": 22,
+            "22": 958,
+            "96": 76
+          },
+          "valid": 4815,
+          "turnout": 4913,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3702
+    },
+    {
+      "id": "10618",
+      "name": "CRISTINO CASTRO",
+      "uf": "PI",
+      "file": "municipalities/10618.jsonl.gz",
+      "records": 330,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1679,
+            "95": 71,
+            "96": 206,
+            "27": 2,
+            "13": 4894,
+            "30": 2,
+            "14": 107,
+            "70": 106,
+            "35": 1,
+            "80": 1,
+            "21": 2,
+            "55": 42
+          },
+          "valid": 6836,
+          "turnout": 7113,
+          "sections": 33
+        },
+        "2": {
+          "votes": {
+            "22": 1654,
+            "95": 35,
+            "96": 146,
+            "13": 5177
+          },
+          "valid": 6831,
+          "turnout": 7012,
+          "sections": 33
+        }
+      },
+      "sections": 33,
+      "file_size_bytes": 4859
+    },
+    {
+      "id": "10634",
+      "name": "CURIMATÁ",
+      "uf": "PI",
+      "file": "municipalities/10634.jsonl.gz",
+      "records": 414,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1968,
+            "95": 81,
+            "70": 138,
+            "96": 228,
+            "14": 78,
+            "13": 5040,
+            "30": 1,
+            "55": 123,
+            "21": 1,
+            "80": 2
+          },
+          "valid": 7351,
+          "turnout": 7660,
+          "sections": 41
+        },
+        "2": {
+          "votes": {
+            "22": 2048,
+            "96": 124,
+            "13": 5482,
+            "95": 51
+          },
+          "valid": 7530,
+          "turnout": 7705,
+          "sections": 41
+        }
+      },
+      "sections": 41,
+      "file_size_bytes": 6787
+    },
+    {
+      "id": "10766",
+      "name": "CURRAIS",
+      "uf": "PI",
+      "file": "municipalities/10766.jsonl.gz",
+      "records": 241,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 137,
+            "95": 38,
+            "28": 1,
+            "22": 1233,
+            "55": 34,
+            "70": 118,
+            "14": 47,
+            "13": 3786
+          },
+          "valid": 5219,
+          "turnout": 5394,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "13": 4056,
+            "95": 27,
+            "22": 1192,
+            "96": 87
+          },
+          "valid": 5248,
+          "turnout": 5362,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3861
+    },
+    {
+      "id": "12181",
+      "name": "CURRAL NOVO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12181.jsonl.gz",
+      "records": 197,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 24,
+            "80": 1,
+            "96": 105,
+            "22": 528,
+            "95": 58,
+            "13": 3797,
+            "70": 79,
+            "16": 1,
+            "14": 66
+          },
+          "valid": 4496,
+          "turnout": 4659,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "22": 454,
+            "95": 31,
+            "96": 89,
+            "13": 3984
+          },
+          "valid": 4438,
+          "turnout": 4558,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2997
+    },
+    {
+      "id": "12580",
+      "name": "CURRALINHOS",
+      "uf": "PI",
+      "file": "municipalities/12580.jsonl.gz",
+      "records": 212,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 26,
+            "80": 2,
+            "30": 1,
+            "13": 3589,
+            "14": 38,
+            "70": 66,
+            "95": 23,
+            "29": 1,
+            "96": 95,
+            "22": 673,
+            "27": 2
+          },
+          "valid": 4398,
+          "turnout": 4516,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "95": 28,
+            "22": 646,
+            "96": 59,
+            "13": 3726
+          },
+          "valid": 4372,
+          "turnout": 4459,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3221
+    },
+    {
+      "id": "10650",
+      "name": "DEMERVAL LOBÃO",
+      "uf": "PI",
+      "file": "municipalities/10650.jsonl.gz",
+      "records": 567,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 304,
+            "27": 1,
+            "95": 159,
+            "22": 2594,
+            "28": 1,
+            "80": 4,
+            "55": 87,
+            "70": 202,
+            "21": 2,
+            "14": 171,
+            "13": 8346,
+            "35": 1,
+            "30": 6,
+            "16": 5
+          },
+          "valid": 11420,
+          "turnout": 11883,
+          "sections": 53
+        },
+        "2": {
+          "votes": {
+            "13": 8873,
+            "95": 80,
+            "22": 2625,
+            "96": 242
+          },
+          "valid": 11498,
+          "turnout": 11820,
+          "sections": 53
+        }
+      },
+      "sections": 53,
+      "file_size_bytes": 7599
+    },
+    {
+      "id": "12297",
+      "name": "DIRCEU ARCOVERDE",
+      "uf": "PI",
+      "file": "municipalities/12297.jsonl.gz",
+      "records": 229,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 85,
+            "70": 31,
+            "95": 48,
+            "22": 659,
+            "13": 4615,
+            "14": 53,
+            "30": 2,
+            "55": 29
+          },
+          "valid": 5389,
+          "turnout": 5522,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "13": 4642,
+            "95": 26,
+            "22": 634,
+            "96": 56
+          },
+          "valid": 5276,
+          "turnout": 5358,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3218
+    },
+    {
+      "id": "10677",
+      "name": "DOM EXPEDITO LOPES",
+      "uf": "PI",
+      "file": "municipalities/10677.jsonl.gz",
+      "records": 276,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 39,
+            "80": 3,
+            "13": 4187,
+            "30": 2,
+            "14": 75,
+            "16": 2,
+            "70": 87,
+            "95": 87,
+            "96": 143,
+            "22": 1136,
+            "27": 1
+          },
+          "valid": 5533,
+          "turnout": 5763,
+          "sections": 26
+        },
+        "2": {
+          "votes": {
+            "95": 41,
+            "22": 1165,
+            "96": 85,
+            "13": 4419
+          },
+          "valid": 5584,
+          "turnout": 5710,
+          "sections": 26
+        }
+      },
+      "sections": 26,
+      "file_size_bytes": 3845
+    },
+    {
+      "id": "10685",
+      "name": "DOM INOCÊNCIO",
+      "uf": "PI",
+      "file": "municipalities/10685.jsonl.gz",
+      "records": 306,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 36,
+            "21": 1,
+            "80": 1,
+            "96": 185,
+            "22": 852,
+            "27": 1,
+            "95": 45,
+            "13": 5136,
+            "30": 1,
+            "70": 155,
+            "14": 52
+          },
+          "valid": 6235,
+          "turnout": 6465,
+          "sections": 32
+        },
+        "2": {
+          "votes": {
+            "22": 866,
+            "95": 32,
+            "96": 119,
+            "13": 5443
+          },
+          "valid": 6309,
+          "turnout": 6460,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 5044
+    },
+    {
+      "id": "11410",
+      "name": "DOMINGOS MOURÃO",
+      "uf": "PI",
+      "file": "municipalities/11410.jsonl.gz",
+      "records": 174,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 504,
+            "95": 36,
+            "96": 83,
+            "27": 1,
+            "13": 2707,
+            "35": 1,
+            "14": 33,
+            "70": 45,
+            "30": 1,
+            "80": 2,
+            "55": 25
+          },
+          "valid": 3319,
+          "turnout": 3438,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "95": 17,
+            "22": 495,
+            "96": 46,
+            "13": 2878
+          },
+          "valid": 3373,
+          "turnout": 3436,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2957
+    },
+    {
+      "id": "10693",
+      "name": "ELESBÃO VELOSO",
+      "uf": "PI",
+      "file": "municipalities/10693.jsonl.gz",
+      "records": 555,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 362,
+            "95": 91,
+            "70": 165,
+            "22": 1712,
+            "13": 8078,
+            "30": 9,
+            "14": 131,
+            "16": 2,
+            "27": 1,
+            "35": 1,
+            "21": 1,
+            "80": 3,
+            "55": 75
+          },
+          "valid": 10178,
+          "turnout": 10631,
+          "sections": 56
+        },
+        "2": {
+          "votes": {
+            "13": 8468,
+            "95": 45,
+            "22": 1605,
+            "96": 223
+          },
+          "valid": 10073,
+          "turnout": 10341,
+          "sections": 56
+        }
+      },
+      "sections": 56,
+      "file_size_bytes": 9883
+    },
+    {
+      "id": "10715",
+      "name": "ELISEU MARTINS",
+      "uf": "PI",
+      "file": "municipalities/10715.jsonl.gz",
+      "records": 215,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 102,
+            "95": 43,
+            "22": 573,
+            "55": 33,
+            "70": 50,
+            "21": 2,
+            "14": 21,
+            "13": 2265,
+            "30": 1
+          },
+          "valid": 2945,
+          "turnout": 3090,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "13": 2459,
+            "95": 18,
+            "22": 595,
+            "96": 58
+          },
+          "valid": 3054,
+          "turnout": 3130,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3116
+    },
+    {
+      "id": "10731",
+      "name": "ESPERANTINA",
+      "uf": "PI",
+      "file": "municipalities/10731.jsonl.gz",
+      "records": 1262,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 4,
+            "22": 6841,
+            "70": 415,
+            "55": 174,
+            "13": 16844,
+            "30": 6,
+            "35": 3,
+            "80": 8,
+            "95": 438,
+            "27": 3,
+            "96": 769,
+            "14": 300,
+            "16": 1,
+            "29": 1
+          },
+          "valid": 24600,
+          "turnout": 25807,
+          "sections": 121
+        },
+        "2": {
+          "votes": {
+            "96": 574,
+            "13": 18410,
+            "95": 264,
+            "22": 6811
+          },
+          "valid": 25221,
+          "turnout": 26059,
+          "sections": 121
+        }
+      },
+      "sections": 121,
+      "file_size_bytes": 22565
+    },
+    {
+      "id": "10260",
+      "name": "FARTURA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10260.jsonl.gz",
+      "records": 175,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3477,
+            "22": 334,
+            "95": 13,
+            "96": 60
+          },
+          "valid": 3811,
+          "turnout": 3884,
+          "sections": 19
+        },
+        "1": {
+          "votes": {
+            "14": 18,
+            "80": 1,
+            "13": 3403,
+            "21": 1,
+            "55": 30,
+            "96": 63,
+            "22": 361,
+            "70": 43,
+            "95": 17
+          },
+          "valid": 3857,
+          "turnout": 3937,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2927
+    },
+    {
+      "id": "10758",
+      "name": "FLORES DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10758.jsonl.gz",
+      "records": 187,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 118,
+            "27": 5,
+            "22": 586,
+            "80": 2,
+            "55": 32,
+            "95": 29,
+            "70": 38,
+            "13": 2453,
+            "14": 22,
+            "30": 1
+          },
+          "valid": 3139,
+          "turnout": 3286,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "13": 2509,
+            "22": 602,
+            "95": 16,
+            "96": 59
+          },
+          "valid": 3111,
+          "turnout": 3186,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2605
+    },
+    {
+      "id": "12637",
+      "name": "FLORESTA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12637.jsonl.gz",
+      "records": 103,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 1722,
+            "95": 14,
+            "22": 269,
+            "96": 63
+          },
+          "valid": 1991,
+          "turnout": 2068,
+          "sections": 10
+        },
+        "1": {
+          "votes": {
+            "14": 25,
+            "13": 1606,
+            "30": 4,
+            "55": 28,
+            "96": 79,
+            "22": 258,
+            "70": 27,
+            "95": 23
+          },
+          "valid": 1948,
+          "turnout": 2050,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1802
+    },
+    {
+      "id": "10774",
+      "name": "FLORIANO",
+      "uf": "PI",
+      "file": "municipalities/10774.jsonl.gz",
+      "records": 1983,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 836,
+            "27": 4,
+            "95": 520,
+            "22": 9154,
+            "80": 20,
+            "55": 432,
+            "70": 841,
+            "21": 3,
+            "14": 604,
+            "13": 24255,
+            "35": 1,
+            "30": 24,
+            "16": 3
+          },
+          "valid": 35341,
+          "turnout": 36697,
+          "sections": 186
+        },
+        "2": {
+          "votes": {
+            "13": 26825,
+            "95": 282,
+            "22": 9322,
+            "96": 587
+          },
+          "valid": 36147,
+          "turnout": 37016,
+          "sections": 186
+        }
+      },
+      "sections": 186,
+      "file_size_bytes": 43556
+    },
+    {
+      "id": "10790",
+      "name": "FRANCINÓPOLIS",
+      "uf": "PI",
+      "file": "municipalities/10790.jsonl.gz",
+      "records": 190,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 3,
+            "22": 418,
+            "55": 24,
+            "70": 28,
+            "13": 3013,
+            "30": 2,
+            "35": 1,
+            "80": 3,
+            "95": 37,
+            "96": 117,
+            "14": 30
+          },
+          "valid": 3522,
+          "turnout": 3676,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 69,
+            "13": 3128,
+            "22": 401,
+            "95": 13
+          },
+          "valid": 3529,
+          "turnout": 3611,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2858
+    },
+    {
+      "id": "10812",
+      "name": "FRANCISCO AYRES",
+      "uf": "PI",
+      "file": "municipalities/10812.jsonl.gz",
+      "records": 216,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 671,
+            "95": 50,
+            "96": 97,
+            "27": 1,
+            "13": 3009,
+            "14": 56,
+            "70": 60,
+            "80": 1,
+            "29": 1,
+            "16": 1,
+            "55": 60
+          },
+          "valid": 3860,
+          "turnout": 4007,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "95": 35,
+            "22": 640,
+            "96": 70,
+            "13": 3125
+          },
+          "valid": 3765,
+          "turnout": 3870,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3519
+    },
+    {
+      "id": "12378",
+      "name": "FRANCISCO MACEDO",
+      "uf": "PI",
+      "file": "municipalities/12378.jsonl.gz",
+      "records": 110,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 80,
+            "70": 91,
+            "95": 24,
+            "22": 421,
+            "13": 1794,
+            "14": 10,
+            "80": 4,
+            "55": 10
+          },
+          "valid": 2330,
+          "turnout": 2434,
+          "sections": 11
+        },
+        "2": {
+          "votes": {
+            "13": 1870,
+            "95": 22,
+            "22": 420,
+            "96": 42
+          },
+          "valid": 2290,
+          "turnout": 2354,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 2103
+    },
+    {
+      "id": "10839",
+      "name": "FRANCISCO SANTOS",
+      "uf": "PI",
+      "file": "municipalities/10839.jsonl.gz",
+      "records": 306,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 967,
+            "70": 93,
+            "55": 41,
+            "13": 4396,
+            "30": 4,
+            "80": 2,
+            "35": 1,
+            "95": 66,
+            "27": 1,
+            "96": 172,
+            "14": 133,
+            "16": 1
+          },
+          "valid": 5640,
+          "turnout": 5878,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "96": 93,
+            "13": 4573,
+            "95": 47,
+            "22": 1000
+          },
+          "valid": 5573,
+          "turnout": 5713,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4432
+    },
+    {
+      "id": "10855",
+      "name": "FRONTEIRAS",
+      "uf": "PI",
+      "file": "municipalities/10855.jsonl.gz",
+      "records": 403,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5684,
+            "95": 45,
+            "22": 1616,
+            "96": 127
+          },
+          "valid": 7300,
+          "turnout": 7472,
+          "sections": 39
+        },
+        "1": {
+          "votes": {
+            "14": 108,
+            "29": 1,
+            "80": 3,
+            "13": 5572,
+            "16": 2,
+            "55": 62,
+            "96": 209,
+            "27": 1,
+            "22": 1648,
+            "70": 135,
+            "95": 92
+          },
+          "valid": 7532,
+          "turnout": 7833,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 5694
+    },
+    {
+      "id": "10782",
+      "name": "GEMINIANO",
+      "uf": "PI",
+      "file": "municipalities/10782.jsonl.gz",
+      "records": 267,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 48,
+            "13": 4329,
+            "35": 1,
+            "30": 1,
+            "14": 76,
+            "16": 1,
+            "70": 78,
+            "95": 70,
+            "29": 1,
+            "96": 176,
+            "22": 905,
+            "27": 1
+          },
+          "valid": 5442,
+          "turnout": 5688,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "95": 37,
+            "22": 915,
+            "96": 113,
+            "13": 4662
+          },
+          "valid": 5577,
+          "turnout": 5727,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 4122
+    },
+    {
+      "id": "10871",
+      "name": "GILBUÉS",
+      "uf": "PI",
+      "file": "municipalities/10871.jsonl.gz",
+      "records": 372,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1432,
+            "95": 39,
+            "27": 1,
+            "70": 154,
+            "96": 227,
+            "14": 44,
+            "13": 4968,
+            "30": 2,
+            "55": 103,
+            "21": 2,
+            "28": 1
+          },
+          "valid": 6707,
+          "turnout": 6973,
+          "sections": 39
+        },
+        "2": {
+          "votes": {
+            "95": 32,
+            "22": 1411,
+            "96": 128,
+            "13": 5239
+          },
+          "valid": 6650,
+          "turnout": 6810,
+          "sections": 39
+        }
+      },
+      "sections": 39,
+      "file_size_bytes": 6423
+    },
+    {
+      "id": "10898",
+      "name": "GUADALUPE",
+      "uf": "PI",
+      "file": "municipalities/10898.jsonl.gz",
+      "records": 352,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 2,
+            "22": 1419,
+            "55": 57,
+            "70": 107,
+            "13": 4444,
+            "30": 3,
+            "95": 82,
+            "27": 2,
+            "96": 240,
+            "14": 106,
+            "16": 3
+          },
+          "valid": 6143,
+          "turnout": 6465,
+          "sections": 33
+        },
+        "2": {
+          "votes": {
+            "96": 118,
+            "13": 4968,
+            "95": 37,
+            "22": 1458
+          },
+          "valid": 6426,
+          "turnout": 6581,
+          "sections": 33
+        }
+      },
+      "sections": 33,
+      "file_size_bytes": 4625
+    },
+    {
+      "id": "10804",
+      "name": "GUARIBAS",
+      "uf": "PI",
+      "file": "municipalities/10804.jsonl.gz",
+      "records": 152,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 40,
+            "27": 1,
+            "95": 18,
+            "22": 352,
+            "55": 13,
+            "70": 29,
+            "14": 20,
+            "13": 2943,
+            "35": 1,
+            "30": 1
+          },
+          "valid": 3360,
+          "turnout": 3418,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "13": 2961,
+            "95": 21,
+            "22": 289,
+            "96": 25
+          },
+          "valid": 3250,
+          "turnout": 3296,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2408
+    },
+    {
+      "id": "10910",
+      "name": "HUGO NAPOLEÃO",
+      "uf": "PI",
+      "file": "municipalities/10910.jsonl.gz",
+      "records": 163,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 27,
+            "80": 2,
+            "96": 88,
+            "22": 806,
+            "95": 49,
+            "13": 2556,
+            "70": 44,
+            "14": 50,
+            "16": 1
+          },
+          "valid": 3486,
+          "turnout": 3623,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "95": 29,
+            "22": 776,
+            "13": 2592,
+            "96": 70
+          },
+          "valid": 3368,
+          "turnout": 3467,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2284
+    },
+    {
+      "id": "10820",
+      "name": "ILHA GRANDE",
+      "uf": "PI",
+      "file": "municipalities/10820.jsonl.gz",
+      "records": 392,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 256,
+            "27": 3,
+            "95": 112,
+            "22": 1475,
+            "80": 3,
+            "55": 61,
+            "70": 113,
+            "29": 1,
+            "21": 1,
+            "13": 5736,
+            "14": 118,
+            "30": 1
+          },
+          "valid": 7512,
+          "turnout": 7880,
+          "sections": 37
+        },
+        "2": {
+          "votes": {
+            "13": 6153,
+            "95": 66,
+            "22": 1447,
+            "96": 181
+          },
+          "valid": 7600,
+          "turnout": 7847,
+          "sections": 37
+        }
+      },
+      "sections": 37,
+      "file_size_bytes": 5388
+    },
+    {
+      "id": "10936",
+      "name": "INHUMA",
+      "uf": "PI",
+      "file": "municipalities/10936.jsonl.gz",
+      "records": 505,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1757,
+            "95": 106,
+            "96": 396,
+            "27": 4,
+            "13": 7909,
+            "14": 193,
+            "70": 138,
+            "30": 4,
+            "35": 1,
+            "80": 4,
+            "28": 1,
+            "29": 1,
+            "21": 4,
+            "55": 117
+          },
+          "valid": 10133,
+          "turnout": 10635,
+          "sections": 48
+        },
+        "2": {
+          "votes": {
+            "22": 1866,
+            "95": 70,
+            "96": 242,
+            "13": 8592
+          },
+          "valid": 10458,
+          "turnout": 10770,
+          "sections": 48
+        }
+      },
+      "sections": 48,
+      "file_size_bytes": 6371
+    },
+    {
+      "id": "10952",
+      "name": "IPIRANGA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10952.jsonl.gz",
+      "records": 327,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5428,
+            "95": 43,
+            "22": 952,
+            "96": 148
+          },
+          "valid": 6380,
+          "turnout": 6571,
+          "sections": 32
+        },
+        "1": {
+          "votes": {
+            "14": 57,
+            "16": 1,
+            "13": 5053,
+            "35": 2,
+            "30": 3,
+            "21": 1,
+            "55": 67,
+            "96": 201,
+            "27": 1,
+            "22": 916,
+            "70": 99,
+            "95": 90
+          },
+          "valid": 6200,
+          "turnout": 6491,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 5194
+    },
+    {
+      "id": "10979",
+      "name": "ISAÍAS COELHO",
+      "uf": "PI",
+      "file": "municipalities/10979.jsonl.gz",
+      "records": 245,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 582,
+            "95": 69,
+            "96": 202,
+            "14": 34,
+            "70": 68,
+            "13": 4360,
+            "30": 1,
+            "55": 43
+          },
+          "valid": 5088,
+          "turnout": 5359,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "95": 39,
+            "22": 604,
+            "96": 124,
+            "13": 4639
+          },
+          "valid": 5243,
+          "turnout": 5406,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3690
+    },
+    {
+      "id": "10995",
+      "name": "ITAINÓPOLIS",
+      "uf": "PI",
+      "file": "municipalities/10995.jsonl.gz",
+      "records": 403,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 1422,
+            "70": 90,
+            "55": 40,
+            "13": 5887,
+            "30": 2,
+            "80": 3,
+            "95": 109,
+            "27": 1,
+            "96": 365,
+            "28": 1,
+            "14": 85,
+            "16": 3,
+            "29": 1
+          },
+          "valid": 7536,
+          "turnout": 8010,
+          "sections": 40
+        },
+        "2": {
+          "votes": {
+            "96": 221,
+            "13": 6361,
+            "22": 1483,
+            "95": 72
+          },
+          "valid": 7844,
+          "turnout": 8137,
+          "sections": 40
+        }
+      },
+      "sections": 40,
+      "file_size_bytes": 6491
+    },
+    {
+      "id": "11010",
+      "name": "ITAUEIRA",
+      "uf": "PI",
+      "file": "municipalities/11010.jsonl.gz",
+      "records": 383,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5413,
+            "95": 69,
+            "22": 1578,
+            "96": 154
+          },
+          "valid": 6991,
+          "turnout": 7214,
+          "sections": 36
+        },
+        "1": {
+          "votes": {
+            "55": 61,
+            "14": 63,
+            "80": 2,
+            "13": 5029,
+            "30": 2,
+            "16": 1,
+            "21": 2,
+            "96": 258,
+            "27": 1,
+            "22": 1583,
+            "70": 103,
+            "95": 109
+          },
+          "valid": 6847,
+          "turnout": 7214,
+          "sections": 36
+        }
+      },
+      "sections": 36,
+      "file_size_bytes": 4728
+    },
+    {
+      "id": "10286",
+      "name": "JACOBINA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10286.jsonl.gz",
+      "records": 247,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 186,
+            "27": 2,
+            "95": 103,
+            "22": 888,
+            "28": 1,
+            "55": 43,
+            "70": 221,
+            "21": 1,
+            "14": 53,
+            "13": 3262,
+            "16": 1,
+            "30": 3
+          },
+          "valid": 4475,
+          "turnout": 4764,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "13": 3536,
+            "95": 62,
+            "22": 937,
+            "96": 129
+          },
+          "valid": 4473,
+          "turnout": 4664,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 4135
+    },
+    {
+      "id": "11037",
+      "name": "JAICÓS",
+      "uf": "PI",
+      "file": "municipalities/11037.jsonl.gz",
+      "records": 582,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 8559,
+            "95": 98,
+            "22": 2092,
+            "96": 358
+          },
+          "valid": 10651,
+          "turnout": 11107,
+          "sections": 57
+        },
+        "1": {
+          "votes": {
+            "14": 139,
+            "16": 2,
+            "80": 2,
+            "28": 1,
+            "13": 7799,
+            "35": 2,
+            "30": 3,
+            "21": 1,
+            "55": 102,
+            "96": 535,
+            "22": 2034,
+            "70": 188,
+            "95": 164
+          },
+          "valid": 10273,
+          "turnout": 10972,
+          "sections": 57
+        }
+      },
+      "sections": 57,
+      "file_size_bytes": 9726
+    },
+    {
+      "id": "10308",
+      "name": "JARDIM DO MULATO",
+      "uf": "PI",
+      "file": "municipalities/10308.jsonl.gz",
+      "records": 191,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 81,
+            "27": 2,
+            "95": 35,
+            "22": 815,
+            "80": 2,
+            "55": 39,
+            "70": 59,
+            "29": 1,
+            "21": 1,
+            "14": 38,
+            "13": 2752,
+            "30": 1
+          },
+          "valid": 3710,
+          "turnout": 3826,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "13": 2833,
+            "22": 782,
+            "95": 12,
+            "96": 62
+          },
+          "valid": 3615,
+          "turnout": 3689,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 3076
+    },
+    {
+      "id": "12394",
+      "name": "JATOBÁ DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12394.jsonl.gz",
+      "records": 286,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 30,
+            "80": 5,
+            "13": 4558,
+            "30": 1,
+            "14": 62,
+            "16": 1,
+            "70": 85,
+            "95": 59,
+            "96": 119,
+            "22": 943,
+            "27": 2
+          },
+          "valid": 5687,
+          "turnout": 5865,
+          "sections": 30
+        },
+        "2": {
+          "votes": {
+            "22": 853,
+            "95": 30,
+            "96": 80,
+            "13": 4787
+          },
+          "valid": 5640,
+          "turnout": 5750,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4643
+    },
+    {
+      "id": "11053",
+      "name": "JERUMENHA",
+      "uf": "PI",
+      "file": "municipalities/11053.jsonl.gz",
+      "records": 211,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2955,
+            "95": 18,
+            "22": 763,
+            "96": 73
+          },
+          "valid": 3718,
+          "turnout": 3809,
+          "sections": 22
+        },
+        "1": {
+          "votes": {
+            "14": 28,
+            "80": 1,
+            "13": 2797,
+            "30": 2,
+            "35": 2,
+            "55": 45,
+            "96": 104,
+            "22": 803,
+            "70": 41,
+            "95": 42
+          },
+          "valid": 3719,
+          "turnout": 3865,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 2940
+    },
+    {
+      "id": "11070",
+      "name": "JOAQUIM PIRES",
+      "uf": "PI",
+      "file": "municipalities/11070.jsonl.gz",
+      "records": 484,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2315,
+            "95": 148,
+            "70": 111,
+            "96": 315,
+            "14": 56,
+            "16": 2,
+            "13": 6401,
+            "30": 5,
+            "35": 2,
+            "55": 83,
+            "21": 3,
+            "28": 2
+          },
+          "valid": 8980,
+          "turnout": 9443,
+          "sections": 47
+        },
+        "2": {
+          "votes": {
+            "22": 2371,
+            "95": 76,
+            "96": 188,
+            "13": 6840
+          },
+          "valid": 9211,
+          "turnout": 9475,
+          "sections": 47
+        }
+      },
+      "sections": 47,
+      "file_size_bytes": 6882
+    },
+    {
+      "id": "12408",
+      "name": "JOCA MARQUES",
+      "uf": "PI",
+      "file": "municipalities/12408.jsonl.gz",
+      "records": 213,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 22,
+            "13": 3383,
+            "30": 3,
+            "14": 29,
+            "16": 1,
+            "70": 66,
+            "95": 69,
+            "96": 116,
+            "22": 943,
+            "27": 1
+          },
+          "valid": 4448,
+          "turnout": 4633,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "95": 34,
+            "22": 910,
+            "96": 64,
+            "13": 3560
+          },
+          "valid": 4470,
+          "turnout": 4568,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3198
+    },
+    {
+      "id": "11096",
+      "name": "JOSÉ DE FREITAS",
+      "uf": "PI",
+      "file": "municipalities/11096.jsonl.gz",
+      "records": 1351,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 739,
+            "27": 14,
+            "95": 351,
+            "22": 4387,
+            "80": 6,
+            "28": 1,
+            "55": 198,
+            "70": 638,
+            "29": 1,
+            "14": 336,
+            "13": 23802,
+            "30": 10,
+            "35": 2
+          },
+          "valid": 29395,
+          "turnout": 30485,
+          "sections": 130
+        },
+        "2": {
+          "votes": {
+            "13": 25615,
+            "95": 206,
+            "22": 4518,
+            "96": 629
+          },
+          "valid": 30133,
+          "turnout": 30968,
+          "sections": 130
+        }
+      },
+      "sections": 130,
+      "file_size_bytes": 27540
+    },
+    {
+      "id": "12386",
+      "name": "JOÃO COSTA",
+      "uf": "PI",
+      "file": "municipalities/12386.jsonl.gz",
+      "records": 157,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 104,
+            "27": 1,
+            "95": 36,
+            "22": 524,
+            "55": 18,
+            "70": 52,
+            "14": 23,
+            "13": 2470
+          },
+          "valid": 3088,
+          "turnout": 3228,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "13": 2596,
+            "95": 10,
+            "22": 542,
+            "96": 46
+          },
+          "valid": 3138,
+          "turnout": 3194,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2365
+    },
+    {
+      "id": "12416",
+      "name": "JUAZEIRO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12416.jsonl.gz",
+      "records": 257,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 919,
+            "95": 55,
+            "96": 116,
+            "27": 1,
+            "13": 3306,
+            "14": 84,
+            "70": 136,
+            "30": 1,
+            "80": 1,
+            "29": 1,
+            "16": 1,
+            "55": 36
+          },
+          "valid": 4486,
+          "turnout": 4657,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "95": 35,
+            "22": 926,
+            "96": 73,
+            "13": 3407
+          },
+          "valid": 4333,
+          "turnout": 4441,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 4267
+    },
+    {
+      "id": "10847",
+      "name": "JUREMA",
+      "uf": "PI",
+      "file": "municipalities/10847.jsonl.gz",
+      "records": 196,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 573,
+            "70": 67,
+            "55": 32,
+            "13": 3338,
+            "35": 2,
+            "28": 1,
+            "80": 3,
+            "30": 1,
+            "95": 30,
+            "96": 145,
+            "14": 18
+          },
+          "valid": 4035,
+          "turnout": 4210,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 62,
+            "13": 3549,
+            "22": 584,
+            "95": 12
+          },
+          "valid": 4133,
+          "turnout": 4207,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3464
+    },
+    {
+      "id": "12203",
+      "name": "JÚLIO BORGES",
+      "uf": "PI",
+      "file": "municipalities/12203.jsonl.gz",
+      "records": 210,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 515,
+            "55": 82,
+            "70": 68,
+            "13": 3178,
+            "80": 1,
+            "95": 32,
+            "96": 86,
+            "14": 23
+          },
+          "valid": 3868,
+          "turnout": 3986,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "96": 37,
+            "13": 3317,
+            "22": 555,
+            "95": 22
+          },
+          "valid": 3872,
+          "turnout": 3931,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3276
+    },
+    {
+      "id": "10324",
+      "name": "LAGOA ALEGRE",
+      "uf": "PI",
+      "file": "municipalities/10324.jsonl.gz",
+      "records": 315,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5990,
+            "22": 1057,
+            "95": 30,
+            "96": 123
+          },
+          "valid": 7047,
+          "turnout": 7200,
+          "sections": 31
+        },
+        "1": {
+          "votes": {
+            "14": 78,
+            "29": 1,
+            "13": 5855,
+            "16": 1,
+            "55": 72,
+            "96": 111,
+            "27": 2,
+            "22": 1041,
+            "70": 143,
+            "95": 57
+          },
+          "valid": 7193,
+          "turnout": 7361,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 5329
+    },
+    {
+      "id": "10863",
+      "name": "LAGOA DE SÃO FRANCISCO",
+      "uf": "PI",
+      "file": "municipalities/10863.jsonl.gz",
+      "records": 245,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 39,
+            "80": 2,
+            "96": 137,
+            "22": 931,
+            "27": 1,
+            "95": 65,
+            "13": 3355,
+            "30": 3,
+            "35": 1,
+            "70": 91,
+            "14": 77
+          },
+          "valid": 4500,
+          "turnout": 4702,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "22": 946,
+            "95": 27,
+            "96": 89,
+            "13": 3750
+          },
+          "valid": 4696,
+          "turnout": 4812,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3654
+    },
+    {
+      "id": "10340",
+      "name": "LAGOA DO BARRO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10340.jsonl.gz",
+      "records": 203,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 627,
+            "95": 74,
+            "27": 2,
+            "70": 77,
+            "96": 136,
+            "14": 30,
+            "30": 3,
+            "13": 3000,
+            "55": 26,
+            "21": 1,
+            "80": 2
+          },
+          "valid": 3768,
+          "turnout": 3978,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "95": 38,
+            "22": 607,
+            "96": 87,
+            "13": 3257
+          },
+          "valid": 3864,
+          "turnout": 3989,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 3380
+    },
+    {
+      "id": "12424",
+      "name": "LAGOA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12424.jsonl.gz",
+      "records": 195,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 100,
+            "27": 2,
+            "95": 44,
+            "80": 3,
+            "22": 1008,
+            "55": 39,
+            "70": 104,
+            "29": 1,
+            "14": 50,
+            "13": 3226,
+            "16": 2,
+            "30": 1
+          },
+          "valid": 4436,
+          "turnout": 4580,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "13": 3351,
+            "22": 1005,
+            "95": 26,
+            "96": 77
+          },
+          "valid": 4356,
+          "turnout": 4459,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2925
+    },
+    {
+      "id": "12220",
+      "name": "LAGOA DO SÍTIO",
+      "uf": "PI",
+      "file": "municipalities/12220.jsonl.gz",
+      "records": 191,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 28,
+            "21": 2,
+            "80": 1,
+            "96": 145,
+            "22": 617,
+            "95": 35,
+            "13": 3155,
+            "70": 35,
+            "14": 36,
+            "16": 2
+          },
+          "valid": 3876,
+          "turnout": 4056,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "22": 619,
+            "95": 22,
+            "96": 86,
+            "13": 3258
+          },
+          "valid": 3877,
+          "turnout": 3985,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2863
+    },
+    {
+      "id": "12432",
+      "name": "LAGOINHA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12432.jsonl.gz",
+      "records": 124,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 499,
+            "95": 40,
+            "27": 2,
+            "70": 42,
+            "96": 53,
+            "14": 31,
+            "16": 1,
+            "13": 1883,
+            "35": 1,
+            "55": 6,
+            "21": 1
+          },
+          "valid": 2466,
+          "turnout": 2559,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "96": 39,
+            "13": 1976,
+            "95": 12,
+            "22": 480
+          },
+          "valid": 2456,
+          "turnout": 2507,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 2155
+    },
+    {
+      "id": "11118",
+      "name": "LANDRI SALES",
+      "uf": "PI",
+      "file": "municipalities/11118.jsonl.gz",
+      "records": 220,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 808,
+            "95": 41,
+            "70": 47,
+            "96": 154,
+            "29": 1,
+            "14": 17,
+            "16": 1,
+            "13": 2837,
+            "55": 49,
+            "80": 2
+          },
+          "valid": 3762,
+          "turnout": 3957,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "22": 797,
+            "96": 77,
+            "13": 3039,
+            "95": 13
+          },
+          "valid": 3836,
+          "turnout": 3926,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3278
+    },
+    {
+      "id": "11134",
+      "name": "LUIS CORREIA",
+      "uf": "PI",
+      "file": "municipalities/11134.jsonl.gz",
+      "records": 1109,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 175,
+            "80": 2,
+            "21": 2,
+            "96": 805,
+            "27": 8,
+            "22": 5200,
+            "95": 327,
+            "13": 15245,
+            "30": 7,
+            "35": 6,
+            "70": 517,
+            "14": 300,
+            "16": 2,
+            "29": 2
+          },
+          "valid": 21466,
+          "turnout": 22598,
+          "sections": 105
+        },
+        "2": {
+          "votes": {
+            "22": 5280,
+            "95": 196,
+            "13": 16883,
+            "96": 530
+          },
+          "valid": 22163,
+          "turnout": 22889,
+          "sections": 105
+        }
+      },
+      "sections": 105,
+      "file_size_bytes": 22601
+    },
+    {
+      "id": "11150",
+      "name": "LUZILÂNDIA",
+      "uf": "PI",
+      "file": "municipalities/11150.jsonl.gz",
+      "records": 793,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 2,
+            "22": 3705,
+            "70": 226,
+            "55": 96,
+            "30": 12,
+            "13": 11189,
+            "35": 5,
+            "80": 6,
+            "95": 235,
+            "27": 8,
+            "96": 512,
+            "14": 160,
+            "16": 1
+          },
+          "valid": 15410,
+          "turnout": 16157,
+          "sections": 77
+        },
+        "2": {
+          "votes": {
+            "96": 327,
+            "13": 12059,
+            "95": 121,
+            "22": 3717
+          },
+          "valid": 15776,
+          "turnout": 16224,
+          "sections": 77
+        }
+      },
+      "sections": 77,
+      "file_size_bytes": 11571
+    },
+    {
+      "id": "12440",
+      "name": "MADEIRO",
+      "uf": "PI",
+      "file": "municipalities/12440.jsonl.gz",
+      "records": 267,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 179,
+            "27": 1,
+            "95": 48,
+            "80": 4,
+            "22": 922,
+            "55": 32,
+            "70": 63,
+            "29": 1,
+            "14": 36,
+            "13": 3945,
+            "30": 2
+          },
+          "valid": 5006,
+          "turnout": 5233,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "13": 4171,
+            "95": 34,
+            "22": 870,
+            "96": 80
+          },
+          "valid": 5041,
+          "turnout": 5155,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 3775
+    },
+    {
+      "id": "11177",
+      "name": "MANOEL EMÍDIO",
+      "uf": "PI",
+      "file": "municipalities/11177.jsonl.gz",
+      "records": 187,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 716,
+            "95": 19,
+            "96": 111,
+            "27": 1,
+            "13": 3075,
+            "14": 35,
+            "70": 73,
+            "30": 1,
+            "28": 1,
+            "16": 3,
+            "55": 29
+          },
+          "valid": 3934,
+          "turnout": 4064,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "22": 671,
+            "95": 12,
+            "96": 70,
+            "13": 3263
+          },
+          "valid": 3934,
+          "turnout": 4016,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2912
+    },
+    {
+      "id": "10367",
+      "name": "MARCOLÂNDIA",
+      "uf": "PI",
+      "file": "municipalities/10367.jsonl.gz",
+      "records": 337,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 3,
+            "55": 51,
+            "80": 2,
+            "13": 4537,
+            "35": 1,
+            "14": 78,
+            "70": 284,
+            "95": 94,
+            "29": 1,
+            "96": 300,
+            "22": 2140
+          },
+          "valid": 7097,
+          "turnout": 7491,
+          "sections": 32
+        },
+        "2": {
+          "votes": {
+            "95": 64,
+            "22": 2064,
+            "96": 176,
+            "13": 5042
+          },
+          "valid": 7106,
+          "turnout": 7346,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 4586
+    },
+    {
+      "id": "11193",
+      "name": "MARCOS PARENTE",
+      "uf": "PI",
+      "file": "municipalities/11193.jsonl.gz",
+      "records": 164,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 69,
+            "27": 5,
+            "95": 37,
+            "22": 972,
+            "55": 40,
+            "70": 56,
+            "21": 1,
+            "16": 3,
+            "14": 24,
+            "13": 2279
+          },
+          "valid": 3380,
+          "turnout": 3486,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "13": 2366,
+            "95": 22,
+            "22": 968,
+            "96": 45
+          },
+          "valid": 3334,
+          "turnout": 3401,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2515
+    },
+    {
+      "id": "12467",
+      "name": "MASSAPÊ DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12467.jsonl.gz",
+      "records": 283,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 591,
+            "70": 90,
+            "55": 59,
+            "13": 3825,
+            "35": 1,
+            "30": 1,
+            "95": 84,
+            "27": 1,
+            "96": 333,
+            "14": 59,
+            "16": 2
+          },
+          "valid": 4629,
+          "turnout": 5046,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "96": 163,
+            "13": 4218,
+            "95": 44,
+            "22": 614
+          },
+          "valid": 4832,
+          "turnout": 5039,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 4153
+    },
+    {
+      "id": "11215",
+      "name": "MATIAS OLÍMPIO",
+      "uf": "PI",
+      "file": "municipalities/11215.jsonl.gz",
+      "records": 378,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 213,
+            "27": 1,
+            "95": 120,
+            "22": 1663,
+            "28": 1,
+            "80": 2,
+            "55": 45,
+            "70": 98,
+            "14": 80,
+            "13": 4920,
+            "30": 3
+          },
+          "valid": 6813,
+          "turnout": 7146,
+          "sections": 38
+        },
+        "2": {
+          "votes": {
+            "13": 5398,
+            "95": 55,
+            "22": 1641,
+            "96": 149
+          },
+          "valid": 7039,
+          "turnout": 7243,
+          "sections": 38
+        }
+      },
+      "sections": 38,
+      "file_size_bytes": 5453
+    },
+    {
+      "id": "11231",
+      "name": "MIGUEL ALVES",
+      "uf": "PI",
+      "file": "municipalities/11231.jsonl.gz",
+      "records": 1045,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 644,
+            "27": 1,
+            "95": 212,
+            "22": 3438,
+            "80": 3,
+            "28": 1,
+            "55": 124,
+            "70": 417,
+            "21": 3,
+            "16": 2,
+            "14": 173,
+            "13": 16281,
+            "30": 6,
+            "35": 2
+          },
+          "valid": 20451,
+          "turnout": 21307,
+          "sections": 105
+        },
+        "2": {
+          "votes": {
+            "13": 17224,
+            "95": 148,
+            "22": 3461,
+            "96": 482
+          },
+          "valid": 20685,
+          "turnout": 21315,
+          "sections": 105
+        }
+      },
+      "sections": 105,
+      "file_size_bytes": 20517
+    },
+    {
+      "id": "11258",
+      "name": "MIGUEL LEÃO",
+      "uf": "PI",
+      "file": "municipalities/11258.jsonl.gz",
+      "records": 72,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 514,
+            "70": 17,
+            "55": 8,
+            "13": 1001,
+            "30": 2,
+            "95": 7,
+            "96": 61,
+            "14": 20
+          },
+          "valid": 1562,
+          "turnout": 1630,
+          "sections": 7
+        },
+        "2": {
+          "votes": {
+            "96": 24,
+            "13": 914,
+            "95": 12,
+            "22": 505
+          },
+          "valid": 1419,
+          "turnout": 1455,
+          "sections": 7
+        }
+      },
+      "sections": 7,
+      "file_size_bytes": 1337
+    },
+    {
+      "id": "12246",
+      "name": "MILTON BRANDÃO",
+      "uf": "PI",
+      "file": "municipalities/12246.jsonl.gz",
+      "records": 282,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1569,
+            "95": 68,
+            "70": 66,
+            "96": 180,
+            "14": 58,
+            "16": 3,
+            "13": 3324,
+            "30": 4,
+            "55": 44,
+            "80": 1
+          },
+          "valid": 5069,
+          "turnout": 5317,
+          "sections": 28
+        },
+        "2": {
+          "votes": {
+            "95": 32,
+            "22": 1740,
+            "96": 71,
+            "13": 3491
+          },
+          "valid": 5231,
+          "turnout": 5334,
+          "sections": 28
+        }
+      },
+      "sections": 28,
+      "file_size_bytes": 4232
+    },
+    {
+      "id": "11274",
+      "name": "MONSENHOR GIL",
+      "uf": "PI",
+      "file": "municipalities/11274.jsonl.gz",
+      "records": 431,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 74,
+            "28": 2,
+            "80": 3,
+            "13": 6557,
+            "35": 2,
+            "30": 2,
+            "14": 110,
+            "16": 2,
+            "70": 178,
+            "95": 105,
+            "29": 1,
+            "96": 182,
+            "22": 1698
+          },
+          "valid": 8629,
+          "turnout": 8916,
+          "sections": 41
+        },
+        "2": {
+          "votes": {
+            "95": 66,
+            "22": 1670,
+            "96": 151,
+            "13": 6877
+          },
+          "valid": 8547,
+          "turnout": 8764,
+          "sections": 41
+        }
+      },
+      "sections": 41,
+      "file_size_bytes": 7213
+    },
+    {
+      "id": "11290",
+      "name": "MONSENHOR HIPÓLITO",
+      "uf": "PI",
+      "file": "municipalities/11290.jsonl.gz",
+      "records": 274,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 24,
+            "80": 1,
+            "13": 4911,
+            "35": 1,
+            "30": 1,
+            "14": 78,
+            "16": 1,
+            "70": 97,
+            "95": 65,
+            "96": 183,
+            "22": 995
+          },
+          "valid": 6110,
+          "turnout": 6358,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "95": 34,
+            "22": 986,
+            "96": 105,
+            "13": 5175
+          },
+          "valid": 6161,
+          "turnout": 6300,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 4006
+    },
+    {
+      "id": "11312",
+      "name": "MONTE ALEGRE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11312.jsonl.gz",
+      "records": 377,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 174,
+            "95": 37,
+            "70": 134,
+            "22": 1386,
+            "13": 5533,
+            "30": 6,
+            "14": 50,
+            "27": 1,
+            "21": 1,
+            "28": 1,
+            "55": 84
+          },
+          "valid": 7196,
+          "turnout": 7407,
+          "sections": 40
+        },
+        "2": {
+          "votes": {
+            "13": 5692,
+            "95": 26,
+            "22": 1394,
+            "96": 114
+          },
+          "valid": 7086,
+          "turnout": 7226,
+          "sections": 40
+        }
+      },
+      "sections": 40,
+      "file_size_bytes": 6794
+    },
+    {
+      "id": "10880",
+      "name": "MORRO CABEÇA NO TEMPO",
+      "uf": "PI",
+      "file": "municipalities/10880.jsonl.gz",
+      "records": 167,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 540,
+            "95": 15,
+            "96": 159,
+            "13": 2551,
+            "30": 1,
+            "14": 19,
+            "70": 60,
+            "80": 1,
+            "21": 2,
+            "55": 35
+          },
+          "valid": 3209,
+          "turnout": 3383,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "22": 535,
+            "95": 10,
+            "96": 78,
+            "13": 2611
+          },
+          "valid": 3146,
+          "turnout": 3234,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2557
+    },
+    {
+      "id": "12459",
+      "name": "MORRO DO CHAPÉU DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12459.jsonl.gz",
+      "records": 214,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 144,
+            "95": 69,
+            "70": 49,
+            "22": 825,
+            "13": 3554,
+            "14": 43,
+            "27": 1,
+            "35": 2,
+            "21": 1,
+            "80": 2,
+            "55": 28
+          },
+          "valid": 4505,
+          "turnout": 4718,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "13": 3770,
+            "22": 843,
+            "95": 14,
+            "96": 79
+          },
+          "valid": 4613,
+          "turnout": 4706,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3263
+    },
+    {
+      "id": "12475",
+      "name": "MURICI DOS PORTELAS",
+      "uf": "PI",
+      "file": "municipalities/12475.jsonl.gz",
+      "records": 259,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 60,
+            "80": 1,
+            "13": 3539,
+            "35": 1,
+            "30": 1,
+            "14": 53,
+            "16": 2,
+            "70": 114,
+            "95": 58,
+            "96": 212,
+            "22": 877,
+            "27": 2
+          },
+          "valid": 4651,
+          "turnout": 4921,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "95": 42,
+            "22": 867,
+            "96": 122,
+            "13": 3817
+          },
+          "valid": 4684,
+          "turnout": 4848,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 4132
+    },
+    {
+      "id": "11339",
+      "name": "NAZARÉ DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11339.jsonl.gz",
+      "records": 293,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 161,
+            "95": 41,
+            "22": 623,
+            "80": 1,
+            "55": 49,
+            "70": 78,
+            "21": 2,
+            "13": 4398,
+            "14": 43,
+            "16": 1,
+            "30": 1
+          },
+          "valid": 5196,
+          "turnout": 5398,
+          "sections": 31
+        },
+        "2": {
+          "votes": {
+            "13": 4563,
+            "22": 669,
+            "95": 27,
+            "96": 83
+          },
+          "valid": 5232,
+          "turnout": 5342,
+          "sections": 31
+        }
+      },
+      "sections": 31,
+      "file_size_bytes": 4885
+    },
+    {
+      "id": "12726",
+      "name": "NAZÁRIA",
+      "uf": "PI",
+      "file": "municipalities/12726.jsonl.gz",
+      "records": 452,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 79,
+            "80": 4,
+            "21": 1,
+            "28": 1,
+            "96": 212,
+            "22": 1919,
+            "95": 77,
+            "13": 7259,
+            "30": 4,
+            "70": 188,
+            "14": 81,
+            "16": 2
+          },
+          "valid": 9538,
+          "turnout": 9827,
+          "sections": 45
+        },
+        "2": {
+          "votes": {
+            "22": 1821,
+            "95": 46,
+            "96": 122,
+            "13": 7666
+          },
+          "valid": 9487,
+          "turnout": 9655,
+          "sections": 45
+        }
+      },
+      "sections": 45,
+      "file_size_bytes": 6040
+    },
+    {
+      "id": "10928",
+      "name": "NOSSA SENHORA DE NAZARÉ",
+      "uf": "PI",
+      "file": "municipalities/10928.jsonl.gz",
+      "records": 247,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 669,
+            "95": 43,
+            "96": 88,
+            "27": 1,
+            "30": 2,
+            "13": 4250,
+            "16": 3,
+            "14": 70,
+            "70": 86,
+            "80": 3,
+            "21": 1,
+            "55": 38
+          },
+          "valid": 5123,
+          "turnout": 5254,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "22": 670,
+            "95": 19,
+            "96": 70,
+            "13": 4355
+          },
+          "valid": 5025,
+          "turnout": 5114,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3992
+    },
+    {
+      "id": "11355",
+      "name": "NOSSA SENHORA DOS REMÉDIOS",
+      "uf": "PI",
+      "file": "municipalities/11355.jsonl.gz",
+      "records": 317,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 5255,
+            "95": 47,
+            "22": 1482,
+            "96": 120
+          },
+          "valid": 6737,
+          "turnout": 6904,
+          "sections": 30
+        },
+        "1": {
+          "votes": {
+            "14": 72,
+            "80": 4,
+            "13": 5088,
+            "30": 2,
+            "16": 1,
+            "21": 1,
+            "55": 48,
+            "96": 200,
+            "27": 1,
+            "22": 1551,
+            "70": 100,
+            "95": 89
+          },
+          "valid": 6868,
+          "turnout": 7157,
+          "sections": 30
+        }
+      },
+      "sections": 30,
+      "file_size_bytes": 4462
+    },
+    {
+      "id": "10960",
+      "name": "NOVA SANTA RITA",
+      "uf": "PI",
+      "file": "municipalities/10960.jsonl.gz",
+      "records": 171,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 424,
+            "95": 28,
+            "96": 82,
+            "27": 1,
+            "13": 2847,
+            "14": 32,
+            "70": 71,
+            "16": 1,
+            "55": 43
+          },
+          "valid": 3419,
+          "turnout": 3529,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "22": 379,
+            "95": 19,
+            "96": 44,
+            "13": 2995
+          },
+          "valid": 3374,
+          "turnout": 3437,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2570
+    },
+    {
+      "id": "11371",
+      "name": "NOVO ORIENTE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11371.jsonl.gz",
+      "records": 230,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 5,
+            "55": 22,
+            "13": 3316,
+            "14": 38,
+            "16": 1,
+            "70": 81,
+            "95": 47,
+            "29": 1,
+            "96": 134,
+            "22": 539,
+            "27": 1
+          },
+          "valid": 4004,
+          "turnout": 4185,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "95": 29,
+            "22": 547,
+            "96": 113,
+            "13": 3553
+          },
+          "valid": 4100,
+          "turnout": 4242,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3551
+    },
+    {
+      "id": "10901",
+      "name": "NOVO SANTO ANTÔNIO",
+      "uf": "PI",
+      "file": "municipalities/10901.jsonl.gz",
+      "records": 194,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 549,
+            "55": 39,
+            "70": 65,
+            "13": 3169,
+            "95": 39,
+            "27": 1,
+            "96": 63,
+            "14": 53,
+            "29": 1
+          },
+          "valid": 3877,
+          "turnout": 3979,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 56,
+            "13": 3142,
+            "22": 520,
+            "95": 25
+          },
+          "valid": 3662,
+          "turnout": 3743,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 3061
+    },
+    {
+      "id": "11398",
+      "name": "OEIRAS",
+      "uf": "PI",
+      "file": "municipalities/11398.jsonl.gz",
+      "records": 1311,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 5135,
+            "95": 324,
+            "27": 5,
+            "70": 299,
+            "96": 760,
+            "29": 4,
+            "14": 267,
+            "16": 2,
+            "13": 18390,
+            "30": 13,
+            "35": 2,
+            "55": 202,
+            "21": 5,
+            "80": 11
+          },
+          "valid": 24335,
+          "turnout": 25419,
+          "sections": 131
+        },
+        "2": {
+          "votes": {
+            "95": 161,
+            "22": 5191,
+            "96": 444,
+            "13": 19761
+          },
+          "valid": 24952,
+          "turnout": 25557,
+          "sections": 131
+        }
+      },
+      "sections": 131,
+      "file_size_bytes": 28001
+    },
+    {
+      "id": "12483",
+      "name": "OLHO D ÁGUA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12483.jsonl.gz",
+      "records": 105,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 34,
+            "27": 1,
+            "22": 396,
+            "80": 2,
+            "55": 20,
+            "95": 13,
+            "29": 1,
+            "21": 1,
+            "14": 23,
+            "13": 1711,
+            "70": 22
+          },
+          "valid": 2177,
+          "turnout": 2224,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "13": 1761,
+            "95": 10,
+            "22": 379,
+            "96": 33
+          },
+          "valid": 2140,
+          "turnout": 2183,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1983
+    },
+    {
+      "id": "11436",
+      "name": "PADRE MARCOS",
+      "uf": "PI",
+      "file": "municipalities/11436.jsonl.gz",
+      "records": 240,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 178,
+            "95": 67,
+            "22": 844,
+            "80": 1,
+            "55": 48,
+            "70": 50,
+            "21": 1,
+            "14": 41,
+            "13": 3749,
+            "30": 1
+          },
+          "valid": 4735,
+          "turnout": 4980,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "13": 3926,
+            "22": 867,
+            "95": 35,
+            "96": 101
+          },
+          "valid": 4793,
+          "turnout": 4929,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3733
+    },
+    {
+      "id": "11452",
+      "name": "PAES LANDIM",
+      "uf": "PI",
+      "file": "municipalities/11452.jsonl.gz",
+      "records": 152,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 138,
+            "95": 35,
+            "22": 866,
+            "55": 24,
+            "70": 42,
+            "21": 1,
+            "14": 25,
+            "13": 2407
+          },
+          "valid": 3365,
+          "turnout": 3538,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "13": 2485,
+            "95": 17,
+            "22": 889,
+            "96": 55
+          },
+          "valid": 3374,
+          "turnout": 3446,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2374
+    },
+    {
+      "id": "12262",
+      "name": "PAJEÚ DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12262.jsonl.gz",
+      "records": 122,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 92,
+            "95": 24,
+            "22": 489,
+            "55": 16,
+            "70": 46,
+            "14": 13,
+            "13": 1992
+          },
+          "valid": 2556,
+          "turnout": 2672,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "13": 2064,
+            "95": 17,
+            "22": 521,
+            "96": 48
+          },
+          "valid": 2585,
+          "turnout": 2650,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 1959
+    },
+    {
+      "id": "11479",
+      "name": "PALMEIRA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11479.jsonl.gz",
+      "records": 196,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2789,
+            "22": 1152,
+            "95": 23,
+            "96": 59
+          },
+          "valid": 3941,
+          "turnout": 4023,
+          "sections": 19
+        },
+        "1": {
+          "votes": {
+            "14": 42,
+            "13": 2492,
+            "16": 1,
+            "55": 37,
+            "96": 126,
+            "22": 1233,
+            "70": 148,
+            "95": 52
+          },
+          "valid": 3953,
+          "turnout": 4131,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2683
+    },
+    {
+      "id": "11495",
+      "name": "PALMEIRAIS",
+      "uf": "PI",
+      "file": "municipalities/11495.jsonl.gz",
+      "records": 499,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 76,
+            "80": 1,
+            "13": 8728,
+            "35": 1,
+            "30": 2,
+            "14": 68,
+            "16": 5,
+            "70": 140,
+            "95": 65,
+            "96": 246,
+            "22": 1639
+          },
+          "valid": 10661,
+          "turnout": 10972,
+          "sections": 52
+        },
+        "2": {
+          "votes": {
+            "22": 1541,
+            "95": 31,
+            "96": 176,
+            "13": 9057
+          },
+          "valid": 10598,
+          "turnout": 10805,
+          "sections": 52
+        }
+      },
+      "sections": 52,
+      "file_size_bytes": 8538
+    },
+    {
+      "id": "10944",
+      "name": "PAQUETÁ",
+      "uf": "PI",
+      "file": "municipalities/10944.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 64,
+            "95": 13,
+            "80": 1,
+            "22": 603,
+            "55": 9,
+            "70": 50,
+            "14": 46,
+            "13": 2884,
+            "30": 2
+          },
+          "valid": 3595,
+          "turnout": 3672,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "13": 2922,
+            "95": 10,
+            "22": 583,
+            "96": 42
+          },
+          "valid": 3505,
+          "turnout": 3557,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2912
+    },
+    {
+      "id": "11517",
+      "name": "PARNAGUÁ",
+      "uf": "PI",
+      "file": "municipalities/11517.jsonl.gz",
+      "records": 322,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 2,
+            "55": 70,
+            "80": 1,
+            "13": 4413,
+            "30": 1,
+            "14": 43,
+            "70": 90,
+            "35": 1,
+            "95": 41,
+            "96": 172,
+            "22": 1147,
+            "27": 3
+          },
+          "valid": 5771,
+          "turnout": 5984,
+          "sections": 32
+        },
+        "2": {
+          "votes": {
+            "95": 39,
+            "22": 1160,
+            "96": 105,
+            "13": 4606
+          },
+          "valid": 5766,
+          "turnout": 5910,
+          "sections": 32
+        }
+      },
+      "sections": 32,
+      "file_size_bytes": 4418
+    },
+    {
+      "id": "11533",
+      "name": "PARNAÍBA",
+      "uf": "PI",
+      "file": "municipalities/11533.jsonl.gz",
+      "records": 4812,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 31881,
+            "95": 1475,
+            "27": 24,
+            "70": 2634,
+            "96": 2500,
+            "29": 9,
+            "14": 2005,
+            "16": 19,
+            "13": 58315,
+            "30": 73,
+            "35": 15,
+            "55": 886,
+            "21": 17,
+            "80": 67,
+            "28": 2
+          },
+          "valid": 95947,
+          "turnout": 99922,
+          "sections": 435
+        },
+        "2": {
+          "votes": {
+            "96": 1804,
+            "13": 66058,
+            "95": 877,
+            "22": 32459
+          },
+          "valid": 98517,
+          "turnout": 101198,
+          "sections": 435
+        }
+      },
+      "sections": 435,
+      "file_size_bytes": 112163
+    },
+    {
+      "id": "10405",
+      "name": "PASSAGEM FRANCA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10405.jsonl.gz",
+      "records": 155,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2233,
+            "95": 24,
+            "22": 659,
+            "96": 41
+          },
+          "valid": 2892,
+          "turnout": 2957,
+          "sections": 15
+        },
+        "1": {
+          "votes": {
+            "55": 19,
+            "14": 34,
+            "13": 2169,
+            "30": 1,
+            "96": 56,
+            "22": 729,
+            "70": 46,
+            "95": 26
+          },
+          "valid": 2998,
+          "turnout": 3080,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2371
+    },
+    {
+      "id": "10383",
+      "name": "PATOS DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10383.jsonl.gz",
+      "records": 244,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 71,
+            "28": 1,
+            "13": 3479,
+            "35": 1,
+            "14": 38,
+            "70": 67,
+            "95": 68,
+            "96": 250,
+            "22": 638
+          },
+          "valid": 4295,
+          "turnout": 4613,
+          "sections": 24
+        },
+        "2": {
+          "votes": {
+            "95": 37,
+            "22": 632,
+            "96": 162,
+            "13": 3724
+          },
+          "valid": 4356,
+          "turnout": 4555,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3535
+    },
+    {
+      "id": "12718",
+      "name": "PAU D ARCO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12718.jsonl.gz",
+      "records": 215,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 129,
+            "27": 2,
+            "95": 48,
+            "80": 6,
+            "22": 814,
+            "55": 48,
+            "70": 98,
+            "21": 1,
+            "14": 62,
+            "13": 3500,
+            "30": 2,
+            "35": 1
+          },
+          "valid": 4534,
+          "turnout": 4711,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "13": 3651,
+            "22": 755,
+            "95": 30,
+            "96": 88
+          },
+          "valid": 4406,
+          "turnout": 4524,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3455
+    },
+    {
+      "id": "11550",
+      "name": "PAULISTANA",
+      "uf": "PI",
+      "file": "municipalities/11550.jsonl.gz",
+      "records": 699,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 655,
+            "27": 1,
+            "95": 174,
+            "22": 2641,
+            "80": 3,
+            "55": 126,
+            "70": 323,
+            "21": 4,
+            "14": 219,
+            "16": 4,
+            "13": 10282,
+            "30": 7,
+            "35": 1
+          },
+          "valid": 13611,
+          "turnout": 14440,
+          "sections": 67
+        },
+        "2": {
+          "votes": {
+            "13": 11055,
+            "95": 99,
+            "22": 2802,
+            "96": 428
+          },
+          "valid": 13857,
+          "turnout": 14384,
+          "sections": 67
+        }
+      },
+      "sections": 67,
+      "file_size_bytes": 11150
+    },
+    {
+      "id": "12289",
+      "name": "PAVUSSU",
+      "uf": "PI",
+      "file": "municipalities/12289.jsonl.gz",
+      "records": 143,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 81,
+            "95": 23,
+            "22": 393,
+            "55": 39,
+            "70": 19,
+            "14": 19,
+            "13": 2522,
+            "16": 2
+          },
+          "valid": 2994,
+          "turnout": 3098,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "13": 2678,
+            "95": 11,
+            "22": 367,
+            "96": 60
+          },
+          "valid": 3045,
+          "turnout": 3116,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2026
+    },
+    {
+      "id": "11576",
+      "name": "PEDRO II",
+      "uf": "PI",
+      "file": "municipalities/11576.jsonl.gz",
+      "records": 1379,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 20230,
+            "95": 203,
+            "22": 6618,
+            "96": 594
+          },
+          "valid": 26848,
+          "turnout": 27645,
+          "sections": 133
+        },
+        "1": {
+          "votes": {
+            "55": 169,
+            "14": 420,
+            "16": 4,
+            "80": 7,
+            "13": 18322,
+            "30": 15,
+            "35": 1,
+            "21": 3,
+            "96": 831,
+            "27": 10,
+            "22": 6395,
+            "70": 540,
+            "95": 350
+          },
+          "valid": 25886,
+          "turnout": 27067,
+          "sections": 133
+        }
+      },
+      "sections": 133,
+      "file_size_bytes": 28940
+    },
+    {
+      "id": "12491",
+      "name": "PEDRO LAURENTINO",
+      "uf": "PI",
+      "file": "municipalities/12491.jsonl.gz",
+      "records": 134,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 20,
+            "13": 1935,
+            "30": 1,
+            "14": 27,
+            "16": 1,
+            "70": 32,
+            "95": 31,
+            "96": 104,
+            "22": 635
+          },
+          "valid": 2651,
+          "turnout": 2786,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "22": 602,
+            "95": 13,
+            "96": 44,
+            "13": 1980
+          },
+          "valid": 2582,
+          "turnout": 2639,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2118
+    },
+    {
+      "id": "11592",
+      "name": "PICOS",
+      "uf": "PI",
+      "file": "municipalities/11592.jsonl.gz",
+      "records": 2398,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 11917,
+            "95": 554,
+            "96": 1340,
+            "27": 6,
+            "13": 31334,
+            "30": 38,
+            "14": 900,
+            "16": 12,
+            "70": 865,
+            "35": 3,
+            "80": 13,
+            "28": 1,
+            "29": 3,
+            "21": 5,
+            "55": 316
+          },
+          "valid": 45413,
+          "turnout": 47307,
+          "sections": 231
+        },
+        "2": {
+          "votes": {
+            "22": 12274,
+            "95": 303,
+            "96": 940,
+            "13": 33292
+          },
+          "valid": 45566,
+          "turnout": 46809,
+          "sections": 231
+        }
+      },
+      "sections": 231,
+      "file_size_bytes": 53615
+    },
+    {
+      "id": "11614",
+      "name": "PIMENTEIRAS",
+      "uf": "PI",
+      "file": "municipalities/11614.jsonl.gz",
+      "records": 406,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 50,
+            "21": 1,
+            "96": 300,
+            "22": 1377,
+            "27": 1,
+            "95": 69,
+            "13": 5552,
+            "30": 7,
+            "70": 104,
+            "14": 81,
+            "16": 1
+          },
+          "valid": 7174,
+          "turnout": 7543,
+          "sections": 42
+        },
+        "2": {
+          "votes": {
+            "95": 42,
+            "22": 1414,
+            "96": 149,
+            "13": 5879
+          },
+          "valid": 7293,
+          "turnout": 7484,
+          "sections": 42
+        }
+      },
+      "sections": 42,
+      "file_size_bytes": 6794
+    },
+    {
+      "id": "11630",
+      "name": "PIO IX",
+      "uf": "PI",
+      "file": "municipalities/11630.jsonl.gz",
+      "records": 602,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2050,
+            "95": 163,
+            "27": 1,
+            "70": 215,
+            "96": 453,
+            "14": 125,
+            "13": 9583,
+            "30": 4,
+            "35": 3,
+            "55": 102,
+            "21": 1,
+            "80": 7
+          },
+          "valid": 12091,
+          "turnout": 12707,
+          "sections": 57
+        },
+        "2": {
+          "votes": {
+            "22": 2050,
+            "96": 290,
+            "13": 10394,
+            "95": 98
+          },
+          "valid": 12444,
+          "turnout": 12832,
+          "sections": 57
+        }
+      },
+      "sections": 57,
+      "file_size_bytes": 9183
+    },
+    {
+      "id": "11657",
+      "name": "PIRACURUCA",
+      "uf": "PI",
+      "file": "municipalities/11657.jsonl.gz",
+      "records": 1052,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 722,
+            "27": 5,
+            "95": 287,
+            "22": 5216,
+            "80": 5,
+            "55": 127,
+            "70": 452,
+            "21": 4,
+            "16": 7,
+            "14": 386,
+            "13": 13792,
+            "30": 15,
+            "35": 4
+          },
+          "valid": 20013,
+          "turnout": 21022,
+          "sections": 100
+        },
+        "2": {
+          "votes": {
+            "13": 15523,
+            "95": 150,
+            "22": 5249,
+            "96": 445
+          },
+          "valid": 20772,
+          "turnout": 21367,
+          "sections": 100
+        }
+      },
+      "sections": 100,
+      "file_size_bytes": 18718
+    },
+    {
+      "id": "11673",
+      "name": "PIRIPIRI",
+      "uf": "PI",
+      "file": "municipalities/11673.jsonl.gz",
+      "records": 2237,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 1353,
+            "95": 825,
+            "70": 874,
+            "22": 10092,
+            "13": 26574,
+            "30": 16,
+            "35": 4,
+            "14": 642,
+            "27": 12,
+            "29": 1,
+            "21": 6,
+            "16": 3,
+            "80": 19,
+            "28": 1,
+            "55": 299
+          },
+          "valid": 38543,
+          "turnout": 40721,
+          "sections": 212
+        },
+        "2": {
+          "votes": {
+            "13": 30046,
+            "95": 405,
+            "22": 10318,
+            "96": 916
+          },
+          "valid": 40364,
+          "turnout": 41685,
+          "sections": 212
+        }
+      },
+      "sections": 212,
+      "file_size_bytes": 50293
+    },
+    {
+      "id": "11690",
+      "name": "PORTO",
+      "uf": "PI",
+      "file": "municipalities/11690.jsonl.gz",
+      "records": 351,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2049,
+            "70": 76,
+            "55": 52,
+            "30": 1,
+            "13": 5256,
+            "35": 1,
+            "80": 3,
+            "95": 86,
+            "27": 3,
+            "96": 214,
+            "14": 83,
+            "16": 1
+          },
+          "valid": 7525,
+          "turnout": 7825,
+          "sections": 34
+        },
+        "2": {
+          "votes": {
+            "96": 155,
+            "13": 5578,
+            "95": 55,
+            "22": 1915
+          },
+          "valid": 7493,
+          "turnout": 7703,
+          "sections": 34
+        }
+      },
+      "sections": 34,
+      "file_size_bytes": 4278
+    },
+    {
+      "id": "12599",
+      "name": "PORTO ALEGRE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12599.jsonl.gz",
+      "records": 82,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 456,
+            "55": 13,
+            "70": 23,
+            "13": 1138,
+            "95": 10,
+            "27": 1,
+            "96": 92,
+            "14": 15
+          },
+          "valid": 1647,
+          "turnout": 1749,
+          "sections": 8
+        },
+        "2": {
+          "votes": {
+            "96": 41,
+            "13": 1187,
+            "95": 13,
+            "22": 456
+          },
+          "valid": 1643,
+          "turnout": 1697,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1460
+    },
+    {
+      "id": "11711",
+      "name": "PRATA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11711.jsonl.gz",
+      "records": 130,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2456,
+            "95": 7,
+            "22": 367,
+            "96": 57
+          },
+          "valid": 2823,
+          "turnout": 2887,
+          "sections": 13
+        },
+        "1": {
+          "votes": {
+            "14": 23,
+            "28": 1,
+            "80": 1,
+            "13": 2402,
+            "55": 30,
+            "96": 77,
+            "27": 1,
+            "22": 422,
+            "70": 28,
+            "95": 18
+          },
+          "valid": 2908,
+          "turnout": 3003,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2096
+    },
+    {
+      "id": "10421",
+      "name": "QUEIMADA NOVA",
+      "uf": "PI",
+      "file": "municipalities/10421.jsonl.gz",
+      "records": 295,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "55": 56,
+            "13": 3958,
+            "30": 2,
+            "14": 69,
+            "16": 1,
+            "70": 190,
+            "95": 122,
+            "96": 482,
+            "22": 1115
+          },
+          "valid": 5392,
+          "turnout": 5996,
+          "sections": 28
+        },
+        "2": {
+          "votes": {
+            "95": 68,
+            "22": 1180,
+            "96": 243,
+            "13": 4661
+          },
+          "valid": 5841,
+          "turnout": 6152,
+          "sections": 28
+        }
+      },
+      "sections": 28,
+      "file_size_bytes": 4058
+    },
+    {
+      "id": "11738",
+      "name": "REDENÇÃO DO GURGUÉIA",
+      "uf": "PI",
+      "file": "municipalities/11738.jsonl.gz",
+      "records": 276,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1634,
+            "95": 46,
+            "27": 1,
+            "70": 107,
+            "96": 174,
+            "14": 31,
+            "13": 3652,
+            "30": 1,
+            "35": 1,
+            "55": 63,
+            "80": 1,
+            "21": 1
+          },
+          "valid": 5492,
+          "turnout": 5712,
+          "sections": 28
+        },
+        "2": {
+          "votes": {
+            "96": 89,
+            "13": 3845,
+            "22": 1625,
+            "95": 28
+          },
+          "valid": 5470,
+          "turnout": 5587,
+          "sections": 28
+        }
+      },
+      "sections": 28,
+      "file_size_bytes": 4159
+    },
+    {
+      "id": "11754",
+      "name": "REGENERAÇÃO",
+      "uf": "PI",
+      "file": "municipalities/11754.jsonl.gz",
+      "records": 597,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 372,
+            "95": 108,
+            "70": 101,
+            "22": 1635,
+            "13": 8908,
+            "30": 4,
+            "14": 116,
+            "21": 4,
+            "16": 1,
+            "80": 2,
+            "55": 85
+          },
+          "valid": 10856,
+          "turnout": 11336,
+          "sections": 61
+        },
+        "2": {
+          "votes": {
+            "13": 9464,
+            "22": 1577,
+            "95": 58,
+            "96": 239
+          },
+          "valid": 11041,
+          "turnout": 11338,
+          "sections": 61
+        }
+      },
+      "sections": 61,
+      "file_size_bytes": 9243
+    },
+    {
+      "id": "12300",
+      "name": "RIACHO FRIO",
+      "uf": "PI",
+      "file": "municipalities/12300.jsonl.gz",
+      "records": 172,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 491,
+            "55": 44,
+            "70": 48,
+            "13": 2936,
+            "95": 11,
+            "27": 2,
+            "96": 100,
+            "14": 25
+          },
+          "valid": 3546,
+          "turnout": 3657,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 53,
+            "13": 3023,
+            "95": 14,
+            "22": 482
+          },
+          "valid": 3505,
+          "turnout": 3572,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2603
+    },
+    {
+      "id": "12602",
+      "name": "RIBEIRA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12602.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 2,
+            "55": 31,
+            "13": 2426,
+            "14": 19,
+            "70": 55,
+            "95": 22,
+            "96": 115,
+            "22": 498
+          },
+          "valid": 3031,
+          "turnout": 3168,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "22": 495,
+            "95": 22,
+            "96": 38,
+            "13": 2492
+          },
+          "valid": 2987,
+          "turnout": 3047,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2433
+    },
+    {
+      "id": "11770",
+      "name": "RIBEIRO GONÇALVES",
+      "uf": "PI",
+      "file": "municipalities/11770.jsonl.gz",
+      "records": 216,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 142,
+            "95": 31,
+            "22": 1277,
+            "55": 52,
+            "70": 137,
+            "14": 58,
+            "13": 2910,
+            "30": 1
+          },
+          "valid": 4435,
+          "turnout": 4608,
+          "sections": 22
+        },
+        "2": {
+          "votes": {
+            "13": 3125,
+            "95": 34,
+            "22": 1270,
+            "96": 70
+          },
+          "valid": 4395,
+          "turnout": 4499,
+          "sections": 22
+        }
+      },
+      "sections": 22,
+      "file_size_bytes": 3418
+    },
+    {
+      "id": "11797",
+      "name": "RIO GRANDE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11797.jsonl.gz",
+      "records": 220,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 705,
+            "55": 49,
+            "70": 37,
+            "13": 3407,
+            "80": 1,
+            "95": 37,
+            "27": 1,
+            "96": 139,
+            "14": 23,
+            "29": 1
+          },
+          "valid": 4224,
+          "turnout": 4400,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "96": 94,
+            "13": 3623,
+            "22": 683,
+            "95": 9
+          },
+          "valid": 4306,
+          "turnout": 4409,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3149
+    },
+    {
+      "id": "11819",
+      "name": "SANTA CRUZ DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11819.jsonl.gz",
+      "records": 253,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 166,
+            "27": 1,
+            "95": 41,
+            "22": 845,
+            "80": 1,
+            "55": 29,
+            "70": 43,
+            "14": 63,
+            "13": 4000,
+            "30": 1,
+            "16": 2
+          },
+          "valid": 4985,
+          "turnout": 5192,
+          "sections": 26
+        },
+        "2": {
+          "votes": {
+            "13": 4104,
+            "95": 20,
+            "22": 826,
+            "96": 80
+          },
+          "valid": 4930,
+          "turnout": 5030,
+          "sections": 26
+        }
+      },
+      "sections": 26,
+      "file_size_bytes": 3664
+    },
+    {
+      "id": "10448",
+      "name": "SANTA CRUZ DOS MILAGRES",
+      "uf": "PI",
+      "file": "municipalities/10448.jsonl.gz",
+      "records": 134,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 43,
+            "95": 22,
+            "22": 598,
+            "55": 31,
+            "70": 73,
+            "14": 25,
+            "13": 2465,
+            "30": 1
+          },
+          "valid": 3193,
+          "turnout": 3258,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "13": 2502,
+            "22": 559,
+            "95": 2,
+            "96": 46
+          },
+          "valid": 3061,
+          "turnout": 3109,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2017
+    },
+    {
+      "id": "11835",
+      "name": "SANTA FILOMENA",
+      "uf": "PI",
+      "file": "municipalities/11835.jsonl.gz",
+      "records": 232,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1327,
+            "95": 39,
+            "27": 1,
+            "70": 135,
+            "96": 131,
+            "14": 27,
+            "16": 1,
+            "35": 2,
+            "13": 2782,
+            "21": 1,
+            "80": 2,
+            "55": 57
+          },
+          "valid": 4335,
+          "turnout": 4505,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "95": 26,
+            "22": 1393,
+            "96": 70,
+            "13": 2994
+          },
+          "valid": 4387,
+          "turnout": 4483,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3532
+    },
+    {
+      "id": "11851",
+      "name": "SANTA LUZ",
+      "uf": "PI",
+      "file": "municipalities/11851.jsonl.gz",
+      "records": 195,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1309,
+            "95": 58,
+            "70": 78,
+            "96": 129,
+            "14": 43,
+            "13": 2874,
+            "55": 24
+          },
+          "valid": 4328,
+          "turnout": 4515,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "13": 3141,
+            "22": 1300,
+            "95": 32,
+            "96": 58
+          },
+          "valid": 4441,
+          "turnout": 4531,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2984
+    },
+    {
+      "id": "10464",
+      "name": "SANTA ROSA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10464.jsonl.gz",
+      "records": 206,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 817,
+            "95": 41,
+            "96": 123,
+            "13": 2769,
+            "16": 1,
+            "14": 45,
+            "70": 47,
+            "30": 2,
+            "35": 1,
+            "80": 1,
+            "55": 26
+          },
+          "valid": 3709,
+          "turnout": 3873,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "95": 22,
+            "22": 842,
+            "96": 68,
+            "13": 2899
+          },
+          "valid": 3741,
+          "turnout": 3831,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3003
+    },
+    {
+      "id": "10480",
+      "name": "SANTANA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10480.jsonl.gz",
+      "records": 180,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3074,
+            "95": 19,
+            "22": 522,
+            "96": 59
+          },
+          "valid": 3596,
+          "turnout": 3674,
+          "sections": 18
+        },
+        "1": {
+          "votes": {
+            "14": 49,
+            "13": 2859,
+            "30": 3,
+            "21": 1,
+            "55": 22,
+            "96": 123,
+            "22": 519,
+            "70": 45,
+            "95": 23
+          },
+          "valid": 3498,
+          "turnout": 3644,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 2915
+    },
+    {
+      "id": "11878",
+      "name": "SANTO ANTÔNIO DE LISBOA",
+      "uf": "PI",
+      "file": "municipalities/11878.jsonl.gz",
+      "records": 244,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3517,
+            "95": 33,
+            "22": 1600,
+            "96": 82
+          },
+          "valid": 5117,
+          "turnout": 5232,
+          "sections": 24
+        },
+        "1": {
+          "votes": {
+            "14": 60,
+            "29": 1,
+            "80": 2,
+            "13": 3867,
+            "16": 1,
+            "55": 38,
+            "96": 171,
+            "27": 2,
+            "22": 1202,
+            "70": 57,
+            "95": 70
+          },
+          "valid": 5230,
+          "turnout": 5471,
+          "sections": 24
+        }
+      },
+      "sections": 24,
+      "file_size_bytes": 3702
+    },
+    {
+      "id": "12653",
+      "name": "SANTO ANTÔNIO DOS MILAGRES",
+      "uf": "PI",
+      "file": "municipalities/12653.jsonl.gz",
+      "records": 80,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 297,
+            "95": 16,
+            "70": 13,
+            "96": 43,
+            "29": 1,
+            "14": 12,
+            "13": 1236,
+            "30": 1,
+            "55": 8
+          },
+          "valid": 1568,
+          "turnout": 1627,
+          "sections": 8
+        },
+        "2": {
+          "votes": {
+            "96": 28,
+            "13": 1274,
+            "22": 277,
+            "95": 6
+          },
+          "valid": 1551,
+          "turnout": 1585,
+          "sections": 8
+        }
+      },
+      "sections": 8,
+      "file_size_bytes": 1613
+    },
+    {
+      "id": "11894",
+      "name": "SANTO INÁCIO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11894.jsonl.gz",
+      "records": 137,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 2388,
+            "22": 532,
+            "95": 12,
+            "96": 33
+          },
+          "valid": 2920,
+          "turnout": 2965,
+          "sections": 15
+        },
+        "1": {
+          "votes": {
+            "14": 32,
+            "13": 2407,
+            "55": 23,
+            "96": 67,
+            "22": 524,
+            "70": 25,
+            "95": 14
+          },
+          "valid": 3011,
+          "turnout": 3092,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2339
+    },
+    {
+      "id": "12041",
+      "name": "SEBASTIÃO BARROS",
+      "uf": "PI",
+      "file": "municipalities/12041.jsonl.gz",
+      "records": 196,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 87,
+            "96": 123,
+            "22": 934,
+            "95": 21,
+            "13": 2554,
+            "30": 1,
+            "70": 80,
+            "14": 17
+          },
+          "valid": 3673,
+          "turnout": 3817,
+          "sections": 20
+        },
+        "2": {
+          "votes": {
+            "95": 18,
+            "22": 921,
+            "96": 70,
+            "13": 2825
+          },
+          "valid": 3746,
+          "turnout": 3834,
+          "sections": 20
+        }
+      },
+      "sections": 20,
+      "file_size_bytes": 2848
+    },
+    {
+      "id": "12068",
+      "name": "SEBASTIÃO LEAL",
+      "uf": "PI",
+      "file": "municipalities/12068.jsonl.gz",
+      "records": 154,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1419,
+            "95": 46,
+            "70": 55,
+            "96": 94,
+            "14": 24,
+            "16": 1,
+            "13": 2090,
+            "21": 1,
+            "80": 1,
+            "55": 20
+          },
+          "valid": 3611,
+          "turnout": 3751,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "96": 48,
+            "13": 2257,
+            "95": 26,
+            "22": 1440
+          },
+          "valid": 3697,
+          "turnout": 3771,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2457
+    },
+    {
+      "id": "10545",
+      "name": "SIGEFREDO PACHECO",
+      "uf": "PI",
+      "file": "municipalities/10545.jsonl.gz",
+      "records": 392,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1382,
+            "70": 218,
+            "55": 42,
+            "13": 6007,
+            "30": 3,
+            "80": 1,
+            "28": 1,
+            "95": 89,
+            "96": 187,
+            "14": 92
+          },
+          "valid": 7746,
+          "turnout": 8022,
+          "sections": 38
+        },
+        "2": {
+          "votes": {
+            "96": 126,
+            "13": 6127,
+            "95": 54,
+            "22": 1316
+          },
+          "valid": 7443,
+          "turnout": 7623,
+          "sections": 38
+        }
+      },
+      "sections": 38,
+      "file_size_bytes": 5762
+    },
+    {
+      "id": "12157",
+      "name": "SIMPLÍCIO MENDES",
+      "uf": "PI",
+      "file": "municipalities/12157.jsonl.gz",
+      "records": 444,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 272,
+            "70": 177,
+            "95": 96,
+            "22": 1542,
+            "13": 6487,
+            "30": 7,
+            "14": 114,
+            "27": 1,
+            "21": 2,
+            "16": 1,
+            "28": 1,
+            "55": 87
+          },
+          "valid": 8419,
+          "turnout": 8787,
+          "sections": 43
+        },
+        "2": {
+          "votes": {
+            "13": 6817,
+            "95": 62,
+            "22": 1638,
+            "96": 175
+          },
+          "valid": 8455,
+          "turnout": 8692,
+          "sections": 43
+        }
+      },
+      "sections": 43,
+      "file_size_bytes": 7620
+    },
+    {
+      "id": "12130",
+      "name": "SIMÕES",
+      "uf": "PI",
+      "file": "municipalities/12130.jsonl.gz",
+      "records": 530,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1755,
+            "95": 107,
+            "96": 422,
+            "27": 1,
+            "13": 7549,
+            "30": 2,
+            "14": 112,
+            "70": 183,
+            "80": 1,
+            "28": 1,
+            "21": 1,
+            "55": 96
+          },
+          "valid": 9701,
+          "turnout": 10230,
+          "sections": 52
+        },
+        "2": {
+          "votes": {
+            "22": 1780,
+            "95": 76,
+            "96": 252,
+            "13": 8183
+          },
+          "valid": 9963,
+          "turnout": 10291,
+          "sections": 52
+        }
+      },
+      "sections": 52,
+      "file_size_bytes": 8058
+    },
+    {
+      "id": "12173",
+      "name": "SOCORRO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12173.jsonl.gz",
+      "records": 161,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 98,
+            "27": 1,
+            "95": 29,
+            "22": 604,
+            "80": 2,
+            "55": 30,
+            "70": 67,
+            "14": 25,
+            "13": 2548,
+            "30": 6,
+            "16": 2
+          },
+          "valid": 3285,
+          "turnout": 3412,
+          "sections": 16
+        },
+        "2": {
+          "votes": {
+            "13": 2564,
+            "95": 10,
+            "22": 606,
+            "96": 43
+          },
+          "valid": 3170,
+          "turnout": 3223,
+          "sections": 16
+        }
+      },
+      "sections": 16,
+      "file_size_bytes": 2939
+    },
+    {
+      "id": "12513",
+      "name": "SUSSUAPARA",
+      "uf": "PI",
+      "file": "municipalities/12513.jsonl.gz",
+      "records": 265,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 995,
+            "55": 33,
+            "70": 111,
+            "30": 3,
+            "13": 4388,
+            "80": 1,
+            "95": 73,
+            "96": 190,
+            "14": 92,
+            "29": 1
+          },
+          "valid": 5624,
+          "turnout": 5887,
+          "sections": 25
+        },
+        "2": {
+          "votes": {
+            "96": 107,
+            "13": 4743,
+            "95": 37,
+            "22": 1062
+          },
+          "valid": 5805,
+          "turnout": 5949,
+          "sections": 25
+        }
+      },
+      "sections": 25,
+      "file_size_bytes": 3497
+    },
+    {
+      "id": "10502",
+      "name": "SÃO BRAZ DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10502.jsonl.gz",
+      "records": 169,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 318,
+            "95": 31,
+            "96": 86,
+            "27": 1,
+            "13": 2923,
+            "14": 27,
+            "70": 48,
+            "30": 2,
+            "29": 1,
+            "55": 33
+          },
+          "valid": 3353,
+          "turnout": 3470,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "22": 332,
+            "95": 15,
+            "96": 46,
+            "13": 3037
+          },
+          "valid": 3369,
+          "turnout": 3430,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2634
+    },
+    {
+      "id": "12505",
+      "name": "SÃO FRANCISCO DE ASSIS DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12505.jsonl.gz",
+      "records": 222,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 2,
+            "22": 958,
+            "70": 313,
+            "55": 28,
+            "13": 2515,
+            "30": 6,
+            "80": 2,
+            "95": 45,
+            "96": 280,
+            "14": 28,
+            "16": 1
+          },
+          "valid": 3853,
+          "turnout": 4178,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 192,
+            "13": 2915,
+            "22": 1067,
+            "95": 28
+          },
+          "valid": 3982,
+          "turnout": 4202,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3445
+    },
+    {
+      "id": "11932",
+      "name": "SÃO FRANCISCO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11932.jsonl.gz",
+      "records": 264,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 34,
+            "80": 1,
+            "13": 3051,
+            "14": 59,
+            "70": 62,
+            "95": 61,
+            "96": 228,
+            "22": 1261
+          },
+          "valid": 4468,
+          "turnout": 4757,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "95": 31,
+            "22": 1313,
+            "96": 83,
+            "13": 3282
+          },
+          "valid": 4595,
+          "turnout": 4709,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 3996
+    },
+    {
+      "id": "11916",
+      "name": "SÃO FÉLIX DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11916.jsonl.gz",
+      "records": 160,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 809,
+            "55": 49,
+            "70": 58,
+            "13": 2210,
+            "30": 1,
+            "95": 33,
+            "27": 1,
+            "96": 69,
+            "14": 33,
+            "16": 1
+          },
+          "valid": 3163,
+          "turnout": 3265,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "96": 45,
+            "13": 2223,
+            "95": 15,
+            "22": 689
+          },
+          "valid": 2912,
+          "turnout": 2972,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2554
+    },
+    {
+      "id": "12610",
+      "name": "SÃO GONÇALO DO GURGUÉIA",
+      "uf": "PI",
+      "file": "municipalities/12610.jsonl.gz",
+      "records": 116,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 15,
+            "80": 1,
+            "96": 69,
+            "22": 522,
+            "27": 1,
+            "95": 11,
+            "13": 1579,
+            "70": 60,
+            "14": 12
+          },
+          "valid": 2190,
+          "turnout": 2270,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "95": 14,
+            "22": 493,
+            "96": 41,
+            "13": 1635
+          },
+          "valid": 2128,
+          "turnout": 2183,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1922
+    },
+    {
+      "id": "11959",
+      "name": "SÃO GONÇALO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11959.jsonl.gz",
+      "records": 214,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3019,
+            "95": 19,
+            "22": 1047,
+            "96": 76
+          },
+          "valid": 4066,
+          "turnout": 4161,
+          "sections": 21
+        },
+        "1": {
+          "votes": {
+            "14": 56,
+            "29": 1,
+            "80": 2,
+            "13": 2937,
+            "35": 1,
+            "30": 2,
+            "55": 28,
+            "96": 108,
+            "22": 1080,
+            "70": 76,
+            "95": 49
+          },
+          "valid": 4183,
+          "turnout": 4340,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3048
+    },
+    {
+      "id": "10529",
+      "name": "SÃO JOSÉ DO DIVINO",
+      "uf": "PI",
+      "file": "municipalities/10529.jsonl.gz",
+      "records": 213,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 733,
+            "95": 53,
+            "96": 174,
+            "30": 2,
+            "13": 3106,
+            "14": 69,
+            "70": 147,
+            "55": 30
+          },
+          "valid": 4087,
+          "turnout": 4314,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "22": 781,
+            "95": 35,
+            "96": 108,
+            "13": 3379
+          },
+          "valid": 4160,
+          "turnout": 4303,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3249
+    },
+    {
+      "id": "12017",
+      "name": "SÃO JOSÉ DO PEIXE",
+      "uf": "PI",
+      "file": "municipalities/12017.jsonl.gz",
+      "records": 146,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 88,
+            "95": 41,
+            "22": 469,
+            "80": 1,
+            "55": 26,
+            "70": 21,
+            "29": 1,
+            "14": 17,
+            "13": 1893
+          },
+          "valid": 2428,
+          "turnout": 2557,
+          "sections": 15
+        },
+        "2": {
+          "votes": {
+            "13": 1927,
+            "95": 24,
+            "22": 441,
+            "96": 46
+          },
+          "valid": 2368,
+          "turnout": 2438,
+          "sections": 15
+        }
+      },
+      "sections": 15,
+      "file_size_bytes": 2432
+    },
+    {
+      "id": "12033",
+      "name": "SÃO JOSÉ DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12033.jsonl.gz",
+      "records": 250,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 133,
+            "95": 66,
+            "22": 711,
+            "55": 21,
+            "70": 59,
+            "14": 44,
+            "13": 3825,
+            "16": 2,
+            "35": 1
+          },
+          "valid": 4663,
+          "turnout": 4862,
+          "sections": 27
+        },
+        "2": {
+          "votes": {
+            "13": 3993,
+            "95": 29,
+            "22": 771,
+            "96": 81
+          },
+          "valid": 4764,
+          "turnout": 4874,
+          "sections": 27
+        }
+      },
+      "sections": 27,
+      "file_size_bytes": 4448
+    },
+    {
+      "id": "11088",
+      "name": "SÃO JOÃO DA CANABRAVA",
+      "uf": "PI",
+      "file": "municipalities/11088.jsonl.gz",
+      "records": 190,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 3087,
+            "95": 28,
+            "22": 460,
+            "96": 33
+          },
+          "valid": 3547,
+          "turnout": 3608,
+          "sections": 19
+        },
+        "1": {
+          "votes": {
+            "14": 44,
+            "28": 1,
+            "80": 1,
+            "30": 2,
+            "13": 3026,
+            "21": 1,
+            "55": 14,
+            "96": 55,
+            "27": 1,
+            "22": 466,
+            "70": 56,
+            "95": 38
+          },
+          "valid": 3612,
+          "turnout": 3705,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 3053
+    },
+    {
+      "id": "12009",
+      "name": "SÃO JOÃO DA FRONTEIRA",
+      "uf": "PI",
+      "file": "municipalities/12009.jsonl.gz",
+      "records": 216,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 37,
+            "80": 1,
+            "96": 203,
+            "22": 957,
+            "95": 54,
+            "13": 3006,
+            "35": 2,
+            "70": 118,
+            "30": 1,
+            "14": 35
+          },
+          "valid": 4157,
+          "turnout": 4414,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "22": 954,
+            "95": 27,
+            "96": 86,
+            "13": 3257
+          },
+          "valid": 4211,
+          "turnout": 4324,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3034
+    },
+    {
+      "id": "11975",
+      "name": "SÃO JOÃO DA SERRA",
+      "uf": "PI",
+      "file": "municipalities/11975.jsonl.gz",
+      "records": 290,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 78,
+            "80": 3,
+            "30": 5,
+            "13": 4113,
+            "14": 61,
+            "70": 111,
+            "95": 71,
+            "96": 144,
+            "22": 1112,
+            "27": 2
+          },
+          "valid": 5485,
+          "turnout": 5700,
+          "sections": 28
+        },
+        "2": {
+          "votes": {
+            "22": 1109,
+            "95": 32,
+            "96": 113,
+            "13": 4134
+          },
+          "valid": 5243,
+          "turnout": 5388,
+          "sections": 28
+        }
+      },
+      "sections": 28,
+      "file_size_bytes": 4332
+    },
+    {
+      "id": "12025",
+      "name": "SÃO JOÃO DA VARJOTA",
+      "uf": "PI",
+      "file": "municipalities/12025.jsonl.gz",
+      "records": 169,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 467,
+            "70": 23,
+            "55": 24,
+            "13": 2780,
+            "80": 2,
+            "95": 28,
+            "96": 82,
+            "14": 17
+          },
+          "valid": 3313,
+          "turnout": 3423,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 70,
+            "13": 2835,
+            "22": 478,
+            "95": 10
+          },
+          "valid": 3313,
+          "turnout": 3393,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 2868
+    },
+    {
+      "id": "10987",
+      "name": "SÃO JOÃO DO ARRAIAL",
+      "uf": "PI",
+      "file": "municipalities/10987.jsonl.gz",
+      "records": 306,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 26,
+            "21": 1,
+            "80": 1,
+            "96": 216,
+            "22": 1834,
+            "27": 1,
+            "95": 65,
+            "13": 4112,
+            "30": 1,
+            "70": 26,
+            "14": 40,
+            "16": 1
+          },
+          "valid": 6043,
+          "turnout": 6324,
+          "sections": 33
+        },
+        "2": {
+          "votes": {
+            "22": 1864,
+            "95": 34,
+            "96": 103,
+            "13": 4369
+          },
+          "valid": 6233,
+          "turnout": 6370,
+          "sections": 33
+        }
+      },
+      "sections": 33,
+      "file_size_bytes": 4572
+    },
+    {
+      "id": "11991",
+      "name": "SÃO JOÃO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/11991.jsonl.gz",
+      "records": 614,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 2474,
+            "95": 139,
+            "27": 2,
+            "70": 240,
+            "96": 442,
+            "29": 3,
+            "14": 164,
+            "16": 5,
+            "13": 8975,
+            "30": 2,
+            "35": 2,
+            "55": 68,
+            "80": 6,
+            "21": 3
+          },
+          "valid": 11944,
+          "turnout": 12525,
+          "sections": 61
+        },
+        "2": {
+          "votes": {
+            "96": 251,
+            "13": 9606,
+            "22": 2529,
+            "95": 57
+          },
+          "valid": 12135,
+          "turnout": 12443,
+          "sections": 61
+        }
+      },
+      "sections": 61,
+      "file_size_bytes": 10679
+    },
+    {
+      "id": "12050",
+      "name": "SÃO JULIÃO",
+      "uf": "PI",
+      "file": "municipalities/12050.jsonl.gz",
+      "records": 221,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 81,
+            "70": 99,
+            "22": 962,
+            "13": 3497,
+            "30": 2,
+            "14": 37,
+            "95": 25,
+            "35": 1,
+            "21": 1,
+            "55": 32
+          },
+          "valid": 4631,
+          "turnout": 4737,
+          "sections": 23
+        },
+        "2": {
+          "votes": {
+            "13": 3423,
+            "22": 1011,
+            "95": 17,
+            "96": 64
+          },
+          "valid": 4434,
+          "turnout": 4515,
+          "sections": 23
+        }
+      },
+      "sections": 23,
+      "file_size_bytes": 3194
+    },
+    {
+      "id": "10561",
+      "name": "SÃO LOURENÇO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/10561.jsonl.gz",
+      "records": 186,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 43,
+            "80": 1,
+            "96": 136,
+            "22": 480,
+            "27": 2,
+            "95": 48,
+            "13": 3309,
+            "30": 2,
+            "70": 56,
+            "14": 46
+          },
+          "valid": 3939,
+          "turnout": 4123,
+          "sections": 18
+        },
+        "2": {
+          "votes": {
+            "95": 21,
+            "22": 496,
+            "96": 86,
+            "13": 3552
+          },
+          "valid": 4048,
+          "turnout": 4155,
+          "sections": 18
+        }
+      },
+      "sections": 18,
+      "file_size_bytes": 3076
+    },
+    {
+      "id": "12629",
+      "name": "SÃO LUIS DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12629.jsonl.gz",
+      "records": 131,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 57,
+            "27": 1,
+            "95": 36,
+            "22": 470,
+            "55": 9,
+            "70": 71,
+            "29": 1,
+            "21": 1,
+            "14": 42,
+            "13": 2170
+          },
+          "valid": 2765,
+          "turnout": 2858,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "13": 2232,
+            "95": 14,
+            "22": 451,
+            "96": 39
+          },
+          "valid": 2683,
+          "turnout": 2736,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 2160
+    },
+    {
+      "id": "12661",
+      "name": "SÃO MIGUEL DA BAIXA GRANDE",
+      "uf": "PI",
+      "file": "municipalities/12661.jsonl.gz",
+      "records": 113,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 39,
+            "95": 22,
+            "70": 63,
+            "22": 607,
+            "13": 1473,
+            "14": 25,
+            "27": 1,
+            "29": 1,
+            "55": 19
+          },
+          "valid": 2189,
+          "turnout": 2250,
+          "sections": 11
+        },
+        "2": {
+          "votes": {
+            "13": 1518,
+            "95": 19,
+            "22": 555,
+            "96": 45
+          },
+          "valid": 2073,
+          "turnout": 2137,
+          "sections": 11
+        }
+      },
+      "sections": 11,
+      "file_size_bytes": 1863
+    },
+    {
+      "id": "12700",
+      "name": "SÃO MIGUEL DO FIDALGO",
+      "uf": "PI",
+      "file": "municipalities/12700.jsonl.gz",
+      "records": 116,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 341,
+            "95": 19,
+            "70": 13,
+            "96": 46,
+            "14": 16,
+            "13": 1933,
+            "30": 1,
+            "55": 7,
+            "80": 3
+          },
+          "valid": 2314,
+          "turnout": 2379,
+          "sections": 13
+        },
+        "2": {
+          "votes": {
+            "96": 21,
+            "13": 1932,
+            "95": 8,
+            "22": 307
+          },
+          "valid": 2239,
+          "turnout": 2268,
+          "sections": 13
+        }
+      },
+      "sections": 13,
+      "file_size_bytes": 1947
+    },
+    {
+      "id": "12076",
+      "name": "SÃO MIGUEL DO TAPUIO",
+      "uf": "PI",
+      "file": "municipalities/12076.jsonl.gz",
+      "records": 657,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 1941,
+            "70": 134,
+            "55": 118,
+            "13": 8834,
+            "30": 2,
+            "35": 1,
+            "80": 4,
+            "28": 1,
+            "95": 131,
+            "27": 1,
+            "96": 430,
+            "14": 143,
+            "16": 2
+          },
+          "valid": 11181,
+          "turnout": 11742,
+          "sections": 67
+        },
+        "2": {
+          "votes": {
+            "96": 287,
+            "13": 9755,
+            "95": 71,
+            "22": 1890
+          },
+          "valid": 11645,
+          "turnout": 12003,
+          "sections": 67
+        }
+      },
+      "sections": 67,
+      "file_size_bytes": 11402
+    },
+    {
+      "id": "12092",
+      "name": "SÃO PEDRO DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12092.jsonl.gz",
+      "records": 466,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 55,
+            "80": 2,
+            "96": 292,
+            "22": 2176,
+            "95": 129,
+            "13": 6649,
+            "30": 1,
+            "35": 1,
+            "70": 174,
+            "16": 3,
+            "14": 117
+          },
+          "valid": 9178,
+          "turnout": 9599,
+          "sections": 46
+        },
+        "2": {
+          "votes": {
+            "22": 2180,
+            "95": 68,
+            "13": 7005,
+            "96": 228
+          },
+          "valid": 9185,
+          "turnout": 9481,
+          "sections": 46
+        }
+      },
+      "sections": 46,
+      "file_size_bytes": 6864
+    },
+    {
+      "id": "12114",
+      "name": "SÃO RAIMUNDO NONATO",
+      "uf": "PI",
+      "file": "municipalities/12114.jsonl.gz",
+      "records": 1088,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 18878,
+            "95": 121,
+            "22": 4266,
+            "96": 324
+          },
+          "valid": 23144,
+          "turnout": 23589,
+          "sections": 106
+        },
+        "1": {
+          "votes": {
+            "55": 188,
+            "14": 292,
+            "16": 10,
+            "80": 8,
+            "13": 17439,
+            "35": 3,
+            "30": 3,
+            "21": 4,
+            "96": 553,
+            "27": 2,
+            "22": 4275,
+            "70": 311,
+            "95": 251
+          },
+          "valid": 22535,
+          "turnout": 23339,
+          "sections": 106
+        }
+      },
+      "sections": 106,
+      "file_size_bytes": 18771
+    },
+    {
+      "id": "12530",
+      "name": "TAMBORIL DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12530.jsonl.gz",
+      "records": 104,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 101,
+            "95": 19,
+            "55": 10,
+            "70": 70,
+            "14": 22,
+            "22": 438,
+            "13": 1804
+          },
+          "valid": 2344,
+          "turnout": 2464,
+          "sections": 10
+        },
+        "2": {
+          "votes": {
+            "13": 1940,
+            "95": 15,
+            "22": 400,
+            "96": 43
+          },
+          "valid": 2340,
+          "turnout": 2398,
+          "sections": 10
+        }
+      },
+      "sections": 10,
+      "file_size_bytes": 1571
+    },
+    {
+      "id": "12521",
+      "name": "TANQUE DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12521.jsonl.gz",
+      "records": 127,
+      "turns": {
+        "2": {
+          "votes": {
+            "13": 1782,
+            "95": 14,
+            "22": 380,
+            "96": 60
+          },
+          "valid": 2162,
+          "turnout": 2236,
+          "sections": 12
+        },
+        "1": {
+          "votes": {
+            "14": 34,
+            "13": 1664,
+            "55": 34,
+            "96": 114,
+            "22": 369,
+            "70": 59,
+            "95": 26
+          },
+          "valid": 2160,
+          "turnout": 2300,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 2153
+    },
+    {
+      "id": "12190",
+      "name": "TERESINA",
+      "uf": "PI",
+      "file": "municipalities/12190.jsonl.gz",
+      "records": 21407,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 12726,
+            "27": 188,
+            "95": 7401,
+            "22": 152350,
+            "28": 11,
+            "80": 569,
+            "55": 7238,
+            "70": 15152,
+            "29": 65,
+            "21": 65,
+            "16": 197,
+            "14": 11415,
+            "13": 296190,
+            "30": 702,
+            "35": 59
+          },
+          "valid": 484201,
+          "turnout": 504328,
+          "sections": 1843
+        },
+        "2": {
+          "votes": {
+            "13": 337154,
+            "95": 4414,
+            "22": 158802,
+            "96": 9888
+          },
+          "valid": 495956,
+          "turnout": 510258,
+          "sections": 1843
+        }
+      },
+      "sections": 1843,
+      "file_size_bytes": 798109
+    },
+    {
+      "id": "12211",
+      "name": "UNIÃO",
+      "uf": "PI",
+      "file": "municipalities/12211.jsonl.gz",
+      "records": 1605,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 6896,
+            "95": 419,
+            "27": 5,
+            "70": 517,
+            "96": 1054,
+            "29": 2,
+            "14": 334,
+            "16": 8,
+            "13": 23153,
+            "30": 9,
+            "35": 3,
+            "55": 313,
+            "21": 4,
+            "80": 9
+          },
+          "valid": 31253,
+          "turnout": 32726,
+          "sections": 154
+        },
+        "2": {
+          "votes": {
+            "95": 238,
+            "22": 6994,
+            "96": 756,
+            "13": 24914
+          },
+          "valid": 31908,
+          "turnout": 32902,
+          "sections": 154
+        }
+      },
+      "sections": 154,
+      "file_size_bytes": 34387
+    },
+    {
+      "id": "12238",
+      "name": "URUÇUÍ",
+      "uf": "PI",
+      "file": "municipalities/12238.jsonl.gz",
+      "records": 736,
+      "turns": {
+        "1": {
+          "votes": {
+            "22": 5337,
+            "95": 178,
+            "96": 451,
+            "27": 2,
+            "13": 9150,
+            "14": 189,
+            "70": 426,
+            "30": 10,
+            "80": 1,
+            "16": 1,
+            "21": 2,
+            "55": 133
+          },
+          "valid": 15251,
+          "turnout": 15880,
+          "sections": 73
+        },
+        "2": {
+          "votes": {
+            "22": 5404,
+            "95": 90,
+            "96": 250,
+            "13": 10191
+          },
+          "valid": 15595,
+          "turnout": 15935,
+          "sections": 73
+        }
+      },
+      "sections": 73,
+      "file_size_bytes": 13203
+    },
+    {
+      "id": "12254",
+      "name": "VALENÇA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12254.jsonl.gz",
+      "records": 711,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 509,
+            "70": 185,
+            "22": 2933,
+            "13": 10447,
+            "30": 6,
+            "27": 2,
+            "95": 210,
+            "29": 4,
+            "21": 3,
+            "14": 221,
+            "80": 9,
+            "28": 2,
+            "55": 101
+          },
+          "valid": 13913,
+          "turnout": 14632,
+          "sections": 67
+        },
+        "2": {
+          "votes": {
+            "13": 11265,
+            "95": 136,
+            "22": 3066,
+            "96": 369
+          },
+          "valid": 14331,
+          "turnout": 14836,
+          "sections": 67
+        }
+      },
+      "sections": 67,
+      "file_size_bytes": 10889
+    },
+    {
+      "id": "12556",
+      "name": "VERA MENDES",
+      "uf": "PI",
+      "file": "municipalities/12556.jsonl.gz",
+      "records": 149,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 28,
+            "96": 160,
+            "22": 406,
+            "95": 53,
+            "13": 2270,
+            "30": 2,
+            "70": 81,
+            "14": 20,
+            "16": 1
+          },
+          "valid": 2808,
+          "turnout": 3021,
+          "sections": 14
+        },
+        "2": {
+          "votes": {
+            "95": 36,
+            "22": 431,
+            "96": 102,
+            "13": 2486
+          },
+          "valid": 2917,
+          "turnout": 3055,
+          "sections": 14
+        }
+      },
+      "sections": 14,
+      "file_size_bytes": 2320
+    },
+    {
+      "id": "12548",
+      "name": "VILA NOVA DO PIAUÍ",
+      "uf": "PI",
+      "file": "municipalities/12548.jsonl.gz",
+      "records": 122,
+      "turns": {
+        "1": {
+          "votes": {
+            "55": 33,
+            "96": 99,
+            "22": 526,
+            "27": 1,
+            "95": 15,
+            "13": 1886,
+            "30": 1,
+            "70": 93,
+            "14": 40
+          },
+          "valid": 2580,
+          "turnout": 2694,
+          "sections": 12
+        },
+        "2": {
+          "votes": {
+            "95": 12,
+            "22": 569,
+            "13": 1894,
+            "96": 45
+          },
+          "valid": 2463,
+          "turnout": 2520,
+          "sections": 12
+        }
+      },
+      "sections": 12,
+      "file_size_bytes": 1975
+    },
+    {
+      "id": "10588",
+      "name": "VÁRZEA BRANCA",
+      "uf": "PI",
+      "file": "municipalities/10588.jsonl.gz",
+      "records": 190,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 2,
+            "22": 455,
+            "55": 39,
+            "70": 38,
+            "13": 3211,
+            "30": 2,
+            "95": 30,
+            "96": 136,
+            "14": 32
+          },
+          "valid": 3779,
+          "turnout": 3945,
+          "sections": 19
+        },
+        "2": {
+          "votes": {
+            "96": 62,
+            "13": 3348,
+            "95": 21,
+            "22": 454
+          },
+          "valid": 3802,
+          "turnout": 3885,
+          "sections": 19
+        }
+      },
+      "sections": 19,
+      "file_size_bytes": 3013
+    },
+    {
+      "id": "12270",
+      "name": "VÁRZEA GRANDE",
+      "uf": "PI",
+      "file": "municipalities/12270.jsonl.gz",
+      "records": 207,
+      "turns": {
+        "1": {
+          "votes": {
+            "21": 1,
+            "22": 616,
+            "70": 47,
+            "55": 29,
+            "13": 2281,
+            "30": 1,
+            "95": 45,
+            "27": 1,
+            "96": 181,
+            "80": 1,
+            "14": 39,
+            "16": 1
+          },
+          "valid": 3017,
+          "turnout": 3243,
+          "sections": 21
+        },
+        "2": {
+          "votes": {
+            "96": 76,
+            "13": 2506,
+            "22": 612,
+            "95": 22
+          },
+          "valid": 3118,
+          "turnout": 3216,
+          "sections": 21
+        }
+      },
+      "sections": 21,
+      "file_size_bytes": 3389
+    },
+    {
+      "id": "12564",
+      "name": "WALL FERRAZ",
+      "uf": "PI",
+      "file": "municipalities/12564.jsonl.gz",
+      "records": 164,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 117,
+            "70": 57,
+            "95": 20,
+            "22": 731,
+            "13": 2839,
+            "14": 28,
+            "27": 1,
+            "21": 2,
+            "80": 1,
+            "55": 32
+          },
+          "valid": 3691,
+          "turnout": 3828,
+          "sections": 17
+        },
+        "2": {
+          "votes": {
+            "13": 2941,
+            "22": 731,
+            "95": 15,
+            "96": 55
+          },
+          "valid": 3672,
+          "turnout": 3742,
+          "sections": 17
+        }
+      },
+      "sections": 17,
+      "file_size_bytes": 2618
+    },
+    {
+      "id": "10030",
+      "name": "ÁGUA BRANCA",
+      "uf": "PI",
+      "file": "municipalities/10030.jsonl.gz",
+      "records": 597,
+      "turns": {
+        "1": {
+          "votes": {
+            "96": 317,
+            "27": 2,
+            "95": 132,
+            "80": 2,
+            "22": 3820,
+            "55": 74,
+            "70": 203,
+            "21": 1,
+            "14": 188,
+            "13": 8457,
+            "30": 6,
+            "16": 1
+          },
+          "valid": 12754,
+          "turnout": 13203,
+          "sections": 58
+        },
+        "2": {
+          "votes": {
+            "13": 8780,
+            "22": 3681,
+            "95": 74,
+            "96": 237
+          },
+          "valid": 12461,
+          "turnout": 12772,
+          "sections": 58
+        }
+      },
+      "sections": 58,
+      "file_size_bytes": 8169
+    }
+  ]
+}
