@@ -8,9 +8,9 @@
   "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_RS.zip",
   "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
   "license": "Creative Commons Attribution (CC BY)",
-  "retrieved_at_utc": "2026-10-26T17:19:22.822846+00:00",
-  "source_archive_size_bytes": 144569003,
-  "source_archive_sha256": "924062046eb3e9926d346dfb5b2525cb2ef43ee473cdf02e42bbc70a9a42c60e",
+  "retrieved_at_utc": "2026-10-27T11:01:55.188373+00:00",
+  "source_archive_size_bytes": 149832038,
+  "source_archive_sha256": "35f690742c8bb94c40e04762cf51ce0069be1363458e29b276df9aab4c599919",
   "source_archive_members": [
     "votacao_secao_2026_RS.csv"
   ],
