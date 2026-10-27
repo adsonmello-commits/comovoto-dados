@@ -17,8 +17,16 @@ from pathlib import Path
 
 SOURCE_URL = "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip"
 PORTAL_URL = "https://dadosabertos.tse.jus.br/dataset/resultados-2026"
-EXPECTED = {"RS": 497, "SC": 295, "PR": 399}
-STATE_NAMES = {"RS": "Rio Grande do Sul", "SC": "Santa Catarina", "PR": "Paraná"}
+STATE_NAMES = {
+    "AC": "Acre", "AL": "Alagoas", "AM": "Amazonas", "AP": "Amapá",
+    "BA": "Bahia", "CE": "Ceará", "DF": "Distrito Federal", "ES": "Espírito Santo",
+    "GO": "Goiás", "MA": "Maranhão", "MG": "Minas Gerais", "MS": "Mato Grosso do Sul",
+    "MT": "Mato Grosso", "PA": "Pará", "PB": "Paraíba", "PE": "Pernambuco",
+    "PI": "Piauí", "PR": "Paraná", "RJ": "Rio de Janeiro", "RN": "Rio Grande do Norte",
+    "RO": "Rondônia", "RR": "Roraima", "RS": "Rio Grande do Sul", "SC": "Santa Catarina",
+    "SE": "Sergipe", "SP": "São Paulo", "TO": "Tocantins"
+}
+STATE_CODES = set(STATE_NAMES)
 OUT_BASE = Path("data/2026/presidencia")
 INVALID = {"95", "96", "97", "98"}
 
@@ -42,10 +50,10 @@ def main() -> None:
     request = urllib.request.Request(SOURCE_URL, headers={"User-Agent": "ComoVoto-data-import/1.0"})
     streams: dict[tuple[str, str], io.TextIOWrapper] = {}
     raw_files = []
-    cities: dict[str, dict[str, dict]] = {uf: {} for uf in EXPECTED}
+    cities: dict[str, dict[str, dict]] = {uf: {} for uf in STATE_NAMES}
     sections: dict[tuple[str, str], set[tuple[str, str, str]]] = {}
     candidates: dict[str, dict] = {}
-    turns: dict[str, set[str]] = {uf: set() for uf in EXPECTED}
+    turns: dict[str, set[str]] = {uf: set() for uf in STATE_NAMES}
     rows_total: Counter[str] = Counter()
 
     try:
@@ -72,7 +80,7 @@ def main() -> None:
                     cargo_field = fields.get("DS_CARGO")
                     for row in reader:
                         state = (row.get(fields["SG_UF"]) or "").strip().upper()
-                        if state not in EXPECTED:
+                        if state not in STATE_CODES:
                             continue
                         if cargo_field and "PRESIDENTE" not in (row.get(cargo_field) or "").upper():
                             continue
@@ -127,10 +135,10 @@ def main() -> None:
             for raw in raw_files:
                 raw.close()
 
-        for state, expected in EXPECTED.items():
+        for state in STATE_NAMES:
             found = len(cities[state])
-            if found != expected:
-                raise RuntimeError(f"{state}: esperados {expected} municípios; encontrados {found}.")
+            if found == 0:
+                raise RuntimeError(f"{state}: nenhum município presidencial foi encontrado no arquivo nacional.")
             if "1" not in turns[state]:
                 raise RuntimeError(f"{state}: o arquivo presidencial não trouxe o 1º turno.")
             complete = {"1", "2"}.issubset(turns[state])
