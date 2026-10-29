@@ -1,0 +1,735 @@
+{
+  "title": "Votos computados após as 17h — 2º turno das Eleições 2026",
+  "source": "TSE",
+  "retrieved_at": "2026-10-29",
+  "scope": "27 UFs do território nacional; exterior não incluído",
+  "timezone": "Horário de Brasília",
+  "notes": [
+    "Os números são agregados por UF e não identificam em qual candidatura os votos foram registrados.",
+    "A tabela de votos após 17h considera seções cujo encerramento foi registrado depois das 17h.",
+    "O TSE esclarece que encerramento até 17h10 é compatível com a rotina de emissão do boletim e não indica, por si só, situação atípica."
+  ],
+  "sources": [
+    {
+      "label": "TSE — levantamento de votos registrados após as 17h",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/arquivos/total-de-votos-apos-17h",
+      "description": "Tabela por UF: seções encerradas após 17h e votos por faixa horária."
+    },
+    {
+      "label": "TSE — votos computados após 17h10",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/arquivos/votos-computados-apos-17h10",
+      "description": "Tabela por UF: seções encerradas após 17h10 e votos computados após 17h."
+    },
+    {
+      "label": "TSE — votos registrados após 19h",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/arquivos/votos-computados-apos-19h",
+      "description": "Tabela por UF: seções encerradas após 19h e votos computados nessas seções após 17h."
+    },
+    {
+      "label": "TSE — notícia metodológica",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-mais-de-34-mil-votos-foram-registrados-apos-as-17h-no-2o-turno",
+      "description": "Explica os cortes temporais e os procedimentos de encerramento."
+    }
+  ],
+  "totals": {
+    "after_17": {
+      "sections_closed": 497333,
+      "votes_17_18": 32399,
+      "votes_18_19": 1981,
+      "votes_after_19": 13,
+      "total_votes": 34393
+    },
+    "after_17_10": {
+      "sections_closed": 24268,
+      "votes_17_18": 6679,
+      "votes_18_19": 1981,
+      "votes_after_19": 13,
+      "total_votes": 8673
+    },
+    "after_19": {
+      "sections_closed": 6766,
+      "votes_17_18": 2837,
+      "votes_18_19": 1923,
+      "votes_after_19": 13,
+      "total_votes": 4773
+    },
+    "sections_closed_by_17_10": 473065
+  },
+  "states": [
+    {
+      "uf": "AC",
+      "state": "Acre",
+      "after17": {
+        "sections_closed": 2270,
+        "votes_17_18": 158,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 158
+      },
+      "after17_10": {
+        "sections_closed": 33,
+        "votes_17_18": 5,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 5
+      },
+      "after19": {
+        "sections_closed": 2,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "AL",
+      "state": "Alagoas",
+      "after17": {
+        "sections_closed": 7101,
+        "votes_17_18": 646,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 646
+      },
+      "after17_10": {
+        "sections_closed": 241,
+        "votes_17_18": 101,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 101
+      },
+      "after19": {
+        "sections_closed": 2,
+        "votes_17_18": 40,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 40
+      }
+    },
+    {
+      "uf": "AM",
+      "state": "Amazonas",
+      "after17": {
+        "sections_closed": 7601,
+        "votes_17_18": 973,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 973
+      },
+      "after17_10": {
+        "sections_closed": 347,
+        "votes_17_18": 91,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 91
+      },
+      "after19": {
+        "sections_closed": 0,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "AP",
+      "state": "Amapá",
+      "after17": {
+        "sections_closed": 1914,
+        "votes_17_18": 142,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 142
+      },
+      "after17_10": {
+        "sections_closed": 47,
+        "votes_17_18": 6,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 6
+      },
+      "after19": {
+        "sections_closed": 0,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "BA",
+      "state": "Bahia",
+      "after17": {
+        "sections_closed": 35476,
+        "votes_17_18": 3903,
+        "votes_18_19": 285,
+        "votes_after_19": 2,
+        "total_votes": 4190
+      },
+      "after17_10": {
+        "sections_closed": 3787,
+        "votes_17_18": 1369,
+        "votes_18_19": 285,
+        "votes_after_19": 2,
+        "total_votes": 1656
+      },
+      "after19": {
+        "sections_closed": 968,
+        "votes_17_18": 518,
+        "votes_18_19": 282,
+        "votes_after_19": 2,
+        "total_votes": 802
+      }
+    },
+    {
+      "uf": "CE",
+      "state": "Ceará",
+      "after17": {
+        "sections_closed": 23765,
+        "votes_17_18": 1073,
+        "votes_18_19": 1,
+        "votes_after_19": 0,
+        "total_votes": 1074
+      },
+      "after17_10": {
+        "sections_closed": 408,
+        "votes_17_18": 102,
+        "votes_18_19": 1,
+        "votes_after_19": 0,
+        "total_votes": 103
+      },
+      "after19": {
+        "sections_closed": 0,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "DF",
+      "state": "Distrito Federal",
+      "after17": {
+        "sections_closed": 6969,
+        "votes_17_18": 978,
+        "votes_18_19": 2,
+        "votes_after_19": 0,
+        "total_votes": 980
+      },
+      "after17_10": {
+        "sections_closed": 696,
+        "votes_17_18": 155,
+        "votes_18_19": 2,
+        "votes_after_19": 0,
+        "total_votes": 157
+      },
+      "after19": {
+        "sections_closed": 17,
+        "votes_17_18": 2,
+        "votes_18_19": 2,
+        "votes_after_19": 0,
+        "total_votes": 4
+      }
+    },
+    {
+      "uf": "ES",
+      "state": "Espírito Santo",
+      "after17": {
+        "sections_closed": 9843,
+        "votes_17_18": 294,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 294
+      },
+      "after17_10": {
+        "sections_closed": 105,
+        "votes_17_18": 12,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 12
+      },
+      "after19": {
+        "sections_closed": 1,
+        "votes_17_18": 2,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 2
+      }
+    },
+    {
+      "uf": "GO",
+      "state": "Goiás",
+      "after17": {
+        "sections_closed": 15686,
+        "votes_17_18": 734,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 734
+      },
+      "after17_10": {
+        "sections_closed": 205,
+        "votes_17_18": 83,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 83
+      },
+      "after19": {
+        "sections_closed": 1,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "MA",
+      "state": "Maranhão",
+      "after17": {
+        "sections_closed": 18093,
+        "votes_17_18": 911,
+        "votes_18_19": 10,
+        "votes_after_19": 0,
+        "total_votes": 921
+      },
+      "after17_10": {
+        "sections_closed": 865,
+        "votes_17_18": 156,
+        "votes_18_19": 10,
+        "votes_after_19": 0,
+        "total_votes": 166
+      },
+      "after19": {
+        "sections_closed": 3,
+        "votes_17_18": 3,
+        "votes_18_19": 10,
+        "votes_after_19": 0,
+        "total_votes": 13
+      }
+    },
+    {
+      "uf": "MG",
+      "state": "Minas Gerais",
+      "after17": {
+        "sections_closed": 52060,
+        "votes_17_18": 2253,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 2253
+      },
+      "after17_10": {
+        "sections_closed": 740,
+        "votes_17_18": 136,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 136
+      },
+      "after19": {
+        "sections_closed": 2,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "MS",
+      "state": "Mato Grosso do Sul",
+      "after17": {
+        "sections_closed": 7106,
+        "votes_17_18": 422,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 422
+      },
+      "after17_10": {
+        "sections_closed": 97,
+        "votes_17_18": 25,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 25
+      },
+      "after19": {
+        "sections_closed": 0,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "MT",
+      "state": "Mato Grosso",
+      "after17": {
+        "sections_closed": 8287,
+        "votes_17_18": 908,
+        "votes_18_19": 1,
+        "votes_after_19": 0,
+        "total_votes": 909
+      },
+      "after17_10": {
+        "sections_closed": 268,
+        "votes_17_18": 84,
+        "votes_18_19": 1,
+        "votes_after_19": 0,
+        "total_votes": 85
+      },
+      "after19": {
+        "sections_closed": 9,
+        "votes_17_18": 4,
+        "votes_18_19": 1,
+        "votes_after_19": 0,
+        "total_votes": 5
+      }
+    },
+    {
+      "uf": "PA",
+      "state": "Pará",
+      "after17": {
+        "sections_closed": 20827,
+        "votes_17_18": 1304,
+        "votes_18_19": 4,
+        "votes_after_19": 0,
+        "total_votes": 1308
+      },
+      "after17_10": {
+        "sections_closed": 701,
+        "votes_17_18": 148,
+        "votes_18_19": 4,
+        "votes_after_19": 0,
+        "total_votes": 152
+      },
+      "after19": {
+        "sections_closed": 9,
+        "votes_17_18": 0,
+        "votes_18_19": 4,
+        "votes_after_19": 0,
+        "total_votes": 4
+      }
+    },
+    {
+      "uf": "PB",
+      "state": "Paraíba",
+      "after17": {
+        "sections_closed": 10712,
+        "votes_17_18": 430,
+        "votes_18_19": 41,
+        "votes_after_19": 0,
+        "total_votes": 471
+      },
+      "after17_10": {
+        "sections_closed": 579,
+        "votes_17_18": 128,
+        "votes_18_19": 41,
+        "votes_after_19": 0,
+        "total_votes": 169
+      },
+      "after19": {
+        "sections_closed": 311,
+        "votes_17_18": 99,
+        "votes_18_19": 41,
+        "votes_after_19": 0,
+        "total_votes": 140
+      }
+    },
+    {
+      "uf": "PE",
+      "state": "Pernambuco",
+      "after17": {
+        "sections_closed": 21418,
+        "votes_17_18": 1616,
+        "votes_18_19": 112,
+        "votes_after_19": 2,
+        "total_votes": 1730
+      },
+      "after17_10": {
+        "sections_closed": 1872,
+        "votes_17_18": 463,
+        "votes_18_19": 112,
+        "votes_after_19": 2,
+        "total_votes": 577
+      },
+      "after19": {
+        "sections_closed": 700,
+        "votes_17_18": 260,
+        "votes_18_19": 112,
+        "votes_after_19": 2,
+        "total_votes": 374
+      }
+    },
+    {
+      "uf": "PI",
+      "state": "Piauí",
+      "after17": {
+        "sections_closed": 10225,
+        "votes_17_18": 336,
+        "votes_18_19": 1,
+        "votes_after_19": 0,
+        "total_votes": 337
+      },
+      "after17_10": {
+        "sections_closed": 237,
+        "votes_17_18": 35,
+        "votes_18_19": 1,
+        "votes_after_19": 0,
+        "total_votes": 36
+      },
+      "after19": {
+        "sections_closed": 7,
+        "votes_17_18": 0,
+        "votes_18_19": 1,
+        "votes_after_19": 0,
+        "total_votes": 1
+      }
+    },
+    {
+      "uf": "PR",
+      "state": "Paraná",
+      "after17": {
+        "sections_closed": 27142,
+        "votes_17_18": 926,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 926
+      },
+      "after17_10": {
+        "sections_closed": 243,
+        "votes_17_18": 39,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 39
+      },
+      "after19": {
+        "sections_closed": 1,
+        "votes_17_18": 1,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 1
+      }
+    },
+    {
+      "uf": "RJ",
+      "state": "Rio de Janeiro",
+      "after17": {
+        "sections_closed": 37674,
+        "votes_17_18": 3267,
+        "votes_18_19": 879,
+        "votes_after_19": 4,
+        "total_votes": 4150
+      },
+      "after17_10": {
+        "sections_closed": 5713,
+        "votes_17_18": 1466,
+        "votes_18_19": 879,
+        "votes_after_19": 4,
+        "total_votes": 2349
+      },
+      "after19": {
+        "sections_closed": 2999,
+        "votes_17_18": 1038,
+        "votes_18_19": 835,
+        "votes_after_19": 4,
+        "total_votes": 1877
+      }
+    },
+    {
+      "uf": "RN",
+      "state": "Rio Grande do Norte",
+      "after17": {
+        "sections_closed": 8115,
+        "votes_17_18": 411,
+        "votes_18_19": 2,
+        "votes_after_19": 0,
+        "total_votes": 413
+      },
+      "after17_10": {
+        "sections_closed": 238,
+        "votes_17_18": 57,
+        "votes_18_19": 2,
+        "votes_after_19": 0,
+        "total_votes": 59
+      },
+      "after19": {
+        "sections_closed": 3,
+        "votes_17_18": 5,
+        "votes_18_19": 2,
+        "votes_after_19": 0,
+        "total_votes": 7
+      }
+    },
+    {
+      "uf": "RO",
+      "state": "Rondônia",
+      "after17": {
+        "sections_closed": 4698,
+        "votes_17_18": 555,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 555
+      },
+      "after17_10": {
+        "sections_closed": 102,
+        "votes_17_18": 36,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 36
+      },
+      "after19": {
+        "sections_closed": 0,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "RR",
+      "state": "Roraima",
+      "after17": {
+        "sections_closed": 1519,
+        "votes_17_18": 145,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 145
+      },
+      "after17_10": {
+        "sections_closed": 43,
+        "votes_17_18": 12,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 12
+      },
+      "after19": {
+        "sections_closed": 0,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "RS",
+      "state": "Rio Grande do Sul",
+      "after17": {
+        "sections_closed": 27546,
+        "votes_17_18": 829,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 829
+      },
+      "after17_10": {
+        "sections_closed": 220,
+        "votes_17_18": 57,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 57
+      },
+      "after19": {
+        "sections_closed": 2,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "SC",
+      "state": "Santa Catarina",
+      "after17": {
+        "sections_closed": 17325,
+        "votes_17_18": 463,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 463
+      },
+      "after17_10": {
+        "sections_closed": 98,
+        "votes_17_18": 15,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 15
+      },
+      "after19": {
+        "sections_closed": 0,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    },
+    {
+      "uf": "SE",
+      "state": "Sergipe",
+      "after17": {
+        "sections_closed": 5923,
+        "votes_17_18": 280,
+        "votes_18_19": 7,
+        "votes_after_19": 0,
+        "total_votes": 287
+      },
+      "after17_10": {
+        "sections_closed": 187,
+        "votes_17_18": 34,
+        "votes_18_19": 7,
+        "votes_after_19": 0,
+        "total_votes": 41
+      },
+      "after19": {
+        "sections_closed": 53,
+        "votes_17_18": 15,
+        "votes_18_19": 7,
+        "votes_after_19": 0,
+        "total_votes": 22
+      }
+    },
+    {
+      "uf": "SP",
+      "state": "São Paulo",
+      "after17": {
+        "sections_closed": 103654,
+        "votes_17_18": 8219,
+        "votes_18_19": 636,
+        "votes_after_19": 5,
+        "total_votes": 8860
+      },
+      "after17_10": {
+        "sections_closed": 6093,
+        "votes_17_18": 1855,
+        "votes_18_19": 636,
+        "votes_after_19": 5,
+        "total_votes": 2496
+      },
+      "after19": {
+        "sections_closed": 1676,
+        "votes_17_18": 850,
+        "votes_18_19": 626,
+        "votes_after_19": 5,
+        "total_votes": 1481
+      }
+    },
+    {
+      "uf": "TO",
+      "state": "Tocantins",
+      "after17": {
+        "sections_closed": 4384,
+        "votes_17_18": 223,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 223
+      },
+      "after17_10": {
+        "sections_closed": 103,
+        "votes_17_18": 9,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 9
+      },
+      "after19": {
+        "sections_closed": 0,
+        "votes_17_18": 0,
+        "votes_18_19": 0,
+        "votes_after_19": 0,
+        "total_votes": 0
+      }
+    }
+  ]
+}
