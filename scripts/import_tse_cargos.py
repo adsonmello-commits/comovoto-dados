@@ -11,7 +11,7 @@ import tempfile
 import unicodedata
 import urllib.request
 import zipfile
-from collections import Counter
+from collections import Counter, OrderedDict
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -64,8 +64,8 @@ def import_state(state: str) -> None:
     build_dir = Path(tempfile.mkdtemp(prefix=f".{state.lower()}-cargos-", dir=Path("data/2026")))
     digest = hashlib.sha256()
     archive_size = 0
-    streams: dict[tuple[str, str], io.TextIOWrapper] = {}
-    raw_files = []
+    streams: OrderedDict[tuple[str, str], io.TextIOWrapper] = OrderedDict()
+    raw_handles: dict[tuple[str, str], object] = {}
     cities: dict[str, dict] = {}
     city_sections: dict[tuple[str, str, str], set[tuple[str, str]]] = {}
     state_turns: dict[str, set[str]] = {code: set() for code in OFFICE_NAMES}
@@ -123,23 +123,30 @@ def import_state(state: str) -> None:
                         city_office = city_entry["offices"].setdefault(office, {"turns":set(),"sections":{},"records":0})
                         city_office["turns"].add(turn)
                         city_office["sections"].setdefault(turn,set()).add((zone,section))
-                        if key not in streams:
+                        stream = streams.pop(key, None)
+                        if stream is None:
+                            if len(streams) >= 128:
+                                old_key, old_stream = streams.popitem(last=False)
+                                old_stream.close()
+                                raw_handles.pop(old_key).close()
                             folder = build_dir / "municipalities" / city
                             folder.mkdir(parents=True, exist_ok=True)
-                            raw = (folder / f"{office}.jsonl.gz").open("wb")
-                            raw_files.append(raw)
+                            output_path = folder / "{}.jsonl.gz".format(office)
+                            raw = output_path.open("ab" if output_path.exists() else "wb")
+                            raw_handles[key] = raw
                             compressed = gzip.GzipFile(fileobj=raw, mode="wb", compresslevel=9, mtime=0)
-                            streams[key] = io.TextIOWrapper(compressed, encoding="utf-8", newline="\n")
+                            stream = io.TextIOWrapper(compressed, encoding="utf-8", newline="\\n")
+                        streams[key] = stream
                         # [turn,zone,section,local,candidate code,candidate label,party,votes]
                         local_field = fields.get("NR_LOCAL_VOTACAO")
                         local_code = (row.get(local_field) or "").strip() if local_field else ""
                         record = [turn,zone,section,local_code,vote_code,candidate_name,party,votes]
-                        streams[key].write(json.dumps(record, ensure_ascii=False, separators=(",",":")) + "\n")
+                        stream.write(json.dumps(record, ensure_ascii=False, separators=(",",":")) + "\\n")
                         city_office["records"] += 1
                         state_rows[office] += 1
             for stream in streams.values():
                 stream.close()
-            for raw in raw_files:
+            for raw in raw_handles.values():
                 raw.close()
 
         expected_offices = {"GOVERNADOR","SENADOR","DEPUTADO_FEDERAL"}
@@ -202,7 +209,7 @@ def import_state(state: str) -> None:
         for stream in streams.values():
             if not stream.closed:
                 stream.close()
-        for raw in raw_files:
+        for raw in raw_handles.values():
             if not raw.closed:
                 raw.close()
         shutil.rmtree(temp_dir, ignore_errors=True)
