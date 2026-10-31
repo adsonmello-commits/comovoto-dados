@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "MG",
+    "municipalities": 853
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_MG.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:04:22.711510+00:00",
+  "source_archive_size_bytes": 201389374,
+  "source_archive_sha256": "895b8b93ec633d0aff6c734150f3fc12f27b388710f308b03ad51b92b8c6859d",
+  "source_archive_members": [
+    "votacao_secao_2024_MG.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 312572,
+    "VEREADOR": 3603534
+  },
+  "municipality_count": 853,
+  "partition_count": 1706
+}

@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "CE",
+    "municipalities": 184
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_CE.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T04:58:27.908331+00:00",
+  "source_archive_size_bytes": 69472729,
+  "source_archive_sha256": "14f96957ca6eff35b327665f781c5a839f7b3de7a98c02a9526ed911d320a08e",
+  "source_archive_members": [
+    "votacao_secao_2024_CE.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 153021,
+    "VEREADOR": 1419005
+  },
+  "municipality_count": 184,
+  "partition_count": 368
+}

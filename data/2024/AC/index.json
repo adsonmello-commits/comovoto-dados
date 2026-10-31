@@ -1,0 +1,663 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "AC",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AC.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 22,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "01120",
+      "name": "ACRELÂNDIA",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01120/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 1302,
+          "file_size_bytes": 7828
+        },
+        "PREFEITO": {
+          "file": "municipalities/01120/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 132,
+          "file_size_bytes": 877
+        }
+      }
+    },
+    {
+      "id": "01570",
+      "name": "ASSIS BRASIL",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01570/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1064,
+          "file_size_bytes": 7087
+        },
+        "PREFEITO": {
+          "file": "municipalities/01570/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 88,
+          "file_size_bytes": 633
+        }
+      }
+    },
+    {
+      "id": "01058",
+      "name": "BRASILÉIA",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01058/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 4389,
+          "file_size_bytes": 26695
+        },
+        "PREFEITO": {
+          "file": "municipalities/01058/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 269,
+          "file_size_bytes": 1593
+        }
+      }
+    },
+    {
+      "id": "01007",
+      "name": "BUJARI",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01007/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 2056,
+          "file_size_bytes": 12492
+        },
+        "PREFEITO": {
+          "file": "municipalities/01007/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 183,
+          "file_size_bytes": 1137
+        }
+      }
+    },
+    {
+      "id": "01015",
+      "name": "CAPIXABA",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01015/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1583,
+          "file_size_bytes": 9808
+        },
+        "PREFEITO": {
+          "file": "municipalities/01015/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 122,
+          "file_size_bytes": 788
+        }
+      }
+    },
+    {
+      "id": "01074",
+      "name": "CRUZEIRO DO SUL",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01074/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 227
+          },
+          "records": 14135,
+          "file_size_bytes": 95669
+        },
+        "PREFEITO": {
+          "file": "municipalities/01074/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 227
+          },
+          "records": 886,
+          "file_size_bytes": 4985
+        }
+      }
+    },
+    {
+      "id": "01112",
+      "name": "EPITACIOLÂNDIA",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01112/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 3361,
+          "file_size_bytes": 21669
+        },
+        "PREFEITO": {
+          "file": "municipalities/01112/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 253,
+          "file_size_bytes": 1500
+        }
+      }
+    },
+    {
+      "id": "01139",
+      "name": "FEIJÓ",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01139/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 5212,
+          "file_size_bytes": 32642
+        },
+        "PREFEITO": {
+          "file": "municipalities/01139/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 444,
+          "file_size_bytes": 2539
+        }
+      }
+    },
+    {
+      "id": "01104",
+      "name": "JORDÃO",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01104/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 907,
+          "file_size_bytes": 5967
+        },
+        "PREFEITO": {
+          "file": "municipalities/01104/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 97,
+          "file_size_bytes": 717
+        }
+      }
+    },
+    {
+      "id": "01554",
+      "name": "MANOEL URBANO",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01554/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1025,
+          "file_size_bytes": 6248
+        },
+        "PREFEITO": {
+          "file": "municipalities/01554/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 142,
+          "file_size_bytes": 916
+        }
+      }
+    },
+    {
+      "id": "01040",
+      "name": "MARECHAL THAUMATURGO",
+      "uf": "AC",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/01040/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 142,
+          "file_size_bytes": 956
+        },
+        "VEREADOR": {
+          "file": "municipalities/01040/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 1901,
+          "file_size_bytes": 11899
+        }
+      }
+    },
+    {
+      "id": "01090",
+      "name": "MÂNCIO LIMA",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01090/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 2677,
+          "file_size_bytes": 16620
+        },
+        "PREFEITO": {
+          "file": "municipalities/01090/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 184,
+          "file_size_bytes": 1161
+        }
+      }
+    },
+    {
+      "id": "01511",
+      "name": "PLÁCIDO DE CASTRO",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01511/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1726,
+          "file_size_bytes": 10723
+        },
+        "PREFEITO": {
+          "file": "municipalities/01511/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 204,
+          "file_size_bytes": 1259
+        }
+      }
+    },
+    {
+      "id": "01023",
+      "name": "PORTO ACRE",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01023/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 2489,
+          "file_size_bytes": 15504
+        },
+        "PREFEITO": {
+          "file": "municipalities/01023/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 335,
+          "file_size_bytes": 1954
+        }
+      }
+    },
+    {
+      "id": "01066",
+      "name": "PORTO WALTER",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01066/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1027,
+          "file_size_bytes": 6620
+        },
+        "PREFEITO": {
+          "file": "municipalities/01066/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 107,
+          "file_size_bytes": 784
+        }
+      }
+    },
+    {
+      "id": "01392",
+      "name": "RIO BRANCO",
+      "uf": "AC",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/01392/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 883
+          },
+          "records": 5234,
+          "file_size_bytes": 34321
+        },
+        "VEREADOR": {
+          "file": "municipalities/01392/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 883
+          },
+          "records": 79514,
+          "file_size_bytes": 635956
+        }
+      }
+    },
+    {
+      "id": "01082",
+      "name": "RODRIGUES ALVES",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01082/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 1710,
+          "file_size_bytes": 11308
+        },
+        "PREFEITO": {
+          "file": "municipalities/01082/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 201,
+          "file_size_bytes": 1317
+        }
+      }
+    },
+    {
+      "id": "01031",
+      "name": "SANTA ROSA DO PURUS",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01031/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 604,
+          "file_size_bytes": 4181
+        },
+        "PREFEITO": {
+          "file": "municipalities/01031/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 63,
+          "file_size_bytes": 525
+        }
+      }
+    },
+    {
+      "id": "01457",
+      "name": "SENA MADUREIRA",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01457/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 113
+          },
+          "records": 5574,
+          "file_size_bytes": 31883
+        },
+        "PREFEITO": {
+          "file": "municipalities/01457/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 113
+          },
+          "records": 422,
+          "file_size_bytes": 2387
+        }
+      }
+    },
+    {
+      "id": "01538",
+      "name": "SENADOR GUIOMARD",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01538/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 75
+          },
+          "records": 3601,
+          "file_size_bytes": 22443
+        },
+        "PREFEITO": {
+          "file": "municipalities/01538/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 75
+          },
+          "records": 438,
+          "file_size_bytes": 2511
+        }
+      }
+    },
+    {
+      "id": "01473",
+      "name": "TARAUACÁ",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01473/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 6846,
+          "file_size_bytes": 44080
+        },
+        "PREFEITO": {
+          "file": "municipalities/01473/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 475,
+          "file_size_bytes": 2704
+        }
+      }
+    },
+    {
+      "id": "01490",
+      "name": "XAPURI",
+      "uf": "AC",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/01490/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 2892,
+          "file_size_bytes": 16796
+        },
+        "PREFEITO": {
+          "file": "municipalities/01490/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 243,
+          "file_size_bytes": 1435
+        }
+      }
+    }
+  ]
+}

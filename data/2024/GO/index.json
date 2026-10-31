@@ -1,0 +1,7166 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "GO",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_GO.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 246,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1",
+        "2"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "93360",
+      "name": "ABADIA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93360/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 2265,
+          "file_size_bytes": 81064
+        },
+        "PREFEITO": {
+          "file": "municipalities/93360/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 138,
+          "file_size_bytes": 7662
+        }
+      }
+    },
+    {
+      "id": "92010",
+      "name": "ABADIÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92010/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 2052,
+          "file_size_bytes": 82387
+        },
+        "PREFEITO": {
+          "file": "municipalities/92010/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 148,
+          "file_size_bytes": 8687
+        }
+      }
+    },
+    {
+      "id": "96458",
+      "name": "ACREÚNA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96458/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 2497,
+          "file_size_bytes": 94006
+        },
+        "PREFEITO": {
+          "file": "municipalities/96458/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 187,
+          "file_size_bytes": 11879
+        }
+      }
+    },
+    {
+      "id": "96911",
+      "name": "ADELÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96911/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 243,
+          "file_size_bytes": 18123
+        },
+        "PREFEITO": {
+          "file": "municipalities/96911/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 31,
+          "file_size_bytes": 2343
+        }
+      }
+    },
+    {
+      "id": "92053",
+      "name": "ALEXÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92053/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 5247,
+          "file_size_bytes": 126240
+        },
+        "PREFEITO": {
+          "file": "municipalities/92053/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 648,
+          "file_size_bytes": 33017
+        }
+      }
+    },
+    {
+      "id": "92096",
+      "name": "ALOÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92096/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 96,
+          "file_size_bytes": 7358
+        },
+        "PREFEITO": {
+          "file": "municipalities/92096/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 24,
+          "file_size_bytes": 1781
+        }
+      }
+    },
+    {
+      "id": "92940",
+      "name": "ALTO HORIZONTE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92940/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 874,
+          "file_size_bytes": 53952
+        },
+        "PREFEITO": {
+          "file": "municipalities/92940/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 85,
+          "file_size_bytes": 6960
+        }
+      }
+    },
+    {
+      "id": "92118",
+      "name": "ALTO PARAÍSO DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92118/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1143,
+          "file_size_bytes": 57159
+        },
+        "PREFEITO": {
+          "file": "municipalities/92118/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 163,
+          "file_size_bytes": 11670
+        }
+      }
+    },
+    {
+      "id": "92150",
+      "name": "ALVORADA DO NORTE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92150/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1050,
+          "file_size_bytes": 59171
+        },
+        "PREFEITO": {
+          "file": "municipalities/92150/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 96,
+          "file_size_bytes": 6571
+        }
+      }
+    },
+    {
+      "id": "93386",
+      "name": "AMARALINA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93386/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 307,
+          "file_size_bytes": 23090
+        },
+        "PREFEITO": {
+          "file": "municipalities/93386/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 38,
+          "file_size_bytes": 3039
+        }
+      }
+    },
+    {
+      "id": "96610",
+      "name": "AMERICANO DO BRASIL",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96610/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 741,
+          "file_size_bytes": 46055
+        },
+        "PREFEITO": {
+          "file": "municipalities/96610/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 77,
+          "file_size_bytes": 5650
+        }
+      }
+    },
+    {
+      "id": "92177",
+      "name": "AMORINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92177/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 724,
+          "file_size_bytes": 47288
+        },
+        "PREFEITO": {
+          "file": "municipalities/92177/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 64,
+          "file_size_bytes": 5059
+        }
+      }
+    },
+    {
+      "id": "92231",
+      "name": "ANHANGÜERA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/92231/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 20,
+          "file_size_bytes": 1407
+        },
+        "VEREADOR": {
+          "file": "municipalities/92231/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 154,
+          "file_size_bytes": 11285
+        }
+      }
+    },
+    {
+      "id": "92258",
+      "name": "ANICUNS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92258/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 3070,
+          "file_size_bytes": 102451
+        },
+        "PREFEITO": {
+          "file": "municipalities/92258/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 413,
+          "file_size_bytes": 23983
+        }
+      }
+    },
+    {
+      "id": "92215",
+      "name": "ANÁPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92215/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 833
+          },
+          "records": 89408,
+          "file_size_bytes": 830799
+        },
+        "PREFEITO": {
+          "file": "municipalities/92215/PREFEITO.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 833,
+            "2": 833
+          },
+          "records": 9063,
+          "file_size_bytes": 119819
+        }
+      }
+    },
+    {
+      "id": "92274",
+      "name": "APARECIDA DE GOIÂNIA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/92274/PREFEITO.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 916,
+            "2": 916
+          },
+          "records": 8243,
+          "file_size_bytes": 112166
+        },
+        "VEREADOR": {
+          "file": "municipalities/92274/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 916
+          },
+          "records": 94607,
+          "file_size_bytes": 885587
+        }
+      }
+    },
+    {
+      "id": "93009",
+      "name": "APARECIDA DO RIO DOCE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93009/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 329,
+          "file_size_bytes": 23734
+        },
+        "PREFEITO": {
+          "file": "municipalities/93009/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 44,
+          "file_size_bytes": 3695
+        }
+      }
+    },
+    {
+      "id": "92290",
+      "name": "APORÉ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92290/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 452,
+          "file_size_bytes": 32401
+        },
+        "PREFEITO": {
+          "file": "municipalities/92290/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 50,
+          "file_size_bytes": 3539
+        }
+      }
+    },
+    {
+      "id": "92339",
+      "name": "ARAGARÇAS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92339/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 3054,
+          "file_size_bytes": 100636
+        },
+        "PREFEITO": {
+          "file": "municipalities/92339/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 234,
+          "file_size_bytes": 13995
+        }
+      }
+    },
+    {
+      "id": "92355",
+      "name": "ARAGOIÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92355/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 1890,
+          "file_size_bytes": 78910
+        },
+        "PREFEITO": {
+          "file": "municipalities/92355/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 185,
+          "file_size_bytes": 12061
+        }
+      }
+    },
+    {
+      "id": "96695",
+      "name": "ARAGUAPAZ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96695/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 1117,
+          "file_size_bytes": 59879
+        },
+        "PREFEITO": {
+          "file": "municipalities/96695/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 84,
+          "file_size_bytes": 6297
+        }
+      }
+    },
+    {
+      "id": "92312",
+      "name": "ARAÇU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92312/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 543,
+          "file_size_bytes": 38389
+        },
+        "PREFEITO": {
+          "file": "municipalities/92312/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 55,
+          "file_size_bytes": 4330
+        }
+      }
+    },
+    {
+      "id": "96717",
+      "name": "ARENÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96717/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 388,
+          "file_size_bytes": 28685
+        },
+        "PREFEITO": {
+          "file": "municipalities/96717/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 45,
+          "file_size_bytes": 3527
+        }
+      }
+    },
+    {
+      "id": "92495",
+      "name": "ARUANÃ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92495/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 1264,
+          "file_size_bytes": 68407
+        },
+        "PREFEITO": {
+          "file": "municipalities/92495/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 90,
+          "file_size_bytes": 6377
+        }
+      }
+    },
+    {
+      "id": "92517",
+      "name": "AURILÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92517/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 365,
+          "file_size_bytes": 26851
+        },
+        "PREFEITO": {
+          "file": "municipalities/92517/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 40,
+          "file_size_bytes": 3618
+        }
+      }
+    },
+    {
+      "id": "92550",
+      "name": "AVELINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92550/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 500,
+          "file_size_bytes": 34742
+        },
+        "PREFEITO": {
+          "file": "municipalities/92550/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 47,
+          "file_size_bytes": 3499
+        }
+      }
+    },
+    {
+      "id": "92614",
+      "name": "BALIZA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92614/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 429,
+          "file_size_bytes": 29754
+        },
+        "PREFEITO": {
+          "file": "municipalities/92614/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 67,
+          "file_size_bytes": 5093
+        }
+      }
+    },
+    {
+      "id": "92630",
+      "name": "BARRO ALTO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92630/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1283,
+          "file_size_bytes": 69015
+        },
+        "PREFEITO": {
+          "file": "municipalities/92630/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 136,
+          "file_size_bytes": 9527
+        }
+      }
+    },
+    {
+      "id": "92657",
+      "name": "BELA VISTA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92657/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 5389,
+          "file_size_bytes": 122369
+        },
+        "PREFEITO": {
+          "file": "municipalities/92657/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 446,
+          "file_size_bytes": 23505
+        }
+      }
+    },
+    {
+      "id": "92673",
+      "name": "BOM JARDIM DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92673/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 897,
+          "file_size_bytes": 56073
+        },
+        "PREFEITO": {
+          "file": "municipalities/92673/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 81,
+          "file_size_bytes": 5998
+        }
+      }
+    },
+    {
+      "id": "92690",
+      "name": "BOM JESUS DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92690/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 3286,
+          "file_size_bytes": 103572
+        },
+        "PREFEITO": {
+          "file": "municipalities/92690/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 153,
+          "file_size_bytes": 9509
+        }
+      }
+    },
+    {
+      "id": "92029",
+      "name": "BONFINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92029/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 1035,
+          "file_size_bytes": 59751
+        },
+        "PREFEITO": {
+          "file": "municipalities/92029/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 88,
+          "file_size_bytes": 6609
+        }
+      }
+    },
+    {
+      "id": "93408",
+      "name": "BONÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93408/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 335,
+          "file_size_bytes": 25718
+        },
+        "PREFEITO": {
+          "file": "municipalities/93408/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 42,
+          "file_size_bytes": 3630
+        }
+      }
+    },
+    {
+      "id": "92711",
+      "name": "BRAZABRANTES",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92711/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 327,
+          "file_size_bytes": 22899
+        },
+        "PREFEITO": {
+          "file": "municipalities/92711/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 44,
+          "file_size_bytes": 3540
+        }
+      }
+    },
+    {
+      "id": "92754",
+      "name": "BRITÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92754/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 883,
+          "file_size_bytes": 53307
+        },
+        "PREFEITO": {
+          "file": "municipalities/92754/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 85,
+          "file_size_bytes": 7005
+        }
+      }
+    },
+    {
+      "id": "92770",
+      "name": "BURITI ALEGRE",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/92770/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 143,
+          "file_size_bytes": 10523
+        },
+        "VEREADOR": {
+          "file": "municipalities/92770/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 1336,
+          "file_size_bytes": 68037
+        }
+      }
+    },
+    {
+      "id": "93106",
+      "name": "BURITI DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93106/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 265,
+          "file_size_bytes": 20864
+        },
+        "PREFEITO": {
+          "file": "municipalities/93106/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 39,
+          "file_size_bytes": 3170
+        }
+      }
+    },
+    {
+      "id": "93262",
+      "name": "BURITINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93262/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 381,
+          "file_size_bytes": 25997
+        },
+        "PREFEITO": {
+          "file": "municipalities/93262/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 45,
+          "file_size_bytes": 3622
+        }
+      }
+    },
+    {
+      "id": "92797",
+      "name": "CABECEIRAS",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/92797/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 124,
+          "file_size_bytes": 8262
+        },
+        "VEREADOR": {
+          "file": "municipalities/92797/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 1023,
+          "file_size_bytes": 56581
+        }
+      }
+    },
+    {
+      "id": "92819",
+      "name": "CACHOEIRA ALTA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92819/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1046,
+          "file_size_bytes": 51466
+        },
+        "PREFEITO": {
+          "file": "municipalities/92819/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 107,
+          "file_size_bytes": 7417
+        }
+      }
+    },
+    {
+      "id": "92835",
+      "name": "CACHOEIRA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92835/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 212,
+          "file_size_bytes": 17078
+        },
+        "PREFEITO": {
+          "file": "municipalities/92835/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 23,
+          "file_size_bytes": 2015
+        }
+      }
+    },
+    {
+      "id": "96733",
+      "name": "CACHOEIRA DOURADA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96733/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1001,
+          "file_size_bytes": 57572
+        },
+        "PREFEITO": {
+          "file": "municipalities/96733/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 96,
+          "file_size_bytes": 6891
+        }
+      }
+    },
+    {
+      "id": "92878",
+      "name": "CAIAPÔNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92878/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 2583,
+          "file_size_bytes": 83749
+        },
+        "PREFEITO": {
+          "file": "municipalities/92878/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 210,
+          "file_size_bytes": 12576
+        }
+      }
+    },
+    {
+      "id": "92894",
+      "name": "CALDAS NOVAS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92894/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 209
+          },
+          "records": 18656,
+          "file_size_bytes": 191238
+        },
+        "PREFEITO": {
+          "file": "municipalities/92894/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 209
+          },
+          "records": 1215,
+          "file_size_bytes": 41862
+        }
+      }
+    },
+    {
+      "id": "93122",
+      "name": "CALDAZINHA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93122/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 307,
+          "file_size_bytes": 20681
+        },
+        "PREFEITO": {
+          "file": "municipalities/93122/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 33,
+          "file_size_bytes": 2228
+        }
+      }
+    },
+    {
+      "id": "92916",
+      "name": "CAMPESTRE DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92916/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 504,
+          "file_size_bytes": 36153
+        },
+        "PREFEITO": {
+          "file": "municipalities/92916/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 52,
+          "file_size_bytes": 3921
+        }
+      }
+    },
+    {
+      "id": "96873",
+      "name": "CAMPINAÇU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96873/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 394,
+          "file_size_bytes": 28708
+        },
+        "PREFEITO": {
+          "file": "municipalities/96873/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 52,
+          "file_size_bytes": 4208
+        }
+      }
+    },
+    {
+      "id": "92932",
+      "name": "CAMPINORTE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92932/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 1388,
+          "file_size_bytes": 71488
+        },
+        "PREFEITO": {
+          "file": "municipalities/92932/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 114,
+          "file_size_bytes": 8613
+        }
+      }
+    },
+    {
+      "id": "92959",
+      "name": "CAMPO ALEGRE DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92959/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 847,
+          "file_size_bytes": 51423
+        },
+        "PREFEITO": {
+          "file": "municipalities/92959/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 74,
+          "file_size_bytes": 5855
+        }
+      }
+    },
+    {
+      "id": "93580",
+      "name": "CAMPO LIMPO DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93580/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 736,
+          "file_size_bytes": 43697
+        },
+        "PREFEITO": {
+          "file": "municipalities/93580/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 80,
+          "file_size_bytes": 5483
+        }
+      }
+    },
+    {
+      "id": "92975",
+      "name": "CAMPOS BELOS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92975/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 3637,
+          "file_size_bytes": 106154
+        },
+        "PREFEITO": {
+          "file": "municipalities/92975/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 184,
+          "file_size_bytes": 11432
+        }
+      }
+    },
+    {
+      "id": "92061",
+      "name": "CAMPOS VERDES",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92061/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 434,
+          "file_size_bytes": 28872
+        },
+        "PREFEITO": {
+          "file": "municipalities/92061/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 55,
+          "file_size_bytes": 3952
+        }
+      }
+    },
+    {
+      "id": "92991",
+      "name": "CARMO DO RIO VERDE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92991/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 861,
+          "file_size_bytes": 49388
+        },
+        "PREFEITO": {
+          "file": "municipalities/92991/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 83,
+          "file_size_bytes": 5797
+        }
+      }
+    },
+    {
+      "id": "92967",
+      "name": "CASTELÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92967/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 457,
+          "file_size_bytes": 28939
+        },
+        "PREFEITO": {
+          "file": "municipalities/92967/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 51,
+          "file_size_bytes": 3990
+        }
+      }
+    },
+    {
+      "id": "93017",
+      "name": "CATALÃO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93017/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 211
+          },
+          "records": 18129,
+          "file_size_bytes": 200154
+        },
+        "PREFEITO": {
+          "file": "municipalities/93017/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 211
+          },
+          "records": 1262,
+          "file_size_bytes": 31693
+        }
+      }
+    },
+    {
+      "id": "93033",
+      "name": "CATURAÍ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93033/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 782,
+          "file_size_bytes": 47461
+        },
+        "PREFEITO": {
+          "file": "municipalities/93033/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 65,
+          "file_size_bytes": 4768
+        }
+      }
+    },
+    {
+      "id": "93050",
+      "name": "CAVALCANTE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93050/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1199,
+          "file_size_bytes": 64956
+        },
+        "PREFEITO": {
+          "file": "municipalities/93050/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 112,
+          "file_size_bytes": 8002
+        }
+      }
+    },
+    {
+      "id": "92851",
+      "name": "CAÇU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92851/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 2082,
+          "file_size_bytes": 87529
+        },
+        "PREFEITO": {
+          "file": "municipalities/92851/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 211,
+          "file_size_bytes": 15097
+        }
+      }
+    },
+    {
+      "id": "93076",
+      "name": "CERES",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93076/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 3688,
+          "file_size_bytes": 104248
+        },
+        "PREFEITO": {
+          "file": "municipalities/93076/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 321,
+          "file_size_bytes": 18212
+        }
+      }
+    },
+    {
+      "id": "92100",
+      "name": "CEZARINA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92100/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 935,
+          "file_size_bytes": 50730
+        },
+        "PREFEITO": {
+          "file": "municipalities/92100/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 100,
+          "file_size_bytes": 7116
+        }
+      }
+    },
+    {
+      "id": "92924",
+      "name": "CHAPADÃO DO CÉU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92924/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 1190,
+          "file_size_bytes": 62299
+        },
+        "PREFEITO": {
+          "file": "municipalities/92924/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 100,
+          "file_size_bytes": 7223
+        }
+      }
+    },
+    {
+      "id": "93025",
+      "name": "CIDADE OCIDENTAL",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93025/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 137
+          },
+          "records": 10894,
+          "file_size_bytes": 163522
+        },
+        "PREFEITO": {
+          "file": "municipalities/93025/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 137
+          },
+          "records": 548,
+          "file_size_bytes": 21429
+        }
+      }
+    },
+    {
+      "id": "92886",
+      "name": "COCALZINHO DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92886/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 2656,
+          "file_size_bytes": 94709
+        },
+        "PREFEITO": {
+          "file": "municipalities/92886/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 200,
+          "file_size_bytes": 13527
+        }
+      }
+    },
+    {
+      "id": "92126",
+      "name": "COLINAS DO SUL",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92126/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 498,
+          "file_size_bytes": 34570
+        },
+        "PREFEITO": {
+          "file": "municipalities/92126/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 55,
+          "file_size_bytes": 4581
+        }
+      }
+    },
+    {
+      "id": "93190",
+      "name": "CORUMBAÍBA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93190/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 1070,
+          "file_size_bytes": 56960
+        },
+        "PREFEITO": {
+          "file": "municipalities/93190/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 87,
+          "file_size_bytes": 5926
+        }
+      }
+    },
+    {
+      "id": "93173",
+      "name": "CORUMBÁ DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93173/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1650,
+          "file_size_bytes": 72106
+        },
+        "PREFEITO": {
+          "file": "municipalities/93173/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 119,
+          "file_size_bytes": 7951
+        }
+      }
+    },
+    {
+      "id": "93254",
+      "name": "CRISTALINA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93254/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 111
+          },
+          "records": 8590,
+          "file_size_bytes": 145378
+        },
+        "PREFEITO": {
+          "file": "municipalities/93254/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 111
+          },
+          "records": 441,
+          "file_size_bytes": 20487
+        }
+      }
+    },
+    {
+      "id": "93270",
+      "name": "CRISTIANÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93270/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 377,
+          "file_size_bytes": 24987
+        },
+        "PREFEITO": {
+          "file": "municipalities/93270/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 44,
+          "file_size_bytes": 3222
+        }
+      }
+    },
+    {
+      "id": "93297",
+      "name": "CRIXÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93297/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 2653,
+          "file_size_bytes": 94153
+        },
+        "PREFEITO": {
+          "file": "municipalities/93297/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 239,
+          "file_size_bytes": 14625
+        }
+      }
+    },
+    {
+      "id": "93319",
+      "name": "CROMÍNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93319/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 363,
+          "file_size_bytes": 26964
+        },
+        "PREFEITO": {
+          "file": "municipalities/93319/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 53,
+          "file_size_bytes": 4291
+        }
+      }
+    },
+    {
+      "id": "93335",
+      "name": "CUMARI",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93335/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 163,
+          "file_size_bytes": 13541
+        },
+        "PREFEITO": {
+          "file": "municipalities/93335/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 24,
+          "file_size_bytes": 2050
+        }
+      }
+    },
+    {
+      "id": "93157",
+      "name": "CÓRREGO DO OURO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93157/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 240,
+          "file_size_bytes": 19096
+        },
+        "PREFEITO": {
+          "file": "municipalities/93157/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 34,
+          "file_size_bytes": 2841
+        }
+      }
+    },
+    {
+      "id": "93351",
+      "name": "DAMIANÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93351/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 487,
+          "file_size_bytes": 34359
+        },
+        "PREFEITO": {
+          "file": "municipalities/93351/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 50,
+          "file_size_bytes": 3949
+        }
+      }
+    },
+    {
+      "id": "93378",
+      "name": "DAMOLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93378/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 284,
+          "file_size_bytes": 20513
+        },
+        "PREFEITO": {
+          "file": "municipalities/93378/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 33,
+          "file_size_bytes": 2394
+        }
+      }
+    },
+    {
+      "id": "93394",
+      "name": "DAVINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93394/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 404,
+          "file_size_bytes": 27678
+        },
+        "PREFEITO": {
+          "file": "municipalities/93394/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 55,
+          "file_size_bytes": 4318
+        }
+      }
+    },
+    {
+      "id": "93432",
+      "name": "DIORAMA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93432/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 281,
+          "file_size_bytes": 20731
+        },
+        "PREFEITO": {
+          "file": "municipalities/93432/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 33,
+          "file_size_bytes": 2427
+        }
+      }
+    },
+    {
+      "id": "93092",
+      "name": "DIVINÓPOLIS DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93092/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 780,
+          "file_size_bytes": 39425
+        },
+        "PREFEITO": {
+          "file": "municipalities/93092/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 70,
+          "file_size_bytes": 4661
+        }
+      }
+    },
+    {
+      "id": "96750",
+      "name": "DOVERLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96750/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1087,
+          "file_size_bytes": 63750
+        },
+        "PREFEITO": {
+          "file": "municipalities/96750/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 94,
+          "file_size_bytes": 7288
+        }
+      }
+    },
+    {
+      "id": "92207",
+      "name": "EDEALINA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92207/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 513,
+          "file_size_bytes": 34359
+        },
+        "PREFEITO": {
+          "file": "municipalities/92207/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 49,
+          "file_size_bytes": 3776
+        }
+      }
+    },
+    {
+      "id": "93491",
+      "name": "EDÉIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93491/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1480,
+          "file_size_bytes": 76408
+        },
+        "PREFEITO": {
+          "file": "municipalities/93491/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 121,
+          "file_size_bytes": 9424
+        }
+      }
+    },
+    {
+      "id": "93513",
+      "name": "ESTRELA DO NORTE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93513/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 268,
+          "file_size_bytes": 19987
+        },
+        "PREFEITO": {
+          "file": "municipalities/93513/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 36,
+          "file_size_bytes": 2746
+        }
+      }
+    },
+    {
+      "id": "92223",
+      "name": "FAINA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92223/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 935,
+          "file_size_bytes": 56269
+        },
+        "PREFEITO": {
+          "file": "municipalities/92223/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 102,
+          "file_size_bytes": 7627
+        }
+      }
+    },
+    {
+      "id": "93530",
+      "name": "FAZENDA NOVA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93530/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 377,
+          "file_size_bytes": 26072
+        },
+        "PREFEITO": {
+          "file": "municipalities/93530/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 66,
+          "file_size_bytes": 4621
+        }
+      }
+    },
+    {
+      "id": "93572",
+      "name": "FIRMINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93572/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1254,
+          "file_size_bytes": 68149
+        },
+        "PREFEITO": {
+          "file": "municipalities/93572/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 149,
+          "file_size_bytes": 11692
+        }
+      }
+    },
+    {
+      "id": "93599",
+      "name": "FLORES DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93599/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 866,
+          "file_size_bytes": 47759
+        },
+        "PREFEITO": {
+          "file": "municipalities/93599/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 101,
+          "file_size_bytes": 6715
+        }
+      }
+    },
+    {
+      "id": "93610",
+      "name": "FORMOSA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93610/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 240
+          },
+          "records": 25031,
+          "file_size_bytes": 247350
+        },
+        "PREFEITO": {
+          "file": "municipalities/93610/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 240
+          },
+          "records": 1610,
+          "file_size_bytes": 53312
+        }
+      }
+    },
+    {
+      "id": "93637",
+      "name": "FORMOSO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93637/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 401,
+          "file_size_bytes": 27504
+        },
+        "PREFEITO": {
+          "file": "municipalities/93637/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 55,
+          "file_size_bytes": 4071
+        }
+      }
+    },
+    {
+      "id": "93564",
+      "name": "GAMELEIRA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93564/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 574,
+          "file_size_bytes": 38353
+        },
+        "PREFEITO": {
+          "file": "municipalities/93564/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 48,
+          "file_size_bytes": 4215
+        }
+      }
+    },
+    {
+      "id": "93696",
+      "name": "GOIANDIRA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93696/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 610,
+          "file_size_bytes": 38383
+        },
+        "PREFEITO": {
+          "file": "municipalities/93696/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 56,
+          "file_size_bytes": 4300
+        }
+      }
+    },
+    {
+      "id": "93750",
+      "name": "GOIANIRA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93750/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 127
+          },
+          "records": 7047,
+          "file_size_bytes": 129875
+        },
+        "PREFEITO": {
+          "file": "municipalities/93750/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 127
+          },
+          "records": 758,
+          "file_size_bytes": 30918
+        }
+      }
+    },
+    {
+      "id": "93670",
+      "name": "GOIANÁPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93670/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 1819,
+          "file_size_bytes": 81546
+        },
+        "PREFEITO": {
+          "file": "municipalities/93670/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 197,
+          "file_size_bytes": 13493
+        }
+      }
+    },
+    {
+      "id": "93718",
+      "name": "GOIANÉSIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93718/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 168
+          },
+          "records": 16791,
+          "file_size_bytes": 194808
+        },
+        "PREFEITO": {
+          "file": "municipalities/93718/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 168
+          },
+          "records": 987,
+          "file_size_bytes": 30167
+        }
+      }
+    },
+    {
+      "id": "93793",
+      "name": "GOIATUBA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93793/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 93
+          },
+          "records": 6360,
+          "file_size_bytes": 128598
+        },
+        "PREFEITO": {
+          "file": "municipalities/93793/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 93
+          },
+          "records": 361,
+          "file_size_bytes": 16261
+        }
+      }
+    },
+    {
+      "id": "93777",
+      "name": "GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93777/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 3677,
+          "file_size_bytes": 111606
+        },
+        "PREFEITO": {
+          "file": "municipalities/93777/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 312,
+          "file_size_bytes": 17245
+        }
+      }
+    },
+    {
+      "id": "93734",
+      "name": "GOIÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93734/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 2966
+          },
+          "records": 326721,
+          "file_size_bytes": 3331533
+        },
+        "PREFEITO": {
+          "file": "municipalities/93734/PREFEITO.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 2966,
+            "2": 2966
+          },
+          "records": 36719,
+          "file_size_bytes": 335585
+        }
+      }
+    },
+    {
+      "id": "92266",
+      "name": "GOUVELÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92266/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 459,
+          "file_size_bytes": 30679
+        },
+        "PREFEITO": {
+          "file": "municipalities/92266/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 49,
+          "file_size_bytes": 3710
+        }
+      }
+    },
+    {
+      "id": "93815",
+      "name": "GUAPÓ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93815/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 3009,
+          "file_size_bytes": 100265
+        },
+        "PREFEITO": {
+          "file": "municipalities/93815/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 271,
+          "file_size_bytes": 17663
+        }
+      }
+    },
+    {
+      "id": "93831",
+      "name": "GUARANI DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/93831/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 51,
+          "file_size_bytes": 3592
+        },
+        "VEREADOR": {
+          "file": "municipalities/93831/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 356,
+          "file_size_bytes": 24243
+        }
+      }
+    },
+    {
+      "id": "93149",
+      "name": "GUARAÍTA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/93149/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 36,
+          "file_size_bytes": 2695
+        },
+        "VEREADOR": {
+          "file": "municipalities/93149/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 260,
+          "file_size_bytes": 19715
+        }
+      }
+    },
+    {
+      "id": "92860",
+      "name": "GUARINOS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92860/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 229,
+          "file_size_bytes": 16536
+        },
+        "PREFEITO": {
+          "file": "municipalities/92860/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 37,
+          "file_size_bytes": 3065
+        }
+      }
+    },
+    {
+      "id": "93874",
+      "name": "HEITORAÍ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93874/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 501,
+          "file_size_bytes": 34287
+        },
+        "PREFEITO": {
+          "file": "municipalities/93874/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 46,
+          "file_size_bytes": 3503
+        }
+      }
+    },
+    {
+      "id": "93912",
+      "name": "HIDROLINA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/93912/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 42,
+          "file_size_bytes": 3106
+        },
+        "VEREADOR": {
+          "file": "municipalities/93912/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 281,
+          "file_size_bytes": 19939
+        }
+      }
+    },
+    {
+      "id": "93890",
+      "name": "HIDROLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93890/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 64
+          },
+          "records": 3212,
+          "file_size_bytes": 92006
+        },
+        "PREFEITO": {
+          "file": "municipalities/93890/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 64
+          },
+          "records": 192,
+          "file_size_bytes": 9894
+        }
+      }
+    },
+    {
+      "id": "93939",
+      "name": "IACIARA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93939/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1505,
+          "file_size_bytes": 73162
+        },
+        "PREFEITO": {
+          "file": "municipalities/93939/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 159,
+          "file_size_bytes": 12160
+        }
+      }
+    },
+    {
+      "id": "93165",
+      "name": "INACIOLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93165/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 624,
+          "file_size_bytes": 40048
+        },
+        "PREFEITO": {
+          "file": "municipalities/93165/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 55,
+          "file_size_bytes": 4252
+        }
+      }
+    },
+    {
+      "id": "96814",
+      "name": "INDIARA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96814/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 2065,
+          "file_size_bytes": 86218
+        },
+        "PREFEITO": {
+          "file": "municipalities/96814/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 178,
+          "file_size_bytes": 11416
+        }
+      }
+    },
+    {
+      "id": "93955",
+      "name": "INHUMAS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93955/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 128
+          },
+          "records": 12555,
+          "file_size_bytes": 160333
+        },
+        "PREFEITO": {
+          "file": "municipalities/93955/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 128
+          },
+          "records": 633,
+          "file_size_bytes": 30376
+        }
+      }
+    },
+    {
+      "id": "93971",
+      "name": "IPAMERI",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93971/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 4101,
+          "file_size_bytes": 113522
+        },
+        "PREFEITO": {
+          "file": "municipalities/93971/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 258,
+          "file_size_bytes": 12659
+        }
+      }
+    },
+    {
+      "id": "93548",
+      "name": "IPIRANGA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93548/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 342,
+          "file_size_bytes": 25983
+        },
+        "PREFEITO": {
+          "file": "municipalities/93548/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 39,
+          "file_size_bytes": 3206
+        }
+      }
+    },
+    {
+      "id": "93998",
+      "name": "IPORÁ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93998/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 112
+          },
+          "records": 7774,
+          "file_size_bytes": 138753
+        },
+        "PREFEITO": {
+          "file": "municipalities/93998/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 112
+          },
+          "records": 810,
+          "file_size_bytes": 36031
+        }
+      }
+    },
+    {
+      "id": "94013",
+      "name": "ISRAELÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94013/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 314,
+          "file_size_bytes": 23100
+        },
+        "PREFEITO": {
+          "file": "municipalities/94013/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 36,
+          "file_size_bytes": 2839
+        }
+      }
+    },
+    {
+      "id": "94030",
+      "name": "ITABERAÍ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94030/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 4050,
+          "file_size_bytes": 110662
+        },
+        "PREFEITO": {
+          "file": "municipalities/94030/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 373,
+          "file_size_bytes": 17649
+        }
+      }
+    },
+    {
+      "id": "92282",
+      "name": "ITAGUARI",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92282/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 702,
+          "file_size_bytes": 43311
+        },
+        "PREFEITO": {
+          "file": "municipalities/92282/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 62,
+          "file_size_bytes": 4396
+        }
+      }
+    },
+    {
+      "id": "94072",
+      "name": "ITAGUARU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94072/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 762,
+          "file_size_bytes": 46369
+        },
+        "PREFEITO": {
+          "file": "municipalities/94072/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 72,
+          "file_size_bytes": 5435
+        }
+      }
+    },
+    {
+      "id": "94110",
+      "name": "ITAJÁ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94110/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 693,
+          "file_size_bytes": 43852
+        },
+        "PREFEITO": {
+          "file": "municipalities/94110/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 53,
+          "file_size_bytes": 3938
+        }
+      }
+    },
+    {
+      "id": "94137",
+      "name": "ITAPACI",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94137/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 1897,
+          "file_size_bytes": 83915
+        },
+        "PREFEITO": {
+          "file": "municipalities/94137/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 192,
+          "file_size_bytes": 12095
+        }
+      }
+    },
+    {
+      "id": "94153",
+      "name": "ITAPIRAPUÃ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94153/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 1058,
+          "file_size_bytes": 57046
+        },
+        "PREFEITO": {
+          "file": "municipalities/94153/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 84,
+          "file_size_bytes": 5605
+        }
+      }
+    },
+    {
+      "id": "94196",
+      "name": "ITAPURANGA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94196/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 4757,
+          "file_size_bytes": 103079
+        },
+        "PREFEITO": {
+          "file": "municipalities/94196/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 435,
+          "file_size_bytes": 17722
+        }
+      }
+    },
+    {
+      "id": "94218",
+      "name": "ITARUMÃ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94218/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 812,
+          "file_size_bytes": 47534
+        },
+        "PREFEITO": {
+          "file": "municipalities/94218/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 76,
+          "file_size_bytes": 5797
+        }
+      }
+    },
+    {
+      "id": "94234",
+      "name": "ITAUÇU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94234/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1297,
+          "file_size_bytes": 57276
+        },
+        "PREFEITO": {
+          "file": "municipalities/94234/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 109,
+          "file_size_bytes": 6968
+        }
+      }
+    },
+    {
+      "id": "94250",
+      "name": "ITUMBIARA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94250/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 214
+          },
+          "records": 16217,
+          "file_size_bytes": 177749
+        },
+        "PREFEITO": {
+          "file": "municipalities/94250/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 214
+          },
+          "records": 854,
+          "file_size_bytes": 26104
+        }
+      }
+    },
+    {
+      "id": "94277",
+      "name": "IVOLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/94277/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 30,
+          "file_size_bytes": 2347
+        },
+        "VEREADOR": {
+          "file": "municipalities/94277/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 208,
+          "file_size_bytes": 15920
+        }
+      }
+    },
+    {
+      "id": "94293",
+      "name": "JANDAIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94293/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 980,
+          "file_size_bytes": 52300
+        },
+        "PREFEITO": {
+          "file": "municipalities/94293/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 78,
+          "file_size_bytes": 5457
+        }
+      }
+    },
+    {
+      "id": "94315",
+      "name": "JARAGUÁ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94315/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 97
+          },
+          "records": 5547,
+          "file_size_bytes": 125928
+        },
+        "PREFEITO": {
+          "file": "municipalities/94315/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 97
+          },
+          "records": 387,
+          "file_size_bytes": 18226
+        }
+      }
+    },
+    {
+      "id": "94331",
+      "name": "JATAÍ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94331/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 247
+          },
+          "records": 13455,
+          "file_size_bytes": 167668
+        },
+        "PREFEITO": {
+          "file": "municipalities/94331/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 247
+          },
+          "records": 1214,
+          "file_size_bytes": 33653
+        }
+      }
+    },
+    {
+      "id": "94358",
+      "name": "JAUPACI",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94358/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 428,
+          "file_size_bytes": 30913
+        },
+        "PREFEITO": {
+          "file": "municipalities/94358/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 59,
+          "file_size_bytes": 4995
+        }
+      }
+    },
+    {
+      "id": "92983",
+      "name": "JESÚPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92983/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 233,
+          "file_size_bytes": 18098
+        },
+        "PREFEITO": {
+          "file": "municipalities/92983/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 21,
+          "file_size_bytes": 1765
+        }
+      }
+    },
+    {
+      "id": "94374",
+      "name": "JOVIÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94374/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 1255,
+          "file_size_bytes": 67071
+        },
+        "PREFEITO": {
+          "file": "municipalities/94374/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 164,
+          "file_size_bytes": 6781
+        }
+      }
+    },
+    {
+      "id": "94390",
+      "name": "JUSSARA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/94390/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 191,
+          "file_size_bytes": 11148
+        },
+        "VEREADOR": {
+          "file": "municipalities/94390/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 2687,
+          "file_size_bytes": 88388
+        }
+      }
+    },
+    {
+      "id": "93602",
+      "name": "LAGOA SANTA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93602/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 230,
+          "file_size_bytes": 18231
+        },
+        "PREFEITO": {
+          "file": "municipalities/93602/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 27,
+          "file_size_bytes": 2332
+        }
+      }
+    },
+    {
+      "id": "94439",
+      "name": "LEOPOLDO DE BULHÕES",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/94439/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 94,
+          "file_size_bytes": 6970
+        },
+        "VEREADOR": {
+          "file": "municipalities/94439/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 880,
+          "file_size_bytes": 53887
+        }
+      }
+    },
+    {
+      "id": "94455",
+      "name": "LUZIÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94455/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 387
+          },
+          "records": 31919,
+          "file_size_bytes": 281916
+        },
+        "PREFEITO": {
+          "file": "municipalities/94455/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 387
+          },
+          "records": 2194,
+          "file_size_bytes": 56882
+        }
+      }
+    },
+    {
+      "id": "94471",
+      "name": "MAIRIPOTABA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94471/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 325,
+          "file_size_bytes": 24199
+        },
+        "PREFEITO": {
+          "file": "municipalities/94471/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 53,
+          "file_size_bytes": 4234
+        }
+      }
+    },
+    {
+      "id": "94498",
+      "name": "MAMBAÍ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94498/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 962,
+          "file_size_bytes": 56103
+        },
+        "PREFEITO": {
+          "file": "municipalities/94498/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 95,
+          "file_size_bytes": 7255
+        }
+      }
+    },
+    {
+      "id": "94510",
+      "name": "MARA ROSA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94510/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 878,
+          "file_size_bytes": 48215
+        },
+        "PREFEITO": {
+          "file": "municipalities/94510/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 104,
+          "file_size_bytes": 7140
+        }
+      }
+    },
+    {
+      "id": "94536",
+      "name": "MARZAGÃO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94536/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 219,
+          "file_size_bytes": 17897
+        },
+        "PREFEITO": {
+          "file": "municipalities/94536/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 30,
+          "file_size_bytes": 2500
+        }
+      }
+    },
+    {
+      "id": "92320",
+      "name": "MATRINCHÃ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92320/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 320,
+          "file_size_bytes": 25042
+        },
+        "PREFEITO": {
+          "file": "municipalities/92320/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 39,
+          "file_size_bytes": 3076
+        }
+      }
+    },
+    {
+      "id": "94579",
+      "name": "MAURILÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94579/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 787,
+          "file_size_bytes": 38129
+        },
+        "PREFEITO": {
+          "file": "municipalities/94579/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 91,
+          "file_size_bytes": 6117
+        }
+      }
+    },
+    {
+      "id": "92347",
+      "name": "MIMOSO DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92347/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 485,
+          "file_size_bytes": 32943
+        },
+        "PREFEITO": {
+          "file": "municipalities/92347/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 51,
+          "file_size_bytes": 4121
+        }
+      }
+    },
+    {
+      "id": "96474",
+      "name": "MINAÇU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96474/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 4399,
+          "file_size_bytes": 113949
+        },
+        "PREFEITO": {
+          "file": "municipalities/96474/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 306,
+          "file_size_bytes": 15971
+        }
+      }
+    },
+    {
+      "id": "94595",
+      "name": "MINEIROS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94595/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 139
+          },
+          "records": 12347,
+          "file_size_bytes": 156485
+        },
+        "PREFEITO": {
+          "file": "municipalities/94595/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 139
+          },
+          "records": 818,
+          "file_size_bytes": 35451
+        }
+      }
+    },
+    {
+      "id": "94650",
+      "name": "MOIPORÁ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94650/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 242,
+          "file_size_bytes": 19111
+        },
+        "PREFEITO": {
+          "file": "municipalities/94650/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 34,
+          "file_size_bytes": 2577
+        }
+      }
+    },
+    {
+      "id": "94676",
+      "name": "MONTE ALEGRE DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94676/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 811,
+          "file_size_bytes": 51810
+        },
+        "PREFEITO": {
+          "file": "municipalities/94676/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 85,
+          "file_size_bytes": 6273
+        }
+      }
+    },
+    {
+      "id": "94714",
+      "name": "MONTES CLAROS DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94714/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 945,
+          "file_size_bytes": 56045
+        },
+        "PREFEITO": {
+          "file": "municipalities/94714/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 83,
+          "file_size_bytes": 6359
+        }
+      }
+    },
+    {
+      "id": "92363",
+      "name": "MONTIVIDIU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92363/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1634,
+          "file_size_bytes": 74610
+        },
+        "PREFEITO": {
+          "file": "municipalities/92363/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 153,
+          "file_size_bytes": 9934
+        }
+      }
+    },
+    {
+      "id": "93181",
+      "name": "MONTIVIDIU DO NORTE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93181/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 435,
+          "file_size_bytes": 31653
+        },
+        "PREFEITO": {
+          "file": "municipalities/93181/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 48,
+          "file_size_bytes": 3898
+        }
+      }
+    },
+    {
+      "id": "94730",
+      "name": "MORRINHOS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94730/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 112
+          },
+          "records": 8640,
+          "file_size_bytes": 139203
+        },
+        "PREFEITO": {
+          "file": "municipalities/94730/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 112
+          },
+          "records": 614,
+          "file_size_bytes": 29717
+        }
+      }
+    },
+    {
+      "id": "92169",
+      "name": "MORRO AGUDO DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92169/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 343,
+          "file_size_bytes": 27272
+        },
+        "PREFEITO": {
+          "file": "municipalities/92169/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 33,
+          "file_size_bytes": 2879
+        }
+      }
+    },
+    {
+      "id": "94757",
+      "name": "MOSSÂMEDES",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/94757/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 39,
+          "file_size_bytes": 3050
+        },
+        "VEREADOR": {
+          "file": "municipalities/94757/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 518,
+          "file_size_bytes": 33686
+        }
+      }
+    },
+    {
+      "id": "94773",
+      "name": "MOZARLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94773/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 2667,
+          "file_size_bytes": 80463
+        },
+        "PREFEITO": {
+          "file": "municipalities/94773/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 194,
+          "file_size_bytes": 10670
+        }
+      }
+    },
+    {
+      "id": "96512",
+      "name": "MUNDO NOVO",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/96512/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 95,
+          "file_size_bytes": 7196
+        },
+        "VEREADOR": {
+          "file": "municipalities/96512/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 776,
+          "file_size_bytes": 46215
+        }
+      }
+    },
+    {
+      "id": "94790",
+      "name": "MUTUNÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94790/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 358,
+          "file_size_bytes": 25730
+        },
+        "PREFEITO": {
+          "file": "municipalities/94790/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 52,
+          "file_size_bytes": 4219
+        }
+      }
+    },
+    {
+      "id": "94854",
+      "name": "NAZÁRIO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94854/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1046,
+          "file_size_bytes": 58846
+        },
+        "PREFEITO": {
+          "file": "municipalities/94854/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 112,
+          "file_size_bytes": 7578
+        }
+      }
+    },
+    {
+      "id": "94870",
+      "name": "NERÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94870/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 6498,
+          "file_size_bytes": 126534
+        },
+        "PREFEITO": {
+          "file": "municipalities/94870/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 424,
+          "file_size_bytes": 19234
+        }
+      }
+    },
+    {
+      "id": "94897",
+      "name": "NIQUELÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94897/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 6378,
+          "file_size_bytes": 127206
+        },
+        "PREFEITO": {
+          "file": "municipalities/94897/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 491,
+          "file_size_bytes": 23940
+        }
+      }
+    },
+    {
+      "id": "94919",
+      "name": "NOVA AMÉRICA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94919/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 342,
+          "file_size_bytes": 25490
+        },
+        "PREFEITO": {
+          "file": "municipalities/94919/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 40,
+          "file_size_bytes": 2989
+        }
+      }
+    },
+    {
+      "id": "94935",
+      "name": "NOVA AURORA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/94935/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 18,
+          "file_size_bytes": 1566
+        },
+        "VEREADOR": {
+          "file": "municipalities/94935/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 149,
+          "file_size_bytes": 12390
+        }
+      }
+    },
+    {
+      "id": "96539",
+      "name": "NOVA CRIXÁS",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/96539/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 179,
+          "file_size_bytes": 11118
+        },
+        "VEREADOR": {
+          "file": "municipalities/96539/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1306,
+          "file_size_bytes": 62863
+        }
+      }
+    },
+    {
+      "id": "96555",
+      "name": "NOVA GLÓRIA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/96555/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 96,
+          "file_size_bytes": 6245
+        },
+        "VEREADOR": {
+          "file": "municipalities/96555/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 901,
+          "file_size_bytes": 46594
+        }
+      }
+    },
+    {
+      "id": "93084",
+      "name": "NOVA IGUAÇU DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93084/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 250,
+          "file_size_bytes": 17980
+        },
+        "PREFEITO": {
+          "file": "municipalities/93084/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 24,
+          "file_size_bytes": 1804
+        }
+      }
+    },
+    {
+      "id": "94951",
+      "name": "NOVA ROMA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94951/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 257,
+          "file_size_bytes": 20315
+        },
+        "PREFEITO": {
+          "file": "municipalities/94951/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 38,
+          "file_size_bytes": 3315
+        }
+      }
+    },
+    {
+      "id": "94978",
+      "name": "NOVA VENEZA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94978/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 1047,
+          "file_size_bytes": 47291
+        },
+        "PREFEITO": {
+          "file": "municipalities/94978/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 92,
+          "file_size_bytes": 5671
+        }
+      }
+    },
+    {
+      "id": "95010",
+      "name": "NOVO BRASIL",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95010/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 384,
+          "file_size_bytes": 23553
+        },
+        "PREFEITO": {
+          "file": "municipalities/95010/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 53,
+          "file_size_bytes": 4271
+        }
+      }
+    },
+    {
+      "id": "93327",
+      "name": "NOVO GAMA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93327/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 175
+          },
+          "records": 15055,
+          "file_size_bytes": 188198
+        },
+        "PREFEITO": {
+          "file": "municipalities/93327/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 175
+          },
+          "records": 791,
+          "file_size_bytes": 23952
+        }
+      }
+    },
+    {
+      "id": "92444",
+      "name": "NOVO PLANALTO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92444/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 363,
+          "file_size_bytes": 26521
+        },
+        "PREFEITO": {
+          "file": "municipalities/92444/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 51,
+          "file_size_bytes": 4146
+        }
+      }
+    },
+    {
+      "id": "95036",
+      "name": "ORIZONA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/95036/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 165,
+          "file_size_bytes": 10118
+        },
+        "VEREADOR": {
+          "file": "municipalities/95036/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 2106,
+          "file_size_bytes": 83484
+        }
+      }
+    },
+    {
+      "id": "95052",
+      "name": "OURO VERDE DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95052/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 412,
+          "file_size_bytes": 28258
+        },
+        "PREFEITO": {
+          "file": "municipalities/95052/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 57,
+          "file_size_bytes": 4236
+        }
+      }
+    },
+    {
+      "id": "95079",
+      "name": "OUVIDOR",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95079/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 820,
+          "file_size_bytes": 50111
+        },
+        "PREFEITO": {
+          "file": "municipalities/95079/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 108,
+          "file_size_bytes": 7963
+        }
+      }
+    },
+    {
+      "id": "95095",
+      "name": "PADRE BERNARDO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95095/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 3877,
+          "file_size_bytes": 116108
+        },
+        "PREFEITO": {
+          "file": "municipalities/95095/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 330,
+          "file_size_bytes": 20143
+        }
+      }
+    },
+    {
+      "id": "92460",
+      "name": "PALESTINA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92460/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 427,
+          "file_size_bytes": 29822
+        },
+        "PREFEITO": {
+          "file": "municipalities/92460/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 41,
+          "file_size_bytes": 3153
+        }
+      }
+    },
+    {
+      "id": "95117",
+      "name": "PALMEIRAS DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95117/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 4685,
+          "file_size_bytes": 117906
+        },
+        "PREFEITO": {
+          "file": "municipalities/95117/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 345,
+          "file_size_bytes": 17847
+        }
+      }
+    },
+    {
+      "id": "95133",
+      "name": "PALMELO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95133/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 141,
+          "file_size_bytes": 10799
+        },
+        "PREFEITO": {
+          "file": "municipalities/95133/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 21,
+          "file_size_bytes": 1566
+        }
+      }
+    },
+    {
+      "id": "95150",
+      "name": "PALMINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95150/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 336,
+          "file_size_bytes": 26084
+        },
+        "PREFEITO": {
+          "file": "municipalities/95150/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 50,
+          "file_size_bytes": 4170
+        }
+      }
+    },
+    {
+      "id": "95176",
+      "name": "PANAMÁ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95176/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 639,
+          "file_size_bytes": 42974
+        },
+        "PREFEITO": {
+          "file": "municipalities/95176/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 54,
+          "file_size_bytes": 4278
+        }
+      }
+    },
+    {
+      "id": "94552",
+      "name": "PARANAIGUARA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/94552/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1476,
+          "file_size_bytes": 68653
+        },
+        "PREFEITO": {
+          "file": "municipalities/94552/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 96,
+          "file_size_bytes": 6435
+        }
+      }
+    },
+    {
+      "id": "95230",
+      "name": "PARAÚNA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95230/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1743,
+          "file_size_bytes": 80357
+        },
+        "PREFEITO": {
+          "file": "municipalities/95230/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 123,
+          "file_size_bytes": 8702
+        }
+      }
+    },
+    {
+      "id": "93068",
+      "name": "PEROLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93068/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 117,
+          "file_size_bytes": 8954
+        },
+        "PREFEITO": {
+          "file": "municipalities/93068/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 27,
+          "file_size_bytes": 2053
+        }
+      }
+    },
+    {
+      "id": "95311",
+      "name": "PETROLINA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95311/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 1496,
+          "file_size_bytes": 73349
+        },
+        "PREFEITO": {
+          "file": "municipalities/95311/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 142,
+          "file_size_bytes": 9977
+        }
+      }
+    },
+    {
+      "id": "95354",
+      "name": "PILAR DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95354/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 361,
+          "file_size_bytes": 24949
+        },
+        "PREFEITO": {
+          "file": "municipalities/95354/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 67,
+          "file_size_bytes": 5509
+        }
+      }
+    },
+    {
+      "id": "95397",
+      "name": "PIRACANJUBA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95397/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 4590,
+          "file_size_bytes": 112933
+        },
+        "PREFEITO": {
+          "file": "municipalities/95397/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 495,
+          "file_size_bytes": 26861
+        }
+      }
+    },
+    {
+      "id": "95419",
+      "name": "PIRANHAS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95419/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1592,
+          "file_size_bytes": 75300
+        },
+        "PREFEITO": {
+          "file": "municipalities/95419/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 159,
+          "file_size_bytes": 10693
+        }
+      }
+    },
+    {
+      "id": "95435",
+      "name": "PIRENÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95435/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 4031,
+          "file_size_bytes": 117121
+        },
+        "PREFEITO": {
+          "file": "municipalities/95435/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 399,
+          "file_size_bytes": 23836
+        }
+      }
+    },
+    {
+      "id": "95451",
+      "name": "PIRES DO RIO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95451/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 5358,
+          "file_size_bytes": 123142
+        },
+        "PREFEITO": {
+          "file": "municipalities/95451/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 349,
+          "file_size_bytes": 17857
+        }
+      }
+    },
+    {
+      "id": "95958",
+      "name": "PLANALTINA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95958/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 201
+          },
+          "records": 16269,
+          "file_size_bytes": 188152
+        },
+        "PREFEITO": {
+          "file": "municipalities/95958/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 201
+          },
+          "records": 1268,
+          "file_size_bytes": 43006
+        }
+      }
+    },
+    {
+      "id": "95494",
+      "name": "PONTALINA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95494/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 3120,
+          "file_size_bytes": 100816
+        },
+        "PREFEITO": {
+          "file": "municipalities/95494/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 248,
+          "file_size_bytes": 16251
+        }
+      }
+    },
+    {
+      "id": "95559",
+      "name": "PORANGATU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95559/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 107
+          },
+          "records": 8247,
+          "file_size_bytes": 136343
+        },
+        "PREFEITO": {
+          "file": "municipalities/95559/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 107
+          },
+          "records": 629,
+          "file_size_bytes": 34025
+        }
+      }
+    },
+    {
+      "id": "93424",
+      "name": "PORTEIRÃO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93424/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 528,
+          "file_size_bytes": 35917
+        },
+        "PREFEITO": {
+          "file": "municipalities/93424/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 41,
+          "file_size_bytes": 3236
+        }
+      }
+    },
+    {
+      "id": "95575",
+      "name": "PORTELÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95575/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 280,
+          "file_size_bytes": 18871
+        },
+        "PREFEITO": {
+          "file": "municipalities/95575/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 30,
+          "file_size_bytes": 2346
+        }
+      }
+    },
+    {
+      "id": "95613",
+      "name": "POSSE",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/95613/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 83
+          },
+          "records": 483,
+          "file_size_bytes": 22514
+        },
+        "VEREADOR": {
+          "file": "municipalities/95613/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 83
+          },
+          "records": 5645,
+          "file_size_bytes": 124527
+        }
+      }
+    },
+    {
+      "id": "93041",
+      "name": "PROFESSOR JAMIL",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93041/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 510,
+          "file_size_bytes": 34242
+        },
+        "PREFEITO": {
+          "file": "municipalities/93041/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 43,
+          "file_size_bytes": 3296
+        }
+      }
+    },
+    {
+      "id": "95630",
+      "name": "QUIRINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95630/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 105
+          },
+          "records": 9060,
+          "file_size_bytes": 148960
+        },
+        "PREFEITO": {
+          "file": "municipalities/95630/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 105
+          },
+          "records": 627,
+          "file_size_bytes": 23990
+        }
+      }
+    },
+    {
+      "id": "95656",
+      "name": "RIALMA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95656/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1329,
+          "file_size_bytes": 66858
+        },
+        "PREFEITO": {
+          "file": "municipalities/95656/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 102,
+          "file_size_bytes": 6636
+        }
+      }
+    },
+    {
+      "id": "95672",
+      "name": "RIANÁPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95672/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 367,
+          "file_size_bytes": 27478
+        },
+        "PREFEITO": {
+          "file": "municipalities/95672/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 49,
+          "file_size_bytes": 3936
+        }
+      }
+    },
+    {
+      "id": "92827",
+      "name": "RIO QUENTE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92827/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 427,
+          "file_size_bytes": 32598
+        },
+        "PREFEITO": {
+          "file": "municipalities/92827/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 55,
+          "file_size_bytes": 4680
+        }
+      }
+    },
+    {
+      "id": "95710",
+      "name": "RIO VERDE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95710/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 459
+          },
+          "records": 44757,
+          "file_size_bytes": 377631
+        },
+        "PREFEITO": {
+          "file": "municipalities/95710/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 459
+          },
+          "records": 3160,
+          "file_size_bytes": 80011
+        }
+      }
+    },
+    {
+      "id": "95737",
+      "name": "RUBIATABA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95737/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 3085,
+          "file_size_bytes": 97637
+        },
+        "PREFEITO": {
+          "file": "municipalities/95737/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 191,
+          "file_size_bytes": 11135
+        }
+      }
+    },
+    {
+      "id": "95753",
+      "name": "SANCLERLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95753/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 835,
+          "file_size_bytes": 53642
+        },
+        "PREFEITO": {
+          "file": "municipalities/95753/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 91,
+          "file_size_bytes": 6959
+        }
+      }
+    },
+    {
+      "id": "95770",
+      "name": "SANTA BÁRBARA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95770/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 448,
+          "file_size_bytes": 30834
+        },
+        "PREFEITO": {
+          "file": "municipalities/95770/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 72,
+          "file_size_bytes": 5287
+        }
+      }
+    },
+    {
+      "id": "95796",
+      "name": "SANTA CRUZ DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/95796/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 55,
+          "file_size_bytes": 4414
+        },
+        "VEREADOR": {
+          "file": "municipalities/95796/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 352,
+          "file_size_bytes": 24393
+        }
+      }
+    },
+    {
+      "id": "92568",
+      "name": "SANTA FÉ DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92568/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 494,
+          "file_size_bytes": 36181
+        },
+        "PREFEITO": {
+          "file": "municipalities/92568/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 53,
+          "file_size_bytes": 4474
+        }
+      }
+    },
+    {
+      "id": "95818",
+      "name": "SANTA HELENA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95818/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 92
+          },
+          "records": 7565,
+          "file_size_bytes": 131783
+        },
+        "PREFEITO": {
+          "file": "municipalities/95818/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 92
+          },
+          "records": 368,
+          "file_size_bytes": 16281
+        }
+      }
+    },
+    {
+      "id": "96890",
+      "name": "SANTA ISABEL",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96890/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 470,
+          "file_size_bytes": 29455
+        },
+        "PREFEITO": {
+          "file": "municipalities/96890/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 52,
+          "file_size_bytes": 3762
+        }
+      }
+    },
+    {
+      "id": "95834",
+      "name": "SANTA RITA DO ARAGUAIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95834/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 908,
+          "file_size_bytes": 50638
+        },
+        "PREFEITO": {
+          "file": "municipalities/95834/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 74,
+          "file_size_bytes": 5086
+        }
+      }
+    },
+    {
+      "id": "93440",
+      "name": "SANTA RITA DO NOVO DESTINO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93440/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 254,
+          "file_size_bytes": 20144
+        },
+        "PREFEITO": {
+          "file": "municipalities/93440/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 48,
+          "file_size_bytes": 4124
+        }
+      }
+    },
+    {
+      "id": "95850",
+      "name": "SANTA ROSA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95850/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 647,
+          "file_size_bytes": 43120
+        },
+        "PREFEITO": {
+          "file": "municipalities/95850/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 46,
+          "file_size_bytes": 3406
+        }
+      }
+    },
+    {
+      "id": "95877",
+      "name": "SANTA TEREZA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95877/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 287,
+          "file_size_bytes": 22554
+        },
+        "PREFEITO": {
+          "file": "municipalities/95877/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 46,
+          "file_size_bytes": 3917
+        }
+      }
+    },
+    {
+      "id": "95893",
+      "name": "SANTA TEREZINHA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95893/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 1250,
+          "file_size_bytes": 67874
+        },
+        "PREFEITO": {
+          "file": "municipalities/95893/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 110,
+          "file_size_bytes": 8079
+        }
+      }
+    },
+    {
+      "id": "93203",
+      "name": "SANTO ANTÔNIO DA BARRA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93203/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 614,
+          "file_size_bytes": 41586
+        },
+        "PREFEITO": {
+          "file": "municipalities/93203/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 59,
+          "file_size_bytes": 4996
+        }
+      }
+    },
+    {
+      "id": "92908",
+      "name": "SANTO ANTÔNIO DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92908/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 1327,
+          "file_size_bytes": 69179
+        },
+        "PREFEITO": {
+          "file": "municipalities/92908/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 132,
+          "file_size_bytes": 9083
+        }
+      }
+    },
+    {
+      "id": "96776",
+      "name": "SANTO ANTÔNIO DO DESCOBERTO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96776/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 137
+          },
+          "records": 11570,
+          "file_size_bytes": 158769
+        },
+        "PREFEITO": {
+          "file": "municipalities/96776/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 137
+          },
+          "records": 854,
+          "file_size_bytes": 35613
+        }
+      }
+    },
+    {
+      "id": "92703",
+      "name": "SENADOR CANEDO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92703/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 250
+          },
+          "records": 20175,
+          "file_size_bytes": 194194
+        },
+        "PREFEITO": {
+          "file": "municipalities/92703/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 250
+          },
+          "records": 1748,
+          "file_size_bytes": 47592
+        }
+      }
+    },
+    {
+      "id": "96075",
+      "name": "SERRANÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/96075/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 105,
+          "file_size_bytes": 8447
+        },
+        "VEREADOR": {
+          "file": "municipalities/96075/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 660,
+          "file_size_bytes": 41487
+        }
+      }
+    },
+    {
+      "id": "96091",
+      "name": "SILVÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96091/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 2562,
+          "file_size_bytes": 91599
+        },
+        "PREFEITO": {
+          "file": "municipalities/96091/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 210,
+          "file_size_bytes": 11211
+        }
+      }
+    },
+    {
+      "id": "92720",
+      "name": "SIMOLÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92720/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 913,
+          "file_size_bytes": 55070
+        },
+        "PREFEITO": {
+          "file": "municipalities/92720/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 86,
+          "file_size_bytes": 6962
+        }
+      }
+    },
+    {
+      "id": "95915",
+      "name": "SÃO DOMINGOS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95915/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1119,
+          "file_size_bytes": 62398
+        },
+        "PREFEITO": {
+          "file": "municipalities/95915/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 138,
+          "file_size_bytes": 9627
+        }
+      }
+    },
+    {
+      "id": "95931",
+      "name": "SÃO FRANCISCO DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95931/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 753,
+          "file_size_bytes": 44986
+        },
+        "PREFEITO": {
+          "file": "municipalities/95931/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 67,
+          "file_size_bytes": 5099
+        }
+      }
+    },
+    {
+      "id": "95974",
+      "name": "SÃO JOÃO D ALIANÇA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/95974/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 84,
+          "file_size_bytes": 6427
+        },
+        "VEREADOR": {
+          "file": "municipalities/95974/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 746,
+          "file_size_bytes": 43923
+        }
+      }
+    },
+    {
+      "id": "92622",
+      "name": "SÃO JOÃO DA PARAÚNA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/92622/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 24,
+          "file_size_bytes": 1819
+        },
+        "VEREADOR": {
+          "file": "municipalities/92622/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 127,
+          "file_size_bytes": 9386
+        }
+      }
+    },
+    {
+      "id": "92649",
+      "name": "SÃO LUIZ DO NORTE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92649/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 492,
+          "file_size_bytes": 32978
+        },
+        "PREFEITO": {
+          "file": "municipalities/92649/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 63,
+          "file_size_bytes": 4667
+        }
+      }
+    },
+    {
+      "id": "95990",
+      "name": "SÃO LUÍS DE MONTES BELOS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/95990/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 5633,
+          "file_size_bytes": 126087
+        },
+        "PREFEITO": {
+          "file": "municipalities/95990/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 481,
+          "file_size_bytes": 25118
+        }
+      }
+    },
+    {
+      "id": "96016",
+      "name": "SÃO MIGUEL DO ARAGUAIA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/96016/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 223,
+          "file_size_bytes": 12764
+        },
+        "VEREADOR": {
+          "file": "municipalities/96016/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 3679,
+          "file_size_bytes": 107119
+        }
+      }
+    },
+    {
+      "id": "92665",
+      "name": "SÃO MIGUEL DO PASSA QUATRO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92665/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 485,
+          "file_size_bytes": 36440
+        },
+        "PREFEITO": {
+          "file": "municipalities/92665/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 46,
+          "file_size_bytes": 3814
+        }
+      }
+    },
+    {
+      "id": "93483",
+      "name": "SÃO PATRÍCIO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93483/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 270,
+          "file_size_bytes": 18007
+        },
+        "PREFEITO": {
+          "file": "municipalities/93483/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 43,
+          "file_size_bytes": 3205
+        }
+      }
+    },
+    {
+      "id": "96059",
+      "name": "SÃO SIMÃO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96059/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 3406,
+          "file_size_bytes": 103632
+        },
+        "PREFEITO": {
+          "file": "municipalities/96059/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 218,
+          "file_size_bytes": 12700
+        }
+      }
+    },
+    {
+      "id": "96113",
+      "name": "SÍTIO D ABADIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96113/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 307,
+          "file_size_bytes": 23042
+        },
+        "PREFEITO": {
+          "file": "municipalities/96113/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 54,
+          "file_size_bytes": 4182
+        }
+      }
+    },
+    {
+      "id": "96172",
+      "name": "TAQUARAL DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96172/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 883,
+          "file_size_bytes": 52705
+        },
+        "PREFEITO": {
+          "file": "municipalities/96172/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 81,
+          "file_size_bytes": 6197
+        }
+      }
+    },
+    {
+      "id": "92762",
+      "name": "TERESINA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92762/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 447,
+          "file_size_bytes": 33727
+        },
+        "PREFEITO": {
+          "file": "municipalities/92762/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 40,
+          "file_size_bytes": 3523
+        }
+      }
+    },
+    {
+      "id": "93220",
+      "name": "TEREZÓPOLIS DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/93220/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 78,
+          "file_size_bytes": 5861
+        },
+        "VEREADOR": {
+          "file": "municipalities/93220/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 953,
+          "file_size_bytes": 46292
+        }
+      }
+    },
+    {
+      "id": "96253",
+      "name": "TRINDADE",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96253/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 282
+          },
+          "records": 23430,
+          "file_size_bytes": 215701
+        },
+        "PREFEITO": {
+          "file": "municipalities/96253/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 282
+          },
+          "records": 1402,
+          "file_size_bytes": 41742
+        }
+      }
+    },
+    {
+      "id": "92789",
+      "name": "TROMBAS",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/92789/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 39,
+          "file_size_bytes": 3222
+        },
+        "VEREADOR": {
+          "file": "municipalities/92789/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 295,
+          "file_size_bytes": 22088
+        }
+      }
+    },
+    {
+      "id": "96237",
+      "name": "TRÊS RANCHOS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96237/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 271,
+          "file_size_bytes": 19779
+        },
+        "PREFEITO": {
+          "file": "municipalities/96237/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 46,
+          "file_size_bytes": 3743
+        }
+      }
+    },
+    {
+      "id": "92800",
+      "name": "TURVELÂNDIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/92800/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 552,
+          "file_size_bytes": 33318
+        },
+        "PREFEITO": {
+          "file": "municipalities/92800/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 74,
+          "file_size_bytes": 5691
+        }
+      }
+    },
+    {
+      "id": "96318",
+      "name": "TURVÂNIA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96318/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 403,
+          "file_size_bytes": 29213
+        },
+        "PREFEITO": {
+          "file": "municipalities/96318/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 63,
+          "file_size_bytes": 4976
+        }
+      }
+    },
+    {
+      "id": "93246",
+      "name": "UIRAPURU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93246/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 266,
+          "file_size_bytes": 21176
+        },
+        "PREFEITO": {
+          "file": "municipalities/93246/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 35,
+          "file_size_bytes": 2873
+        }
+      }
+    },
+    {
+      "id": "96350",
+      "name": "URUANA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96350/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 1149,
+          "file_size_bytes": 59699
+        },
+        "PREFEITO": {
+          "file": "municipalities/96350/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 148,
+          "file_size_bytes": 10059
+        }
+      }
+    },
+    {
+      "id": "96334",
+      "name": "URUAÇU",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96334/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 106
+          },
+          "records": 7742,
+          "file_size_bytes": 134549
+        },
+        "PREFEITO": {
+          "file": "municipalities/96334/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 106
+          },
+          "records": 517,
+          "file_size_bytes": 22260
+        }
+      }
+    },
+    {
+      "id": "96377",
+      "name": "URUTAÍ",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96377/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 520,
+          "file_size_bytes": 38636
+        },
+        "PREFEITO": {
+          "file": "municipalities/96377/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 45,
+          "file_size_bytes": 3814
+        }
+      }
+    },
+    {
+      "id": "93300",
+      "name": "VALPARAÍSO DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93300/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 289
+          },
+          "records": 25035,
+          "file_size_bytes": 224181
+        },
+        "PREFEITO": {
+          "file": "municipalities/93300/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 289
+          },
+          "records": 1956,
+          "file_size_bytes": 57968
+        }
+      }
+    },
+    {
+      "id": "96393",
+      "name": "VARJÃO",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/96393/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 72,
+          "file_size_bytes": 5838
+        },
+        "VEREADOR": {
+          "file": "municipalities/96393/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 666,
+          "file_size_bytes": 44426
+        }
+      }
+    },
+    {
+      "id": "96415",
+      "name": "VIANÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96415/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 2032,
+          "file_size_bytes": 87507
+        },
+        "PREFEITO": {
+          "file": "municipalities/96415/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 167,
+          "file_size_bytes": 11410
+        }
+      }
+    },
+    {
+      "id": "96571",
+      "name": "VICENTINÓPOLIS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96571/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1177,
+          "file_size_bytes": 64689
+        },
+        "PREFEITO": {
+          "file": "municipalities/96571/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 91,
+          "file_size_bytes": 6704
+        }
+      }
+    },
+    {
+      "id": "93289",
+      "name": "VILA BOA",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93289/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 566,
+          "file_size_bytes": 37324
+        },
+        "PREFEITO": {
+          "file": "municipalities/93289/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 59,
+          "file_size_bytes": 4704
+        }
+      }
+    },
+    {
+      "id": "93505",
+      "name": "VILA PROPÍCIO",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93505/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 558,
+          "file_size_bytes": 37270
+        },
+        "PREFEITO": {
+          "file": "municipalities/93505/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 76,
+          "file_size_bytes": 5449
+        }
+      }
+    },
+    {
+      "id": "96938",
+      "name": "ÁGUA FRIA DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/96938/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 550,
+          "file_size_bytes": 37209
+        },
+        "PREFEITO": {
+          "file": "municipalities/96938/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 70,
+          "file_size_bytes": 5393
+        }
+      }
+    },
+    {
+      "id": "92037",
+      "name": "ÁGUA LIMPA",
+      "uf": "GO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/92037/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 24,
+          "file_size_bytes": 1564
+        },
+        "VEREADOR": {
+          "file": "municipalities/92037/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 209,
+          "file_size_bytes": 14781
+        }
+      }
+    },
+    {
+      "id": "93343",
+      "name": "ÁGUAS LINDAS DE GOIÁS",
+      "uf": "GO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/93343/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 315
+          },
+          "records": 29115,
+          "file_size_bytes": 266255
+        },
+        "PREFEITO": {
+          "file": "municipalities/93343/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 315
+          },
+          "records": 2075,
+          "file_size_bytes": 50323
+        }
+      }
+    }
+  ]
+}

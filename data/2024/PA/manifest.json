@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "PA",
+    "municipalities": 144
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PA.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:07:35.535105+00:00",
+  "source_archive_size_bytes": 71540526,
+  "source_archive_sha256": "71aa2546098a7b2a4d856121ec941d37ca50ac1204dae869067718df8574fcf1",
+  "source_archive_members": [
+    "votacao_secao_2024_PA.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 129558,
+    "VEREADOR": 1426101
+  },
+  "municipality_count": 144,
+  "partition_count": 288
+}

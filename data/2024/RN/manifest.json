@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "RN",
+    "municipalities": 167
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RN.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:15:15.369553+00:00",
+  "source_archive_size_bytes": 21615095,
+  "source_archive_sha256": "b95f8d1c40ef6e4ac3fd077988f67b80cc4c75b74c0c306aec150cf03d086f63",
+  "source_archive_members": [
+    "votacao_secao_2024_RN.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 44666,
+    "VEREADOR": 438874
+  },
+  "municipality_count": 167,
+  "partition_count": 334
+}

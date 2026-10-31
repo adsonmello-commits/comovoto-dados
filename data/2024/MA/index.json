@@ -1,0 +1,6321 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "MA",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_MA.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 217,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1",
+        "2"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "07013",
+      "name": "AFONSO CUNHA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07013/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 962,
+          "file_size_bytes": 55578
+        },
+        "PREFEITO": {
+          "file": "municipalities/07013/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 93,
+          "file_size_bytes": 6779
+        }
+      }
+    },
+    {
+      "id": "07030",
+      "name": "ALCÂNTARA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07030/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 3507,
+          "file_size_bytes": 105628
+        },
+        "PREFEITO": {
+          "file": "municipalities/07030/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 486,
+          "file_size_bytes": 19331
+        }
+      }
+    },
+    {
+      "id": "07056",
+      "name": "ALDEIAS ALTAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07056/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 3271,
+          "file_size_bytes": 99869
+        },
+        "PREFEITO": {
+          "file": "municipalities/07056/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 311,
+          "file_size_bytes": 14540
+        }
+      }
+    },
+    {
+      "id": "07072",
+      "name": "ALTAMIRA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07072/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 64,
+          "file_size_bytes": 4926
+        },
+        "VEREADOR": {
+          "file": "municipalities/07072/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 431,
+          "file_size_bytes": 29107
+        }
+      }
+    },
+    {
+      "id": "07021",
+      "name": "ALTO ALEGRE DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07021/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 2763,
+          "file_size_bytes": 84803
+        },
+        "PREFEITO": {
+          "file": "municipalities/07021/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 301,
+          "file_size_bytes": 14961
+        }
+      }
+    },
+    {
+      "id": "07048",
+      "name": "ALTO ALEGRE DO PINDARÉ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07048/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 2394,
+          "file_size_bytes": 82884
+        },
+        "PREFEITO": {
+          "file": "municipalities/07048/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 375,
+          "file_size_bytes": 15425
+        }
+      }
+    },
+    {
+      "id": "07099",
+      "name": "ALTO PARNAÍBA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07099/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1230,
+          "file_size_bytes": 55935
+        },
+        "PREFEITO": {
+          "file": "municipalities/07099/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 138,
+          "file_size_bytes": 8749
+        }
+      }
+    },
+    {
+      "id": "07080",
+      "name": "AMAPÁ DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07080/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 760,
+          "file_size_bytes": 40188
+        },
+        "PREFEITO": {
+          "file": "municipalities/07080/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 87,
+          "file_size_bytes": 5546
+        }
+      }
+    },
+    {
+      "id": "07110",
+      "name": "AMARANTE DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07110/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 98
+          },
+          "records": 4590,
+          "file_size_bytes": 116724
+        },
+        "PREFEITO": {
+          "file": "municipalities/07110/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 98
+          },
+          "records": 372,
+          "file_size_bytes": 18372
+        }
+      }
+    },
+    {
+      "id": "07137",
+      "name": "ANAJATUBA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07137/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 73
+          },
+          "records": 3009,
+          "file_size_bytes": 94678
+        },
+        "PREFEITO": {
+          "file": "municipalities/07137/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 73
+          },
+          "records": 312,
+          "file_size_bytes": 16003
+        }
+      }
+    },
+    {
+      "id": "07153",
+      "name": "ANAPURUS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07153/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 1499,
+          "file_size_bytes": 67637
+        },
+        "PREFEITO": {
+          "file": "municipalities/07153/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 180,
+          "file_size_bytes": 10637
+        }
+      }
+    },
+    {
+      "id": "07064",
+      "name": "APICUM-AÇU",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07064/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 1955,
+          "file_size_bytes": 73544
+        },
+        "PREFEITO": {
+          "file": "municipalities/07064/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 203,
+          "file_size_bytes": 11981
+        }
+      }
+    },
+    {
+      "id": "07102",
+      "name": "ARAGUANÃ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07102/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 937,
+          "file_size_bytes": 48040
+        },
+        "PREFEITO": {
+          "file": "municipalities/07102/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 101,
+          "file_size_bytes": 6526
+        }
+      }
+    },
+    {
+      "id": "07170",
+      "name": "ARAIOSES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07170/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 124
+          },
+          "records": 5236,
+          "file_size_bytes": 124810
+        },
+        "PREFEITO": {
+          "file": "municipalities/07170/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 124
+          },
+          "records": 801,
+          "file_size_bytes": 30416
+        }
+      }
+    },
+    {
+      "id": "09679",
+      "name": "ARAME",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09679/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 2042,
+          "file_size_bytes": 75243
+        },
+        "PREFEITO": {
+          "file": "municipalities/09679/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 330,
+          "file_size_bytes": 14571
+        }
+      }
+    },
+    {
+      "id": "07196",
+      "name": "ARARI",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07196/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 4716,
+          "file_size_bytes": 121974
+        },
+        "PREFEITO": {
+          "file": "municipalities/07196/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 493,
+          "file_size_bytes": 19325
+        }
+      }
+    },
+    {
+      "id": "07218",
+      "name": "AXIXÁ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07218/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 1524,
+          "file_size_bytes": 66596
+        },
+        "PREFEITO": {
+          "file": "municipalities/07218/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 226,
+          "file_size_bytes": 14851
+        }
+      }
+    },
+    {
+      "id": "09610",
+      "name": "AÇAILÂNDIA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09610/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 248
+          },
+          "records": 20697,
+          "file_size_bytes": 254912
+        },
+        "PREFEITO": {
+          "file": "municipalities/09610/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 248
+          },
+          "records": 1766,
+          "file_size_bytes": 46255
+        }
+      }
+    },
+    {
+      "id": "07234",
+      "name": "BACABAL",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07234/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 232
+          },
+          "records": 14597,
+          "file_size_bytes": 223815
+        },
+        "PREFEITO": {
+          "file": "municipalities/07234/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 232
+          },
+          "records": 1161,
+          "file_size_bytes": 31121
+        }
+      }
+    },
+    {
+      "id": "07129",
+      "name": "BACABEIRA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07129/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 2306,
+          "file_size_bytes": 81725
+        },
+        "PREFEITO": {
+          "file": "municipalities/07129/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 260,
+          "file_size_bytes": 12097
+        }
+      }
+    },
+    {
+      "id": "07250",
+      "name": "BACURI",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07250/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 1808,
+          "file_size_bytes": 71993
+        },
+        "PREFEITO": {
+          "file": "municipalities/07250/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 183,
+          "file_size_bytes": 9538
+        }
+      }
+    },
+    {
+      "id": "07145",
+      "name": "BACURITUBA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07145/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 1048,
+          "file_size_bytes": 53358
+        },
+        "PREFEITO": {
+          "file": "municipalities/07145/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 95,
+          "file_size_bytes": 6513
+        }
+      }
+    },
+    {
+      "id": "07277",
+      "name": "BALSAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07277/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 208
+          },
+          "records": 17356,
+          "file_size_bytes": 230659
+        },
+        "PREFEITO": {
+          "file": "municipalities/07277/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 208
+          },
+          "records": 965,
+          "file_size_bytes": 26724
+        }
+      }
+    },
+    {
+      "id": "07315",
+      "name": "BARRA DO CORDA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07315/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 233
+          },
+          "records": 11264,
+          "file_size_bytes": 198395
+        },
+        "PREFEITO": {
+          "file": "municipalities/07315/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 233
+          },
+          "records": 1004,
+          "file_size_bytes": 22452
+        }
+      }
+    },
+    {
+      "id": "07331",
+      "name": "BARREIRINHAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07331/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 192
+          },
+          "records": 10942,
+          "file_size_bytes": 175646
+        },
+        "PREFEITO": {
+          "file": "municipalities/07331/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 192
+          },
+          "records": 710,
+          "file_size_bytes": 22421
+        }
+      }
+    },
+    {
+      "id": "07293",
+      "name": "BARÃO DE GRAJAÚ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07293/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 2097,
+          "file_size_bytes": 75909
+        },
+        "PREFEITO": {
+          "file": "municipalities/07293/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 228,
+          "file_size_bytes": 13013
+        }
+      }
+    },
+    {
+      "id": "07188",
+      "name": "BELA VISTA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07188/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 1208,
+          "file_size_bytes": 56815
+        },
+        "PREFEITO": {
+          "file": "municipalities/07188/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 131,
+          "file_size_bytes": 8027
+        }
+      }
+    },
+    {
+      "id": "07161",
+      "name": "BELÁGUA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07161/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 877,
+          "file_size_bytes": 46470
+        },
+        "PREFEITO": {
+          "file": "municipalities/07161/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 107,
+          "file_size_bytes": 7461
+        }
+      }
+    },
+    {
+      "id": "07358",
+      "name": "BENEDITO LEITE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07358/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 365,
+          "file_size_bytes": 23316
+        },
+        "PREFEITO": {
+          "file": "municipalities/07358/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 53,
+          "file_size_bytes": 3673
+        }
+      }
+    },
+    {
+      "id": "07374",
+      "name": "BEQUIMÃO",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07374/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 241,
+          "file_size_bytes": 13779
+        },
+        "VEREADOR": {
+          "file": "municipalities/07374/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 2660,
+          "file_size_bytes": 93312
+        }
+      }
+    },
+    {
+      "id": "07200",
+      "name": "BERNARDO DO MEARIM",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07200/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 420,
+          "file_size_bytes": 26668
+        },
+        "PREFEITO": {
+          "file": "municipalities/07200/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 74,
+          "file_size_bytes": 4499
+        }
+      }
+    },
+    {
+      "id": "07323",
+      "name": "BOA VISTA DO GURUPI",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07323/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 755,
+          "file_size_bytes": 45425
+        },
+        "PREFEITO": {
+          "file": "municipalities/07323/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 112,
+          "file_size_bytes": 8734
+        }
+      }
+    },
+    {
+      "id": "09555",
+      "name": "BOM JARDIM",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09555/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 3668,
+          "file_size_bytes": 101183
+        },
+        "PREFEITO": {
+          "file": "municipalities/09555/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 496,
+          "file_size_bytes": 18907
+        }
+      }
+    },
+    {
+      "id": "07269",
+      "name": "BOM JESUS DAS SELVAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07269/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 2483,
+          "file_size_bytes": 83840
+        },
+        "PREFEITO": {
+          "file": "municipalities/07269/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 428,
+          "file_size_bytes": 19855
+        }
+      }
+    },
+    {
+      "id": "07285",
+      "name": "BOM LUGAR",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07285/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 598,
+          "file_size_bytes": 35765
+        },
+        "PREFEITO": {
+          "file": "municipalities/07285/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 119,
+          "file_size_bytes": 7217
+        }
+      }
+    },
+    {
+      "id": "07390",
+      "name": "BREJO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07390/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 4546,
+          "file_size_bytes": 124549
+        },
+        "PREFEITO": {
+          "file": "municipalities/07390/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 335,
+          "file_size_bytes": 17496
+        }
+      }
+    },
+    {
+      "id": "07307",
+      "name": "BREJO DE AREIA",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07307/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 115,
+          "file_size_bytes": 7940
+        },
+        "VEREADOR": {
+          "file": "municipalities/07307/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 608,
+          "file_size_bytes": 37827
+        }
+      }
+    },
+    {
+      "id": "07412",
+      "name": "BURITI",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07412/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 4161,
+          "file_size_bytes": 113040
+        },
+        "PREFEITO": {
+          "file": "municipalities/07412/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 406,
+          "file_size_bytes": 17829
+        }
+      }
+    },
+    {
+      "id": "07439",
+      "name": "BURITI BRAVO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07439/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 64
+          },
+          "records": 2779,
+          "file_size_bytes": 88197
+        },
+        "PREFEITO": {
+          "file": "municipalities/07439/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 64
+          },
+          "records": 237,
+          "file_size_bytes": 11130
+        }
+      }
+    },
+    {
+      "id": "07340",
+      "name": "BURITICUPU",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07340/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 153
+          },
+          "records": 7229,
+          "file_size_bytes": 143810
+        },
+        "PREFEITO": {
+          "file": "municipalities/07340/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 153
+          },
+          "records": 585,
+          "file_size_bytes": 17861
+        }
+      }
+    },
+    {
+      "id": "07366",
+      "name": "BURITIRANA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07366/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 862,
+          "file_size_bytes": 40747
+        },
+        "PREFEITO": {
+          "file": "municipalities/07366/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 206,
+          "file_size_bytes": 8386
+        }
+      }
+    },
+    {
+      "id": "07226",
+      "name": "CACHOEIRA GRANDE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07226/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 1253,
+          "file_size_bytes": 59887
+        },
+        "PREFEITO": {
+          "file": "municipalities/07226/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 146,
+          "file_size_bytes": 9602
+        }
+      }
+    },
+    {
+      "id": "07455",
+      "name": "CAJAPIÓ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07455/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 1388,
+          "file_size_bytes": 63321
+        },
+        "PREFEITO": {
+          "file": "municipalities/07455/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 121,
+          "file_size_bytes": 7831
+        }
+      }
+    },
+    {
+      "id": "07471",
+      "name": "CAJARI",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07471/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 2145,
+          "file_size_bytes": 77126
+        },
+        "PREFEITO": {
+          "file": "municipalities/07471/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 239,
+          "file_size_bytes": 12448
+        }
+      }
+    },
+    {
+      "id": "07382",
+      "name": "CAMPESTRE DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07382/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1544,
+          "file_size_bytes": 70744
+        },
+        "PREFEITO": {
+          "file": "municipalities/07382/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 131,
+          "file_size_bytes": 9163
+        }
+      }
+    },
+    {
+      "id": "07510",
+      "name": "CANTANHEDE",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07510/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 188,
+          "file_size_bytes": 10636
+        },
+        "VEREADOR": {
+          "file": "municipalities/07510/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 1540,
+          "file_size_bytes": 65751
+        }
+      }
+    },
+    {
+      "id": "07404",
+      "name": "CAPINZAL DO NORTE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07404/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 994,
+          "file_size_bytes": 45379
+        },
+        "PREFEITO": {
+          "file": "municipalities/07404/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 121,
+          "file_size_bytes": 6487
+        }
+      }
+    },
+    {
+      "id": "07536",
+      "name": "CAROLINA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07536/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 3386,
+          "file_size_bytes": 104952
+        },
+        "PREFEITO": {
+          "file": "municipalities/07536/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 313,
+          "file_size_bytes": 15863
+        }
+      }
+    },
+    {
+      "id": "07552",
+      "name": "CARUTAPERA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07552/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 74
+          },
+          "records": 3462,
+          "file_size_bytes": 103807
+        },
+        "PREFEITO": {
+          "file": "municipalities/07552/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 74
+          },
+          "records": 265,
+          "file_size_bytes": 12122
+        }
+      }
+    },
+    {
+      "id": "07579",
+      "name": "CAXIAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07579/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 382
+          },
+          "records": 30459,
+          "file_size_bytes": 323280
+        },
+        "PREFEITO": {
+          "file": "municipalities/07579/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 382
+          },
+          "records": 2081,
+          "file_size_bytes": 50927
+        }
+      }
+    },
+    {
+      "id": "07595",
+      "name": "CEDRAL",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07595/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1250,
+          "file_size_bytes": 58337
+        },
+        "PREFEITO": {
+          "file": "municipalities/07595/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 174,
+          "file_size_bytes": 11230
+        }
+      }
+    },
+    {
+      "id": "07420",
+      "name": "CENTRAL DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07420/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 124,
+          "file_size_bytes": 7729
+        },
+        "VEREADOR": {
+          "file": "municipalities/07420/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 1070,
+          "file_size_bytes": 53288
+        }
+      }
+    },
+    {
+      "id": "07447",
+      "name": "CENTRO DO GUILHERME",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07447/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 832,
+          "file_size_bytes": 43909
+        },
+        "PREFEITO": {
+          "file": "municipalities/07447/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 89,
+          "file_size_bytes": 6023
+        }
+      }
+    },
+    {
+      "id": "07463",
+      "name": "CENTRO NOVO DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07463/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 168,
+          "file_size_bytes": 9161
+        },
+        "VEREADOR": {
+          "file": "municipalities/07463/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 1190,
+          "file_size_bytes": 55911
+        }
+      }
+    },
+    {
+      "id": "07617",
+      "name": "CHAPADINHA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07617/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 179
+          },
+          "records": 10780,
+          "file_size_bytes": 173522
+        },
+        "PREFEITO": {
+          "file": "municipalities/07617/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 179
+          },
+          "records": 877,
+          "file_size_bytes": 30381
+        }
+      }
+    },
+    {
+      "id": "07480",
+      "name": "CIDELÂNDIA",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07480/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 133,
+          "file_size_bytes": 6509
+        },
+        "VEREADOR": {
+          "file": "municipalities/07480/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 1302,
+          "file_size_bytes": 52325
+        }
+      }
+    },
+    {
+      "id": "07633",
+      "name": "CODÓ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07633/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 263
+          },
+          "records": 20065,
+          "file_size_bytes": 291321
+        },
+        "PREFEITO": {
+          "file": "municipalities/07633/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 263
+          },
+          "records": 1723,
+          "file_size_bytes": 39871
+        }
+      }
+    },
+    {
+      "id": "07650",
+      "name": "COELHO NETO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07650/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 105
+          },
+          "records": 5558,
+          "file_size_bytes": 130641
+        },
+        "PREFEITO": {
+          "file": "municipalities/07650/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 105
+          },
+          "records": 414,
+          "file_size_bytes": 17565
+        }
+      }
+    },
+    {
+      "id": "07676",
+      "name": "COLINAS",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07676/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 83
+          },
+          "records": 326,
+          "file_size_bytes": 14405
+        },
+        "VEREADOR": {
+          "file": "municipalities/07676/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 83
+          },
+          "records": 3257,
+          "file_size_bytes": 97696
+        }
+      }
+    },
+    {
+      "id": "07501",
+      "name": "CONCEIÇÃO DO LAGO-AÇU",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07501/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1358,
+          "file_size_bytes": 58933
+        },
+        "PREFEITO": {
+          "file": "municipalities/07501/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 169,
+          "file_size_bytes": 9157
+        }
+      }
+    },
+    {
+      "id": "07692",
+      "name": "COROATÁ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07692/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 153
+          },
+          "records": 9062,
+          "file_size_bytes": 162232
+        },
+        "PREFEITO": {
+          "file": "municipalities/07692/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 153
+          },
+          "records": 589,
+          "file_size_bytes": 23654
+        }
+      }
+    },
+    {
+      "id": "07714",
+      "name": "CURURUPU",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07714/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 97
+          },
+          "records": 3953,
+          "file_size_bytes": 109211
+        },
+        "PREFEITO": {
+          "file": "municipalities/07714/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 97
+          },
+          "records": 363,
+          "file_size_bytes": 14717
+        }
+      }
+    },
+    {
+      "id": "07498",
+      "name": "CÂNDIDO MENDES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07498/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 2427,
+          "file_size_bytes": 85769
+        },
+        "PREFEITO": {
+          "file": "municipalities/07498/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 253,
+          "file_size_bytes": 14479
+        }
+      }
+    },
+    {
+      "id": "07242",
+      "name": "DAVINÓPOLIS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07242/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 1806,
+          "file_size_bytes": 73535
+        },
+        "PREFEITO": {
+          "file": "municipalities/07242/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 169,
+          "file_size_bytes": 9054
+        }
+      }
+    },
+    {
+      "id": "07730",
+      "name": "DOM PEDRO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07730/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 2137,
+          "file_size_bytes": 82073
+        },
+        "PREFEITO": {
+          "file": "municipalities/07730/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 226,
+          "file_size_bytes": 13393
+        }
+      }
+    },
+    {
+      "id": "07757",
+      "name": "DUQUE BACELAR",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07757/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 937,
+          "file_size_bytes": 47629
+        },
+        "PREFEITO": {
+          "file": "municipalities/07757/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 118,
+          "file_size_bytes": 7049
+        }
+      }
+    },
+    {
+      "id": "07773",
+      "name": "ESPERANTINÓPOLIS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07773/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 1268,
+          "file_size_bytes": 55998
+        },
+        "PREFEITO": {
+          "file": "municipalities/07773/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 228,
+          "file_size_bytes": 13018
+        }
+      }
+    },
+    {
+      "id": "09636",
+      "name": "ESTREITO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09636/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 74
+          },
+          "records": 4787,
+          "file_size_bytes": 101742
+        },
+        "PREFEITO": {
+          "file": "municipalities/09636/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 74
+          },
+          "records": 490,
+          "file_size_bytes": 15204
+        }
+      }
+    },
+    {
+      "id": "07528",
+      "name": "FEIRA NOVA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07528/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 633,
+          "file_size_bytes": 42573
+        },
+        "PREFEITO": {
+          "file": "municipalities/07528/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 77,
+          "file_size_bytes": 6038
+        }
+      }
+    },
+    {
+      "id": "07544",
+      "name": "FERNANDO FALCÃO",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07544/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 118,
+          "file_size_bytes": 8970
+        },
+        "VEREADOR": {
+          "file": "municipalities/07544/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 527,
+          "file_size_bytes": 33975
+        }
+      }
+    },
+    {
+      "id": "07560",
+      "name": "FORMOSA DA SERRA NEGRA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07560/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 1536,
+          "file_size_bytes": 66137
+        },
+        "PREFEITO": {
+          "file": "municipalities/07560/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 176,
+          "file_size_bytes": 10234
+        }
+      }
+    },
+    {
+      "id": "07790",
+      "name": "FORTALEZA DOS NOGUEIRAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07790/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 968,
+          "file_size_bytes": 46776
+        },
+        "PREFEITO": {
+          "file": "municipalities/07790/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 121,
+          "file_size_bytes": 6872
+        }
+      }
+    },
+    {
+      "id": "07811",
+      "name": "FORTUNA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07811/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 1022,
+          "file_size_bytes": 53763
+        },
+        "PREFEITO": {
+          "file": "municipalities/07811/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 181,
+          "file_size_bytes": 12457
+        }
+      }
+    },
+    {
+      "id": "07838",
+      "name": "GODOFREDO VIANA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07838/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 1481,
+          "file_size_bytes": 65340
+        },
+        "PREFEITO": {
+          "file": "municipalities/07838/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 190,
+          "file_size_bytes": 11863
+        }
+      }
+    },
+    {
+      "id": "07854",
+      "name": "GONÇALVES DIAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07854/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 1246,
+          "file_size_bytes": 57675
+        },
+        "PREFEITO": {
+          "file": "municipalities/07854/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 165,
+          "file_size_bytes": 9720
+        }
+      }
+    },
+    {
+      "id": "07870",
+      "name": "GOVERNADOR ARCHER",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07870/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 696,
+          "file_size_bytes": 39743
+        },
+        "PREFEITO": {
+          "file": "municipalities/07870/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 118,
+          "file_size_bytes": 7900
+        }
+      }
+    },
+    {
+      "id": "07609",
+      "name": "GOVERNADOR EDISON LOBÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07609/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 2495,
+          "file_size_bytes": 89712
+        },
+        "PREFEITO": {
+          "file": "municipalities/07609/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 184,
+          "file_size_bytes": 11258
+        }
+      }
+    },
+    {
+      "id": "07897",
+      "name": "GOVERNADOR EUGÊNIO BARROS",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07897/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 152,
+          "file_size_bytes": 8948
+        },
+        "VEREADOR": {
+          "file": "municipalities/07897/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 1073,
+          "file_size_bytes": 52803
+        }
+      }
+    },
+    {
+      "id": "07625",
+      "name": "GOVERNADOR LUIZ ROCHA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07625/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 474,
+          "file_size_bytes": 29717
+        },
+        "PREFEITO": {
+          "file": "municipalities/07625/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 83,
+          "file_size_bytes": 5405
+        }
+      }
+    },
+    {
+      "id": "07641",
+      "name": "GOVERNADOR NEWTON BELLO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07641/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1078,
+          "file_size_bytes": 55951
+        },
+        "PREFEITO": {
+          "file": "municipalities/07641/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 136,
+          "file_size_bytes": 9034
+        }
+      }
+    },
+    {
+      "id": "07668",
+      "name": "GOVERNADOR NUNES FREIRE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07668/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 3705,
+          "file_size_bytes": 106579
+        },
+        "PREFEITO": {
+          "file": "municipalities/07668/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 385,
+          "file_size_bytes": 15058
+        }
+      }
+    },
+    {
+      "id": "07935",
+      "name": "GRAJAÚ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07935/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 176
+          },
+          "records": 10224,
+          "file_size_bytes": 180338
+        },
+        "PREFEITO": {
+          "file": "municipalities/07935/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 176
+          },
+          "records": 656,
+          "file_size_bytes": 18579
+        }
+      }
+    },
+    {
+      "id": "07919",
+      "name": "GRAÇA ARANHA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07919/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 565,
+          "file_size_bytes": 33965
+        },
+        "PREFEITO": {
+          "file": "municipalities/07919/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 82,
+          "file_size_bytes": 5759
+        }
+      }
+    },
+    {
+      "id": "07951",
+      "name": "GUIMARÃES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07951/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 1579,
+          "file_size_bytes": 70464
+        },
+        "PREFEITO": {
+          "file": "municipalities/07951/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 173,
+          "file_size_bytes": 11618
+        }
+      }
+    },
+    {
+      "id": "07978",
+      "name": "HUMBERTO DE CAMPOS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07978/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 3349,
+          "file_size_bytes": 102676
+        },
+        "PREFEITO": {
+          "file": "municipalities/07978/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 410,
+          "file_size_bytes": 19594
+        }
+      }
+    },
+    {
+      "id": "07994",
+      "name": "ICATU",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07994/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 93
+          },
+          "records": 3482,
+          "file_size_bytes": 101880
+        },
+        "PREFEITO": {
+          "file": "municipalities/07994/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 93
+          },
+          "records": 331,
+          "file_size_bytes": 13246
+        }
+      }
+    },
+    {
+      "id": "07684",
+      "name": "IGARAPÉ DO MEIO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07684/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 794,
+          "file_size_bytes": 44077
+        },
+        "PREFEITO": {
+          "file": "municipalities/07684/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 205,
+          "file_size_bytes": 11845
+        }
+      }
+    },
+    {
+      "id": "08010",
+      "name": "IGARAPÉ GRANDE",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/08010/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 143,
+          "file_size_bytes": 10648
+        },
+        "VEREADOR": {
+          "file": "municipalities/08010/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 672,
+          "file_size_bytes": 40137
+        }
+      }
+    },
+    {
+      "id": "08036",
+      "name": "IMPERATRIZ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08036/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 579
+          },
+          "records": 62896,
+          "file_size_bytes": 604703
+        },
+        "PREFEITO": {
+          "file": "municipalities/08036/PREFEITO.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 579,
+            "2": 579
+          },
+          "records": 6738,
+          "file_size_bytes": 94634
+        }
+      }
+    },
+    {
+      "id": "07706",
+      "name": "ITAIPAVA DO GRAJAÚ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07706/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 934,
+          "file_size_bytes": 51194
+        },
+        "PREFEITO": {
+          "file": "municipalities/07706/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 127,
+          "file_size_bytes": 8539
+        }
+      }
+    },
+    {
+      "id": "08079",
+      "name": "ITAPECURU MIRIM",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08079/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 163
+          },
+          "records": 12695,
+          "file_size_bytes": 198906
+        },
+        "PREFEITO": {
+          "file": "municipalities/08079/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 163
+          },
+          "records": 939,
+          "file_size_bytes": 32799
+        }
+      }
+    },
+    {
+      "id": "07722",
+      "name": "ITINGA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07722/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 3337,
+          "file_size_bytes": 102357
+        },
+        "PREFEITO": {
+          "file": "municipalities/07722/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 367,
+          "file_size_bytes": 19919
+        }
+      }
+    },
+    {
+      "id": "07749",
+      "name": "JATOBÁ",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07749/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 90,
+          "file_size_bytes": 6160
+        },
+        "VEREADOR": {
+          "file": "municipalities/07749/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 709,
+          "file_size_bytes": 43179
+        }
+      }
+    },
+    {
+      "id": "07765",
+      "name": "JENIPAPO DOS VIEIRAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07765/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 1121,
+          "file_size_bytes": 53465
+        },
+        "PREFEITO": {
+          "file": "municipalities/07765/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 178,
+          "file_size_bytes": 9250
+        }
+      }
+    },
+    {
+      "id": "08117",
+      "name": "JOSELÂNDIA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08117/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 1225,
+          "file_size_bytes": 56660
+        },
+        "PREFEITO": {
+          "file": "municipalities/08117/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 160,
+          "file_size_bytes": 10079
+        }
+      }
+    },
+    {
+      "id": "08095",
+      "name": "JOÃO LISBOA",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/08095/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 74
+          },
+          "records": 347,
+          "file_size_bytes": 15145
+        },
+        "VEREADOR": {
+          "file": "municipalities/08095/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 74
+          },
+          "records": 3247,
+          "file_size_bytes": 101646
+        }
+      }
+    },
+    {
+      "id": "07781",
+      "name": "JUNCO DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07781/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 535,
+          "file_size_bytes": 33586
+        },
+        "PREFEITO": {
+          "file": "municipalities/07781/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 73,
+          "file_size_bytes": 5117
+        }
+      }
+    },
+    {
+      "id": "08133",
+      "name": "LAGO DA PEDRA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08133/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 113
+          },
+          "records": 4016,
+          "file_size_bytes": 102310
+        },
+        "PREFEITO": {
+          "file": "municipalities/08133/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 113
+          },
+          "records": 542,
+          "file_size_bytes": 20106
+        }
+      }
+    },
+    {
+      "id": "08150",
+      "name": "LAGO DO JUNCO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08150/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 829,
+          "file_size_bytes": 43118
+        },
+        "PREFEITO": {
+          "file": "municipalities/08150/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 119,
+          "file_size_bytes": 7349
+        }
+      }
+    },
+    {
+      "id": "07803",
+      "name": "LAGO DOS RODRIGUES",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/07803/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 109,
+          "file_size_bytes": 7282
+        },
+        "VEREADOR": {
+          "file": "municipalities/07803/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 594,
+          "file_size_bytes": 36292
+        }
+      }
+    },
+    {
+      "id": "08176",
+      "name": "LAGO VERDE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08176/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 1547,
+          "file_size_bytes": 64775
+        },
+        "PREFEITO": {
+          "file": "municipalities/08176/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 204,
+          "file_size_bytes": 10645
+        }
+      }
+    },
+    {
+      "id": "07820",
+      "name": "LAGOA DO MATO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07820/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 826,
+          "file_size_bytes": 44114
+        },
+        "PREFEITO": {
+          "file": "municipalities/07820/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 118,
+          "file_size_bytes": 7600
+        }
+      }
+    },
+    {
+      "id": "07846",
+      "name": "LAGOA GRANDE DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07846/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 728,
+          "file_size_bytes": 43698
+        },
+        "PREFEITO": {
+          "file": "municipalities/07846/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 106,
+          "file_size_bytes": 8007
+        }
+      }
+    },
+    {
+      "id": "07862",
+      "name": "LAJEADO NOVO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07862/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 594,
+          "file_size_bytes": 32894
+        },
+        "PREFEITO": {
+          "file": "municipalities/07862/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 75,
+          "file_size_bytes": 4876
+        }
+      }
+    },
+    {
+      "id": "08192",
+      "name": "LIMA CAMPOS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08192/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 815,
+          "file_size_bytes": 39790
+        },
+        "PREFEITO": {
+          "file": "municipalities/08192/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 152,
+          "file_size_bytes": 8393
+        }
+      }
+    },
+    {
+      "id": "08214",
+      "name": "LORETO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08214/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 1073,
+          "file_size_bytes": 49937
+        },
+        "PREFEITO": {
+          "file": "municipalities/08214/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 119,
+          "file_size_bytes": 6964
+        }
+      }
+    },
+    {
+      "id": "08230",
+      "name": "LUÍS DOMINGUES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08230/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 855,
+          "file_size_bytes": 48142
+        },
+        "PREFEITO": {
+          "file": "municipalities/08230/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 77,
+          "file_size_bytes": 5822
+        }
+      }
+    },
+    {
+      "id": "08257",
+      "name": "MAGALHÃES DE ALMEIDA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08257/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1326,
+          "file_size_bytes": 63039
+        },
+        "PREFEITO": {
+          "file": "municipalities/08257/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 160,
+          "file_size_bytes": 9780
+        }
+      }
+    },
+    {
+      "id": "07889",
+      "name": "MARACAÇUMÉ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07889/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 2246,
+          "file_size_bytes": 81150
+        },
+        "PREFEITO": {
+          "file": "municipalities/07889/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 247,
+          "file_size_bytes": 14087
+        }
+      }
+    },
+    {
+      "id": "07900",
+      "name": "MARAJÁ DO SENA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07900/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 474,
+          "file_size_bytes": 30069
+        },
+        "PREFEITO": {
+          "file": "municipalities/07900/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 88,
+          "file_size_bytes": 6206
+        }
+      }
+    },
+    {
+      "id": "07927",
+      "name": "MARANHÃOZINHO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07927/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 606,
+          "file_size_bytes": 34820
+        },
+        "PREFEITO": {
+          "file": "municipalities/07927/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 112,
+          "file_size_bytes": 7116
+        }
+      }
+    },
+    {
+      "id": "08273",
+      "name": "MATA ROMA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08273/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 1465,
+          "file_size_bytes": 69456
+        },
+        "PREFEITO": {
+          "file": "municipalities/08273/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 208,
+          "file_size_bytes": 13282
+        }
+      }
+    },
+    {
+      "id": "08290",
+      "name": "MATINHA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08290/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 3018,
+          "file_size_bytes": 100406
+        },
+        "PREFEITO": {
+          "file": "municipalities/08290/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 344,
+          "file_size_bytes": 20377
+        }
+      }
+    },
+    {
+      "id": "08311",
+      "name": "MATÕES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08311/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 98
+          },
+          "records": 3781,
+          "file_size_bytes": 99304
+        },
+        "PREFEITO": {
+          "file": "municipalities/08311/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 98
+          },
+          "records": 361,
+          "file_size_bytes": 14650
+        }
+      }
+    },
+    {
+      "id": "07943",
+      "name": "MATÕES DO NORTE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07943/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1046,
+          "file_size_bytes": 51944
+        },
+        "PREFEITO": {
+          "file": "municipalities/07943/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 162,
+          "file_size_bytes": 9439
+        }
+      }
+    },
+    {
+      "id": "07960",
+      "name": "MILAGRES DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07960/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 455,
+          "file_size_bytes": 25471
+        },
+        "PREFEITO": {
+          "file": "municipalities/07960/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 78,
+          "file_size_bytes": 4779
+        }
+      }
+    },
+    {
+      "id": "08338",
+      "name": "MIRADOR",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08338/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 2215,
+          "file_size_bytes": 82946
+        },
+        "PREFEITO": {
+          "file": "municipalities/08338/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 195,
+          "file_size_bytes": 11421
+        }
+      }
+    },
+    {
+      "id": "09695",
+      "name": "MIRANDA DO NORTE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09695/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 2815,
+          "file_size_bytes": 97018
+        },
+        "PREFEITO": {
+          "file": "municipalities/09695/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 230,
+          "file_size_bytes": 14429
+        }
+      }
+    },
+    {
+      "id": "08354",
+      "name": "MIRINZAL",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08354/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 1822,
+          "file_size_bytes": 73794
+        },
+        "PREFEITO": {
+          "file": "municipalities/08354/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 164,
+          "file_size_bytes": 9223
+        }
+      }
+    },
+    {
+      "id": "08397",
+      "name": "MONTES ALTOS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08397/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 701,
+          "file_size_bytes": 39444
+        },
+        "PREFEITO": {
+          "file": "municipalities/08397/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 94,
+          "file_size_bytes": 6503
+        }
+      }
+    },
+    {
+      "id": "08370",
+      "name": "MONÇÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08370/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 3568,
+          "file_size_bytes": 102254
+        },
+        "PREFEITO": {
+          "file": "municipalities/08370/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 417,
+          "file_size_bytes": 18393
+        }
+      }
+    },
+    {
+      "id": "08419",
+      "name": "MORROS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08419/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 2909,
+          "file_size_bytes": 93954
+        },
+        "PREFEITO": {
+          "file": "municipalities/08419/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 434,
+          "file_size_bytes": 20373
+        }
+      }
+    },
+    {
+      "id": "08435",
+      "name": "NINA RODRIGUES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08435/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1122,
+          "file_size_bytes": 55257
+        },
+        "PREFEITO": {
+          "file": "municipalities/08435/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 187,
+          "file_size_bytes": 12134
+        }
+      }
+    },
+    {
+      "id": "07986",
+      "name": "NOVA COLINAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07986/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 467,
+          "file_size_bytes": 29326
+        },
+        "PREFEITO": {
+          "file": "municipalities/07986/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 65,
+          "file_size_bytes": 4802
+        }
+      }
+    },
+    {
+      "id": "08451",
+      "name": "NOVA IORQUE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08451/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 385,
+          "file_size_bytes": 23139
+        },
+        "PREFEITO": {
+          "file": "municipalities/08451/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 52,
+          "file_size_bytes": 3793
+        }
+      }
+    },
+    {
+      "id": "08001",
+      "name": "NOVA OLINDA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08001/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 1730,
+          "file_size_bytes": 69928
+        },
+        "PREFEITO": {
+          "file": "municipalities/08001/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 172,
+          "file_size_bytes": 9769
+        }
+      }
+    },
+    {
+      "id": "08478",
+      "name": "OLHO D ÁGUA DAS CUNHÃS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08478/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 1388,
+          "file_size_bytes": 60508
+        },
+        "PREFEITO": {
+          "file": "municipalities/08478/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 196,
+          "file_size_bytes": 10884
+        }
+      }
+    },
+    {
+      "id": "08028",
+      "name": "OLINDA NOVA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08028/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 1720,
+          "file_size_bytes": 71833
+        },
+        "PREFEITO": {
+          "file": "municipalities/08028/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 123,
+          "file_size_bytes": 7831
+        }
+      }
+    },
+    {
+      "id": "08516",
+      "name": "PALMEIRÂNDIA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08516/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 2622,
+          "file_size_bytes": 91861
+        },
+        "PREFEITO": {
+          "file": "municipalities/08516/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 227,
+          "file_size_bytes": 12467
+        }
+      }
+    },
+    {
+      "id": "08532",
+      "name": "PARAIBANO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08532/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 1714,
+          "file_size_bytes": 67686
+        },
+        "PREFEITO": {
+          "file": "municipalities/08532/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 206,
+          "file_size_bytes": 11096
+        }
+      }
+    },
+    {
+      "id": "08559",
+      "name": "PARNARAMA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08559/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 3419,
+          "file_size_bytes": 102667
+        },
+        "PREFEITO": {
+          "file": "municipalities/08559/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 379,
+          "file_size_bytes": 15739
+        }
+      }
+    },
+    {
+      "id": "08575",
+      "name": "PASSAGEM FRANCA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08575/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 1885,
+          "file_size_bytes": 73107
+        },
+        "PREFEITO": {
+          "file": "municipalities/08575/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 176,
+          "file_size_bytes": 9549
+        }
+      }
+    },
+    {
+      "id": "08591",
+      "name": "PASTOS BONS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08591/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 1300,
+          "file_size_bytes": 57655
+        },
+        "PREFEITO": {
+          "file": "municipalities/08591/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 147,
+          "file_size_bytes": 7977
+        }
+      }
+    },
+    {
+      "id": "08044",
+      "name": "PAULINO NEVES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08044/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 1899,
+          "file_size_bytes": 73948
+        },
+        "PREFEITO": {
+          "file": "municipalities/08044/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 270,
+          "file_size_bytes": 13673
+        }
+      }
+    },
+    {
+      "id": "09598",
+      "name": "PAULO RAMOS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09598/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 1294,
+          "file_size_bytes": 57806
+        },
+        "PREFEITO": {
+          "file": "municipalities/09598/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 212,
+          "file_size_bytes": 9233
+        }
+      }
+    },
+    {
+      "id": "08494",
+      "name": "PAÇO DO LUMIAR",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08494/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 269
+          },
+          "records": 22898,
+          "file_size_bytes": 275545
+        },
+        "PREFEITO": {
+          "file": "municipalities/08494/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 269
+          },
+          "records": 1819,
+          "file_size_bytes": 44537
+        }
+      }
+    },
+    {
+      "id": "08613",
+      "name": "PEDREIRAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08613/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 5838,
+          "file_size_bytes": 133577
+        },
+        "PREFEITO": {
+          "file": "municipalities/08613/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 472,
+          "file_size_bytes": 23233
+        }
+      }
+    },
+    {
+      "id": "08060",
+      "name": "PEDRO DO ROSÁRIO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08060/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 2129,
+          "file_size_bytes": 80404
+        },
+        "PREFEITO": {
+          "file": "municipalities/08060/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 279,
+          "file_size_bytes": 15164
+        }
+      }
+    },
+    {
+      "id": "08630",
+      "name": "PENALVA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08630/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 4039,
+          "file_size_bytes": 95623
+        },
+        "PREFEITO": {
+          "file": "municipalities/08630/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 528,
+          "file_size_bytes": 12984
+        }
+      }
+    },
+    {
+      "id": "08656",
+      "name": "PERI MIRIM",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08656/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 1981,
+          "file_size_bytes": 79080
+        },
+        "PREFEITO": {
+          "file": "municipalities/08656/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 212,
+          "file_size_bytes": 13409
+        }
+      }
+    },
+    {
+      "id": "08087",
+      "name": "PERITORÓ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08087/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 2697,
+          "file_size_bytes": 90779
+        },
+        "PREFEITO": {
+          "file": "municipalities/08087/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 305,
+          "file_size_bytes": 15403
+        }
+      }
+    },
+    {
+      "id": "08672",
+      "name": "PINDARÉ-MIRIM",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08672/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 86
+          },
+          "records": 3711,
+          "file_size_bytes": 105455
+        },
+        "PREFEITO": {
+          "file": "municipalities/08672/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 86
+          },
+          "records": 339,
+          "file_size_bytes": 16485
+        }
+      }
+    },
+    {
+      "id": "08699",
+      "name": "PINHEIRO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08699/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 202
+          },
+          "records": 15495,
+          "file_size_bytes": 215110
+        },
+        "PREFEITO": {
+          "file": "municipalities/08699/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 202
+          },
+          "records": 1606,
+          "file_size_bytes": 45073
+        }
+      }
+    },
+    {
+      "id": "08710",
+      "name": "PIO XII",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/08710/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 251,
+          "file_size_bytes": 12488
+        },
+        "VEREADOR": {
+          "file": "municipalities/08710/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 2030,
+          "file_size_bytes": 77769
+        }
+      }
+    },
+    {
+      "id": "08737",
+      "name": "PIRAPEMAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08737/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 1973,
+          "file_size_bytes": 76230
+        },
+        "PREFEITO": {
+          "file": "municipalities/08737/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 171,
+          "file_size_bytes": 9272
+        }
+      }
+    },
+    {
+      "id": "08770",
+      "name": "PORTO FRANCO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08770/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 2206,
+          "file_size_bytes": 83626
+        },
+        "PREFEITO": {
+          "file": "municipalities/08770/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 242,
+          "file_size_bytes": 12701
+        }
+      }
+    },
+    {
+      "id": "08109",
+      "name": "PORTO RICO DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08109/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 857,
+          "file_size_bytes": 46481
+        },
+        "PREFEITO": {
+          "file": "municipalities/08109/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 136,
+          "file_size_bytes": 8232
+        }
+      }
+    },
+    {
+      "id": "08753",
+      "name": "POÇÃO DE PEDRAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08753/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 1341,
+          "file_size_bytes": 54227
+        },
+        "PREFEITO": {
+          "file": "municipalities/08753/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 261,
+          "file_size_bytes": 11486
+        }
+      }
+    },
+    {
+      "id": "08796",
+      "name": "PRESIDENTE DUTRA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08796/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 110
+          },
+          "records": 5402,
+          "file_size_bytes": 122082
+        },
+        "PREFEITO": {
+          "file": "municipalities/08796/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 110
+          },
+          "records": 428,
+          "file_size_bytes": 16916
+        }
+      }
+    },
+    {
+      "id": "08818",
+      "name": "PRESIDENTE JUSCELINO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08818/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 1689,
+          "file_size_bytes": 74890
+        },
+        "PREFEITO": {
+          "file": "municipalities/08818/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 195,
+          "file_size_bytes": 14047
+        }
+      }
+    },
+    {
+      "id": "08125",
+      "name": "PRESIDENTE MÉDICI",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08125/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 783,
+          "file_size_bytes": 42460
+        },
+        "PREFEITO": {
+          "file": "municipalities/08125/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 97,
+          "file_size_bytes": 5889
+        }
+      }
+    },
+    {
+      "id": "08141",
+      "name": "PRESIDENTE SARNEY",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08141/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2208,
+          "file_size_bytes": 86603
+        },
+        "PREFEITO": {
+          "file": "municipalities/08141/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 190,
+          "file_size_bytes": 11925
+        }
+      }
+    },
+    {
+      "id": "08834",
+      "name": "PRESIDENTE VARGAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08834/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1350,
+          "file_size_bytes": 62864
+        },
+        "PREFEITO": {
+          "file": "municipalities/08834/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 235,
+          "file_size_bytes": 13970
+        }
+      }
+    },
+    {
+      "id": "08850",
+      "name": "PRIMEIRA CRUZ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08850/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 1299,
+          "file_size_bytes": 64852
+        },
+        "PREFEITO": {
+          "file": "municipalities/08850/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 159,
+          "file_size_bytes": 10225
+        }
+      }
+    },
+    {
+      "id": "08168",
+      "name": "RAPOSA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08168/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 4702,
+          "file_size_bytes": 123717
+        },
+        "PREFEITO": {
+          "file": "municipalities/08168/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 370,
+          "file_size_bytes": 17199
+        }
+      }
+    },
+    {
+      "id": "08877",
+      "name": "RIACHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08877/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 2010,
+          "file_size_bytes": 74947
+        },
+        "PREFEITO": {
+          "file": "municipalities/08877/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 215,
+          "file_size_bytes": 11434
+        }
+      }
+    },
+    {
+      "id": "08184",
+      "name": "RIBAMAR FIQUENE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08184/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 674,
+          "file_size_bytes": 41619
+        },
+        "PREFEITO": {
+          "file": "municipalities/08184/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 80,
+          "file_size_bytes": 5789
+        }
+      }
+    },
+    {
+      "id": "08915",
+      "name": "ROSÁRIO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08915/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 106
+          },
+          "records": 7454,
+          "file_size_bytes": 150127
+        },
+        "PREFEITO": {
+          "file": "municipalities/08915/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 106
+          },
+          "records": 514,
+          "file_size_bytes": 22491
+        }
+      }
+    },
+    {
+      "id": "08931",
+      "name": "SAMBAÍBA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08931/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 330,
+          "file_size_bytes": 21943
+        },
+        "PREFEITO": {
+          "file": "municipalities/08931/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 65,
+          "file_size_bytes": 4637
+        }
+      }
+    },
+    {
+      "id": "08206",
+      "name": "SANTA FILOMENA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08206/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 657,
+          "file_size_bytes": 37940
+        },
+        "PREFEITO": {
+          "file": "municipalities/08206/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 84,
+          "file_size_bytes": 5503
+        }
+      }
+    },
+    {
+      "id": "08958",
+      "name": "SANTA HELENA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08958/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 92
+          },
+          "records": 2913,
+          "file_size_bytes": 88804
+        },
+        "PREFEITO": {
+          "file": "municipalities/08958/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 92
+          },
+          "records": 314,
+          "file_size_bytes": 13878
+        }
+      }
+    },
+    {
+      "id": "09571",
+      "name": "SANTA INÊS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09571/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 208
+          },
+          "records": 17218,
+          "file_size_bytes": 242496
+        },
+        "PREFEITO": {
+          "file": "municipalities/09571/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 208
+          },
+          "records": 1170,
+          "file_size_bytes": 32266
+        }
+      }
+    },
+    {
+      "id": "08974",
+      "name": "SANTA LUZIA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08974/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 170
+          },
+          "records": 6882,
+          "file_size_bytes": 141958
+        },
+        "PREFEITO": {
+          "file": "municipalities/08974/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 170
+          },
+          "records": 719,
+          "file_size_bytes": 18620
+        }
+      }
+    },
+    {
+      "id": "09652",
+      "name": "SANTA LUZIA DO PARUÁ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09652/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 1925,
+          "file_size_bytes": 75413
+        },
+        "PREFEITO": {
+          "file": "municipalities/09652/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 294,
+          "file_size_bytes": 16405
+        }
+      }
+    },
+    {
+      "id": "08990",
+      "name": "SANTA QUITÉRIA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/08990/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 73
+          },
+          "records": 290,
+          "file_size_bytes": 13417
+        },
+        "VEREADOR": {
+          "file": "municipalities/08990/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 73
+          },
+          "records": 1896,
+          "file_size_bytes": 67312
+        }
+      }
+    },
+    {
+      "id": "09016",
+      "name": "SANTA RITA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09016/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 91
+          },
+          "records": 5641,
+          "file_size_bytes": 136213
+        },
+        "PREFEITO": {
+          "file": "municipalities/09016/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 91
+          },
+          "records": 428,
+          "file_size_bytes": 18119
+        }
+      }
+    },
+    {
+      "id": "08222",
+      "name": "SANTANA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08222/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 941,
+          "file_size_bytes": 50743
+        },
+        "PREFEITO": {
+          "file": "municipalities/08222/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 113,
+          "file_size_bytes": 6875
+        }
+      }
+    },
+    {
+      "id": "08249",
+      "name": "SANTO AMARO DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08249/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 1823,
+          "file_size_bytes": 71298
+        },
+        "PREFEITO": {
+          "file": "municipalities/08249/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 171,
+          "file_size_bytes": 10315
+        }
+      }
+    },
+    {
+      "id": "09032",
+      "name": "SANTO ANTÔNIO DOS LOPES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09032/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 1609,
+          "file_size_bytes": 60658
+        },
+        "PREFEITO": {
+          "file": "municipalities/09032/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 181,
+          "file_size_bytes": 7644
+        }
+      }
+    },
+    {
+      "id": "08460",
+      "name": "SATUBINHA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08460/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 559,
+          "file_size_bytes": 33565
+        },
+        "PREFEITO": {
+          "file": "municipalities/08460/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 96,
+          "file_size_bytes": 6038
+        }
+      }
+    },
+    {
+      "id": "08486",
+      "name": "SENADOR ALEXANDRE COSTA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08486/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 902,
+          "file_size_bytes": 42235
+        },
+        "PREFEITO": {
+          "file": "municipalities/08486/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 112,
+          "file_size_bytes": 6209
+        }
+      }
+    },
+    {
+      "id": "08508",
+      "name": "SENADOR LA ROCQUE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08508/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 1509,
+          "file_size_bytes": 61039
+        },
+        "PREFEITO": {
+          "file": "municipalities/08508/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 239,
+          "file_size_bytes": 12815
+        }
+      }
+    },
+    {
+      "id": "08524",
+      "name": "SERRANO DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08524/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 1076,
+          "file_size_bytes": 51923
+        },
+        "PREFEITO": {
+          "file": "municipalities/08524/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 177,
+          "file_size_bytes": 11473
+        }
+      }
+    },
+    {
+      "id": "09318",
+      "name": "SUCUPIRA DO NORTE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09318/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 693,
+          "file_size_bytes": 37958
+        },
+        "PREFEITO": {
+          "file": "municipalities/09318/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 106,
+          "file_size_bytes": 7157
+        }
+      }
+    },
+    {
+      "id": "08540",
+      "name": "SUCUPIRA DO RIACHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08540/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 367,
+          "file_size_bytes": 20811
+        },
+        "PREFEITO": {
+          "file": "municipalities/08540/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 63,
+          "file_size_bytes": 3560
+        }
+      }
+    },
+    {
+      "id": "09059",
+      "name": "SÃO BENEDITO DO RIO PRETO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09059/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 2713,
+          "file_size_bytes": 88385
+        },
+        "PREFEITO": {
+          "file": "municipalities/09059/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 301,
+          "file_size_bytes": 14585
+        }
+      }
+    },
+    {
+      "id": "09075",
+      "name": "SÃO BENTO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09075/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 5840,
+          "file_size_bytes": 135776
+        },
+        "PREFEITO": {
+          "file": "municipalities/09075/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 624,
+          "file_size_bytes": 27154
+        }
+      }
+    },
+    {
+      "id": "09091",
+      "name": "SÃO BERNARDO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09091/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 2831,
+          "file_size_bytes": 86918
+        },
+        "PREFEITO": {
+          "file": "municipalities/09091/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 459,
+          "file_size_bytes": 19336
+        }
+      }
+    },
+    {
+      "id": "08265",
+      "name": "SÃO DOMINGOS DO AZEITÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08265/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 864,
+          "file_size_bytes": 42925
+        },
+        "PREFEITO": {
+          "file": "municipalities/08265/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 96,
+          "file_size_bytes": 5856
+        }
+      }
+    },
+    {
+      "id": "09113",
+      "name": "SÃO DOMINGOS DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09113/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 2954,
+          "file_size_bytes": 88788
+        },
+        "PREFEITO": {
+          "file": "municipalities/09113/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 376,
+          "file_size_bytes": 15923
+        }
+      }
+    },
+    {
+      "id": "08281",
+      "name": "SÃO FRANCISCO DO BREJÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08281/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 1094,
+          "file_size_bytes": 59452
+        },
+        "PREFEITO": {
+          "file": "municipalities/08281/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 111,
+          "file_size_bytes": 7706
+        }
+      }
+    },
+    {
+      "id": "09156",
+      "name": "SÃO FRANCISCO DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09156/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 837,
+          "file_size_bytes": 43901
+        },
+        "PREFEITO": {
+          "file": "municipalities/09156/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 137,
+          "file_size_bytes": 8517
+        }
+      }
+    },
+    {
+      "id": "09130",
+      "name": "SÃO FÉLIX DE BALSAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09130/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 376,
+          "file_size_bytes": 26280
+        },
+        "PREFEITO": {
+          "file": "municipalities/09130/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 50,
+          "file_size_bytes": 3759
+        }
+      }
+    },
+    {
+      "id": "08893",
+      "name": "SÃO JOSÉ DE RIBAMAR",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08893/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 374
+          },
+          "records": 32604,
+          "file_size_bytes": 357959
+        },
+        "PREFEITO": {
+          "file": "municipalities/08893/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 374
+          },
+          "records": 2242,
+          "file_size_bytes": 54880
+        }
+      }
+    },
+    {
+      "id": "08362",
+      "name": "SÃO JOSÉ DOS BASÍLIOS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08362/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 491,
+          "file_size_bytes": 31615
+        },
+        "PREFEITO": {
+          "file": "municipalities/08362/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 84,
+          "file_size_bytes": 5783
+        }
+      }
+    },
+    {
+      "id": "09172",
+      "name": "SÃO JOÃO BATISTA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09172/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 3795,
+          "file_size_bytes": 110026
+        },
+        "PREFEITO": {
+          "file": "municipalities/09172/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 76
+          },
+          "records": 357,
+          "file_size_bytes": 17815
+        }
+      }
+    },
+    {
+      "id": "08303",
+      "name": "SÃO JOÃO DO CARÚ",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08303/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1200,
+          "file_size_bytes": 51045
+        },
+        "PREFEITO": {
+          "file": "municipalities/08303/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 176,
+          "file_size_bytes": 9995
+        }
+      }
+    },
+    {
+      "id": "08320",
+      "name": "SÃO JOÃO DO PARAÍSO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08320/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 952,
+          "file_size_bytes": 47904
+        },
+        "PREFEITO": {
+          "file": "municipalities/08320/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 116,
+          "file_size_bytes": 7001
+        }
+      }
+    },
+    {
+      "id": "08346",
+      "name": "SÃO JOÃO DO SOTER",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08346/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 2175,
+          "file_size_bytes": 78256
+        },
+        "PREFEITO": {
+          "file": "municipalities/08346/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 265,
+          "file_size_bytes": 13488
+        }
+      }
+    },
+    {
+      "id": "09199",
+      "name": "SÃO JOÃO DOS PATOS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09199/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 2441,
+          "file_size_bytes": 80729
+        },
+        "PREFEITO": {
+          "file": "municipalities/09199/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 356,
+          "file_size_bytes": 15344
+        }
+      }
+    },
+    {
+      "id": "09210",
+      "name": "SÃO LUÍS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09210/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 2173
+          },
+          "records": 238738,
+          "file_size_bytes": 2288414
+        },
+        "PREFEITO": {
+          "file": "municipalities/09210/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 2173
+          },
+          "records": 19335,
+          "file_size_bytes": 207977
+        }
+      }
+    },
+    {
+      "id": "08052",
+      "name": "SÃO LUÍS GONZAGA DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08052/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 2960,
+          "file_size_bytes": 88056
+        },
+        "PREFEITO": {
+          "file": "municipalities/08052/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 243,
+          "file_size_bytes": 12164
+        }
+      }
+    },
+    {
+      "id": "09237",
+      "name": "SÃO MATEUS DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09237/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 6092,
+          "file_size_bytes": 132652
+        },
+        "PREFEITO": {
+          "file": "municipalities/09237/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 560,
+          "file_size_bytes": 18013
+        }
+      }
+    },
+    {
+      "id": "08389",
+      "name": "SÃO PEDRO DA ÁGUA BRANCA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08389/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1057,
+          "file_size_bytes": 53508
+        },
+        "PREFEITO": {
+          "file": "municipalities/08389/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 106,
+          "file_size_bytes": 6871
+        }
+      }
+    },
+    {
+      "id": "08400",
+      "name": "SÃO PEDRO DOS CRENTES",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08400/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 389,
+          "file_size_bytes": 26494
+        },
+        "PREFEITO": {
+          "file": "municipalities/08400/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 51,
+          "file_size_bytes": 4024
+        }
+      }
+    },
+    {
+      "id": "09253",
+      "name": "SÃO RAIMUNDO DAS MANGABEIRAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09253/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 2552,
+          "file_size_bytes": 90415
+        },
+        "PREFEITO": {
+          "file": "municipalities/09253/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 192,
+          "file_size_bytes": 10362
+        }
+      }
+    },
+    {
+      "id": "08427",
+      "name": "SÃO RAIMUNDO DO DOCA BEZERRA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08427/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 385,
+          "file_size_bytes": 23491
+        },
+        "PREFEITO": {
+          "file": "municipalities/08427/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 88,
+          "file_size_bytes": 5955
+        }
+      }
+    },
+    {
+      "id": "08443",
+      "name": "SÃO ROBERTO",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/08443/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 62,
+          "file_size_bytes": 4621
+        },
+        "VEREADOR": {
+          "file": "municipalities/08443/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 379,
+          "file_size_bytes": 24274
+        }
+      }
+    },
+    {
+      "id": "09270",
+      "name": "SÃO VICENTE FERRER",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09270/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 2682,
+          "file_size_bytes": 85464
+        },
+        "PREFEITO": {
+          "file": "municipalities/09270/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 229,
+          "file_size_bytes": 10489
+        }
+      }
+    },
+    {
+      "id": "09296",
+      "name": "SÍTIO NOVO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09296/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 1295,
+          "file_size_bytes": 58533
+        },
+        "PREFEITO": {
+          "file": "municipalities/09296/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 187,
+          "file_size_bytes": 11364
+        }
+      }
+    },
+    {
+      "id": "09334",
+      "name": "TASSO FRAGOSO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09334/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 746,
+          "file_size_bytes": 38897
+        },
+        "PREFEITO": {
+          "file": "municipalities/09334/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 83,
+          "file_size_bytes": 5523
+        }
+      }
+    },
+    {
+      "id": "09350",
+      "name": "TIMBIRAS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09350/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 64
+          },
+          "records": 3835,
+          "file_size_bytes": 110791
+        },
+        "PREFEITO": {
+          "file": "municipalities/09350/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 64
+          },
+          "records": 303,
+          "file_size_bytes": 15663
+        }
+      }
+    },
+    {
+      "id": "09377",
+      "name": "TIMON",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09377/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 370
+          },
+          "records": 36376,
+          "file_size_bytes": 386984
+        },
+        "PREFEITO": {
+          "file": "municipalities/09377/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 370
+          },
+          "records": 2061,
+          "file_size_bytes": 47763
+        }
+      }
+    },
+    {
+      "id": "08567",
+      "name": "TRIZIDELA DO VALE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08567/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 1971,
+          "file_size_bytes": 73154
+        },
+        "PREFEITO": {
+          "file": "municipalities/08567/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 222,
+          "file_size_bytes": 10498
+        }
+      }
+    },
+    {
+      "id": "08583",
+      "name": "TUFILÂNDIA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08583/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 605,
+          "file_size_bytes": 38477
+        },
+        "PREFEITO": {
+          "file": "municipalities/08583/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 122,
+          "file_size_bytes": 8858
+        }
+      }
+    },
+    {
+      "id": "09393",
+      "name": "TUNTUM",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09393/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 2867,
+          "file_size_bytes": 87215
+        },
+        "PREFEITO": {
+          "file": "municipalities/09393/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 357,
+          "file_size_bytes": 14157
+        }
+      }
+    },
+    {
+      "id": "09415",
+      "name": "TURIAÇU",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/09415/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 116
+          },
+          "records": 482,
+          "file_size_bytes": 23688
+        },
+        "VEREADOR": {
+          "file": "municipalities/09415/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 116
+          },
+          "records": 4184,
+          "file_size_bytes": 114374
+        }
+      }
+    },
+    {
+      "id": "08605",
+      "name": "TURILÂNDIA",
+      "uf": "MA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/08605/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 290,
+          "file_size_bytes": 18008
+        },
+        "VEREADOR": {
+          "file": "municipalities/08605/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 2191,
+          "file_size_bytes": 84606
+        }
+      }
+    },
+    {
+      "id": "09431",
+      "name": "TUTÓIA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09431/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 148
+          },
+          "records": 7698,
+          "file_size_bytes": 151358
+        },
+        "PREFEITO": {
+          "file": "municipalities/09431/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 148
+          },
+          "records": 643,
+          "file_size_bytes": 25650
+        }
+      }
+    },
+    {
+      "id": "09458",
+      "name": "URBANO SANTOS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09458/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 3568,
+          "file_size_bytes": 105025
+        },
+        "PREFEITO": {
+          "file": "municipalities/09458/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 387,
+          "file_size_bytes": 17301
+        }
+      }
+    },
+    {
+      "id": "09474",
+      "name": "VARGEM GRANDE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09474/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 5685,
+          "file_size_bytes": 126103
+        },
+        "PREFEITO": {
+          "file": "municipalities/09474/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 494,
+          "file_size_bytes": 18732
+        }
+      }
+    },
+    {
+      "id": "09490",
+      "name": "VIANA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09490/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 147
+          },
+          "records": 9942,
+          "file_size_bytes": 179938
+        },
+        "PREFEITO": {
+          "file": "municipalities/09490/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 147
+          },
+          "records": 794,
+          "file_size_bytes": 27103
+        }
+      }
+    },
+    {
+      "id": "08621",
+      "name": "VILA NOVA DOS MARTÍRIOS",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/08621/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 774,
+          "file_size_bytes": 46319
+        },
+        "PREFEITO": {
+          "file": "municipalities/08621/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 144,
+          "file_size_bytes": 10969
+        }
+      }
+    },
+    {
+      "id": "09539",
+      "name": "VITORINO FREIRE",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09539/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 2582,
+          "file_size_bytes": 80643
+        },
+        "PREFEITO": {
+          "file": "municipalities/09539/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 420,
+          "file_size_bytes": 14683
+        }
+      }
+    },
+    {
+      "id": "09512",
+      "name": "VITÓRIA DO MEARIM",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09512/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 5231,
+          "file_size_bytes": 125982
+        },
+        "PREFEITO": {
+          "file": "municipalities/09512/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 521,
+          "file_size_bytes": 23046
+        }
+      }
+    },
+    {
+      "id": "09717",
+      "name": "ZÉ DOCA",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/09717/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 4061,
+          "file_size_bytes": 107092
+        },
+        "PREFEITO": {
+          "file": "municipalities/09717/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 420,
+          "file_size_bytes": 17256
+        }
+      }
+    },
+    {
+      "id": "07005",
+      "name": "ÁGUA DOCE DO MARANHÃO",
+      "uf": "MA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/07005/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 1018,
+          "file_size_bytes": 50104
+        },
+        "PREFEITO": {
+          "file": "municipalities/07005/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 181,
+          "file_size_bytes": 10459
+        }
+      }
+    }
+  ]
+}

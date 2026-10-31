@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "RS",
+    "municipalities": 497
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RS.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:16:42.777520+00:00",
+  "source_archive_size_bytes": 96137953,
+  "source_archive_sha256": "a0fb26360917e32c7d18f806e3b6f3b8ac97378ce3127e1fecb6a2bfe0581a05",
+  "source_archive_members": [
+    "votacao_secao_2024_RS.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 175917,
+    "VEREADOR": 1798953
+  },
+  "municipality_count": 497,
+  "partition_count": 994
+}

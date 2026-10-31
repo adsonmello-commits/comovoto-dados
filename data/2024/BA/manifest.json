@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "BA",
+    "municipalities": 417
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_BA.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T04:57:51.642399+00:00",
+  "source_archive_size_bytes": 113970784,
+  "source_archive_sha256": "b07bf43421801da5efda39810332e221ac5e8c3dd8ece87f93ada98a27c4b00e",
+  "source_archive_members": [
+    "votacao_secao_2024_BA.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 174123,
+    "VEREADOR": 2262322
+  },
+  "municipality_count": 417,
+  "partition_count": 834
+}

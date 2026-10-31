@@ -1,0 +1,489 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "AP",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AP.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 16,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "06017",
+      "name": "AMAPÁ",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06017/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1235,
+          "file_size_bytes": 7603
+        },
+        "PREFEITO": {
+          "file": "municipalities/06017/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 125,
+          "file_size_bytes": 800
+        }
+      }
+    },
+    {
+      "id": "06033",
+      "name": "CALÇOENE",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06033/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1262,
+          "file_size_bytes": 7813
+        },
+        "PREFEITO": {
+          "file": "municipalities/06033/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 134,
+          "file_size_bytes": 888
+        }
+      }
+    },
+    {
+      "id": "06068",
+      "name": "CUTIAS",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06068/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 797,
+          "file_size_bytes": 5091
+        },
+        "PREFEITO": {
+          "file": "municipalities/06068/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 78,
+          "file_size_bytes": 629
+        }
+      }
+    },
+    {
+      "id": "06114",
+      "name": "FERREIRA GOMES",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06114/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 1533,
+          "file_size_bytes": 9720
+        },
+        "PREFEITO": {
+          "file": "municipalities/06114/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 149,
+          "file_size_bytes": 972
+        }
+      }
+    },
+    {
+      "id": "06041",
+      "name": "ITAUBAL",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06041/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 993,
+          "file_size_bytes": 6025
+        },
+        "PREFEITO": {
+          "file": "municipalities/06041/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 118,
+          "file_size_bytes": 788
+        }
+      }
+    },
+    {
+      "id": "06130",
+      "name": "LARANJAL DO JARI",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06130/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 5520,
+          "file_size_bytes": 32414
+        },
+        "PREFEITO": {
+          "file": "municipalities/06130/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 366,
+          "file_size_bytes": 2088
+        }
+      }
+    },
+    {
+      "id": "06050",
+      "name": "MACAPÁ",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06050/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 970
+          },
+          "records": 95798,
+          "file_size_bytes": 798977
+        },
+        "PREFEITO": {
+          "file": "municipalities/06050/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 970
+          },
+          "records": 6512,
+          "file_size_bytes": 40272
+        }
+      }
+    },
+    {
+      "id": "06076",
+      "name": "MAZAGÃO",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06076/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 3793,
+          "file_size_bytes": 23223
+        },
+        "PREFEITO": {
+          "file": "municipalities/06076/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 309,
+          "file_size_bytes": 1820
+        }
+      }
+    },
+    {
+      "id": "06092",
+      "name": "OIAPOQUE",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06092/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 5532,
+          "file_size_bytes": 35347
+        },
+        "PREFEITO": {
+          "file": "municipalities/06092/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 858,
+          "file_size_bytes": 4370
+        }
+      }
+    },
+    {
+      "id": "06084",
+      "name": "PEDRA BRANCA DO AMAPARI",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06084/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 1185,
+          "file_size_bytes": 7084
+        },
+        "PREFEITO": {
+          "file": "municipalities/06084/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 111,
+          "file_size_bytes": 703
+        }
+      }
+    },
+    {
+      "id": "06025",
+      "name": "PORTO GRANDE",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06025/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 2391,
+          "file_size_bytes": 14567
+        },
+        "PREFEITO": {
+          "file": "municipalities/06025/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 242,
+          "file_size_bytes": 1383
+        }
+      }
+    },
+    {
+      "id": "06009",
+      "name": "PRACUÚBA",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06009/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 620,
+          "file_size_bytes": 4221
+        },
+        "PREFEITO": {
+          "file": "municipalities/06009/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 57,
+          "file_size_bytes": 485
+        }
+      }
+    },
+    {
+      "id": "06157",
+      "name": "SANTANA",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06157/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 256
+          },
+          "records": 20109,
+          "file_size_bytes": 138077
+        },
+        "PREFEITO": {
+          "file": "municipalities/06157/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 256
+          },
+          "records": 1495,
+          "file_size_bytes": 8144
+        }
+      }
+    },
+    {
+      "id": "06106",
+      "name": "SERRA DO NAVIO",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06106/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 657,
+          "file_size_bytes": 4547
+        },
+        "PREFEITO": {
+          "file": "municipalities/06106/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 42,
+          "file_size_bytes": 354
+        }
+      }
+    },
+    {
+      "id": "06173",
+      "name": "TARTARUGALZINHO",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06173/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1623,
+          "file_size_bytes": 9919
+        },
+        "PREFEITO": {
+          "file": "municipalities/06173/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 157,
+          "file_size_bytes": 976
+        }
+      }
+    },
+    {
+      "id": "06122",
+      "name": "VITÓRIA DO JARI",
+      "uf": "AP",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/06122/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1697,
+          "file_size_bytes": 10142
+        },
+        "PREFEITO": {
+          "file": "municipalities/06122/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 155,
+          "file_size_bytes": 992
+        }
+      }
+    }
+  ]
+}

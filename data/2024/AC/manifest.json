@@ -1,0 +1,31 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "AC",
+    "municipalities": 22
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AC.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T04:54:45.146391+00:00",
+  "source_archive_size_bytes": 5583839,
+  "source_archive_sha256": "7ff403c86d8374b17fb2023b85d5a0a5d6d433121803d1afddc9c472a996431d",
+  "source_archive_members": [
+    "votacao_secao_2024_AC.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 10664,
+    "VEREADOR": 145595
+  },
+  "municipality_count": 22,
+  "partition_count": 44
+}

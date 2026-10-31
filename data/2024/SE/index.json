@@ -1,0 +1,2203 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "SE",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_SE.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 75,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1",
+        "2"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "31011",
+      "name": "AMPARO DE SÃO FRANCISCO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31011/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 256,
+          "file_size_bytes": 4940
+        },
+        "PREFEITO": {
+          "file": "municipalities/31011/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 35,
+          "file_size_bytes": 1659
+        }
+      }
+    },
+    {
+      "id": "31038",
+      "name": "AQUIDABÃ",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31038/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 2431,
+          "file_size_bytes": 13601
+        },
+        "PREFEITO": {
+          "file": "municipalities/31038/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 326,
+          "file_size_bytes": 3884
+        }
+      }
+    },
+    {
+      "id": "31054",
+      "name": "ARACAJU",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31054/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1313
+          },
+          "records": 142293,
+          "file_size_bytes": 1288825
+        },
+        "PREFEITO": {
+          "file": "municipalities/31054/PREFEITO.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 1313,
+            "2": 1313
+          },
+          "records": 16606,
+          "file_size_bytes": 114234
+        }
+      }
+    },
+    {
+      "id": "31070",
+      "name": "ARAUÁ",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31070/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 972,
+          "file_size_bytes": 6784
+        },
+        "PREFEITO": {
+          "file": "municipalities/31070/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 140,
+          "file_size_bytes": 3208
+        }
+      }
+    },
+    {
+      "id": "31097",
+      "name": "AREIA BRANCA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31097/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 2337,
+          "file_size_bytes": 13692
+        },
+        "PREFEITO": {
+          "file": "municipalities/31097/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 211,
+          "file_size_bytes": 3417
+        }
+      }
+    },
+    {
+      "id": "31119",
+      "name": "BARRA DOS COQUEIROS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31119/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 108
+          },
+          "records": 7290,
+          "file_size_bytes": 47165
+        },
+        "PREFEITO": {
+          "file": "municipalities/31119/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 108
+          },
+          "records": 536,
+          "file_size_bytes": 5276
+        }
+      }
+    },
+    {
+      "id": "31151",
+      "name": "BOQUIM",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31151/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 3868,
+          "file_size_bytes": 22343
+        },
+        "PREFEITO": {
+          "file": "municipalities/31151/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 301,
+          "file_size_bytes": 4335
+        }
+      }
+    },
+    {
+      "id": "31135",
+      "name": "BREJO GRANDE",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31135/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 894,
+          "file_size_bytes": 5522
+        },
+        "PREFEITO": {
+          "file": "municipalities/31135/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 97,
+          "file_size_bytes": 2414
+        }
+      }
+    },
+    {
+      "id": "31194",
+      "name": "CAMPO DO BRITO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31194/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1892,
+          "file_size_bytes": 10806
+        },
+        "PREFEITO": {
+          "file": "municipalities/31194/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 220,
+          "file_size_bytes": 3437
+        }
+      }
+    },
+    {
+      "id": "31216",
+      "name": "CANHOBA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31216/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 307,
+          "file_size_bytes": 3953
+        },
+        "PREFEITO": {
+          "file": "municipalities/31216/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 67,
+          "file_size_bytes": 2564
+        }
+      }
+    },
+    {
+      "id": "31232",
+      "name": "CANINDÉ DE SÃO FRANCISCO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31232/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 75
+          },
+          "records": 3690,
+          "file_size_bytes": 21614
+        },
+        "PREFEITO": {
+          "file": "municipalities/31232/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 75
+          },
+          "records": 353,
+          "file_size_bytes": 3423
+        }
+      }
+    },
+    {
+      "id": "31259",
+      "name": "CAPELA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31259/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 5076,
+          "file_size_bytes": 29398
+        },
+        "PREFEITO": {
+          "file": "municipalities/31259/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 369,
+          "file_size_bytes": 4917
+        }
+      }
+    },
+    {
+      "id": "31275",
+      "name": "CARIRA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31275/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 2153,
+          "file_size_bytes": 12035
+        },
+        "PREFEITO": {
+          "file": "municipalities/31275/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 236,
+          "file_size_bytes": 3405
+        }
+      }
+    },
+    {
+      "id": "31291",
+      "name": "CARMÓPOLIS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31291/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 2168,
+          "file_size_bytes": 12648
+        },
+        "PREFEITO": {
+          "file": "municipalities/31291/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 197,
+          "file_size_bytes": 3227
+        }
+      }
+    },
+    {
+      "id": "31313",
+      "name": "CEDRO DE SÃO JOÃO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31313/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 319,
+          "file_size_bytes": 3495
+        },
+        "PREFEITO": {
+          "file": "municipalities/31313/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 68,
+          "file_size_bytes": 2558
+        }
+      }
+    },
+    {
+      "id": "31330",
+      "name": "CRISTINÁPOLIS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31330/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 2091,
+          "file_size_bytes": 11796
+        },
+        "PREFEITO": {
+          "file": "municipalities/31330/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 195,
+          "file_size_bytes": 3754
+        }
+      }
+    },
+    {
+      "id": "31372",
+      "name": "CUMBE",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31372/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 366,
+          "file_size_bytes": 5282
+        },
+        "PREFEITO": {
+          "file": "municipalities/31372/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 60,
+          "file_size_bytes": 2388
+        }
+      }
+    },
+    {
+      "id": "31399",
+      "name": "DIVINA PASTORA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31399/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 465,
+          "file_size_bytes": 3339
+        },
+        "PREFEITO": {
+          "file": "municipalities/31399/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 67,
+          "file_size_bytes": 2500
+        }
+      }
+    },
+    {
+      "id": "31410",
+      "name": "ESTÂNCIA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31410/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 173
+          },
+          "records": 10678,
+          "file_size_bytes": 71259
+        },
+        "PREFEITO": {
+          "file": "municipalities/31410/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 173
+          },
+          "records": 1321,
+          "file_size_bytes": 8659
+        }
+      }
+    },
+    {
+      "id": "31437",
+      "name": "FEIRA NOVA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31437/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 726,
+          "file_size_bytes": 4400
+        },
+        "PREFEITO": {
+          "file": "municipalities/31437/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 92,
+          "file_size_bytes": 2752
+        }
+      }
+    },
+    {
+      "id": "31453",
+      "name": "FREI PAULO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31453/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 970,
+          "file_size_bytes": 5746
+        },
+        "PREFEITO": {
+          "file": "municipalities/31453/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 142,
+          "file_size_bytes": 2962
+        }
+      }
+    },
+    {
+      "id": "31496",
+      "name": "GARARU",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31496/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 837,
+          "file_size_bytes": 5032
+        },
+        "PREFEITO": {
+          "file": "municipalities/31496/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 109,
+          "file_size_bytes": 2731
+        }
+      }
+    },
+    {
+      "id": "31470",
+      "name": "GENERAL MAYNARD",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31470/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 382,
+          "file_size_bytes": 4844
+        },
+        "PREFEITO": {
+          "file": "municipalities/31470/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 48,
+          "file_size_bytes": 2311
+        }
+      }
+    },
+    {
+      "id": "31518",
+      "name": "GRACCHO CARDOSO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31518/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 619,
+          "file_size_bytes": 4246
+        },
+        "PREFEITO": {
+          "file": "municipalities/31518/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 103,
+          "file_size_bytes": 3017
+        }
+      }
+    },
+    {
+      "id": "31534",
+      "name": "ILHA DAS FLORES",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31534/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 647,
+          "file_size_bytes": 5416
+        },
+        "PREFEITO": {
+          "file": "municipalities/31534/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 129,
+          "file_size_bytes": 2604
+        }
+      }
+    },
+    {
+      "id": "31550",
+      "name": "INDIAROBA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31550/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 1790,
+          "file_size_bytes": 10776
+        },
+        "PREFEITO": {
+          "file": "municipalities/31550/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 192,
+          "file_size_bytes": 3333
+        }
+      }
+    },
+    {
+      "id": "31577",
+      "name": "ITABAIANA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31577/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 264
+          },
+          "records": 17692,
+          "file_size_bytes": 117830
+        },
+        "PREFEITO": {
+          "file": "municipalities/31577/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 264
+          },
+          "records": 1052,
+          "file_size_bytes": 8648
+        }
+      }
+    },
+    {
+      "id": "31593",
+      "name": "ITABAIANINHA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31593/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 5611,
+          "file_size_bytes": 34292
+        },
+        "PREFEITO": {
+          "file": "municipalities/31593/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 437,
+          "file_size_bytes": 4211
+        }
+      }
+    },
+    {
+      "id": "31615",
+      "name": "ITABI",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31615/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 582,
+          "file_size_bytes": 4852
+        },
+        "PREFEITO": {
+          "file": "municipalities/31615/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 79,
+          "file_size_bytes": 2724
+        }
+      }
+    },
+    {
+      "id": "31631",
+      "name": "ITAPORANGA D AJUDA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31631/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 103
+          },
+          "records": 5492,
+          "file_size_bytes": 33403
+        },
+        "PREFEITO": {
+          "file": "municipalities/31631/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 103
+          },
+          "records": 507,
+          "file_size_bytes": 4802
+        }
+      }
+    },
+    {
+      "id": "31658",
+      "name": "JAPARATUBA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31658/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 2656,
+          "file_size_bytes": 16028
+        },
+        "PREFEITO": {
+          "file": "municipalities/31658/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 201,
+          "file_size_bytes": 3170
+        }
+      }
+    },
+    {
+      "id": "31674",
+      "name": "JAPOATÃ",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31674/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 1281,
+          "file_size_bytes": 8409
+        },
+        "PREFEITO": {
+          "file": "municipalities/31674/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 178,
+          "file_size_bytes": 2889
+        }
+      }
+    },
+    {
+      "id": "31690",
+      "name": "LAGARTO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31690/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 296
+          },
+          "records": 19038,
+          "file_size_bytes": 129737
+        },
+        "PREFEITO": {
+          "file": "municipalities/31690/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 296
+          },
+          "records": 1459,
+          "file_size_bytes": 10839
+        }
+      }
+    },
+    {
+      "id": "31712",
+      "name": "LARANJEIRAS",
+      "uf": "SE",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/31712/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 388,
+          "file_size_bytes": 4476
+        },
+        "VEREADOR": {
+          "file": "municipalities/31712/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 3784,
+          "file_size_bytes": 21932
+        }
+      }
+    },
+    {
+      "id": "31739",
+      "name": "MACAMBIRA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31739/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 480,
+          "file_size_bytes": 5050
+        },
+        "PREFEITO": {
+          "file": "municipalities/31739/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 111,
+          "file_size_bytes": 2510
+        }
+      }
+    },
+    {
+      "id": "31755",
+      "name": "MALHADA DOS BOIS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31755/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 472,
+          "file_size_bytes": 5480
+        },
+        "PREFEITO": {
+          "file": "municipalities/31755/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 59,
+          "file_size_bytes": 2261
+        }
+      }
+    },
+    {
+      "id": "31771",
+      "name": "MALHADOR",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31771/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 912,
+          "file_size_bytes": 7225
+        },
+        "PREFEITO": {
+          "file": "municipalities/31771/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 164,
+          "file_size_bytes": 2783
+        }
+      }
+    },
+    {
+      "id": "31798",
+      "name": "MARUIM",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31798/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 2586,
+          "file_size_bytes": 15298
+        },
+        "PREFEITO": {
+          "file": "municipalities/31798/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 235,
+          "file_size_bytes": 3035
+        }
+      }
+    },
+    {
+      "id": "31810",
+      "name": "MOITA BONITA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31810/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 729,
+          "file_size_bytes": 5878
+        },
+        "PREFEITO": {
+          "file": "municipalities/31810/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 152,
+          "file_size_bytes": 3181
+        }
+      }
+    },
+    {
+      "id": "31836",
+      "name": "MONTE ALEGRE DE SERGIPE",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31836/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 1151,
+          "file_size_bytes": 7250
+        },
+        "PREFEITO": {
+          "file": "municipalities/31836/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 147,
+          "file_size_bytes": 2866
+        }
+      }
+    },
+    {
+      "id": "31852",
+      "name": "MURIBECA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31852/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 759,
+          "file_size_bytes": 4622
+        },
+        "PREFEITO": {
+          "file": "municipalities/31852/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 131,
+          "file_size_bytes": 2305
+        }
+      }
+    },
+    {
+      "id": "31879",
+      "name": "NEÓPOLIS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31879/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 2013,
+          "file_size_bytes": 11894
+        },
+        "PREFEITO": {
+          "file": "municipalities/31879/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 200,
+          "file_size_bytes": 3437
+        }
+      }
+    },
+    {
+      "id": "31356",
+      "name": "NOSSA SENHORA APARECIDA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31356/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 562,
+          "file_size_bytes": 5238
+        },
+        "PREFEITO": {
+          "file": "municipalities/31356/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 121,
+          "file_size_bytes": 2541
+        }
+      }
+    },
+    {
+      "id": "31895",
+      "name": "NOSSA SENHORA DA GLÓRIA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31895/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 101
+          },
+          "records": 3478,
+          "file_size_bytes": 19675
+        },
+        "PREFEITO": {
+          "file": "municipalities/31895/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 101
+          },
+          "records": 487,
+          "file_size_bytes": 5423
+        }
+      }
+    },
+    {
+      "id": "31917",
+      "name": "NOSSA SENHORA DAS DORES",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31917/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 2864,
+          "file_size_bytes": 16734
+        },
+        "PREFEITO": {
+          "file": "municipalities/31917/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 454,
+          "file_size_bytes": 5343
+        }
+      }
+    },
+    {
+      "id": "31933",
+      "name": "NOSSA SENHORA DE LOURDES",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31933/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 390,
+          "file_size_bytes": 3808
+        },
+        "PREFEITO": {
+          "file": "municipalities/31933/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 67,
+          "file_size_bytes": 2400
+        }
+      }
+    },
+    {
+      "id": "31950",
+      "name": "NOSSA SENHORA DO SOCORRO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31950/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 366
+          },
+          "records": 33059,
+          "file_size_bytes": 260682
+        },
+        "PREFEITO": {
+          "file": "municipalities/31950/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 366
+          },
+          "records": 2104,
+          "file_size_bytes": 15656
+        }
+      }
+    },
+    {
+      "id": "31976",
+      "name": "PACATUBA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31976/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1191,
+          "file_size_bytes": 8293
+        },
+        "PREFEITO": {
+          "file": "municipalities/31976/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 188,
+          "file_size_bytes": 3505
+        }
+      }
+    },
+    {
+      "id": "31992",
+      "name": "PEDRA MOLE",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31992/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 271,
+          "file_size_bytes": 4653
+        },
+        "PREFEITO": {
+          "file": "municipalities/31992/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 43,
+          "file_size_bytes": 1730
+        }
+      }
+    },
+    {
+      "id": "32018",
+      "name": "PEDRINHAS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32018/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 1058,
+          "file_size_bytes": 7321
+        },
+        "PREFEITO": {
+          "file": "municipalities/32018/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 98,
+          "file_size_bytes": 2595
+        }
+      }
+    },
+    {
+      "id": "32034",
+      "name": "PINHÃO",
+      "uf": "SE",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/32034/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 76,
+          "file_size_bytes": 2836
+        },
+        "VEREADOR": {
+          "file": "municipalities/32034/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 617,
+          "file_size_bytes": 4328
+        }
+      }
+    },
+    {
+      "id": "32050",
+      "name": "PIRAMBU",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32050/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1229,
+          "file_size_bytes": 7296
+        },
+        "PREFEITO": {
+          "file": "municipalities/32050/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 147,
+          "file_size_bytes": 2697
+        }
+      }
+    },
+    {
+      "id": "32115",
+      "name": "PORTO DA FOLHA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32115/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 2900,
+          "file_size_bytes": 16987
+        },
+        "PREFEITO": {
+          "file": "municipalities/32115/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 469,
+          "file_size_bytes": 5159
+        }
+      }
+    },
+    {
+      "id": "32077",
+      "name": "POÇO REDONDO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32077/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 2201,
+          "file_size_bytes": 12858
+        },
+        "PREFEITO": {
+          "file": "municipalities/32077/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 329,
+          "file_size_bytes": 3990
+        }
+      }
+    },
+    {
+      "id": "32093",
+      "name": "POÇO VERDE",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32093/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 2796,
+          "file_size_bytes": 16011
+        },
+        "PREFEITO": {
+          "file": "municipalities/32093/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 280,
+          "file_size_bytes": 3874
+        }
+      }
+    },
+    {
+      "id": "32131",
+      "name": "PROPRIÁ",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32131/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 74
+          },
+          "records": 3962,
+          "file_size_bytes": 23847
+        },
+        "PREFEITO": {
+          "file": "municipalities/32131/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 74
+          },
+          "records": 407,
+          "file_size_bytes": 4620
+        }
+      }
+    },
+    {
+      "id": "32174",
+      "name": "RIACHUELO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32174/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1189,
+          "file_size_bytes": 7607
+        },
+        "PREFEITO": {
+          "file": "municipalities/32174/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 136,
+          "file_size_bytes": 3436
+        }
+      }
+    },
+    {
+      "id": "32158",
+      "name": "RIACHÃO DO DANTAS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32158/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 2299,
+          "file_size_bytes": 13725
+        },
+        "PREFEITO": {
+          "file": "municipalities/32158/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 406,
+          "file_size_bytes": 4106
+        }
+      }
+    },
+    {
+      "id": "32190",
+      "name": "RIBEIRÓPOLIS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32190/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 1265,
+          "file_size_bytes": 7402
+        },
+        "PREFEITO": {
+          "file": "municipalities/32190/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 211,
+          "file_size_bytes": 3389
+        }
+      }
+    },
+    {
+      "id": "32212",
+      "name": "ROSÁRIO DO CATETE",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32212/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1508,
+          "file_size_bytes": 8938
+        },
+        "PREFEITO": {
+          "file": "municipalities/32212/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 155,
+          "file_size_bytes": 3567
+        }
+      }
+    },
+    {
+      "id": "32239",
+      "name": "SALGADO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32239/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 3430,
+          "file_size_bytes": 20765
+        },
+        "PREFEITO": {
+          "file": "municipalities/32239/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 346,
+          "file_size_bytes": 4624
+        }
+      }
+    },
+    {
+      "id": "32255",
+      "name": "SANTA LUZIA DO ITANHY",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32255/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 1627,
+          "file_size_bytes": 9845
+        },
+        "PREFEITO": {
+          "file": "municipalities/32255/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 179,
+          "file_size_bytes": 3532
+        }
+      }
+    },
+    {
+      "id": "32298",
+      "name": "SANTA ROSA DE LIMA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32298/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 567,
+          "file_size_bytes": 6760
+        },
+        "PREFEITO": {
+          "file": "municipalities/32298/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 74,
+          "file_size_bytes": 2425
+        }
+      }
+    },
+    {
+      "id": "31003",
+      "name": "SANTANA DO SÃO FRANCISCO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/31003/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 789,
+          "file_size_bytes": 7562
+        },
+        "PREFEITO": {
+          "file": "municipalities/31003/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 81,
+          "file_size_bytes": 2615
+        }
+      }
+    },
+    {
+      "id": "32310",
+      "name": "SANTO AMARO DAS BROTAS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32310/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1533,
+          "file_size_bytes": 11456
+        },
+        "PREFEITO": {
+          "file": "municipalities/32310/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 170,
+          "file_size_bytes": 3345
+        }
+      }
+    },
+    {
+      "id": "32417",
+      "name": "SIMÃO DIAS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32417/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 140
+          },
+          "records": 7934,
+          "file_size_bytes": 48915
+        },
+        "PREFEITO": {
+          "file": "municipalities/32417/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 140
+          },
+          "records": 688,
+          "file_size_bytes": 6062
+        }
+      }
+    },
+    {
+      "id": "32433",
+      "name": "SIRIRI",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32433/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 840,
+          "file_size_bytes": 6164
+        },
+        "PREFEITO": {
+          "file": "municipalities/32433/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 103,
+          "file_size_bytes": 2487
+        }
+      }
+    },
+    {
+      "id": "32336",
+      "name": "SÃO CRISTÓVÃO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32336/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 196
+          },
+          "records": 13832,
+          "file_size_bytes": 97504
+        },
+        "PREFEITO": {
+          "file": "municipalities/32336/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 196
+          },
+          "records": 1078,
+          "file_size_bytes": 8838
+        }
+      }
+    },
+    {
+      "id": "32352",
+      "name": "SÃO DOMINGOS",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32352/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 721,
+          "file_size_bytes": 4299
+        },
+        "PREFEITO": {
+          "file": "municipalities/32352/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 95,
+          "file_size_bytes": 2690
+        }
+      }
+    },
+    {
+      "id": "32379",
+      "name": "SÃO FRANCISCO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32379/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 276,
+          "file_size_bytes": 4565
+        },
+        "PREFEITO": {
+          "file": "municipalities/32379/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 48,
+          "file_size_bytes": 2184
+        }
+      }
+    },
+    {
+      "id": "32395",
+      "name": "SÃO MIGUEL DO ALEIXO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32395/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 302,
+          "file_size_bytes": 4708
+        },
+        "PREFEITO": {
+          "file": "municipalities/32395/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 51,
+          "file_size_bytes": 1937
+        }
+      }
+    },
+    {
+      "id": "32450",
+      "name": "TELHA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32450/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 236,
+          "file_size_bytes": 4320
+        },
+        "PREFEITO": {
+          "file": "municipalities/32450/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 55,
+          "file_size_bytes": 2199
+        }
+      }
+    },
+    {
+      "id": "32476",
+      "name": "TOBIAS BARRETO",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32476/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 141
+          },
+          "records": 6486,
+          "file_size_bytes": 39041
+        },
+        "PREFEITO": {
+          "file": "municipalities/32476/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 141
+          },
+          "records": 560,
+          "file_size_bytes": 4221
+        }
+      }
+    },
+    {
+      "id": "32492",
+      "name": "TOMAR DO GERU",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32492/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1308,
+          "file_size_bytes": 9032
+        },
+        "PREFEITO": {
+          "file": "municipalities/32492/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 148,
+          "file_size_bytes": 3024
+        }
+      }
+    },
+    {
+      "id": "32514",
+      "name": "UMBAÚBA",
+      "uf": "SE",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/32514/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 3798,
+          "file_size_bytes": 22681
+        },
+        "PREFEITO": {
+          "file": "municipalities/32514/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 327,
+          "file_size_bytes": 4563
+        }
+      }
+    }
+  ]
+}

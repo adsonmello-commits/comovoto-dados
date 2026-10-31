@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "TO",
+    "municipalities": 139
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_TO.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:39:17.568809+00:00",
+  "source_archive_size_bytes": 10175412,
+  "source_archive_sha256": "d3fbf5c927a189d53f2f7ef7cb6df52c60b83598cad34ba49f43487d01888cf9",
+  "source_archive_members": [
+    "votacao_secao_2024_TO.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 20858,
+    "VEREADOR": 251992
+  },
+  "municipality_count": 139,
+  "partition_count": 278
+}

@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "AM",
+    "municipalities": 62
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AM.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T04:56:20.953274+00:00",
+  "source_archive_size_bytes": 34098974,
+  "source_archive_sha256": "45b546fd26560ad06b3dbd3816ea4d67dd3cdc2e20136da9e2fb546813920ecd",
+  "source_archive_members": [
+    "votacao_secao_2024_AM.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 66940,
+    "VEREADOR": 778434
+  },
+  "municipality_count": 62,
+  "partition_count": 124
+}

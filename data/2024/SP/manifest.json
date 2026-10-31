@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "SP",
+    "municipalities": 645
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_SP.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:38:56.983937+00:00",
+  "source_archive_size_bytes": 475818561,
+  "source_archive_sha256": "c3a1d45149e576a20403822c392f5d8e50efb0888a86d3c6e36cdbb26fb2dcca",
+  "source_archive_members": [
+    "votacao_secao_2024_SP.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 873389,
+    "VEREADOR": 8738268
+  },
+  "municipality_count": 645,
+  "partition_count": 1290
+}

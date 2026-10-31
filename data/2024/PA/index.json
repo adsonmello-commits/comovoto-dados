@@ -1,0 +1,4206 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "PA",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PA.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 144,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1",
+        "2"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "04014",
+      "name": "ABAETETUBA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04014/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 370
+          },
+          "records": 29011,
+          "file_size_bytes": 327731
+        },
+        "PREFEITO": {
+          "file": "municipalities/04014/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 370
+          },
+          "records": 2447,
+          "file_size_bytes": 39356
+        }
+      }
+    },
+    {
+      "id": "04502",
+      "name": "ABEL FIGUEIREDO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04502/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 965,
+          "file_size_bytes": 41668
+        },
+        "PREFEITO": {
+          "file": "municipalities/04502/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 69,
+          "file_size_bytes": 4591
+        }
+      }
+    },
+    {
+      "id": "04030",
+      "name": "ACARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04030/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 160
+          },
+          "records": 8447,
+          "file_size_bytes": 135149
+        },
+        "PREFEITO": {
+          "file": "municipalities/04030/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 160
+          },
+          "records": 608,
+          "file_size_bytes": 20893
+        }
+      }
+    },
+    {
+      "id": "04057",
+      "name": "AFUÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04057/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 3660,
+          "file_size_bytes": 86773
+        },
+        "PREFEITO": {
+          "file": "municipalities/04057/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 427,
+          "file_size_bytes": 16054
+        }
+      }
+    },
+    {
+      "id": "04073",
+      "name": "ALENQUER",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04073/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 173
+          },
+          "records": 10871,
+          "file_size_bytes": 157441
+        },
+        "PREFEITO": {
+          "file": "municipalities/04073/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 173
+          },
+          "records": 1108,
+          "file_size_bytes": 29284
+        }
+      }
+    },
+    {
+      "id": "04090",
+      "name": "ALMEIRIM",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04090/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 97
+          },
+          "records": 5039,
+          "file_size_bytes": 103746
+        },
+        "PREFEITO": {
+          "file": "municipalities/04090/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 97
+          },
+          "records": 422,
+          "file_size_bytes": 15466
+        }
+      }
+    },
+    {
+      "id": "04111",
+      "name": "ALTAMIRA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04111/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 287
+          },
+          "records": 23661,
+          "file_size_bytes": 266956
+        },
+        "PREFEITO": {
+          "file": "municipalities/04111/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 287
+          },
+          "records": 2265,
+          "file_size_bytes": 36120
+        }
+      }
+    },
+    {
+      "id": "04138",
+      "name": "ANAJÁS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04138/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 3699,
+          "file_size_bytes": 95379
+        },
+        "PREFEITO": {
+          "file": "municipalities/04138/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 275,
+          "file_size_bytes": 15579
+        }
+      }
+    },
+    {
+      "id": "04154",
+      "name": "ANANINDEUA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04154/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 999
+          },
+          "records": 101076,
+          "file_size_bytes": 940363
+        },
+        "PREFEITO": {
+          "file": "municipalities/04154/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 999
+          },
+          "records": 7567,
+          "file_size_bytes": 97142
+        }
+      }
+    },
+    {
+      "id": "04723",
+      "name": "ANAPU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04723/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 75
+          },
+          "records": 4968,
+          "file_size_bytes": 105153
+        },
+        "PREFEITO": {
+          "file": "municipalities/04723/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 75
+          },
+          "records": 365,
+          "file_size_bytes": 17669
+        }
+      }
+    },
+    {
+      "id": "04170",
+      "name": "AUGUSTO CORRÊA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04170/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 132
+          },
+          "records": 5515,
+          "file_size_bytes": 108973
+        },
+        "PREFEITO": {
+          "file": "municipalities/04170/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 132
+          },
+          "records": 715,
+          "file_size_bytes": 21450
+        }
+      }
+    },
+    {
+      "id": "04340",
+      "name": "AURORA DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04340/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 2043,
+          "file_size_bytes": 69779
+        },
+        "PREFEITO": {
+          "file": "municipalities/04340/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 262,
+          "file_size_bytes": 12955
+        }
+      }
+    },
+    {
+      "id": "04197",
+      "name": "AVEIRO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04197/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 1797,
+          "file_size_bytes": 67481
+        },
+        "PREFEITO": {
+          "file": "municipalities/04197/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 231,
+          "file_size_bytes": 13198
+        }
+      }
+    },
+    {
+      "id": "04219",
+      "name": "BAGRE",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04219/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 2067,
+          "file_size_bytes": 63970
+        },
+        "PREFEITO": {
+          "file": "municipalities/04219/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 181,
+          "file_size_bytes": 7915
+        }
+      }
+    },
+    {
+      "id": "04235",
+      "name": "BAIÃO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04235/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 4730,
+          "file_size_bytes": 103054
+        },
+        "PREFEITO": {
+          "file": "municipalities/04235/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 95
+          },
+          "records": 346,
+          "file_size_bytes": 15642
+        }
+      }
+    },
+    {
+      "id": "04588",
+      "name": "BANNACH",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04588/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 510,
+          "file_size_bytes": 31181
+        },
+        "PREFEITO": {
+          "file": "municipalities/04588/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 55,
+          "file_size_bytes": 4086
+        }
+      }
+    },
+    {
+      "id": "04251",
+      "name": "BARCARENA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04251/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 315
+          },
+          "records": 19110,
+          "file_size_bytes": 215206
+        },
+        "PREFEITO": {
+          "file": "municipalities/04251/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 315
+          },
+          "records": 1563,
+          "file_size_bytes": 28547
+        }
+      }
+    },
+    {
+      "id": "04804",
+      "name": "BELTERRA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04804/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 69
+          },
+          "records": 2718,
+          "file_size_bytes": 76385
+        },
+        "PREFEITO": {
+          "file": "municipalities/04804/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 69
+          },
+          "records": 235,
+          "file_size_bytes": 9842
+        }
+      }
+    },
+    {
+      "id": "04278",
+      "name": "BELÉM",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/04278/PREFEITO.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 2823,
+            "2": 2823
+          },
+          "records": 37791,
+          "file_size_bytes": 318773
+        },
+        "VEREADOR": {
+          "file": "municipalities/04278/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 2823
+          },
+          "records": 328452,
+          "file_size_bytes": 3373581
+        }
+      }
+    },
+    {
+      "id": "04294",
+      "name": "BENEVIDES",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04294/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 145
+          },
+          "records": 7632,
+          "file_size_bytes": 119777
+        },
+        "PREFEITO": {
+          "file": "municipalities/04294/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 145
+          },
+          "records": 574,
+          "file_size_bytes": 24461
+        }
+      }
+    },
+    {
+      "id": "04049",
+      "name": "BOM JESUS DO TOCANTINS",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/04049/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 164,
+          "file_size_bytes": 8807
+        },
+        "VEREADOR": {
+          "file": "municipalities/04049/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1509,
+          "file_size_bytes": 57396
+        }
+      }
+    },
+    {
+      "id": "04316",
+      "name": "BONITO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04316/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 2116,
+          "file_size_bytes": 71592
+        },
+        "PREFEITO": {
+          "file": "municipalities/04316/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 279,
+          "file_size_bytes": 12468
+        }
+      }
+    },
+    {
+      "id": "04332",
+      "name": "BRAGANÇA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04332/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 308
+          },
+          "records": 20153,
+          "file_size_bytes": 244268
+        },
+        "PREFEITO": {
+          "file": "municipalities/04332/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 308
+          },
+          "records": 1483,
+          "file_size_bytes": 32319
+        }
+      }
+    },
+    {
+      "id": "04227",
+      "name": "BRASIL NOVO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04227/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 2335,
+          "file_size_bytes": 68133
+        },
+        "PREFEITO": {
+          "file": "municipalities/04227/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 167,
+          "file_size_bytes": 7667
+        }
+      }
+    },
+    {
+      "id": "05932",
+      "name": "BREJO GRANDE DO ARAGUAIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05932/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 715,
+          "file_size_bytes": 32907
+        },
+        "PREFEITO": {
+          "file": "municipalities/05932/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 92,
+          "file_size_bytes": 5374
+        }
+      }
+    },
+    {
+      "id": "04448",
+      "name": "BREU BRANCO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04448/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 118
+          },
+          "records": 5583,
+          "file_size_bytes": 103611
+        },
+        "PREFEITO": {
+          "file": "municipalities/04448/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 118
+          },
+          "records": 455,
+          "file_size_bytes": 16506
+        }
+      }
+    },
+    {
+      "id": "04359",
+      "name": "BREVES",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04359/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 227
+          },
+          "records": 17060,
+          "file_size_bytes": 171692
+        },
+        "PREFEITO": {
+          "file": "municipalities/04359/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 227
+          },
+          "records": 1026,
+          "file_size_bytes": 29300
+        }
+      }
+    },
+    {
+      "id": "04375",
+      "name": "BUJARU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04375/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 3698,
+          "file_size_bytes": 93757
+        },
+        "PREFEITO": {
+          "file": "municipalities/04375/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 361,
+          "file_size_bytes": 17917
+        }
+      }
+    },
+    {
+      "id": "04391",
+      "name": "CACHOEIRA DO ARARI",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04391/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 2741,
+          "file_size_bytes": 80363
+        },
+        "PREFEITO": {
+          "file": "municipalities/04391/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 235,
+          "file_size_bytes": 9377
+        }
+      }
+    },
+    {
+      "id": "04766",
+      "name": "CACHOEIRA DO PIRIÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04766/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 1670,
+          "file_size_bytes": 55797
+        },
+        "PREFEITO": {
+          "file": "municipalities/04766/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 205,
+          "file_size_bytes": 9575
+        }
+      }
+    },
+    {
+      "id": "04413",
+      "name": "CAMETÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04413/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 343
+          },
+          "records": 22262,
+          "file_size_bytes": 234076
+        },
+        "PREFEITO": {
+          "file": "municipalities/04413/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 343
+          },
+          "records": 1909,
+          "file_size_bytes": 40494
+        }
+      }
+    },
+    {
+      "id": "04707",
+      "name": "CANAÃ DOS CARAJÁS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04707/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 188
+          },
+          "records": 11463,
+          "file_size_bytes": 147276
+        },
+        "PREFEITO": {
+          "file": "municipalities/04707/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 188
+          },
+          "records": 865,
+          "file_size_bytes": 20358
+        }
+      }
+    },
+    {
+      "id": "04430",
+      "name": "CAPANEMA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04430/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 201
+          },
+          "records": 14302,
+          "file_size_bytes": 196808
+        },
+        "PREFEITO": {
+          "file": "municipalities/04430/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 201
+          },
+          "records": 980,
+          "file_size_bytes": 22288
+        }
+      }
+    },
+    {
+      "id": "04456",
+      "name": "CAPITÃO POÇO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04456/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 142
+          },
+          "records": 7344,
+          "file_size_bytes": 123616
+        },
+        "PREFEITO": {
+          "file": "municipalities/04456/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 142
+          },
+          "records": 547,
+          "file_size_bytes": 18595
+        }
+      }
+    },
+    {
+      "id": "04472",
+      "name": "CASTANHAL",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04472/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 437
+          },
+          "records": 39751,
+          "file_size_bytes": 347565
+        },
+        "PREFEITO": {
+          "file": "municipalities/04472/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 437
+          },
+          "records": 2610,
+          "file_size_bytes": 54262
+        }
+      }
+    },
+    {
+      "id": "04499",
+      "name": "CHAVES",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04499/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 1962,
+          "file_size_bytes": 67060
+        },
+        "PREFEITO": {
+          "file": "municipalities/04499/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 267,
+          "file_size_bytes": 12709
+        }
+      }
+    },
+    {
+      "id": "04510",
+      "name": "COLARES",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/04510/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 288,
+          "file_size_bytes": 11112
+        },
+        "VEREADOR": {
+          "file": "municipalities/04510/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 2233,
+          "file_size_bytes": 65187
+        }
+      }
+    },
+    {
+      "id": "04537",
+      "name": "CONCEIÇÃO DO ARAGUAIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04537/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 112
+          },
+          "records": 6839,
+          "file_size_bytes": 120515
+        },
+        "PREFEITO": {
+          "file": "municipalities/04537/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 112
+          },
+          "records": 638,
+          "file_size_bytes": 21729
+        }
+      }
+    },
+    {
+      "id": "05819",
+      "name": "CONCÓRDIA DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05819/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 3646,
+          "file_size_bytes": 88278
+        },
+        "PREFEITO": {
+          "file": "municipalities/05819/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 348,
+          "file_size_bytes": 14031
+        }
+      }
+    },
+    {
+      "id": "04529",
+      "name": "CUMARU DO NORTE",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04529/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 952,
+          "file_size_bytes": 46869
+        },
+        "PREFEITO": {
+          "file": "municipalities/04529/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 117,
+          "file_size_bytes": 7110
+        }
+      }
+    },
+    {
+      "id": "05851",
+      "name": "CURIONÓPOLIS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05851/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 2141,
+          "file_size_bytes": 72565
+        },
+        "PREFEITO": {
+          "file": "municipalities/05851/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 222,
+          "file_size_bytes": 14759
+        }
+      }
+    },
+    {
+      "id": "04553",
+      "name": "CURRALINHO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04553/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 4698,
+          "file_size_bytes": 100994
+        },
+        "PREFEITO": {
+          "file": "municipalities/04553/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 302,
+          "file_size_bytes": 12289
+        }
+      }
+    },
+    {
+      "id": "04740",
+      "name": "CURUÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04740/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 1748,
+          "file_size_bytes": 65947
+        },
+        "PREFEITO": {
+          "file": "municipalities/04740/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 207,
+          "file_size_bytes": 11847
+        }
+      }
+    },
+    {
+      "id": "04570",
+      "name": "CURUÇÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04570/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 114
+          },
+          "records": 5685,
+          "file_size_bytes": 116739
+        },
+        "PREFEITO": {
+          "file": "municipalities/04570/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 114
+          },
+          "records": 598,
+          "file_size_bytes": 23606
+        }
+      }
+    },
+    {
+      "id": "05975",
+      "name": "DOM ELISEU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05975/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 112
+          },
+          "records": 7360,
+          "file_size_bytes": 130036
+        },
+        "PREFEITO": {
+          "file": "municipalities/05975/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 112
+          },
+          "records": 651,
+          "file_size_bytes": 20430
+        }
+      }
+    },
+    {
+      "id": "04120",
+      "name": "ELDORADO DOS CARAJÁS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04120/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 4711,
+          "file_size_bytes": 96691
+        },
+        "PREFEITO": {
+          "file": "municipalities/04120/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 456,
+          "file_size_bytes": 23243
+        }
+      }
+    },
+    {
+      "id": "04596",
+      "name": "FARO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04596/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1098,
+          "file_size_bytes": 45795
+        },
+        "PREFEITO": {
+          "file": "municipalities/04596/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 89,
+          "file_size_bytes": 5428
+        }
+      }
+    },
+    {
+      "id": "04561",
+      "name": "FLORESTA DO ARAGUAIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04561/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 2468,
+          "file_size_bytes": 63308
+        },
+        "PREFEITO": {
+          "file": "municipalities/04561/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 214,
+          "file_size_bytes": 8227
+        }
+      }
+    },
+    {
+      "id": "05878",
+      "name": "GARRAFÃO DO NORTE",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/05878/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 353,
+          "file_size_bytes": 15896
+        },
+        "VEREADOR": {
+          "file": "municipalities/05878/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 2789,
+          "file_size_bytes": 75850
+        }
+      }
+    },
+    {
+      "id": "04006",
+      "name": "GOIANÉSIA DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/04006/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 87
+          },
+          "records": 410,
+          "file_size_bytes": 11320
+        },
+        "VEREADOR": {
+          "file": "municipalities/04006/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 87
+          },
+          "records": 3554,
+          "file_size_bytes": 77046
+        }
+      }
+    },
+    {
+      "id": "04618",
+      "name": "GURUPÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04618/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 3183,
+          "file_size_bytes": 85225
+        },
+        "PREFEITO": {
+          "file": "municipalities/04618/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 306,
+          "file_size_bytes": 14100
+        }
+      }
+    },
+    {
+      "id": "04634",
+      "name": "IGARAPÉ-AÇU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04634/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 103
+          },
+          "records": 5454,
+          "file_size_bytes": 109338
+        },
+        "PREFEITO": {
+          "file": "municipalities/04634/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 103
+          },
+          "records": 843,
+          "file_size_bytes": 24180
+        }
+      }
+    },
+    {
+      "id": "04650",
+      "name": "IGARAPÉ-MIRI",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04650/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 163
+          },
+          "records": 9339,
+          "file_size_bytes": 148440
+        },
+        "PREFEITO": {
+          "file": "municipalities/04650/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 163
+          },
+          "records": 882,
+          "file_size_bytes": 23418
+        }
+      }
+    },
+    {
+      "id": "04677",
+      "name": "INHANGAPI",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04677/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 1610,
+          "file_size_bytes": 61793
+        },
+        "PREFEITO": {
+          "file": "municipalities/04677/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 130,
+          "file_size_bytes": 7974
+        }
+      }
+    },
+    {
+      "id": "04189",
+      "name": "IPIXUNA DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04189/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 4958,
+          "file_size_bytes": 108183
+        },
+        "PREFEITO": {
+          "file": "municipalities/04189/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 522,
+          "file_size_bytes": 23775
+        }
+      }
+    },
+    {
+      "id": "04693",
+      "name": "IRITUIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04693/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 4121,
+          "file_size_bytes": 100529
+        },
+        "PREFEITO": {
+          "file": "municipalities/04693/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 99
+          },
+          "records": 350,
+          "file_size_bytes": 14762
+        }
+      }
+    },
+    {
+      "id": "04715",
+      "name": "ITAITUBA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04715/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 283
+          },
+          "records": 20516,
+          "file_size_bytes": 251009
+        },
+        "PREFEITO": {
+          "file": "municipalities/04715/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 283
+          },
+          "records": 1849,
+          "file_size_bytes": 38551
+        }
+      }
+    },
+    {
+      "id": "04731",
+      "name": "ITUPIRANGA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04731/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 120
+          },
+          "records": 7047,
+          "file_size_bytes": 113723
+        },
+        "PREFEITO": {
+          "file": "municipalities/04731/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 120
+          },
+          "records": 560,
+          "file_size_bytes": 22603
+        }
+      }
+    },
+    {
+      "id": "04200",
+      "name": "JACAREACANGA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04200/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 2636,
+          "file_size_bytes": 83558
+        },
+        "PREFEITO": {
+          "file": "municipalities/04200/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 343,
+          "file_size_bytes": 21138
+        }
+      }
+    },
+    {
+      "id": "04758",
+      "name": "JACUNDÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04758/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 111
+          },
+          "records": 5638,
+          "file_size_bytes": 103133
+        },
+        "PREFEITO": {
+          "file": "municipalities/04758/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 111
+          },
+          "records": 545,
+          "file_size_bytes": 18415
+        }
+      }
+    },
+    {
+      "id": "04774",
+      "name": "JURUTI",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04774/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 131
+          },
+          "records": 7320,
+          "file_size_bytes": 125211
+        },
+        "PREFEITO": {
+          "file": "municipalities/04774/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 131
+          },
+          "records": 586,
+          "file_size_bytes": 18658
+        }
+      }
+    },
+    {
+      "id": "04790",
+      "name": "LIMOEIRO DO AJURU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04790/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 2651,
+          "file_size_bytes": 70595
+        },
+        "PREFEITO": {
+          "file": "municipalities/04790/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 429,
+          "file_size_bytes": 12264
+        }
+      }
+    },
+    {
+      "id": "04812",
+      "name": "MAGALHÃES BARATA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04812/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1377,
+          "file_size_bytes": 56208
+        },
+        "PREFEITO": {
+          "file": "municipalities/04812/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 169,
+          "file_size_bytes": 9046
+        }
+      }
+    },
+    {
+      "id": "04839",
+      "name": "MARABÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04839/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 561
+          },
+          "records": 46395,
+          "file_size_bytes": 380368
+        },
+        "PREFEITO": {
+          "file": "municipalities/04839/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 561
+          },
+          "records": 2779,
+          "file_size_bytes": 56290
+        }
+      }
+    },
+    {
+      "id": "04855",
+      "name": "MARACANÃ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04855/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 116
+          },
+          "records": 4546,
+          "file_size_bytes": 94347
+        },
+        "PREFEITO": {
+          "file": "municipalities/04855/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 116
+          },
+          "records": 492,
+          "file_size_bytes": 14532
+        }
+      }
+    },
+    {
+      "id": "04871",
+      "name": "MARAPANIM",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04871/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 92
+          },
+          "records": 3462,
+          "file_size_bytes": 91411
+        },
+        "PREFEITO": {
+          "file": "municipalities/04871/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 92
+          },
+          "records": 356,
+          "file_size_bytes": 15965
+        }
+      }
+    },
+    {
+      "id": "04642",
+      "name": "MARITUBA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04642/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 270
+          },
+          "records": 20729,
+          "file_size_bytes": 213653
+        },
+        "PREFEITO": {
+          "file": "municipalities/04642/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 270
+          },
+          "records": 1630,
+          "file_size_bytes": 35654
+        }
+      }
+    },
+    {
+      "id": "05770",
+      "name": "MEDICILÂNDIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05770/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 4109,
+          "file_size_bytes": 90571
+        },
+        "PREFEITO": {
+          "file": "municipalities/05770/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 371,
+          "file_size_bytes": 15240
+        }
+      }
+    },
+    {
+      "id": "04898",
+      "name": "MELGAÇO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04898/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 61
+          },
+          "records": 2935,
+          "file_size_bytes": 70944
+        },
+        "PREFEITO": {
+          "file": "municipalities/04898/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 200,
+          "file_size_bytes": 11525
+        }
+      }
+    },
+    {
+      "id": "04910",
+      "name": "MOCAJUBA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04910/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 5787,
+          "file_size_bytes": 115314
+        },
+        "PREFEITO": {
+          "file": "municipalities/04910/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 416,
+          "file_size_bytes": 17619
+        }
+      }
+    },
+    {
+      "id": "04936",
+      "name": "MOJU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04936/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 193
+          },
+          "records": 11133,
+          "file_size_bytes": 163449
+        },
+        "PREFEITO": {
+          "file": "municipalities/04936/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 193
+          },
+          "records": 908,
+          "file_size_bytes": 26181
+        }
+      }
+    },
+    {
+      "id": "04863",
+      "name": "MOJUÍ DOS CAMPOS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04863/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 3542,
+          "file_size_bytes": 82985
+        },
+        "PREFEITO": {
+          "file": "municipalities/04863/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 339,
+          "file_size_bytes": 12376
+        }
+      }
+    },
+    {
+      "id": "04952",
+      "name": "MONTE ALEGRE",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04952/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 211
+          },
+          "records": 10213,
+          "file_size_bytes": 153177
+        },
+        "PREFEITO": {
+          "file": "municipalities/04952/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 211
+          },
+          "records": 894,
+          "file_size_bytes": 21363
+        }
+      }
+    },
+    {
+      "id": "04979",
+      "name": "MUANÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04979/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 92
+          },
+          "records": 5157,
+          "file_size_bytes": 105099
+        },
+        "PREFEITO": {
+          "file": "municipalities/04979/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 92
+          },
+          "records": 493,
+          "file_size_bytes": 16086
+        }
+      }
+    },
+    {
+      "id": "04103",
+      "name": "MÃE DO RIO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04103/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 4775,
+          "file_size_bytes": 99888
+        },
+        "PREFEITO": {
+          "file": "municipalities/04103/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 391,
+          "file_size_bytes": 15435
+        }
+      }
+    },
+    {
+      "id": "04480",
+      "name": "NOVA ESPERANÇA DO PIRIÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04480/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 1596,
+          "file_size_bytes": 55150
+        },
+        "PREFEITO": {
+          "file": "municipalities/04480/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 224,
+          "file_size_bytes": 10148
+        }
+      }
+    },
+    {
+      "id": "04600",
+      "name": "NOVA IPIXUNA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04600/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1594,
+          "file_size_bytes": 58019
+        },
+        "PREFEITO": {
+          "file": "municipalities/04600/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 182,
+          "file_size_bytes": 10071
+        }
+      }
+    },
+    {
+      "id": "04995",
+      "name": "NOVA TIMBOTEUA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04995/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 1630,
+          "file_size_bytes": 60236
+        },
+        "PREFEITO": {
+          "file": "municipalities/04995/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 147,
+          "file_size_bytes": 7756
+        }
+      }
+    },
+    {
+      "id": "04383",
+      "name": "NOVO PROGRESSO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04383/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 83
+          },
+          "records": 4914,
+          "file_size_bytes": 101408
+        },
+        "PREFEITO": {
+          "file": "municipalities/04383/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 83
+          },
+          "records": 323,
+          "file_size_bytes": 11340
+        }
+      }
+    },
+    {
+      "id": "04421",
+      "name": "NOVO REPARTIMENTO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04421/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 158
+          },
+          "records": 8355,
+          "file_size_bytes": 121744
+        },
+        "PREFEITO": {
+          "file": "municipalities/04421/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 158
+          },
+          "records": 721,
+          "file_size_bytes": 25803
+        }
+      }
+    },
+    {
+      "id": "05037",
+      "name": "OEIRAS DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05037/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 5091,
+          "file_size_bytes": 106813
+        },
+        "PREFEITO": {
+          "file": "municipalities/05037/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 368,
+          "file_size_bytes": 15665
+        }
+      }
+    },
+    {
+      "id": "05053",
+      "name": "ORIXIMINÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05053/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 185
+          },
+          "records": 11735,
+          "file_size_bytes": 161594
+        },
+        "PREFEITO": {
+          "file": "municipalities/05053/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 185
+          },
+          "records": 728,
+          "file_size_bytes": 22246
+        }
+      }
+    },
+    {
+      "id": "05959",
+      "name": "OURILÂNDIA DO NORTE",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05959/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 4461,
+          "file_size_bytes": 90411
+        },
+        "PREFEITO": {
+          "file": "municipalities/05959/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 369,
+          "file_size_bytes": 13638
+        }
+      }
+    },
+    {
+      "id": "05070",
+      "name": "OURÉM",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05070/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 2539,
+          "file_size_bytes": 78446
+        },
+        "PREFEITO": {
+          "file": "municipalities/05070/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 221,
+          "file_size_bytes": 11400
+        }
+      }
+    },
+    {
+      "id": "05916",
+      "name": "PACAJÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05916/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 98
+          },
+          "records": 4788,
+          "file_size_bytes": 104162
+        },
+        "PREFEITO": {
+          "file": "municipalities/05916/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 98
+          },
+          "records": 462,
+          "file_size_bytes": 14133
+        }
+      }
+    },
+    {
+      "id": "04162",
+      "name": "PALESTINA DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04162/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 859,
+          "file_size_bytes": 41421
+        },
+        "PREFEITO": {
+          "file": "municipalities/04162/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 74,
+          "file_size_bytes": 4932
+        }
+      }
+    },
+    {
+      "id": "05096",
+      "name": "PARAGOMINAS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05096/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 234
+          },
+          "records": 23730,
+          "file_size_bytes": 250344
+        },
+        "PREFEITO": {
+          "file": "municipalities/05096/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 234
+          },
+          "records": 1832,
+          "file_size_bytes": 39684
+        }
+      }
+    },
+    {
+      "id": "05835",
+      "name": "PARAUAPEBAS",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/05835/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 575
+          },
+          "records": 3414,
+          "file_size_bytes": 51226
+        },
+        "VEREADOR": {
+          "file": "municipalities/05835/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 575
+          },
+          "records": 55616,
+          "file_size_bytes": 461644
+        }
+      }
+    },
+    {
+      "id": "04308",
+      "name": "PAU D ARCO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04308/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1535,
+          "file_size_bytes": 55931
+        },
+        "PREFEITO": {
+          "file": "municipalities/04308/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 102,
+          "file_size_bytes": 5808
+        }
+      }
+    },
+    {
+      "id": "05118",
+      "name": "PEIXE-BOI",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05118/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 1219,
+          "file_size_bytes": 49227
+        },
+        "PREFEITO": {
+          "file": "municipalities/05118/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 125,
+          "file_size_bytes": 6268
+        }
+      }
+    },
+    {
+      "id": "04782",
+      "name": "PIÇARRA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04782/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 1033,
+          "file_size_bytes": 44960
+        },
+        "PREFEITO": {
+          "file": "municipalities/04782/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 139,
+          "file_size_bytes": 8584
+        }
+      }
+    },
+    {
+      "id": "04626",
+      "name": "PLACAS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04626/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 2070,
+          "file_size_bytes": 76152
+        },
+        "PREFEITO": {
+          "file": "municipalities/04626/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 252,
+          "file_size_bytes": 14401
+        }
+      }
+    },
+    {
+      "id": "05134",
+      "name": "PONTA DE PEDRAS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05134/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 4763,
+          "file_size_bytes": 97335
+        },
+        "PREFEITO": {
+          "file": "municipalities/05134/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 272,
+          "file_size_bytes": 10540
+        }
+      }
+    },
+    {
+      "id": "05150",
+      "name": "PORTEL",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05150/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 138
+          },
+          "records": 7602,
+          "file_size_bytes": 126814
+        },
+        "PREFEITO": {
+          "file": "municipalities/05150/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 138
+          },
+          "records": 604,
+          "file_size_bytes": 19396
+        }
+      }
+    },
+    {
+      "id": "05177",
+      "name": "PORTO DE MOZ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05177/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 4520,
+          "file_size_bytes": 96828
+        },
+        "PREFEITO": {
+          "file": "municipalities/05177/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 285,
+          "file_size_bytes": 10278
+        }
+      }
+    },
+    {
+      "id": "05193",
+      "name": "PRAINHA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05193/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 110
+          },
+          "records": 3958,
+          "file_size_bytes": 88928
+        },
+        "PREFEITO": {
+          "file": "municipalities/05193/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 110
+          },
+          "records": 370,
+          "file_size_bytes": 11927
+        }
+      }
+    },
+    {
+      "id": "05215",
+      "name": "PRIMAVERA",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/05215/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 138,
+          "file_size_bytes": 7956
+        },
+        "VEREADOR": {
+          "file": "municipalities/05215/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 1267,
+          "file_size_bytes": 50637
+        }
+      }
+    },
+    {
+      "id": "04685",
+      "name": "QUATIPURU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04685/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 1531,
+          "file_size_bytes": 57419
+        },
+        "PREFEITO": {
+          "file": "municipalities/04685/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 121,
+          "file_size_bytes": 6683
+        }
+      }
+    },
+    {
+      "id": "05673",
+      "name": "REDENÇÃO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05673/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 195
+          },
+          "records": 17021,
+          "file_size_bytes": 215384
+        },
+        "PREFEITO": {
+          "file": "municipalities/05673/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 195
+          },
+          "records": 947,
+          "file_size_bytes": 20500
+        }
+      }
+    },
+    {
+      "id": "05690",
+      "name": "RIO MARIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05690/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 2971,
+          "file_size_bytes": 77312
+        },
+        "PREFEITO": {
+          "file": "municipalities/05690/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 192,
+          "file_size_bytes": 9050
+        }
+      }
+    },
+    {
+      "id": "05738",
+      "name": "RONDON DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05738/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 5597,
+          "file_size_bytes": 103152
+        },
+        "PREFEITO": {
+          "file": "municipalities/05738/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 473,
+          "file_size_bytes": 21035
+        }
+      }
+    },
+    {
+      "id": "05894",
+      "name": "RURÓPOLIS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05894/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 3612,
+          "file_size_bytes": 89632
+        },
+        "PREFEITO": {
+          "file": "municipalities/05894/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 285,
+          "file_size_bytes": 12205
+        }
+      }
+    },
+    {
+      "id": "05231",
+      "name": "SALINÓPOLIS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05231/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 116
+          },
+          "records": 9367,
+          "file_size_bytes": 148246
+        },
+        "PREFEITO": {
+          "file": "municipalities/05231/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 116
+          },
+          "records": 520,
+          "file_size_bytes": 15642
+        }
+      }
+    },
+    {
+      "id": "05258",
+      "name": "SALVATERRA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05258/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 3927,
+          "file_size_bytes": 92880
+        },
+        "PREFEITO": {
+          "file": "municipalities/05258/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 338,
+          "file_size_bytes": 14666
+        }
+      }
+    },
+    {
+      "id": "04243",
+      "name": "SANTA BÁRBARA DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04243/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 3583,
+          "file_size_bytes": 95409
+        },
+        "PREFEITO": {
+          "file": "municipalities/04243/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 242,
+          "file_size_bytes": 11629
+        }
+      }
+    },
+    {
+      "id": "05274",
+      "name": "SANTA CRUZ DO ARARI",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05274/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 664,
+          "file_size_bytes": 34170
+        },
+        "PREFEITO": {
+          "file": "municipalities/05274/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 82,
+          "file_size_bytes": 5264
+        }
+      }
+    },
+    {
+      "id": "05290",
+      "name": "SANTA IZABEL DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05290/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 155
+          },
+          "records": 10572,
+          "file_size_bytes": 148546
+        },
+        "PREFEITO": {
+          "file": "municipalities/05290/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 155
+          },
+          "records": 1312,
+          "file_size_bytes": 39703
+        }
+      }
+    },
+    {
+      "id": "04146",
+      "name": "SANTA LUZIA DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/04146/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 262,
+          "file_size_bytes": 14638
+        },
+        "VEREADOR": {
+          "file": "municipalities/04146/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 2125,
+          "file_size_bytes": 70996
+        }
+      }
+    },
+    {
+      "id": "05991",
+      "name": "SANTA MARIA DAS BARREIRAS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05991/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 1970,
+          "file_size_bytes": 73985
+        },
+        "PREFEITO": {
+          "file": "municipalities/05991/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 191,
+          "file_size_bytes": 12086
+        }
+      }
+    },
+    {
+      "id": "05312",
+      "name": "SANTA MARIA DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05312/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 3431,
+          "file_size_bytes": 80986
+        },
+        "PREFEITO": {
+          "file": "municipalities/05312/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 316,
+          "file_size_bytes": 10791
+        }
+      }
+    },
+    {
+      "id": "05339",
+      "name": "SANTANA DO ARAGUAIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05339/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 4320,
+          "file_size_bytes": 90484
+        },
+        "PREFEITO": {
+          "file": "municipalities/05339/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 465,
+          "file_size_bytes": 16611
+        }
+      }
+    },
+    {
+      "id": "05355",
+      "name": "SANTARÉM",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/05355/PREFEITO.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 834,
+            "2": 834
+          },
+          "records": 8491,
+          "file_size_bytes": 93947
+        },
+        "VEREADOR": {
+          "file": "municipalities/05355/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 834
+          },
+          "records": 70689,
+          "file_size_bytes": 704638
+        }
+      }
+    },
+    {
+      "id": "05371",
+      "name": "SANTARÉM NOVO",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/05371/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 94,
+          "file_size_bytes": 5695
+        },
+        "VEREADOR": {
+          "file": "municipalities/05371/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 684,
+          "file_size_bytes": 37311
+        }
+      }
+    },
+    {
+      "id": "05398",
+      "name": "SANTO ANTÔNIO DO TAUÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05398/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 87
+          },
+          "records": 5605,
+          "file_size_bytes": 117337
+        },
+        "PREFEITO": {
+          "file": "municipalities/05398/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 87
+          },
+          "records": 405,
+          "file_size_bytes": 14727
+        }
+      }
+    },
+    {
+      "id": "04847",
+      "name": "SAPUCAIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04847/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 761,
+          "file_size_bytes": 41049
+        },
+        "PREFEITO": {
+          "file": "municipalities/04847/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 51,
+          "file_size_bytes": 3464
+        }
+      }
+    },
+    {
+      "id": "05550",
+      "name": "SENADOR JOSÉ PORFÍRIO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05550/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 2184,
+          "file_size_bytes": 68319
+        },
+        "PREFEITO": {
+          "file": "municipalities/05550/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 234,
+          "file_size_bytes": 12465
+        }
+      }
+    },
+    {
+      "id": "05576",
+      "name": "SOURE",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05576/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 4401,
+          "file_size_bytes": 100035
+        },
+        "PREFEITO": {
+          "file": "municipalities/05576/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 321,
+          "file_size_bytes": 12575
+        }
+      }
+    },
+    {
+      "id": "05410",
+      "name": "SÃO CAETANO DE ODIVELAS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05410/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 2501,
+          "file_size_bytes": 75822
+        },
+        "PREFEITO": {
+          "file": "municipalities/05410/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 305,
+          "file_size_bytes": 12879
+        }
+      }
+    },
+    {
+      "id": "04464",
+      "name": "SÃO DOMINGOS DO ARAGUAIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04464/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 2163,
+          "file_size_bytes": 63569
+        },
+        "PREFEITO": {
+          "file": "municipalities/04464/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 222,
+          "file_size_bytes": 9214
+        }
+      }
+    },
+    {
+      "id": "05436",
+      "name": "SÃO DOMINGOS DO CAPIM",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05436/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 3535,
+          "file_size_bytes": 88126
+        },
+        "PREFEITO": {
+          "file": "municipalities/05436/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 343,
+          "file_size_bytes": 14305
+        }
+      }
+    },
+    {
+      "id": "05479",
+      "name": "SÃO FRANCISCO DO PARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05479/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 1814,
+          "file_size_bytes": 72050
+        },
+        "PREFEITO": {
+          "file": "municipalities/05479/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 230,
+          "file_size_bytes": 13973
+        }
+      }
+    },
+    {
+      "id": "05452",
+      "name": "SÃO FÉLIX DO XINGU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05452/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 149
+          },
+          "records": 6715,
+          "file_size_bytes": 119745
+        },
+        "PREFEITO": {
+          "file": "municipalities/05452/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 149
+          },
+          "records": 915,
+          "file_size_bytes": 26503
+        }
+      }
+    },
+    {
+      "id": "05797",
+      "name": "SÃO GERALDO DO ARAGUAIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05797/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 73
+          },
+          "records": 3321,
+          "file_size_bytes": 85145
+        },
+        "PREFEITO": {
+          "file": "municipalities/05797/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 73
+          },
+          "records": 392,
+          "file_size_bytes": 19222
+        }
+      }
+    },
+    {
+      "id": "04820",
+      "name": "SÃO JOÃO DA PONTA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04820/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 1098,
+          "file_size_bytes": 57442
+        },
+        "PREFEITO": {
+          "file": "municipalities/04820/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 194,
+          "file_size_bytes": 15161
+        }
+      }
+    },
+    {
+      "id": "04065",
+      "name": "SÃO JOÃO DE PIRABAS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04065/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 3219,
+          "file_size_bytes": 88492
+        },
+        "PREFEITO": {
+          "file": "municipalities/04065/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 334,
+          "file_size_bytes": 18440
+        }
+      }
+    },
+    {
+      "id": "05495",
+      "name": "SÃO JOÃO DO ARAGUAIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05495/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 1760,
+          "file_size_bytes": 62808
+        },
+        "PREFEITO": {
+          "file": "municipalities/05495/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 223,
+          "file_size_bytes": 11553
+        }
+      }
+    },
+    {
+      "id": "05517",
+      "name": "SÃO MIGUEL DO GUAMÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05517/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 145
+          },
+          "records": 8785,
+          "file_size_bytes": 127143
+        },
+        "PREFEITO": {
+          "file": "municipalities/05517/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 145
+          },
+          "records": 435,
+          "file_size_bytes": 16433
+        }
+      }
+    },
+    {
+      "id": "05533",
+      "name": "SÃO SEBASTIÃO DA BOA VISTA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05533/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 75
+          },
+          "records": 4269,
+          "file_size_bytes": 98266
+        },
+        "PREFEITO": {
+          "file": "municipalities/05533/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 75
+          },
+          "records": 344,
+          "file_size_bytes": 17104
+        }
+      }
+    },
+    {
+      "id": "04022",
+      "name": "TAILÂNDIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04022/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 186
+          },
+          "records": 13850,
+          "file_size_bytes": 152370
+        },
+        "PREFEITO": {
+          "file": "municipalities/04022/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 186
+          },
+          "records": 948,
+          "file_size_bytes": 30210
+        }
+      }
+    },
+    {
+      "id": "04545",
+      "name": "TERRA ALTA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04545/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 2157,
+          "file_size_bytes": 75306
+        },
+        "PREFEITO": {
+          "file": "municipalities/04545/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 194,
+          "file_size_bytes": 11728
+        }
+      }
+    },
+    {
+      "id": "04367",
+      "name": "TERRA SANTA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04367/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 2598,
+          "file_size_bytes": 76645
+        },
+        "PREFEITO": {
+          "file": "municipalities/04367/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 60
+          },
+          "records": 250,
+          "file_size_bytes": 11144
+        }
+      }
+    },
+    {
+      "id": "05592",
+      "name": "TOMÉ-AÇU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05592/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 180
+          },
+          "records": 12300,
+          "file_size_bytes": 141343
+        },
+        "PREFEITO": {
+          "file": "municipalities/05592/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 180
+          },
+          "records": 702,
+          "file_size_bytes": 22751
+        }
+      }
+    },
+    {
+      "id": "04669",
+      "name": "TRACUATEUA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04669/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 3563,
+          "file_size_bytes": 90413
+        },
+        "PREFEITO": {
+          "file": "municipalities/04669/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 318,
+          "file_size_bytes": 13652
+        }
+      }
+    },
+    {
+      "id": "04286",
+      "name": "TRAIRÃO",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04286/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 2045,
+          "file_size_bytes": 72591
+        },
+        "PREFEITO": {
+          "file": "municipalities/04286/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 194,
+          "file_size_bytes": 11855
+        }
+      }
+    },
+    {
+      "id": "04081",
+      "name": "TUCUMÃ",
+      "uf": "PA",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/04081/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 566,
+          "file_size_bytes": 21104
+        },
+        "VEREADOR": {
+          "file": "municipalities/04081/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 6829,
+          "file_size_bytes": 120621
+        }
+      }
+    },
+    {
+      "id": "05614",
+      "name": "TUCURUÍ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05614/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 233
+          },
+          "records": 20661,
+          "file_size_bytes": 187156
+        },
+        "PREFEITO": {
+          "file": "municipalities/05614/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 233
+          },
+          "records": 1112,
+          "file_size_bytes": 34599
+        }
+      }
+    },
+    {
+      "id": "04324",
+      "name": "ULIANÓPOLIS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04324/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 3349,
+          "file_size_bytes": 85482
+        },
+        "PREFEITO": {
+          "file": "municipalities/04324/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 257,
+          "file_size_bytes": 13080
+        }
+      }
+    },
+    {
+      "id": "05754",
+      "name": "URUARÁ",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05754/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 102
+          },
+          "records": 6588,
+          "file_size_bytes": 109758
+        },
+        "PREFEITO": {
+          "file": "municipalities/05754/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 102
+          },
+          "records": 684,
+          "file_size_bytes": 28334
+        }
+      }
+    },
+    {
+      "id": "05630",
+      "name": "VIGIA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05630/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 140
+          },
+          "records": 7915,
+          "file_size_bytes": 130903
+        },
+        "PREFEITO": {
+          "file": "municipalities/05630/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 140
+          },
+          "records": 633,
+          "file_size_bytes": 13441
+        }
+      }
+    },
+    {
+      "id": "05657",
+      "name": "VISEU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05657/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 165
+          },
+          "records": 5682,
+          "file_size_bytes": 103235
+        },
+        "PREFEITO": {
+          "file": "municipalities/05657/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 165
+          },
+          "records": 580,
+          "file_size_bytes": 23951
+        }
+      }
+    },
+    {
+      "id": "04405",
+      "name": "VITÓRIA DO XINGU",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04405/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 1957,
+          "file_size_bytes": 61726
+        },
+        "PREFEITO": {
+          "file": "municipalities/04405/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 290,
+          "file_size_bytes": 12548
+        }
+      }
+    },
+    {
+      "id": "05711",
+      "name": "XINGUARA",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05711/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 118
+          },
+          "records": 9183,
+          "file_size_bytes": 126924
+        },
+        "PREFEITO": {
+          "file": "municipalities/05711/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 118
+          },
+          "records": 576,
+          "file_size_bytes": 24217
+        }
+      }
+    },
+    {
+      "id": "04260",
+      "name": "ÁGUA AZUL DO NORTE",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/04260/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1466,
+          "file_size_bytes": 56061
+        },
+        "PREFEITO": {
+          "file": "municipalities/04260/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 167,
+          "file_size_bytes": 8357
+        }
+      }
+    },
+    {
+      "id": "05010",
+      "name": "ÓBIDOS",
+      "uf": "PA",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/05010/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 170
+          },
+          "records": 7698,
+          "file_size_bytes": 124292
+        },
+        "PREFEITO": {
+          "file": "municipalities/05010/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 170
+          },
+          "records": 629,
+          "file_size_bytes": 14408
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "PE",
+    "municipalities": 184
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PE.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:09:05.244584+00:00",
+  "source_archive_size_bytes": 66662914,
+  "source_archive_sha256": "49c4a506fb91fc54d96ce1d8d8b1aa8db78c5db6a064c64728ae9e798e7ad3bf",
+  "source_archive_members": [
+    "votacao_secao_2024_PE.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 124112,
+    "VEREADOR": 1385368
+  },
+  "municipality_count": 184,
+  "partition_count": 368
+}

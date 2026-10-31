@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "MT",
+    "municipalities": 142
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_MT.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:05:23.841230+00:00",
+  "source_archive_size_bytes": 26098926,
+  "source_archive_sha256": "474ad880b866ca4f996ae48c9a6c8dd2b9e6618913d6cf7503d940d4a226b381",
+  "source_archive_members": [
+    "votacao_secao_2024_MT.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 43737,
+    "VEREADOR": 578299
+  },
+  "municipality_count": 142,
+  "partition_count": 284
+}

@@ -1,0 +1,1536 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "RO",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RO.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 52,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1",
+        "2"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "00310",
+      "name": "ALTA FLORESTA D OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00310/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 2929,
+          "file_size_bytes": 16762
+        },
+        "PREFEITO": {
+          "file": "municipalities/00310/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 310,
+          "file_size_bytes": 1726
+        }
+      }
+    },
+    {
+      "id": "00736",
+      "name": "ALTO ALEGRE DOS PARECIS",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00736/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1326,
+          "file_size_bytes": 7524
+        },
+        "PREFEITO": {
+          "file": "municipalities/00736/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 120,
+          "file_size_bytes": 739
+        }
+      }
+    },
+    {
+      "id": "00639",
+      "name": "ALTO PARAÍSO",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00639/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 2329,
+          "file_size_bytes": 13404
+        },
+        "PREFEITO": {
+          "file": "municipalities/00639/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 200,
+          "file_size_bytes": 1170
+        }
+      }
+    },
+    {
+      "id": "00337",
+      "name": "ALVORADA DO OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00337/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 1312,
+          "file_size_bytes": 7705
+        },
+        "PREFEITO": {
+          "file": "municipalities/00337/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 197,
+          "file_size_bytes": 1183
+        }
+      }
+    },
+    {
+      "id": "00078",
+      "name": "ARIQUEMES",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00078/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 265
+          },
+          "records": 18921,
+          "file_size_bytes": 125286
+        },
+        "PREFEITO": {
+          "file": "municipalities/00078/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 265
+          },
+          "records": 1309,
+          "file_size_bytes": 6924
+        }
+      }
+    },
+    {
+      "id": "00779",
+      "name": "BURITIS",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00779/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 5446,
+          "file_size_bytes": 32011
+        },
+        "PREFEITO": {
+          "file": "municipalities/00779/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 79
+          },
+          "records": 387,
+          "file_size_bytes": 2053
+        }
+      }
+    },
+    {
+      "id": "00450",
+      "name": "CABIXI",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00450/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 751,
+          "file_size_bytes": 4875
+        },
+        "PREFEITO": {
+          "file": "municipalities/00450/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 66,
+          "file_size_bytes": 483
+        }
+      }
+    },
+    {
+      "id": "00620",
+      "name": "CACAULÂNDIA",
+      "uf": "RO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/00620/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 64,
+          "file_size_bytes": 481
+        },
+        "VEREADOR": {
+          "file": "municipalities/00620/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 547,
+          "file_size_bytes": 3502
+        }
+      }
+    },
+    {
+      "id": "00094",
+      "name": "CACOAL",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00094/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 227
+          },
+          "records": 16917,
+          "file_size_bytes": 116529
+        },
+        "PREFEITO": {
+          "file": "municipalities/00094/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 227
+          },
+          "records": 1120,
+          "file_size_bytes": 6172
+        }
+      }
+    },
+    {
+      "id": "00671",
+      "name": "CAMPO NOVO DE RONDÔNIA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00671/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 899,
+          "file_size_bytes": 5637
+        },
+        "PREFEITO": {
+          "file": "municipalities/00671/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 192,
+          "file_size_bytes": 1191
+        }
+      }
+    },
+    {
+      "id": "00477",
+      "name": "CANDEIAS DO JAMARI",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00477/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 4574,
+          "file_size_bytes": 28733
+        },
+        "PREFEITO": {
+          "file": "municipalities/00477/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 72
+          },
+          "records": 424,
+          "file_size_bytes": 2406
+        }
+      }
+    },
+    {
+      "id": "00531",
+      "name": "CASTANHEIRAS",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00531/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 504,
+          "file_size_bytes": 3560
+        },
+        "PREFEITO": {
+          "file": "municipalities/00531/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 58,
+          "file_size_bytes": 466
+        }
+      }
+    },
+    {
+      "id": "00272",
+      "name": "CEREJEIRAS",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00272/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 2413,
+          "file_size_bytes": 13566
+        },
+        "PREFEITO": {
+          "file": "municipalities/00272/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 185,
+          "file_size_bytes": 1043
+        }
+      }
+    },
+    {
+      "id": "00809",
+      "name": "CHUPINGUAIA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00809/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1119,
+          "file_size_bytes": 7048
+        },
+        "PREFEITO": {
+          "file": "municipalities/00809/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 125,
+          "file_size_bytes": 840
+        }
+      }
+    },
+    {
+      "id": "00230",
+      "name": "COLORADO DO OESTE",
+      "uf": "RO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/00230/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 277,
+          "file_size_bytes": 1628
+        },
+        "VEREADOR": {
+          "file": "municipalities/00230/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 2712,
+          "file_size_bytes": 16202
+        }
+      }
+    },
+    {
+      "id": "00655",
+      "name": "CORUMBIARA",
+      "uf": "RO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/00655/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 63,
+          "file_size_bytes": 466
+        },
+        "VEREADOR": {
+          "file": "municipalities/00655/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 752,
+          "file_size_bytes": 4782
+        }
+      }
+    },
+    {
+      "id": "00213",
+      "name": "COSTA MARQUES",
+      "uf": "RO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/00213/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 184,
+          "file_size_bytes": 1135
+        },
+        "VEREADOR": {
+          "file": "municipalities/00213/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 1357,
+          "file_size_bytes": 8493
+        }
+      }
+    },
+    {
+      "id": "00680",
+      "name": "CUJUBIM",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00680/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 2013,
+          "file_size_bytes": 11856
+        },
+        "PREFEITO": {
+          "file": "municipalities/00680/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 150,
+          "file_size_bytes": 890
+        }
+      }
+    },
+    {
+      "id": "00256",
+      "name": "ESPIGÃO DO OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00256/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 4518,
+          "file_size_bytes": 26689
+        },
+        "PREFEITO": {
+          "file": "municipalities/00256/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 84
+          },
+          "records": 329,
+          "file_size_bytes": 1827
+        }
+      }
+    },
+    {
+      "id": "00612",
+      "name": "GOVERNADOR JORGE TEIXEIRA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00612/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 1079,
+          "file_size_bytes": 6616
+        },
+        "PREFEITO": {
+          "file": "municipalities/00612/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 128,
+          "file_size_bytes": 820
+        }
+      }
+    },
+    {
+      "id": "00019",
+      "name": "GUAJARÁ-MIRIM",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00019/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 104
+          },
+          "records": 8010,
+          "file_size_bytes": 53419
+        },
+        "PREFEITO": {
+          "file": "municipalities/00019/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 104
+          },
+          "records": 605,
+          "file_size_bytes": 3279
+        }
+      }
+    },
+    {
+      "id": "00493",
+      "name": "ITAPUÃ DO OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00493/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1372,
+          "file_size_bytes": 8349
+        },
+        "PREFEITO": {
+          "file": "municipalities/00493/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 90,
+          "file_size_bytes": 590
+        }
+      }
+    },
+    {
+      "id": "00159",
+      "name": "JARU",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00159/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 137
+          },
+          "records": 9321,
+          "file_size_bytes": 58648
+        },
+        "PREFEITO": {
+          "file": "municipalities/00159/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 137
+          },
+          "records": 542,
+          "file_size_bytes": 2886
+        }
+      }
+    },
+    {
+      "id": "00051",
+      "name": "JI-PARANÁ",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00051/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 312
+          },
+          "records": 26135,
+          "file_size_bytes": 188036
+        },
+        "PREFEITO": {
+          "file": "municipalities/00051/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 312
+          },
+          "records": 1507,
+          "file_size_bytes": 8109
+        }
+      }
+    },
+    {
+      "id": "00396",
+      "name": "MACHADINHO D OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00396/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 83
+          },
+          "records": 5164,
+          "file_size_bytes": 32732
+        },
+        "PREFEITO": {
+          "file": "municipalities/00396/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 83
+          },
+          "records": 563,
+          "file_size_bytes": 2970
+        }
+      }
+    },
+    {
+      "id": "00604",
+      "name": "MINISTRO ANDREAZZA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00604/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 705,
+          "file_size_bytes": 4373
+        },
+        "PREFEITO": {
+          "file": "municipalities/00604/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 122,
+          "file_size_bytes": 806
+        }
+      }
+    },
+    {
+      "id": "00574",
+      "name": "MIRANTE DA SERRA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00574/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 1770,
+          "file_size_bytes": 10514
+        },
+        "PREFEITO": {
+          "file": "municipalities/00574/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 161,
+          "file_size_bytes": 981
+        }
+      }
+    },
+    {
+      "id": "00663",
+      "name": "MONTE NEGRO",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00663/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1657,
+          "file_size_bytes": 9593
+        },
+        "PREFEITO": {
+          "file": "municipalities/00663/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 151,
+          "file_size_bytes": 877
+        }
+      }
+    },
+    {
+      "id": "00370",
+      "name": "NOVA BRASILÂNDIA D OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00370/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 2378,
+          "file_size_bytes": 13961
+        },
+        "PREFEITO": {
+          "file": "municipalities/00370/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 226,
+          "file_size_bytes": 1339
+        }
+      }
+    },
+    {
+      "id": "00434",
+      "name": "NOVA MAMORÉ",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00434/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 2929,
+          "file_size_bytes": 17980
+        },
+        "PREFEITO": {
+          "file": "municipalities/00434/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 70
+          },
+          "records": 333,
+          "file_size_bytes": 1909
+        }
+      }
+    },
+    {
+      "id": "00744",
+      "name": "NOVA UNIÃO",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00744/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 763,
+          "file_size_bytes": 4820
+        },
+        "PREFEITO": {
+          "file": "municipalities/00744/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 78,
+          "file_size_bytes": 534
+        }
+      }
+    },
+    {
+      "id": "00515",
+      "name": "NOVO HORIZONTE DO OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00515/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 791,
+          "file_size_bytes": 5135
+        },
+        "PREFEITO": {
+          "file": "municipalities/00515/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 83,
+          "file_size_bytes": 552
+        }
+      }
+    },
+    {
+      "id": "00175",
+      "name": "OURO PRETO DO OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00175/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 5727,
+          "file_size_bytes": 34732
+        },
+        "PREFEITO": {
+          "file": "municipalities/00175/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 485,
+          "file_size_bytes": 2655
+        }
+      }
+    },
+    {
+      "id": "00701",
+      "name": "PARECIS",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00701/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 477,
+          "file_size_bytes": 3261
+        },
+        "PREFEITO": {
+          "file": "municipalities/00701/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 72,
+          "file_size_bytes": 540
+        }
+      }
+    },
+    {
+      "id": "00116",
+      "name": "PIMENTA BUENO",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00116/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 6050,
+          "file_size_bytes": 37382
+        },
+        "PREFEITO": {
+          "file": "municipalities/00116/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 451,
+          "file_size_bytes": 2520
+        }
+      }
+    },
+    {
+      "id": "00787",
+      "name": "PIMENTEIRAS DO OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00787/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 316,
+          "file_size_bytes": 2492
+        },
+        "PREFEITO": {
+          "file": "municipalities/00787/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 29,
+          "file_size_bytes": 297
+        }
+      }
+    },
+    {
+      "id": "00035",
+      "name": "PORTO VELHO",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00035/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1181
+          },
+          "records": 128832,
+          "file_size_bytes": 1118897
+        },
+        "PREFEITO": {
+          "file": "municipalities/00035/PREFEITO.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 1181,
+            "2": 1181
+          },
+          "records": 14982,
+          "file_size_bytes": 97896
+        }
+      }
+    },
+    {
+      "id": "00191",
+      "name": "PRESIDENTE MÉDICI",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00191/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 2585,
+          "file_size_bytes": 15421
+        },
+        "PREFEITO": {
+          "file": "municipalities/00191/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 252,
+          "file_size_bytes": 1524
+        }
+      }
+    },
+    {
+      "id": "00728",
+      "name": "PRIMAVERA DE RONDÔNIA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00728/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 453,
+          "file_size_bytes": 3345
+        },
+        "PREFEITO": {
+          "file": "municipalities/00728/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 66,
+          "file_size_bytes": 540
+        }
+      }
+    },
+    {
+      "id": "00647",
+      "name": "RIO CRESPO",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00647/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 460,
+          "file_size_bytes": 3083
+        },
+        "PREFEITO": {
+          "file": "municipalities/00647/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 60,
+          "file_size_bytes": 450
+        }
+      }
+    },
+    {
+      "id": "00299",
+      "name": "ROLIM DE MOURA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00299/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 140
+          },
+          "records": 10355,
+          "file_size_bytes": 64622
+        },
+        "PREFEITO": {
+          "file": "municipalities/00299/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 140
+          },
+          "records": 917,
+          "file_size_bytes": 4651
+        }
+      }
+    },
+    {
+      "id": "00353",
+      "name": "SANTA LUZIA D OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00353/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 641,
+          "file_size_bytes": 4009
+        },
+        "PREFEITO": {
+          "file": "municipalities/00353/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 84,
+          "file_size_bytes": 593
+        }
+      }
+    },
+    {
+      "id": "00582",
+      "name": "SERINGUEIRAS",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00582/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 1479,
+          "file_size_bytes": 8569
+        },
+        "PREFEITO": {
+          "file": "municipalities/00582/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 137,
+          "file_size_bytes": 839
+        }
+      }
+    },
+    {
+      "id": "00710",
+      "name": "SÃO FELIPE D OESTE",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00710/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 478,
+          "file_size_bytes": 3346
+        },
+        "PREFEITO": {
+          "file": "municipalities/00710/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 65,
+          "file_size_bytes": 507
+        }
+      }
+    },
+    {
+      "id": "00795",
+      "name": "SÃO FRANCISCO DO GUAPORÉ",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00795/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 2181,
+          "file_size_bytes": 12909
+        },
+        "PREFEITO": {
+          "file": "municipalities/00795/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 175,
+          "file_size_bytes": 1078
+        }
+      }
+    },
+    {
+      "id": "00418",
+      "name": "SÃO MIGUEL DO GUAPORÉ",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00418/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 3619,
+          "file_size_bytes": 21201
+        },
+        "PREFEITO": {
+          "file": "municipalities/00418/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 287,
+          "file_size_bytes": 1573
+        }
+      }
+    },
+    {
+      "id": "00752",
+      "name": "TEIXEIRÓPOLIS",
+      "uf": "RO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/00752/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 74,
+          "file_size_bytes": 539
+        },
+        "VEREADOR": {
+          "file": "municipalities/00752/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 761,
+          "file_size_bytes": 4607
+        }
+      }
+    },
+    {
+      "id": "00590",
+      "name": "THEOBROMA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00590/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1242,
+          "file_size_bytes": 7619
+        },
+        "PREFEITO": {
+          "file": "municipalities/00590/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 115,
+          "file_size_bytes": 734
+        }
+      }
+    },
+    {
+      "id": "00566",
+      "name": "URUPÁ",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00566/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 1911,
+          "file_size_bytes": 11456
+        },
+        "PREFEITO": {
+          "file": "municipalities/00566/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 259,
+          "file_size_bytes": 1475
+        }
+      }
+    },
+    {
+      "id": "00698",
+      "name": "VALE DO ANARI",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00698/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 1133,
+          "file_size_bytes": 7013
+        },
+        "PREFEITO": {
+          "file": "municipalities/00698/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 107,
+          "file_size_bytes": 710
+        }
+      }
+    },
+    {
+      "id": "00558",
+      "name": "VALE DO PARAÍSO",
+      "uf": "RO",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/00558/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 109,
+          "file_size_bytes": 804
+        },
+        "VEREADOR": {
+          "file": "municipalities/00558/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 977,
+          "file_size_bytes": 6191
+        }
+      }
+    },
+    {
+      "id": "00132",
+      "name": "VILHENA",
+      "uf": "RO",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/00132/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 221
+          },
+          "records": 16602,
+          "file_size_bytes": 109852
+        },
+        "PREFEITO": {
+          "file": "municipalities/00132/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 221
+          },
+          "records": 1104,
+          "file_size_bytes": 5978
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "RR",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RR.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 15,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "03050",
+      "name": "ALTO ALEGRE",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03050/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 1657,
+          "file_size_bytes": 9863
+        },
+        "PREFEITO": {
+          "file": "municipalities/03050/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 216,
+          "file_size_bytes": 1327
+        }
+      }
+    },
+    {
+      "id": "03042",
+      "name": "AMAJARI",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03042/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 943,
+          "file_size_bytes": 6047
+        },
+        "PREFEITO": {
+          "file": "municipalities/03042/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 130,
+          "file_size_bytes": 909
+        }
+      }
+    },
+    {
+      "id": "03018",
+      "name": "BOA VISTA",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03018/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 755
+          },
+          "records": 74274,
+          "file_size_bytes": 643573
+        },
+        "PREFEITO": {
+          "file": "municipalities/03018/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 755
+          },
+          "records": 4247,
+          "file_size_bytes": 25926
+        }
+      }
+    },
+    {
+      "id": "03077",
+      "name": "BONFIM",
+      "uf": "RR",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/03077/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 259,
+          "file_size_bytes": 1592
+        },
+        "VEREADOR": {
+          "file": "municipalities/03077/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 1713,
+          "file_size_bytes": 11308
+        }
+      }
+    },
+    {
+      "id": "03069",
+      "name": "CANTÁ",
+      "uf": "RR",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/03069/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 320,
+          "file_size_bytes": 1962
+        },
+        "VEREADOR": {
+          "file": "municipalities/03069/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 3045,
+          "file_size_bytes": 19479
+        }
+      }
+    },
+    {
+      "id": "03034",
+      "name": "CARACARAÍ",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03034/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2764,
+          "file_size_bytes": 16669
+        },
+        "PREFEITO": {
+          "file": "municipalities/03034/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 313,
+          "file_size_bytes": 1799
+        }
+      }
+    },
+    {
+      "id": "03000",
+      "name": "CAROEBE",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03000/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 993,
+          "file_size_bytes": 6047
+        },
+        "PREFEITO": {
+          "file": "municipalities/03000/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 106,
+          "file_size_bytes": 692
+        }
+      }
+    },
+    {
+      "id": "03026",
+      "name": "IRACEMA",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03026/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1052,
+          "file_size_bytes": 6206
+        },
+        "PREFEITO": {
+          "file": "municipalities/03026/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 113,
+          "file_size_bytes": 722
+        }
+      }
+    },
+    {
+      "id": "03093",
+      "name": "MUCAJAÍ",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03093/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 3169,
+          "file_size_bytes": 18999
+        },
+        "PREFEITO": {
+          "file": "municipalities/03093/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 209,
+          "file_size_bytes": 1250
+        }
+      }
+    },
+    {
+      "id": "03115",
+      "name": "NORMANDIA",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03115/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1250,
+          "file_size_bytes": 7953
+        },
+        "PREFEITO": {
+          "file": "municipalities/03115/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 127,
+          "file_size_bytes": 880
+        }
+      }
+    },
+    {
+      "id": "03123",
+      "name": "PACARAIMA",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03123/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 1394,
+          "file_size_bytes": 8547
+        },
+        "PREFEITO": {
+          "file": "municipalities/03123/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 168,
+          "file_size_bytes": 1078
+        }
+      }
+    },
+    {
+      "id": "03085",
+      "name": "RORAINÓPOLIS",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03085/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 5691,
+          "file_size_bytes": 34662
+        },
+        "PREFEITO": {
+          "file": "municipalities/03085/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 334,
+          "file_size_bytes": 1852
+        }
+      }
+    },
+    {
+      "id": "03131",
+      "name": "SÃO JOÃO DA BALIZA",
+      "uf": "RR",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/03131/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 104,
+          "file_size_bytes": 741
+        },
+        "VEREADOR": {
+          "file": "municipalities/03131/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 883,
+          "file_size_bytes": 5344
+        }
+      }
+    },
+    {
+      "id": "03158",
+      "name": "SÃO LUIZ",
+      "uf": "RR",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/03158/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 94,
+          "file_size_bytes": 656
+        },
+        "VEREADOR": {
+          "file": "municipalities/03158/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 754,
+          "file_size_bytes": 4702
+        }
+      }
+    },
+    {
+      "id": "03107",
+      "name": "UIRAMUTÃ",
+      "uf": "RR",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/03107/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 911,
+          "file_size_bytes": 6137
+        },
+        "PREFEITO": {
+          "file": "municipalities/03107/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 100,
+          "file_size_bytes": 738
+        }
+      }
+    }
+  ]
+}

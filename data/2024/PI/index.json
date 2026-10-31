@@ -1,0 +1,6521 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "uf": "PI",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PI.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "municipality_count": 224,
+  "offices": {
+    "PREFEITO": {
+      "name": "Prefeito",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    },
+    "VEREADOR": {
+      "name": "Vereador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "complete"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "12327",
+      "name": "ACAUÃ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/12327/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 95,
+          "file_size_bytes": 6417
+        },
+        "VEREADOR": {
+          "file": "municipalities/12327/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 384,
+          "file_size_bytes": 23026
+        }
+      }
+    },
+    {
+      "id": "10014",
+      "name": "AGRICOLÂNDIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10014/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 585,
+          "file_size_bytes": 34950
+        },
+        "PREFEITO": {
+          "file": "municipalities/10014/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 69,
+          "file_size_bytes": 6020
+        }
+      }
+    },
+    {
+      "id": "12319",
+      "name": "ALAGOINHA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12319/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 435,
+          "file_size_bytes": 26015
+        },
+        "PREFEITO": {
+          "file": "municipalities/12319/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 86,
+          "file_size_bytes": 6023
+        }
+      }
+    },
+    {
+      "id": "10022",
+      "name": "ALEGRETE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10022/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 57,
+          "file_size_bytes": 4734
+        },
+        "VEREADOR": {
+          "file": "municipalities/10022/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 330,
+          "file_size_bytes": 22340
+        }
+      }
+    },
+    {
+      "id": "10057",
+      "name": "ALTO LONGÁ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10057/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 1064,
+          "file_size_bytes": 42939
+        },
+        "PREFEITO": {
+          "file": "municipalities/10057/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 171,
+          "file_size_bytes": 9621
+        }
+      }
+    },
+    {
+      "id": "10073",
+      "name": "ALTOS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10073/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 121
+          },
+          "records": 6852,
+          "file_size_bytes": 100873
+        },
+        "PREFEITO": {
+          "file": "municipalities/10073/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 121
+          },
+          "records": 481,
+          "file_size_bytes": 16772
+        }
+      }
+    },
+    {
+      "id": "12084",
+      "name": "ALVORADA DO GURGUÉIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12084/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 473,
+          "file_size_bytes": 28138
+        },
+        "PREFEITO": {
+          "file": "municipalities/12084/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 65,
+          "file_size_bytes": 4712
+        }
+      }
+    },
+    {
+      "id": "10090",
+      "name": "AMARANTE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10090/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 2607,
+          "file_size_bytes": 68821
+        },
+        "PREFEITO": {
+          "file": "municipalities/10090/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 244,
+          "file_size_bytes": 14320
+        }
+      }
+    },
+    {
+      "id": "10111",
+      "name": "ANGICAL DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10111/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 641,
+          "file_size_bytes": 37945
+        },
+        "PREFEITO": {
+          "file": "municipalities/10111/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 109,
+          "file_size_bytes": 8907
+        }
+      }
+    },
+    {
+      "id": "10154",
+      "name": "ANTÔNIO ALMEIDA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10154/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 294,
+          "file_size_bytes": 19399
+        },
+        "PREFEITO": {
+          "file": "municipalities/10154/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 39,
+          "file_size_bytes": 2824
+        }
+      }
+    },
+    {
+      "id": "10138",
+      "name": "ANÍSIO DE ABREU",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10138/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 394,
+          "file_size_bytes": 22000
+        },
+        "PREFEITO": {
+          "file": "municipalities/10138/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 99,
+          "file_size_bytes": 7003
+        }
+      }
+    },
+    {
+      "id": "10170",
+      "name": "AROAZES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10170/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 650,
+          "file_size_bytes": 36910
+        },
+        "PREFEITO": {
+          "file": "municipalities/10170/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 88,
+          "file_size_bytes": 6763
+        }
+      }
+    },
+    {
+      "id": "12734",
+      "name": "AROEIRAS DO ITAIM",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12734/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 370,
+          "file_size_bytes": 23588
+        },
+        "PREFEITO": {
+          "file": "municipalities/12734/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 54,
+          "file_size_bytes": 3539
+        }
+      }
+    },
+    {
+      "id": "10197",
+      "name": "ARRAIAL",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10197/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 295,
+          "file_size_bytes": 20385
+        },
+        "PREFEITO": {
+          "file": "municipalities/10197/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 61,
+          "file_size_bytes": 4770
+        }
+      }
+    },
+    {
+      "id": "12106",
+      "name": "ASSUNÇÃO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12106/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 532,
+          "file_size_bytes": 30194
+        },
+        "PREFEITO": {
+          "file": "municipalities/12106/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 101,
+          "file_size_bytes": 7457
+        }
+      }
+    },
+    {
+      "id": "10219",
+      "name": "AVELINO LOPES",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10219/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 125,
+          "file_size_bytes": 7941
+        },
+        "VEREADOR": {
+          "file": "municipalities/10219/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 887,
+          "file_size_bytes": 38558
+        }
+      }
+    },
+    {
+      "id": "10049",
+      "name": "BAIXA GRANDE DO RIBEIRO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10049/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1117,
+          "file_size_bytes": 45329
+        },
+        "PREFEITO": {
+          "file": "municipalities/10049/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 146,
+          "file_size_bytes": 9053
+        }
+      }
+    },
+    {
+      "id": "10600",
+      "name": "BARRA D ALCÂNTARA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10600/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 311,
+          "file_size_bytes": 20733
+        },
+        "PREFEITO": {
+          "file": "municipalities/10600/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 42,
+          "file_size_bytes": 3321
+        }
+      }
+    },
+    {
+      "id": "10235",
+      "name": "BARRAS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10235/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 128
+          },
+          "records": 5022,
+          "file_size_bytes": 78301
+        },
+        "PREFEITO": {
+          "file": "municipalities/10235/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 128
+          },
+          "records": 634,
+          "file_size_bytes": 25024
+        }
+      }
+    },
+    {
+      "id": "10251",
+      "name": "BARREIRAS DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10251/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 431,
+          "file_size_bytes": 24495
+        },
+        "PREFEITO": {
+          "file": "municipalities/10251/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 54,
+          "file_size_bytes": 3705
+        }
+      }
+    },
+    {
+      "id": "10278",
+      "name": "BARRO DURO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10278/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 726,
+          "file_size_bytes": 40836
+        },
+        "PREFEITO": {
+          "file": "municipalities/10278/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 104,
+          "file_size_bytes": 7975
+        }
+      }
+    },
+    {
+      "id": "10294",
+      "name": "BATALHA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10294/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 2518,
+          "file_size_bytes": 62477
+        },
+        "PREFEITO": {
+          "file": "municipalities/10294/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 317,
+          "file_size_bytes": 15692
+        }
+      }
+    },
+    {
+      "id": "10626",
+      "name": "BELA VISTA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10626/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 36,
+          "file_size_bytes": 2725
+        },
+        "VEREADOR": {
+          "file": "municipalities/10626/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 219,
+          "file_size_bytes": 15373
+        }
+      }
+    },
+    {
+      "id": "12335",
+      "name": "BELÉM DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12335/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 119,
+          "file_size_bytes": 10069
+        },
+        "PREFEITO": {
+          "file": "municipalities/12335/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 28,
+          "file_size_bytes": 2217
+        }
+      }
+    },
+    {
+      "id": "10316",
+      "name": "BENEDITINOS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10316/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1182,
+          "file_size_bytes": 49878
+        },
+        "PREFEITO": {
+          "file": "municipalities/10316/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 154,
+          "file_size_bytes": 9866
+        }
+      }
+    },
+    {
+      "id": "10332",
+      "name": "BERTOLÍNIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10332/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 506,
+          "file_size_bytes": 30887
+        },
+        "PREFEITO": {
+          "file": "municipalities/10332/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 61,
+          "file_size_bytes": 4872
+        }
+      }
+    },
+    {
+      "id": "12122",
+      "name": "BETÂNIA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12122/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 415,
+          "file_size_bytes": 24390
+        },
+        "PREFEITO": {
+          "file": "municipalities/12122/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 74,
+          "file_size_bytes": 5267
+        }
+      }
+    },
+    {
+      "id": "10669",
+      "name": "BOA HORA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10669/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 918,
+          "file_size_bytes": 43421
+        },
+        "PREFEITO": {
+          "file": "municipalities/10669/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 106,
+          "file_size_bytes": 8031
+        }
+      }
+    },
+    {
+      "id": "10359",
+      "name": "BOCAINA",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10359/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 75,
+          "file_size_bytes": 6305
+        },
+        "VEREADOR": {
+          "file": "municipalities/10359/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 505,
+          "file_size_bytes": 30444
+        }
+      }
+    },
+    {
+      "id": "10375",
+      "name": "BOM JESUS",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10375/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 264,
+          "file_size_bytes": 14177
+        },
+        "VEREADOR": {
+          "file": "municipalities/10375/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 3555,
+          "file_size_bytes": 70966
+        }
+      }
+    },
+    {
+      "id": "10065",
+      "name": "BOM PRINCÍPIO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10065/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 881,
+          "file_size_bytes": 46167
+        },
+        "PREFEITO": {
+          "file": "municipalities/10065/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 80,
+          "file_size_bytes": 6542
+        }
+      }
+    },
+    {
+      "id": "10081",
+      "name": "BONFIM DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10081/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 367,
+          "file_size_bytes": 23889
+        },
+        "PREFEITO": {
+          "file": "municipalities/10081/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 101,
+          "file_size_bytes": 7079
+        }
+      }
+    },
+    {
+      "id": "12149",
+      "name": "BOQUEIRÃO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12149/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 661,
+          "file_size_bytes": 36991
+        },
+        "PREFEITO": {
+          "file": "municipalities/12149/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 81,
+          "file_size_bytes": 5755
+        }
+      }
+    },
+    {
+      "id": "10006",
+      "name": "BRASILEIRA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10006/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 806,
+          "file_size_bytes": 38912
+        },
+        "PREFEITO": {
+          "file": "municipalities/10006/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 123,
+          "file_size_bytes": 8083
+        }
+      }
+    },
+    {
+      "id": "10642",
+      "name": "BREJO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10642/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 63,
+          "file_size_bytes": 4788
+        },
+        "VEREADOR": {
+          "file": "municipalities/10642/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 257,
+          "file_size_bytes": 17243
+        }
+      }
+    },
+    {
+      "id": "10391",
+      "name": "BURITI DOS LOPES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10391/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2311,
+          "file_size_bytes": 64936
+        },
+        "PREFEITO": {
+          "file": "municipalities/10391/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 215,
+          "file_size_bytes": 12320
+        }
+      }
+    },
+    {
+      "id": "10103",
+      "name": "BURITI DOS MONTES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10103/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 494,
+          "file_size_bytes": 29575
+        },
+        "PREFEITO": {
+          "file": "municipalities/10103/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 107,
+          "file_size_bytes": 8212
+        }
+      }
+    },
+    {
+      "id": "10120",
+      "name": "CABECEIRAS DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10120/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 1475,
+          "file_size_bytes": 53239
+        },
+        "PREFEITO": {
+          "file": "municipalities/10120/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 35
+          },
+          "records": 164,
+          "file_size_bytes": 9816
+        }
+      }
+    },
+    {
+      "id": "12343",
+      "name": "CAJAZEIRAS DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12343/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 343,
+          "file_size_bytes": 20666
+        },
+        "PREFEITO": {
+          "file": "municipalities/12343/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 62,
+          "file_size_bytes": 4375
+        }
+      }
+    },
+    {
+      "id": "12572",
+      "name": "CAJUEIRO DA PRAIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12572/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 750,
+          "file_size_bytes": 38847
+        },
+        "PREFEITO": {
+          "file": "municipalities/12572/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 153,
+          "file_size_bytes": 11143
+        }
+      }
+    },
+    {
+      "id": "10146",
+      "name": "CALDEIRÃO GRANDE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10146/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 393,
+          "file_size_bytes": 22711
+        },
+        "PREFEITO": {
+          "file": "municipalities/10146/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 57,
+          "file_size_bytes": 3502
+        }
+      }
+    },
+    {
+      "id": "10413",
+      "name": "CAMPINAS DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10413/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 398,
+          "file_size_bytes": 25828
+        },
+        "PREFEITO": {
+          "file": "municipalities/10413/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 77,
+          "file_size_bytes": 6023
+        }
+      }
+    },
+    {
+      "id": "12351",
+      "name": "CAMPO ALEGRE DO FIDALGO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12351/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 314,
+          "file_size_bytes": 20699
+        },
+        "PREFEITO": {
+          "file": "municipalities/12351/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 56,
+          "file_size_bytes": 3951
+        }
+      }
+    },
+    {
+      "id": "10723",
+      "name": "CAMPO GRANDE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10723/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 507,
+          "file_size_bytes": 31240
+        },
+        "PREFEITO": {
+          "file": "municipalities/10723/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 70,
+          "file_size_bytes": 5666
+        }
+      }
+    },
+    {
+      "id": "10740",
+      "name": "CAMPO LARGO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10740/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 441,
+          "file_size_bytes": 29204
+        },
+        "PREFEITO": {
+          "file": "municipalities/10740/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 77,
+          "file_size_bytes": 6030
+        }
+      }
+    },
+    {
+      "id": "10430",
+      "name": "CAMPO MAIOR",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10430/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 124
+          },
+          "records": 585,
+          "file_size_bytes": 23776
+        },
+        "VEREADOR": {
+          "file": "municipalities/10430/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 124
+          },
+          "records": 6158,
+          "file_size_bytes": 75645
+        }
+      }
+    },
+    {
+      "id": "10162",
+      "name": "CANAVIEIRA",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10162/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 77,
+          "file_size_bytes": 6456
+        },
+        "VEREADOR": {
+          "file": "municipalities/10162/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 397,
+          "file_size_bytes": 26457
+        }
+      }
+    },
+    {
+      "id": "10456",
+      "name": "CANTO DO BURITI",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10456/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 2624,
+          "file_size_bytes": 64994
+        },
+        "PREFEITO": {
+          "file": "municipalities/10456/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 63
+          },
+          "records": 295,
+          "file_size_bytes": 15748
+        }
+      }
+    },
+    {
+      "id": "10472",
+      "name": "CAPITÃO DE CAMPOS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10472/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 1121,
+          "file_size_bytes": 45499
+        },
+        "PREFEITO": {
+          "file": "municipalities/10472/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 142,
+          "file_size_bytes": 8567
+        }
+      }
+    },
+    {
+      "id": "10707",
+      "name": "CAPITÃO GERVÁSIO OLIVEIRA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10707/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 379,
+          "file_size_bytes": 22341
+        },
+        "PREFEITO": {
+          "file": "municipalities/10707/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 54,
+          "file_size_bytes": 3858
+        }
+      }
+    },
+    {
+      "id": "10499",
+      "name": "CARACOL",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10499/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 520,
+          "file_size_bytes": 26687
+        },
+        "PREFEITO": {
+          "file": "municipalities/10499/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 107,
+          "file_size_bytes": 6756
+        }
+      }
+    },
+    {
+      "id": "12670",
+      "name": "CARAÚBAS DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12670/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 396,
+          "file_size_bytes": 24013
+        },
+        "PREFEITO": {
+          "file": "municipalities/12670/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 69,
+          "file_size_bytes": 4920
+        }
+      }
+    },
+    {
+      "id": "12165",
+      "name": "CARIDADE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12165/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 364,
+          "file_size_bytes": 24139
+        },
+        "PREFEITO": {
+          "file": "municipalities/12165/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 57,
+          "file_size_bytes": 4357
+        }
+      }
+    },
+    {
+      "id": "10510",
+      "name": "CASTELO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10510/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 2382,
+          "file_size_bytes": 64568
+        },
+        "PREFEITO": {
+          "file": "municipalities/10510/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 71
+          },
+          "records": 264,
+          "file_size_bytes": 11681
+        }
+      }
+    },
+    {
+      "id": "12688",
+      "name": "CAXINGÓ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12688/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 379,
+          "file_size_bytes": 23158
+        },
+        "PREFEITO": {
+          "file": "municipalities/12688/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 76,
+          "file_size_bytes": 6091
+        }
+      }
+    },
+    {
+      "id": "10537",
+      "name": "COCAL",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10537/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 3136,
+          "file_size_bytes": 67761
+        },
+        "PREFEITO": {
+          "file": "municipalities/10537/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 311,
+          "file_size_bytes": 14784
+        }
+      }
+    },
+    {
+      "id": "12360",
+      "name": "COCAL DE TELHA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12360/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 336,
+          "file_size_bytes": 22265
+        },
+        "PREFEITO": {
+          "file": "municipalities/12360/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 48,
+          "file_size_bytes": 3350
+        }
+      }
+    },
+    {
+      "id": "12696",
+      "name": "COCAL DOS ALVES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12696/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 391,
+          "file_size_bytes": 25287
+        },
+        "PREFEITO": {
+          "file": "municipalities/12696/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 82,
+          "file_size_bytes": 5797
+        }
+      }
+    },
+    {
+      "id": "10189",
+      "name": "COIVARAS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10189/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 582,
+          "file_size_bytes": 34588
+        },
+        "PREFEITO": {
+          "file": "municipalities/10189/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 77,
+          "file_size_bytes": 5788
+        }
+      }
+    },
+    {
+      "id": "10200",
+      "name": "COLÔNIA DO GURGUÉIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10200/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 736,
+          "file_size_bytes": 36671
+        },
+        "PREFEITO": {
+          "file": "municipalities/10200/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 106,
+          "file_size_bytes": 7125
+        }
+      }
+    },
+    {
+      "id": "10227",
+      "name": "COLÔNIA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10227/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 575,
+          "file_size_bytes": 31427
+        },
+        "PREFEITO": {
+          "file": "municipalities/10227/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 92,
+          "file_size_bytes": 6599
+        }
+      }
+    },
+    {
+      "id": "10553",
+      "name": "CONCEIÇÃO DO CANINDÉ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10553/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 74,
+          "file_size_bytes": 5410
+        },
+        "VEREADOR": {
+          "file": "municipalities/10553/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 409,
+          "file_size_bytes": 26037
+        }
+      }
+    },
+    {
+      "id": "10243",
+      "name": "CORONEL JOSÉ DIAS",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10243/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 72,
+          "file_size_bytes": 5205
+        },
+        "VEREADOR": {
+          "file": "municipalities/10243/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 502,
+          "file_size_bytes": 30254
+        }
+      }
+    },
+    {
+      "id": "10570",
+      "name": "CORRENTE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10570/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 2944,
+          "file_size_bytes": 71627
+        },
+        "PREFEITO": {
+          "file": "municipalities/10570/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 264,
+          "file_size_bytes": 14803
+        }
+      }
+    },
+    {
+      "id": "10596",
+      "name": "CRISTALÂNDIA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10596/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 64,
+          "file_size_bytes": 4625
+        },
+        "VEREADOR": {
+          "file": "municipalities/10596/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 350,
+          "file_size_bytes": 22030
+        }
+      }
+    },
+    {
+      "id": "10618",
+      "name": "CRISTINO CASTRO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10618/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 963,
+          "file_size_bytes": 43926
+        },
+        "PREFEITO": {
+          "file": "municipalities/10618/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 127,
+          "file_size_bytes": 8305
+        }
+      }
+    },
+    {
+      "id": "10634",
+      "name": "CURIMATÁ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10634/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 135,
+          "file_size_bytes": 8858
+        },
+        "VEREADOR": {
+          "file": "municipalities/10634/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 921,
+          "file_size_bytes": 41809
+        }
+      }
+    },
+    {
+      "id": "10766",
+      "name": "CURRAIS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10766/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 592,
+          "file_size_bytes": 32908
+        },
+        "PREFEITO": {
+          "file": "municipalities/10766/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 82,
+          "file_size_bytes": 6493
+        }
+      }
+    },
+    {
+      "id": "12181",
+      "name": "CURRAL NOVO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12181/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 220,
+          "file_size_bytes": 15484
+        },
+        "PREFEITO": {
+          "file": "municipalities/12181/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 68,
+          "file_size_bytes": 4921
+        }
+      }
+    },
+    {
+      "id": "12580",
+      "name": "CURRALINHOS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12580/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 638,
+          "file_size_bytes": 34584
+        },
+        "PREFEITO": {
+          "file": "municipalities/12580/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 73,
+          "file_size_bytes": 4264
+        }
+      }
+    },
+    {
+      "id": "10650",
+      "name": "DEMERVAL LOBÃO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10650/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 1636,
+          "file_size_bytes": 53622
+        },
+        "PREFEITO": {
+          "file": "municipalities/10650/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 48
+          },
+          "records": 188,
+          "file_size_bytes": 10813
+        }
+      }
+    },
+    {
+      "id": "12297",
+      "name": "DIRCEU ARCOVERDE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12297/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 463,
+          "file_size_bytes": 27706
+        },
+        "PREFEITO": {
+          "file": "municipalities/12297/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 75,
+          "file_size_bytes": 5980
+        }
+      }
+    },
+    {
+      "id": "10677",
+      "name": "DOM EXPEDITO LOPES",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10677/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 95,
+          "file_size_bytes": 7070
+        },
+        "VEREADOR": {
+          "file": "municipalities/10677/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 681,
+          "file_size_bytes": 38823
+        }
+      }
+    },
+    {
+      "id": "10685",
+      "name": "DOM INOCÊNCIO",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10685/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 101,
+          "file_size_bytes": 6742
+        },
+        "VEREADOR": {
+          "file": "municipalities/10685/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 676,
+          "file_size_bytes": 34657
+        }
+      }
+    },
+    {
+      "id": "11410",
+      "name": "DOMINGOS MOURÃO",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/11410/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 63,
+          "file_size_bytes": 5167
+        },
+        "VEREADOR": {
+          "file": "municipalities/11410/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 284,
+          "file_size_bytes": 19385
+        }
+      }
+    },
+    {
+      "id": "10693",
+      "name": "ELESBÃO VELOSO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10693/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2231,
+          "file_size_bytes": 61319
+        },
+        "PREFEITO": {
+          "file": "municipalities/10693/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 190,
+          "file_size_bytes": 9580
+        }
+      }
+    },
+    {
+      "id": "10715",
+      "name": "ELISEU MARTINS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10715/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 332,
+          "file_size_bytes": 21572
+        },
+        "PREFEITO": {
+          "file": "municipalities/10715/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 49,
+          "file_size_bytes": 3738
+        }
+      }
+    },
+    {
+      "id": "10731",
+      "name": "ESPERANTINA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10731/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 110
+          },
+          "records": 4020,
+          "file_size_bytes": 70133
+        },
+        "PREFEITO": {
+          "file": "municipalities/10731/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 110
+          },
+          "records": 436,
+          "file_size_bytes": 19658
+        }
+      }
+    },
+    {
+      "id": "10260",
+      "name": "FARTURA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10260/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 361,
+          "file_size_bytes": 25030
+        },
+        "PREFEITO": {
+          "file": "municipalities/10260/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 58,
+          "file_size_bytes": 4595
+        }
+      }
+    },
+    {
+      "id": "10758",
+      "name": "FLORES DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10758/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 269,
+          "file_size_bytes": 16851
+        },
+        "PREFEITO": {
+          "file": "municipalities/10758/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 58,
+          "file_size_bytes": 4115
+        }
+      }
+    },
+    {
+      "id": "12637",
+      "name": "FLORESTA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/12637/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 30,
+          "file_size_bytes": 2272
+        },
+        "VEREADOR": {
+          "file": "municipalities/12637/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 123,
+          "file_size_bytes": 9584
+        }
+      }
+    },
+    {
+      "id": "10774",
+      "name": "FLORIANO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10774/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 161
+          },
+          "records": 9332,
+          "file_size_bytes": 94212
+        },
+        "PREFEITO": {
+          "file": "municipalities/10774/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 161
+          },
+          "records": 773,
+          "file_size_bytes": 27988
+        }
+      }
+    },
+    {
+      "id": "10790",
+      "name": "FRANCINÓPOLIS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10790/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 453,
+          "file_size_bytes": 29101
+        },
+        "PREFEITO": {
+          "file": "municipalities/10790/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 66,
+          "file_size_bytes": 5256
+        }
+      }
+    },
+    {
+      "id": "10812",
+      "name": "FRANCISCO AYRES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10812/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 531,
+          "file_size_bytes": 31873
+        },
+        "PREFEITO": {
+          "file": "municipalities/10812/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 72,
+          "file_size_bytes": 4998
+        }
+      }
+    },
+    {
+      "id": "12378",
+      "name": "FRANCISCO MACEDO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12378/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 205,
+          "file_size_bytes": 14288
+        },
+        "PREFEITO": {
+          "file": "municipalities/12378/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 45,
+          "file_size_bytes": 3399
+        }
+      }
+    },
+    {
+      "id": "10839",
+      "name": "FRANCISCO SANTOS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10839/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 512,
+          "file_size_bytes": 31170
+        },
+        "PREFEITO": {
+          "file": "municipalities/10839/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 96,
+          "file_size_bytes": 6837
+        }
+      }
+    },
+    {
+      "id": "10855",
+      "name": "FRONTEIRAS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10855/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 566,
+          "file_size_bytes": 31436
+        },
+        "PREFEITO": {
+          "file": "municipalities/10855/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 120,
+          "file_size_bytes": 8328
+        }
+      }
+    },
+    {
+      "id": "10782",
+      "name": "GEMINIANO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10782/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 611,
+          "file_size_bytes": 33685
+        },
+        "PREFEITO": {
+          "file": "municipalities/10782/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 88,
+          "file_size_bytes": 6228
+        }
+      }
+    },
+    {
+      "id": "10871",
+      "name": "GILBUÉS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10871/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 936,
+          "file_size_bytes": 41951
+        },
+        "PREFEITO": {
+          "file": "municipalities/10871/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 145,
+          "file_size_bytes": 7971
+        }
+      }
+    },
+    {
+      "id": "10898",
+      "name": "GUADALUPE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10898/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 979,
+          "file_size_bytes": 43833
+        },
+        "PREFEITO": {
+          "file": "municipalities/10898/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 122,
+          "file_size_bytes": 8123
+        }
+      }
+    },
+    {
+      "id": "10804",
+      "name": "GUARIBAS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10804/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 307,
+          "file_size_bytes": 21305
+        },
+        "PREFEITO": {
+          "file": "municipalities/10804/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 64,
+          "file_size_bytes": 5081
+        }
+      }
+    },
+    {
+      "id": "10910",
+      "name": "HUGO NAPOLEÃO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10910/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 296,
+          "file_size_bytes": 20472
+        },
+        "PREFEITO": {
+          "file": "municipalities/10910/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 70,
+          "file_size_bytes": 5030
+        }
+      }
+    },
+    {
+      "id": "10820",
+      "name": "ILHA GRANDE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10820/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1326,
+          "file_size_bytes": 51411
+        },
+        "PREFEITO": {
+          "file": "municipalities/10820/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 121,
+          "file_size_bytes": 7839
+        }
+      }
+    },
+    {
+      "id": "10936",
+      "name": "INHUMA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10936/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 1526,
+          "file_size_bytes": 52972
+        },
+        "PREFEITO": {
+          "file": "municipalities/10936/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 46
+          },
+          "records": 172,
+          "file_size_bytes": 10209
+        }
+      }
+    },
+    {
+      "id": "10952",
+      "name": "IPIRANGA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10952/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 734,
+          "file_size_bytes": 36651
+        },
+        "PREFEITO": {
+          "file": "municipalities/10952/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 111,
+          "file_size_bytes": 7648
+        }
+      }
+    },
+    {
+      "id": "10979",
+      "name": "ISAÍAS COELHO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10979/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 476,
+          "file_size_bytes": 29730
+        },
+        "PREFEITO": {
+          "file": "municipalities/10979/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 85,
+          "file_size_bytes": 5601
+        }
+      }
+    },
+    {
+      "id": "10995",
+      "name": "ITAINÓPOLIS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10995/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 955,
+          "file_size_bytes": 44097
+        },
+        "PREFEITO": {
+          "file": "municipalities/10995/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 135,
+          "file_size_bytes": 8983
+        }
+      }
+    },
+    {
+      "id": "11010",
+      "name": "ITAUEIRA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11010/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 887,
+          "file_size_bytes": 43680
+        },
+        "PREFEITO": {
+          "file": "municipalities/11010/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 127,
+          "file_size_bytes": 8903
+        }
+      }
+    },
+    {
+      "id": "10286",
+      "name": "JACOBINA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10286/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 277,
+          "file_size_bytes": 19169
+        },
+        "PREFEITO": {
+          "file": "municipalities/10286/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 66,
+          "file_size_bytes": 5137
+        }
+      }
+    },
+    {
+      "id": "11037",
+      "name": "JAICÓS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11037/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 1577,
+          "file_size_bytes": 53641
+        },
+        "PREFEITO": {
+          "file": "municipalities/11037/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 206,
+          "file_size_bytes": 11126
+        }
+      }
+    },
+    {
+      "id": "10308",
+      "name": "JARDIM DO MULATO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10308/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 401,
+          "file_size_bytes": 24900
+        },
+        "PREFEITO": {
+          "file": "municipalities/10308/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 58,
+          "file_size_bytes": 4271
+        }
+      }
+    },
+    {
+      "id": "12394",
+      "name": "JATOBÁ DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12394/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 648,
+          "file_size_bytes": 34722
+        },
+        "PREFEITO": {
+          "file": "municipalities/12394/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 88,
+          "file_size_bytes": 6521
+        }
+      }
+    },
+    {
+      "id": "11053",
+      "name": "JERUMENHA",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/11053/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 94,
+          "file_size_bytes": 7436
+        },
+        "VEREADOR": {
+          "file": "municipalities/11053/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 603,
+          "file_size_bytes": 34137
+        }
+      }
+    },
+    {
+      "id": "11070",
+      "name": "JOAQUIM PIRES",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/11070/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 165,
+          "file_size_bytes": 11294
+        },
+        "VEREADOR": {
+          "file": "municipalities/11070/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 1267,
+          "file_size_bytes": 49910
+        }
+      }
+    },
+    {
+      "id": "12408",
+      "name": "JOCA MARQUES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12408/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 639,
+          "file_size_bytes": 36511
+        },
+        "PREFEITO": {
+          "file": "municipalities/12408/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 70,
+          "file_size_bytes": 5236
+        }
+      }
+    },
+    {
+      "id": "11096",
+      "name": "JOSÉ DE FREITAS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11096/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 114
+          },
+          "records": 6891,
+          "file_size_bytes": 88235
+        },
+        "PREFEITO": {
+          "file": "municipalities/11096/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 114
+          },
+          "records": 510,
+          "file_size_bytes": 19267
+        }
+      }
+    },
+    {
+      "id": "12386",
+      "name": "JOÃO COSTA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12386/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 444,
+          "file_size_bytes": 28396
+        },
+        "PREFEITO": {
+          "file": "municipalities/12386/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 51,
+          "file_size_bytes": 4030
+        }
+      }
+    },
+    {
+      "id": "12416",
+      "name": "JUAZEIRO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12416/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 421,
+          "file_size_bytes": 26653
+        },
+        "PREFEITO": {
+          "file": "municipalities/12416/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 96,
+          "file_size_bytes": 7270
+        }
+      }
+    },
+    {
+      "id": "10847",
+      "name": "JUREMA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10847/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 386,
+          "file_size_bytes": 22034
+        },
+        "PREFEITO": {
+          "file": "municipalities/10847/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 70,
+          "file_size_bytes": 4588
+        }
+      }
+    },
+    {
+      "id": "12203",
+      "name": "JÚLIO BORGES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12203/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 424,
+          "file_size_bytes": 23202
+        },
+        "PREFEITO": {
+          "file": "municipalities/12203/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 76,
+          "file_size_bytes": 5141
+        }
+      }
+    },
+    {
+      "id": "10324",
+      "name": "LAGOA ALEGRE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10324/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1133,
+          "file_size_bytes": 48194
+        },
+        "PREFEITO": {
+          "file": "municipalities/10324/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 110,
+          "file_size_bytes": 6524
+        }
+      }
+    },
+    {
+      "id": "10863",
+      "name": "LAGOA DE SÃO FRANCISCO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10863/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 518,
+          "file_size_bytes": 30745
+        },
+        "PREFEITO": {
+          "file": "municipalities/10863/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 83,
+          "file_size_bytes": 5986
+        }
+      }
+    },
+    {
+      "id": "10340",
+      "name": "LAGOA DO BARRO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10340/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 347,
+          "file_size_bytes": 22849
+        },
+        "PREFEITO": {
+          "file": "municipalities/10340/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 57,
+          "file_size_bytes": 4483
+        }
+      }
+    },
+    {
+      "id": "12424",
+      "name": "LAGOA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12424/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 510,
+          "file_size_bytes": 32520
+        },
+        "PREFEITO": {
+          "file": "municipalities/12424/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 68,
+          "file_size_bytes": 5926
+        }
+      }
+    },
+    {
+      "id": "12220",
+      "name": "LAGOA DO SÍTIO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12220/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 403,
+          "file_size_bytes": 24590
+        },
+        "PREFEITO": {
+          "file": "municipalities/12220/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 68,
+          "file_size_bytes": 5052
+        }
+      }
+    },
+    {
+      "id": "12432",
+      "name": "LAGOINHA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/12432/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 51,
+          "file_size_bytes": 3673
+        },
+        "VEREADOR": {
+          "file": "municipalities/12432/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 295,
+          "file_size_bytes": 21250
+        }
+      }
+    },
+    {
+      "id": "11118",
+      "name": "LANDRI SALES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11118/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 349,
+          "file_size_bytes": 23649
+        },
+        "PREFEITO": {
+          "file": "municipalities/11118/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 64,
+          "file_size_bytes": 5158
+        }
+      }
+    },
+    {
+      "id": "11134",
+      "name": "LUIS CORREIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11134/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 98
+          },
+          "records": 4327,
+          "file_size_bytes": 77536
+        },
+        "PREFEITO": {
+          "file": "municipalities/11134/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 98
+          },
+          "records": 385,
+          "file_size_bytes": 16745
+        }
+      }
+    },
+    {
+      "id": "11150",
+      "name": "LUZILÂNDIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11150/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 1903,
+          "file_size_bytes": 58550
+        },
+        "PREFEITO": {
+          "file": "municipalities/11150/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 68
+          },
+          "records": 271,
+          "file_size_bytes": 13886
+        }
+      }
+    },
+    {
+      "id": "12440",
+      "name": "MADEIRO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12440/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 692,
+          "file_size_bytes": 38380
+        },
+        "PREFEITO": {
+          "file": "municipalities/12440/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 87,
+          "file_size_bytes": 6447
+        }
+      }
+    },
+    {
+      "id": "11177",
+      "name": "MANOEL EMÍDIO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11177/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 374,
+          "file_size_bytes": 22677
+        },
+        "PREFEITO": {
+          "file": "municipalities/11177/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 61,
+          "file_size_bytes": 4415
+        }
+      }
+    },
+    {
+      "id": "10367",
+      "name": "MARCOLÂNDIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10367/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1133,
+          "file_size_bytes": 47307
+        },
+        "PREFEITO": {
+          "file": "municipalities/10367/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 122,
+          "file_size_bytes": 7617
+        }
+      }
+    },
+    {
+      "id": "11193",
+      "name": "MARCOS PARENTE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11193/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 513,
+          "file_size_bytes": 30860
+        },
+        "PREFEITO": {
+          "file": "municipalities/11193/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 55,
+          "file_size_bytes": 4394
+        }
+      }
+    },
+    {
+      "id": "12467",
+      "name": "MASSAPÊ DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12467/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 519,
+          "file_size_bytes": 29704
+        },
+        "PREFEITO": {
+          "file": "municipalities/12467/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 83,
+          "file_size_bytes": 5942
+        }
+      }
+    },
+    {
+      "id": "11215",
+      "name": "MATIAS OLÍMPIO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11215/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 987,
+          "file_size_bytes": 43906
+        },
+        "PREFEITO": {
+          "file": "municipalities/11215/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 36
+          },
+          "records": 152,
+          "file_size_bytes": 9858
+        }
+      }
+    },
+    {
+      "id": "11231",
+      "name": "MIGUEL ALVES",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/11231/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 382,
+          "file_size_bytes": 16119
+        },
+        "VEREADOR": {
+          "file": "municipalities/11231/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 100
+          },
+          "records": 4830,
+          "file_size_bytes": 81803
+        }
+      }
+    },
+    {
+      "id": "11258",
+      "name": "MIGUEL LEÃO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11258/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 155,
+          "file_size_bytes": 12825
+        },
+        "PREFEITO": {
+          "file": "municipalities/11258/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 24,
+          "file_size_bytes": 1901
+        }
+      }
+    },
+    {
+      "id": "12246",
+      "name": "MILTON BRANDÃO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12246/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 552,
+          "file_size_bytes": 32842
+        },
+        "PREFEITO": {
+          "file": "municipalities/12246/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 99,
+          "file_size_bytes": 7235
+        }
+      }
+    },
+    {
+      "id": "11274",
+      "name": "MONSENHOR GIL",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11274/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1530,
+          "file_size_bytes": 56772
+        },
+        "PREFEITO": {
+          "file": "municipalities/11274/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 181,
+          "file_size_bytes": 11335
+        }
+      }
+    },
+    {
+      "id": "11290",
+      "name": "MONSENHOR HIPÓLITO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11290/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 639,
+          "file_size_bytes": 31944
+        },
+        "PREFEITO": {
+          "file": "municipalities/11290/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 92,
+          "file_size_bytes": 6478
+        }
+      }
+    },
+    {
+      "id": "11312",
+      "name": "MONTE ALEGRE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/11312/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 129,
+          "file_size_bytes": 8379
+        },
+        "VEREADOR": {
+          "file": "municipalities/11312/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1088,
+          "file_size_bytes": 47087
+        }
+      }
+    },
+    {
+      "id": "10880",
+      "name": "MORRO CABEÇA NO TEMPO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10880/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 406,
+          "file_size_bytes": 24888
+        },
+        "PREFEITO": {
+          "file": "municipalities/10880/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 54,
+          "file_size_bytes": 3909
+        }
+      }
+    },
+    {
+      "id": "12459",
+      "name": "MORRO DO CHAPÉU DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12459/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 706,
+          "file_size_bytes": 36802
+        },
+        "PREFEITO": {
+          "file": "municipalities/12459/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 86,
+          "file_size_bytes": 5943
+        }
+      }
+    },
+    {
+      "id": "12475",
+      "name": "MURICI DOS PORTELAS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12475/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 655,
+          "file_size_bytes": 35195
+        },
+        "PREFEITO": {
+          "file": "municipalities/12475/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 86,
+          "file_size_bytes": 6212
+        }
+      }
+    },
+    {
+      "id": "11339",
+      "name": "NAZARÉ DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11339/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 696,
+          "file_size_bytes": 36902
+        },
+        "PREFEITO": {
+          "file": "municipalities/11339/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 88,
+          "file_size_bytes": 6413
+        }
+      }
+    },
+    {
+      "id": "12726",
+      "name": "NAZÁRIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12726/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1757,
+          "file_size_bytes": 57803
+        },
+        "PREFEITO": {
+          "file": "municipalities/12726/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 191,
+          "file_size_bytes": 11809
+        }
+      }
+    },
+    {
+      "id": "10928",
+      "name": "NOSSA SENHORA DE NAZARÉ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10928/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 407,
+          "file_size_bytes": 25084
+        },
+        "PREFEITO": {
+          "file": "municipalities/10928/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 74,
+          "file_size_bytes": 5160
+        }
+      }
+    },
+    {
+      "id": "11355",
+      "name": "NOSSA SENHORA DOS REMÉDIOS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11355/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 785,
+          "file_size_bytes": 38149
+        },
+        "PREFEITO": {
+          "file": "municipalities/11355/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 119,
+          "file_size_bytes": 8183
+        }
+      }
+    },
+    {
+      "id": "10960",
+      "name": "NOVA SANTA RITA",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10960/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 51,
+          "file_size_bytes": 4458
+        },
+        "VEREADOR": {
+          "file": "municipalities/10960/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 288,
+          "file_size_bytes": 19962
+        }
+      }
+    },
+    {
+      "id": "11371",
+      "name": "NOVO ORIENTE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11371/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 732,
+          "file_size_bytes": 38182
+        },
+        "PREFEITO": {
+          "file": "municipalities/11371/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 88,
+          "file_size_bytes": 6100
+        }
+      }
+    },
+    {
+      "id": "10901",
+      "name": "NOVO SANTO ANTÔNIO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10901/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 327,
+          "file_size_bytes": 20736
+        },
+        "PREFEITO": {
+          "file": "municipalities/10901/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 59,
+          "file_size_bytes": 4258
+        }
+      }
+    },
+    {
+      "id": "11398",
+      "name": "OEIRAS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11398/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 116
+          },
+          "records": 4417,
+          "file_size_bytes": 82433
+        },
+        "PREFEITO": {
+          "file": "municipalities/11398/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 116
+          },
+          "records": 422,
+          "file_size_bytes": 16435
+        }
+      }
+    },
+    {
+      "id": "12483",
+      "name": "OLHO D ÁGUA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12483/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 258,
+          "file_size_bytes": 17986
+        },
+        "PREFEITO": {
+          "file": "municipalities/12483/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 37,
+          "file_size_bytes": 2726
+        }
+      }
+    },
+    {
+      "id": "11436",
+      "name": "PADRE MARCOS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11436/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 356,
+          "file_size_bytes": 22328
+        },
+        "PREFEITO": {
+          "file": "municipalities/11436/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 86,
+          "file_size_bytes": 5366
+        }
+      }
+    },
+    {
+      "id": "11452",
+      "name": "PAES LANDIM",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11452/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 499,
+          "file_size_bytes": 30826
+        },
+        "PREFEITO": {
+          "file": "municipalities/11452/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 57,
+          "file_size_bytes": 4768
+        }
+      }
+    },
+    {
+      "id": "12262",
+      "name": "PAJEÚ DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12262/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 214,
+          "file_size_bytes": 14778
+        },
+        "PREFEITO": {
+          "file": "municipalities/12262/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 47,
+          "file_size_bytes": 3800
+        }
+      }
+    },
+    {
+      "id": "11479",
+      "name": "PALMEIRA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11479/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 322,
+          "file_size_bytes": 19234
+        },
+        "PREFEITO": {
+          "file": "municipalities/11479/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 64,
+          "file_size_bytes": 4468
+        }
+      }
+    },
+    {
+      "id": "11495",
+      "name": "PALMEIRAIS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11495/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 1944,
+          "file_size_bytes": 60177
+        },
+        "PREFEITO": {
+          "file": "municipalities/11495/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 234,
+          "file_size_bytes": 12853
+        }
+      }
+    },
+    {
+      "id": "10944",
+      "name": "PAQUETÁ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10944/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 374,
+          "file_size_bytes": 25018
+        },
+        "PREFEITO": {
+          "file": "municipalities/10944/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 61,
+          "file_size_bytes": 5220
+        }
+      }
+    },
+    {
+      "id": "11517",
+      "name": "PARNAGUÁ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11517/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 883,
+          "file_size_bytes": 40696
+        },
+        "PREFEITO": {
+          "file": "municipalities/11517/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 134,
+          "file_size_bytes": 8934
+        }
+      }
+    },
+    {
+      "id": "11533",
+      "name": "PARNAÍBA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11533/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 391
+          },
+          "records": 34154,
+          "file_size_bytes": 263220
+        },
+        "PREFEITO": {
+          "file": "municipalities/11533/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 391
+          },
+          "records": 2081,
+          "file_size_bytes": 45134
+        }
+      }
+    },
+    {
+      "id": "10405",
+      "name": "PASSAGEM FRANCA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10405/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 309,
+          "file_size_bytes": 20847
+        },
+        "PREFEITO": {
+          "file": "municipalities/10405/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 54,
+          "file_size_bytes": 4151
+        }
+      }
+    },
+    {
+      "id": "10383",
+      "name": "PATOS DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10383/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 307,
+          "file_size_bytes": 19291
+        },
+        "PREFEITO": {
+          "file": "municipalities/10383/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 82,
+          "file_size_bytes": 5785
+        }
+      }
+    },
+    {
+      "id": "12718",
+      "name": "PAU D ARCO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12718/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 647,
+          "file_size_bytes": 31647
+        },
+        "PREFEITO": {
+          "file": "municipalities/12718/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 71,
+          "file_size_bytes": 4746
+        }
+      }
+    },
+    {
+      "id": "11550",
+      "name": "PAULISTANA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11550/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 1588,
+          "file_size_bytes": 52798
+        },
+        "PREFEITO": {
+          "file": "municipalities/11550/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 59
+          },
+          "records": 289,
+          "file_size_bytes": 16861
+        }
+      }
+    },
+    {
+      "id": "12289",
+      "name": "PAVUSSU",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12289/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 249,
+          "file_size_bytes": 17997
+        },
+        "PREFEITO": {
+          "file": "municipalities/12289/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 48,
+          "file_size_bytes": 3406
+        }
+      }
+    },
+    {
+      "id": "11576",
+      "name": "PEDRO II",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/11576/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 124
+          },
+          "records": 478,
+          "file_size_bytes": 19896
+        },
+        "VEREADOR": {
+          "file": "municipalities/11576/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 124
+          },
+          "records": 3770,
+          "file_size_bytes": 71849
+        }
+      }
+    },
+    {
+      "id": "12491",
+      "name": "PEDRO LAURENTINO",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/12491/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 45,
+          "file_size_bytes": 3670
+        },
+        "VEREADOR": {
+          "file": "municipalities/12491/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 238,
+          "file_size_bytes": 17740
+        }
+      }
+    },
+    {
+      "id": "11592",
+      "name": "PICOS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11592/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 182
+          },
+          "records": 9455,
+          "file_size_bytes": 95741
+        },
+        "PREFEITO": {
+          "file": "municipalities/11592/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 182
+          },
+          "records": 880,
+          "file_size_bytes": 27739
+        }
+      }
+    },
+    {
+      "id": "11614",
+      "name": "PIMENTEIRAS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11614/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 1150,
+          "file_size_bytes": 47828
+        },
+        "PREFEITO": {
+          "file": "municipalities/11614/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 150,
+          "file_size_bytes": 9356
+        }
+      }
+    },
+    {
+      "id": "11630",
+      "name": "PIO IX",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11630/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 1215,
+          "file_size_bytes": 47088
+        },
+        "PREFEITO": {
+          "file": "municipalities/11630/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 198,
+          "file_size_bytes": 10972
+        }
+      }
+    },
+    {
+      "id": "11657",
+      "name": "PIRACURUCA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11657/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 3335,
+          "file_size_bytes": 74548
+        },
+        "PREFEITO": {
+          "file": "municipalities/11657/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 94
+          },
+          "records": 351,
+          "file_size_bytes": 14333
+        }
+      }
+    },
+    {
+      "id": "11673",
+      "name": "PIRIPIRI",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11673/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 206
+          },
+          "records": 10270,
+          "file_size_bytes": 84426
+        },
+        "PREFEITO": {
+          "file": "municipalities/11673/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 206
+          },
+          "records": 959,
+          "file_size_bytes": 31759
+        }
+      }
+    },
+    {
+      "id": "11690",
+      "name": "PORTO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11690/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1388,
+          "file_size_bytes": 53058
+        },
+        "PREFEITO": {
+          "file": "municipalities/11690/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 161,
+          "file_size_bytes": 10268
+        }
+      }
+    },
+    {
+      "id": "12599",
+      "name": "PORTO ALEGRE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/12599/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 29,
+          "file_size_bytes": 2399
+        },
+        "VEREADOR": {
+          "file": "municipalities/12599/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 185,
+          "file_size_bytes": 13813
+        }
+      }
+    },
+    {
+      "id": "11711",
+      "name": "PRATA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11711/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 409,
+          "file_size_bytes": 27250
+        },
+        "PREFEITO": {
+          "file": "municipalities/11711/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 67,
+          "file_size_bytes": 5638
+        }
+      }
+    },
+    {
+      "id": "10421",
+      "name": "QUEIMADA NOVA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10421/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 618,
+          "file_size_bytes": 34284
+        },
+        "PREFEITO": {
+          "file": "municipalities/10421/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 121,
+          "file_size_bytes": 8171
+        }
+      }
+    },
+    {
+      "id": "11738",
+      "name": "REDENÇÃO DO GURGUÉIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11738/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 597,
+          "file_size_bytes": 31477
+        },
+        "PREFEITO": {
+          "file": "municipalities/11738/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 85,
+          "file_size_bytes": 5941
+        }
+      }
+    },
+    {
+      "id": "11754",
+      "name": "REGENERAÇÃO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11754/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 1912,
+          "file_size_bytes": 59034
+        },
+        "PREFEITO": {
+          "file": "municipalities/11754/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 196,
+          "file_size_bytes": 11221
+        }
+      }
+    },
+    {
+      "id": "12300",
+      "name": "RIACHO FRIO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12300/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 350,
+          "file_size_bytes": 22382
+        },
+        "PREFEITO": {
+          "file": "municipalities/12300/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 51,
+          "file_size_bytes": 3409
+        }
+      }
+    },
+    {
+      "id": "12602",
+      "name": "RIBEIRA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12602/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 257,
+          "file_size_bytes": 16841
+        },
+        "PREFEITO": {
+          "file": "municipalities/12602/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 57,
+          "file_size_bytes": 4144
+        }
+      }
+    },
+    {
+      "id": "11770",
+      "name": "RIBEIRO GONÇALVES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11770/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 480,
+          "file_size_bytes": 29165
+        },
+        "PREFEITO": {
+          "file": "municipalities/11770/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 80,
+          "file_size_bytes": 6006
+        }
+      }
+    },
+    {
+      "id": "11797",
+      "name": "RIO GRANDE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11797/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 338,
+          "file_size_bytes": 22058
+        },
+        "PREFEITO": {
+          "file": "municipalities/11797/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 66,
+          "file_size_bytes": 5048
+        }
+      }
+    },
+    {
+      "id": "11819",
+      "name": "SANTA CRUZ DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11819/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 405,
+          "file_size_bytes": 25018
+        },
+        "PREFEITO": {
+          "file": "municipalities/11819/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 73,
+          "file_size_bytes": 5386
+        }
+      }
+    },
+    {
+      "id": "10448",
+      "name": "SANTA CRUZ DOS MILAGRES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10448/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 357,
+          "file_size_bytes": 22492
+        },
+        "PREFEITO": {
+          "file": "municipalities/10448/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 46,
+          "file_size_bytes": 3392
+        }
+      }
+    },
+    {
+      "id": "11835",
+      "name": "SANTA FILOMENA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11835/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 607,
+          "file_size_bytes": 34164
+        },
+        "PREFEITO": {
+          "file": "municipalities/11835/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 74,
+          "file_size_bytes": 5203
+        }
+      }
+    },
+    {
+      "id": "11851",
+      "name": "SANTA LUZ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11851/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 555,
+          "file_size_bytes": 33043
+        },
+        "PREFEITO": {
+          "file": "municipalities/11851/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 69,
+          "file_size_bytes": 5476
+        }
+      }
+    },
+    {
+      "id": "10464",
+      "name": "SANTA ROSA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10464/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 66,
+          "file_size_bytes": 4966
+        },
+        "VEREADOR": {
+          "file": "municipalities/10464/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 367,
+          "file_size_bytes": 23889
+        }
+      }
+    },
+    {
+      "id": "10480",
+      "name": "SANTANA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/10480/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 55,
+          "file_size_bytes": 4212
+        },
+        "VEREADOR": {
+          "file": "municipalities/10480/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 265,
+          "file_size_bytes": 18272
+        }
+      }
+    },
+    {
+      "id": "11878",
+      "name": "SANTO ANTÔNIO DE LISBOA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11878/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 412,
+          "file_size_bytes": 26654
+        },
+        "PREFEITO": {
+          "file": "municipalities/11878/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 71,
+          "file_size_bytes": 5181
+        }
+      }
+    },
+    {
+      "id": "12653",
+      "name": "SANTO ANTÔNIO DOS MILAGRES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12653/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 131,
+          "file_size_bytes": 10549
+        },
+        "PREFEITO": {
+          "file": "municipalities/12653/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 21,
+          "file_size_bytes": 1867
+        }
+      }
+    },
+    {
+      "id": "11894",
+      "name": "SANTO INÁCIO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11894/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 322,
+          "file_size_bytes": 22023
+        },
+        "PREFEITO": {
+          "file": "municipalities/11894/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 52,
+          "file_size_bytes": 4240
+        }
+      }
+    },
+    {
+      "id": "12041",
+      "name": "SEBASTIÃO BARROS",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12041/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 537,
+          "file_size_bytes": 31530
+        },
+        "PREFEITO": {
+          "file": "municipalities/12041/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 74,
+          "file_size_bytes": 5672
+        }
+      }
+    },
+    {
+      "id": "12068",
+      "name": "SEBASTIÃO LEAL",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12068/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 274,
+          "file_size_bytes": 17211
+        },
+        "PREFEITO": {
+          "file": "municipalities/12068/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 53,
+          "file_size_bytes": 3671
+        }
+      }
+    },
+    {
+      "id": "10545",
+      "name": "SIGEFREDO PACHECO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10545/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 744,
+          "file_size_bytes": 36230
+        },
+        "PREFEITO": {
+          "file": "municipalities/10545/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 123,
+          "file_size_bytes": 7832
+        }
+      }
+    },
+    {
+      "id": "12157",
+      "name": "SIMPLÍCIO MENDES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12157/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 1058,
+          "file_size_bytes": 47781
+        },
+        "PREFEITO": {
+          "file": "municipalities/12157/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 152,
+          "file_size_bytes": 10935
+        }
+      }
+    },
+    {
+      "id": "12130",
+      "name": "SIMÕES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12130/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 845,
+          "file_size_bytes": 38378
+        },
+        "PREFEITO": {
+          "file": "municipalities/12130/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 184,
+          "file_size_bytes": 11590
+        }
+      }
+    },
+    {
+      "id": "12173",
+      "name": "SOCORRO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12173/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 277,
+          "file_size_bytes": 18891
+        },
+        "PREFEITO": {
+          "file": "municipalities/12173/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 56,
+          "file_size_bytes": 4540
+        }
+      }
+    },
+    {
+      "id": "12513",
+      "name": "SUSSUAPARA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12513/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 550,
+          "file_size_bytes": 33041
+        },
+        "PREFEITO": {
+          "file": "municipalities/12513/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 88,
+          "file_size_bytes": 6514
+        }
+      }
+    },
+    {
+      "id": "10502",
+      "name": "SÃO BRAZ DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10502/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 265,
+          "file_size_bytes": 20797
+        },
+        "PREFEITO": {
+          "file": "municipalities/10502/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 56,
+          "file_size_bytes": 4626
+        }
+      }
+    },
+    {
+      "id": "12505",
+      "name": "SÃO FRANCISCO DE ASSIS DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12505/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 314,
+          "file_size_bytes": 19984
+        },
+        "PREFEITO": {
+          "file": "municipalities/12505/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 67,
+          "file_size_bytes": 4616
+        }
+      }
+    },
+    {
+      "id": "11932",
+      "name": "SÃO FRANCISCO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/11932/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 90,
+          "file_size_bytes": 6150
+        },
+        "VEREADOR": {
+          "file": "municipalities/11932/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 507,
+          "file_size_bytes": 28627
+        }
+      }
+    },
+    {
+      "id": "11916",
+      "name": "SÃO FÉLIX DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11916/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 272,
+          "file_size_bytes": 18113
+        },
+        "PREFEITO": {
+          "file": "municipalities/11916/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 49,
+          "file_size_bytes": 3587
+        }
+      }
+    },
+    {
+      "id": "12610",
+      "name": "SÃO GONÇALO DO GURGUÉIA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12610/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 301,
+          "file_size_bytes": 19665
+        },
+        "PREFEITO": {
+          "file": "municipalities/12610/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 43,
+          "file_size_bytes": 3163
+        }
+      }
+    },
+    {
+      "id": "11959",
+      "name": "SÃO GONÇALO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/11959/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 64,
+          "file_size_bytes": 5133
+        },
+        "VEREADOR": {
+          "file": "municipalities/11959/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 598,
+          "file_size_bytes": 34464
+        }
+      }
+    },
+    {
+      "id": "10529",
+      "name": "SÃO JOSÉ DO DIVINO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10529/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 534,
+          "file_size_bytes": 31061
+        },
+        "PREFEITO": {
+          "file": "municipalities/10529/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 90,
+          "file_size_bytes": 6324
+        }
+      }
+    },
+    {
+      "id": "12017",
+      "name": "SÃO JOSÉ DO PEIXE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12017/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 264,
+          "file_size_bytes": 15718
+        },
+        "PREFEITO": {
+          "file": "municipalities/12017/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 44,
+          "file_size_bytes": 3195
+        }
+      }
+    },
+    {
+      "id": "12033",
+      "name": "SÃO JOSÉ DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12033/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 399,
+          "file_size_bytes": 22592
+        },
+        "PREFEITO": {
+          "file": "municipalities/12033/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 71,
+          "file_size_bytes": 4161
+        }
+      }
+    },
+    {
+      "id": "11088",
+      "name": "SÃO JOÃO DA CANABRAVA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11088/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 236,
+          "file_size_bytes": 16481
+        },
+        "PREFEITO": {
+          "file": "municipalities/11088/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 71,
+          "file_size_bytes": 5478
+        }
+      }
+    },
+    {
+      "id": "12009",
+      "name": "SÃO JOÃO DA FRONTEIRA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12009/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 514,
+          "file_size_bytes": 29929
+        },
+        "PREFEITO": {
+          "file": "municipalities/12009/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 75,
+          "file_size_bytes": 5738
+        }
+      }
+    },
+    {
+      "id": "11975",
+      "name": "SÃO JOÃO DA SERRA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11975/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 532,
+          "file_size_bytes": 31705
+        },
+        "PREFEITO": {
+          "file": "municipalities/11975/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 84,
+          "file_size_bytes": 6233
+        }
+      }
+    },
+    {
+      "id": "12025",
+      "name": "SÃO JOÃO DA VARJOTA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12025/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 366,
+          "file_size_bytes": 24065
+        },
+        "PREFEITO": {
+          "file": "municipalities/12025/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 73,
+          "file_size_bytes": 5140
+        }
+      }
+    },
+    {
+      "id": "10987",
+      "name": "SÃO JOÃO DO ARRAIAL",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10987/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 976,
+          "file_size_bytes": 43273
+        },
+        "PREFEITO": {
+          "file": "municipalities/10987/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 123,
+          "file_size_bytes": 8566
+        }
+      }
+    },
+    {
+      "id": "11991",
+      "name": "SÃO JOÃO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/11991/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 2032,
+          "file_size_bytes": 59361
+        },
+        "PREFEITO": {
+          "file": "municipalities/11991/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 218,
+          "file_size_bytes": 11930
+        }
+      }
+    },
+    {
+      "id": "12050",
+      "name": "SÃO JULIÃO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12050/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 503,
+          "file_size_bytes": 30875
+        },
+        "PREFEITO": {
+          "file": "municipalities/12050/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 67,
+          "file_size_bytes": 4971
+        }
+      }
+    },
+    {
+      "id": "10561",
+      "name": "SÃO LOURENÇO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10561/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 301,
+          "file_size_bytes": 20870
+        },
+        "PREFEITO": {
+          "file": "municipalities/10561/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 63,
+          "file_size_bytes": 4581
+        }
+      }
+    },
+    {
+      "id": "12629",
+      "name": "SÃO LUIS DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12629/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 324,
+          "file_size_bytes": 22065
+        },
+        "PREFEITO": {
+          "file": "municipalities/12629/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 39,
+          "file_size_bytes": 3172
+        }
+      }
+    },
+    {
+      "id": "12661",
+      "name": "SÃO MIGUEL DA BAIXA GRANDE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12661/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 284,
+          "file_size_bytes": 18948
+        },
+        "PREFEITO": {
+          "file": "municipalities/12661/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 36,
+          "file_size_bytes": 2655
+        }
+      }
+    },
+    {
+      "id": "12700",
+      "name": "SÃO MIGUEL DO FIDALGO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12700/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 222,
+          "file_size_bytes": 15462
+        },
+        "PREFEITO": {
+          "file": "municipalities/12700/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 40,
+          "file_size_bytes": 2969
+        }
+      }
+    },
+    {
+      "id": "12076",
+      "name": "SÃO MIGUEL DO TAPUIO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12076/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 1441,
+          "file_size_bytes": 52367
+        },
+        "PREFEITO": {
+          "file": "municipalities/12076/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 58
+          },
+          "records": 225,
+          "file_size_bytes": 11136
+        }
+      }
+    },
+    {
+      "id": "12092",
+      "name": "SÃO PEDRO DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12092/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 1617,
+          "file_size_bytes": 55722
+        },
+        "PREFEITO": {
+          "file": "municipalities/12092/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 166,
+          "file_size_bytes": 10326
+        }
+      }
+    },
+    {
+      "id": "12114",
+      "name": "SÃO RAIMUNDO NONATO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12114/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 4513,
+          "file_size_bytes": 75246
+        },
+        "PREFEITO": {
+          "file": "municipalities/12114/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 385,
+          "file_size_bytes": 18050
+        }
+      }
+    },
+    {
+      "id": "12530",
+      "name": "TAMBORIL DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12530/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 228,
+          "file_size_bytes": 16013
+        },
+        "PREFEITO": {
+          "file": "municipalities/12530/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 37,
+          "file_size_bytes": 3190
+        }
+      }
+    },
+    {
+      "id": "12521",
+      "name": "TANQUE DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12521/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 295,
+          "file_size_bytes": 21682
+        },
+        "PREFEITO": {
+          "file": "municipalities/12521/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 44,
+          "file_size_bytes": 3598
+        }
+      }
+    },
+    {
+      "id": "12190",
+      "name": "TERESINA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12190/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1701
+          },
+          "records": 189335,
+          "file_size_bytes": 1835952
+        },
+        "PREFEITO": {
+          "file": "municipalities/12190/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1701
+          },
+          "records": 12895,
+          "file_size_bytes": 124058
+        }
+      }
+    },
+    {
+      "id": "12211",
+      "name": "UNIÃO",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12211/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 131
+          },
+          "records": 6590,
+          "file_size_bytes": 83777
+        },
+        "PREFEITO": {
+          "file": "municipalities/12211/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 131
+          },
+          "records": 517,
+          "file_size_bytes": 20537
+        }
+      }
+    },
+    {
+      "id": "12238",
+      "name": "URUÇUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12238/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 2957,
+          "file_size_bytes": 68844
+        },
+        "PREFEITO": {
+          "file": "municipalities/12238/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 316,
+          "file_size_bytes": 14411
+        }
+      }
+    },
+    {
+      "id": "12254",
+      "name": "VALENÇA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12254/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 2703,
+          "file_size_bytes": 67322
+        },
+        "PREFEITO": {
+          "file": "municipalities/12254/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 323,
+          "file_size_bytes": 16692
+        }
+      }
+    },
+    {
+      "id": "12556",
+      "name": "VERA MENDES",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12556/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 296,
+          "file_size_bytes": 20838
+        },
+        "PREFEITO": {
+          "file": "municipalities/12556/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 50,
+          "file_size_bytes": 4121
+        }
+      }
+    },
+    {
+      "id": "12548",
+      "name": "VILA NOVA DO PIAUÍ",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12548/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 294,
+          "file_size_bytes": 20245
+        },
+        "PREFEITO": {
+          "file": "municipalities/12548/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 44,
+          "file_size_bytes": 3285
+        }
+      }
+    },
+    {
+      "id": "10588",
+      "name": "VÁRZEA BRANCA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10588/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 424,
+          "file_size_bytes": 27324
+        },
+        "PREFEITO": {
+          "file": "municipalities/10588/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 59,
+          "file_size_bytes": 4802
+        }
+      }
+    },
+    {
+      "id": "12270",
+      "name": "VÁRZEA GRANDE",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/12270/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 520,
+          "file_size_bytes": 28219
+        },
+        "PREFEITO": {
+          "file": "municipalities/12270/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 65,
+          "file_size_bytes": 4324
+        }
+      }
+    },
+    {
+      "id": "12564",
+      "name": "WALL FERRAZ",
+      "uf": "PI",
+      "offices": {
+        "PREFEITO": {
+          "file": "municipalities/12564/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 61,
+          "file_size_bytes": 4722
+        },
+        "VEREADOR": {
+          "file": "municipalities/12564/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 329,
+          "file_size_bytes": 23387
+        }
+      }
+    },
+    {
+      "id": "10030",
+      "name": "ÁGUA BRANCA",
+      "uf": "PI",
+      "offices": {
+        "VEREADOR": {
+          "file": "municipalities/10030/VEREADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 1529,
+          "file_size_bytes": 54530
+        },
+        "PREFEITO": {
+          "file": "municipalities/10030/PREFEITO.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 57
+          },
+          "records": 285,
+          "file_size_bytes": 15576
+        }
+      }
+    }
+  ]
+}

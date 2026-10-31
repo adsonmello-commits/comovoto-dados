@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "MS",
+    "municipalities": 79
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_MS.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:04:34.674305+00:00",
+  "source_archive_size_bytes": 23255717,
+  "source_archive_sha256": "39fb2b1f86cd81c91c1471a0e41e6100545a8fd53a948b0b15a03ba61cf61ef2",
+  "source_archive_members": [
+    "votacao_secao_2024_MS.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 51535,
+    "VEREADOR": 542183
+  },
+  "municipality_count": 79,
+  "partition_count": 158
+}

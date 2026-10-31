@@ -1,0 +1,31 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "PI",
+    "municipalities": 224
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PI.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:09:55.376942+00:00",
+  "source_archive_size_bytes": 23244400,
+  "source_archive_sha256": "a594fbaf34bb1ad03e30650f7db59fdd856e0ba807ea0b0fd35a5594db993e89",
+  "source_archive_members": [
+    "votacao_secao_2024_PI.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 43684,
+    "VEREADOR": 461001
+  },
+  "municipality_count": 224,
+  "partition_count": 448
+}

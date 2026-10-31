@@ -1,0 +1,31 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "AP",
+    "municipalities": 16
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AP.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T04:56:31.302137+00:00",
+  "source_archive_size_bytes": 5157540,
+  "source_archive_sha256": "0faccd7c3e37ba759a1f890acceceeb9f0803000e70f67d40b9ee30859ff96ee",
+  "source_archive_members": [
+    "votacao_secao_2024_AP.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 10908,
+    "VEREADOR": 144745
+  },
+  "municipality_count": 16,
+  "partition_count": 32
+}

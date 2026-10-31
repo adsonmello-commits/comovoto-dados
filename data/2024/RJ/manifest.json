@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "RJ",
+    "municipalities": 92
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RJ.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:15:02.767075+00:00",
+  "source_archive_size_bytes": 156876228,
+  "source_archive_sha256": "ac990be96d9919769da039bb029c1a0ed7e28c29d6414bbb361a9b1a682efd9b",
+  "source_archive_members": [
+    "votacao_secao_2024_RJ.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 262569,
+    "VEREADOR": 3123667
+  },
+  "municipality_count": 92,
+  "partition_count": 184
+}

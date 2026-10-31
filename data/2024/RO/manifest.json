@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "RO",
+    "municipalities": 52
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RO.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:15:39.078714+00:00",
+  "source_archive_size_bytes": 12721764,
+  "source_archive_sha256": "f1af7e441bff8552b45d043b4c5bee6636015e1aab6c95c26ef319e868dc8525",
+  "source_archive_members": [
+    "votacao_secao_2024_RO.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 30179,
+    "VEREADOR": 319692
+  },
+  "municipality_count": 52,
+  "partition_count": 104
+}

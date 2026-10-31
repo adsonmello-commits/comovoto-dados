@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "GO",
+    "municipalities": 246
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_GO.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:00:00.743686+00:00",
+  "source_archive_size_bytes": 64433552,
+  "source_archive_sha256": "dbdb7833151748427dc1f6fde70dda4e112ceebc355e3deb580bafb17bdf3eef",
+  "source_archive_members": [
+    "votacao_secao_2024_GO.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 108160,
+    "VEREADOR": 1212237
+  },
+  "municipality_count": 246,
+  "partition_count": 492
+}

@@ -1,0 +1,32 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "PB",
+    "municipalities": 223
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PB.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T05:08:30.561969+00:00",
+  "source_archive_size_bytes": 28111942,
+  "source_archive_sha256": "73d07922a5c4fb2bebd31625fa44977c14800f8a4b65da7cdc3a731d309ea500",
+  "source_archive_members": [
+    "votacao_secao_2024_PB.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1",
+      "2"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 63968,
+    "VEREADOR": 583119
+  },
+  "municipality_count": 223,
+  "partition_count": 446
+}

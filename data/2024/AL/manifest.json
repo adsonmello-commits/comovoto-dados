@@ -1,0 +1,31 @@
+{
+  "dataset": "Eleições municipais 2024 — votação por seção",
+  "scope": {
+    "country": "Brasil",
+    "state": "AL",
+    "municipalities": 102
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AL.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2024",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T04:55:18.057246+00:00",
+  "source_archive_size_bytes": 17388612,
+  "source_archive_sha256": "39240cf522a803f99dff7ccea9a366c742564f02340c7a8b86f8732cdb3110eb",
+  "source_archive_members": [
+    "votacao_secao_2024_AL.csv"
+  ],
+  "office_turns": {
+    "PREFEITO": [
+      "1"
+    ],
+    "VEREADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "PREFEITO": 34828,
+    "VEREADOR": 396644
+  },
+  "municipality_count": 102,
+  "partition_count": 204
+}
