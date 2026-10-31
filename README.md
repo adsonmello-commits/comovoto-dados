@@ -4,10 +4,11 @@ Repositório público de dados oficiais organizados para o site [com o voto](htt
 
 ## Cobertura e uso no site
 
-- `data/2024/<UF>/`: votação municipal para prefeito e vereador por seção eleitoral, particionada por município e cargo nas UFs com eleição municipal.\n- `data/2026/presidencia/<UF>/`: votação presidencial por seção, particionada por município para as 27 UFs. É a base nacional usada pela visão presidencial.
+- `data/2024/<UF>/`: votação municipal para prefeito e vereador por seção eleitoral, particionada por município e cargo nas UFs com eleição municipal.
+- `data/2026/presidencia/<UF>/`: votação presidencial por seção, particionada por município para as 27 UFs. É a base nacional usada pela visão presidencial.
 - `data/2026/<UF>/`: governador, senador, deputado federal e deputado estadual (ou distrital no DF), particionados por município e cargo. A rotina publica o 2º turno apenas quando o TSE o disponibiliza para aquele cargo e estado.
 
-Cada estado tem um índice e manifesto. Os arquivos de votação são JSON Lines em gzip, organizados em arquivos distintos por município e cargo; o navegador carrega apenas o recorte escolhido. O importador mantém os campos mínimos para localizar a seção, identificar a opção de voto e somar votos, O manifesto registra a URL e o SHA-256 do arquivo oficial; o ZIP é descartado após a importação.
+Cada estado tem um índice e manifesto. Os arquivos de votação são JSON Lines em gzip, organizados em arquivos distintos por município e cargo; o navegador carrega apenas o recorte escolhido. O importador mantém os campos mínimos para localizar a seção, identificar a opção de voto e somar votos. O manifesto registra a URL e o SHA-256 do arquivo oficial; o ZIP é descartado após a importação.
 
 ## Atualização
 
