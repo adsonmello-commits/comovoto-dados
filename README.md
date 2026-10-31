@@ -1,19 +1,17 @@
 # Como Voto — dados eleitorais
 
-Repositório público de dados organizados para o site [Como Voto](https://www.comovoto.com.br).
+Repositório público de dados oficiais organizados para o site [Como Voto](https://www.comovoto.com.br).
 
-## Cobertura
+## Cobertura e uso no site
 
-O repositório mantém dois conjuntos separados para 2026:
+- `data/2026/presidencia/<UF>/`: votação presidencial por seção, particionada por município para as 27 UFs. É a base nacional usada pelo seletor de estado e município e pelo detalhamento por seção do site.
+- `data/2026/<UF>/`: resultados estaduais e proporcionais por seção. No momento, disponíveis para RS, SC e PR.
 
-- `data/2026/presidencia/<UF>/`: votação presidencial por seção, particionada por município. Este é o conjunto que alimenta a visão presidencial do site.
-- `data/2026/<UF>/`: dados estaduais e proporcionais do respectivo estado, mantidos em separado.
-
-Cada conjunto contém um `index.json`, um `manifest.json` e arquivos JSON Lines compactados por município. A importação presidencial cobre RS (497 municípios), SC (295) e PR (399), validando a contagem municipal e registrando os turnos que o TSE disponibilizou. Se o 2º turno ainda não estiver na fonte presidencial, o manifesto marca `pending_tse_update`.
+Cada base estadual contém um índice e um manifesto; os resultados são JSON Lines compactados em gzip e separados por município. Assim, o navegador consulta o índice e baixa apenas o arquivo do município selecionado, em vez de carregar toda a base nacional de uma vez. Os manifestos registram os turnos presentes na publicação do TSE; quando o segundo turno ainda não está na fonte, usam `pending_tse_update`.
 
 ## Atualização
 
-O GitHub Actions atualiza diariamente os arquivos oficiais do TSE e permite execução manual. A rotina presidencial usa o recurso “Presidente - Votação por seção eleitoral - 2026”, separa os estados e municípios e preserva o arquivo bruto apenas temporariamente durante a importação. Os arquivos publicados são compactados e carregados sob demanda pelo site. Se a fonte não mudar, as partições existentes são preservadas.
+O GitHub Actions atualiza diariamente os arquivos oficiais do TSE e também permite execução manual. A rotina presidencial importa o arquivo nacional de votação por seção, organiza os dados pelas 27 UFs e municípios e remove o arquivo bruto temporário ao terminar. A rotina estadual busca RS, SC e PR. Se a fonte não mudar, as partições existentes são preservadas.
 
 ## Fonte e licença
 
