@@ -1,0 +1,69 @@
+name: Publish nationwide 2024 municipal results
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/import-2024.yml
+      - scripts/import_tse_2024.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-official-election-data
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+
+      - name: Download and validate official TSE archives
+        run: |
+          python3 scripts/import_tse_2024.py --state AC
+          python3 scripts/import_tse_2024.py --state AL
+          python3 scripts/import_tse_2024.py --state AM
+          python3 scripts/import_tse_2024.py --state AP
+          python3 scripts/import_tse_2024.py --state BA
+          python3 scripts/import_tse_2024.py --state CE
+          python3 scripts/import_tse_2024.py --state ES
+          python3 scripts/import_tse_2024.py --state GO
+          python3 scripts/import_tse_2024.py --state MA
+          python3 scripts/import_tse_2024.py --state MG
+          python3 scripts/import_tse_2024.py --state MS
+          python3 scripts/import_tse_2024.py --state MT
+          python3 scripts/import_tse_2024.py --state PA
+          python3 scripts/import_tse_2024.py --state PB
+          python3 scripts/import_tse_2024.py --state PE
+          python3 scripts/import_tse_2024.py --state PI
+          python3 scripts/import_tse_2024.py --state PR
+          python3 scripts/import_tse_2024.py --state RJ
+          python3 scripts/import_tse_2024.py --state RN
+          python3 scripts/import_tse_2024.py --state RO
+          python3 scripts/import_tse_2024.py --state RR
+          python3 scripts/import_tse_2024.py --state RS
+          python3 scripts/import_tse_2024.py --state SC
+          python3 scripts/import_tse_2024.py --state SE
+          python3 scripts/import_tse_2024.py --state SP
+          python3 scripts/import_tse_2024.py --state TO
+
+      - name: Commit validated dataset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/2024
+          if git diff --cached --quiet; then
+            echo "The TSE 2024 data are already current."
+          else
+            git commit -m "Publish compact official TSE 2024 municipal results"
+            git pull --rebase origin main
+            git push
+          fi
