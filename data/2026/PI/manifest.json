@@ -1,0 +1,39 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "PI",
+    "municipalities": 224
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_PI.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T03:50:34.746865+00:00",
+  "source_archive_size_bytes": 32293246,
+  "source_archive_sha256": "5ed5696d80bea4cf828c1b3f708b6db642636f8fe30cb641ef355877a68885a9",
+  "source_archive_members": [
+    "votacao_secao_2026_PI.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 370027,
+    "DEPUTADO_FEDERAL": 316805,
+    "GOVERNADOR": 58097,
+    "SENADOR": 108676
+  },
+  "municipality_count": 224,
+  "partition_count": 896
+}

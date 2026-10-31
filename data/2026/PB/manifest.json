@@ -1,0 +1,39 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "PB",
+    "municipalities": 223
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_PB.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T03:48:02.457717+00:00",
+  "source_archive_size_bytes": 37422947,
+  "source_archive_sha256": "c2a3a9f3434d8267857b4d278ccc7f541e5bd8a2e8433f9d510215ada2bcbc75",
+  "source_archive_members": [
+    "votacao_secao_2026_PB.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 450188,
+    "DEPUTADO_FEDERAL": 389768,
+    "GOVERNADOR": 59878,
+    "SENADOR": 99622
+  },
+  "municipality_count": 223,
+  "partition_count": 892
+}

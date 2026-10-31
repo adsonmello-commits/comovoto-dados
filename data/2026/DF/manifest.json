@@ -1,0 +1,40 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "DF",
+    "municipalities": 1
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_DF.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T03:33:35.360126+00:00",
+  "source_archive_size_bytes": 35961696,
+  "source_archive_sha256": "d1c189f728bb08ca5db88f1d9f209722880f4ab9dfd2778c7d3dfe8be107d8b9",
+  "source_archive_members": [
+    "votacao_secao_2026_DF.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_DISTRITAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1",
+      "2"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_DISTRITAL": 603958,
+    "DEPUTADO_FEDERAL": 393695,
+    "GOVERNADOR": 87555,
+    "SENADOR": 75096
+  },
+  "municipality_count": 1,
+  "partition_count": 4
+}

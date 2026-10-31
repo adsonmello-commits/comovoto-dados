@@ -1,28 +1,39 @@
 {
-  "dataset": "Resultados eleitorais 2026 — votação por seção",
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
   "scope": {
     "country": "Brasil",
     "state": "PR",
-    "municipalities": "all"
+    "municipalities": 399
   },
   "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_PR.zip",
   "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
   "license": "Creative Commons Attribution (CC BY)",
-  "retrieved_at_utc": "2026-10-27T11:04:50.215673+00:00",
+  "retrieved_at_utc": "2026-10-31T03:54:07.699529+00:00",
   "source_archive_size_bytes": 152428338,
   "source_archive_sha256": "530d6d964ec460402b1dcaec8e0d128bdf9b53ded2e444ebe7c69900889e618e",
   "source_archive_members": [
     "votacao_secao_2026_PR.csv"
   ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 1580718,
+    "DEPUTADO_FEDERAL": 1418872,
+    "GOVERNADOR": 171523,
+    "SENADOR": 257914
+  },
   "municipality_count": 399,
-  "expected_turns": [
-    "1",
-    "2"
-  ],
-  "turns": [
-    "1"
-  ],
-  "data_status": "pending_tse_update",
-  "row_count": 3429027,
-  "partition_count": 399
+  "partition_count": 1596
 }

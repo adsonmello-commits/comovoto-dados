@@ -1,0 +1,39 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "SE",
+    "municipalities": 75
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_SE.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T04:04:03.083175+00:00",
+  "source_archive_size_bytes": 19756325,
+  "source_archive_sha256": "e4b77b8db4b173965bba72cbcd3ba1cbfd6173bab3146d5a573ab9685fed2829",
+  "source_archive_members": [
+    "votacao_secao_2026_SE.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 290998,
+    "DEPUTADO_FEDERAL": 221261,
+    "GOVERNADOR": 37945,
+    "SENADOR": 67972
+  },
+  "municipality_count": 75,
+  "partition_count": 300
+}

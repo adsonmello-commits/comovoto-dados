@@ -1,0 +1,7281 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "uf": "MT",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_MT.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "municipality_count": 142,
+  "offices": {
+    "DEPUTADO_ESTADUAL": {
+      "name": "Deputado estadual",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    },
+    "DEPUTADO_FEDERAL": {
+      "name": "Deputado federal",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    },
+    "GOVERNADOR": {
+      "name": "Governador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    },
+    "SENADOR": {
+      "name": "Senador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "90018",
+      "name": "ACORIZAL",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90018/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 987,
+          "file_size_bytes": 40806
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90018/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 934,
+          "file_size_bytes": 38643
+        },
+        "SENADOR": {
+          "file": "municipalities/90018/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 250,
+          "file_size_bytes": 12364
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90018/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 146,
+          "file_size_bytes": 8146
+        }
+      }
+    },
+    {
+      "id": "89877",
+      "name": "ALTA FLORESTA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89877/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 125
+          },
+          "records": 5922,
+          "file_size_bytes": 90416
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89877/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 125
+          },
+          "records": 4218,
+          "file_size_bytes": 83351
+        },
+        "SENADOR": {
+          "file": "municipalities/89877/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 125
+          },
+          "records": 1262,
+          "file_size_bytes": 32392
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89877/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 125
+          },
+          "records": 749,
+          "file_size_bytes": 15840
+        }
+      }
+    },
+    {
+      "id": "90050",
+      "name": "ALTO ARAGUAIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90050/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1816,
+          "file_size_bytes": 50675
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90050/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1436,
+          "file_size_bytes": 50126
+        },
+        "SENADOR": {
+          "file": "municipalities/90050/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 447,
+          "file_size_bytes": 16415
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90050/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 269,
+          "file_size_bytes": 12157
+        }
+      }
+    },
+    {
+      "id": "90042",
+      "name": "ALTO BOA VISTA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90042/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 466,
+          "file_size_bytes": 22365
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90042/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 635,
+          "file_size_bytes": 26786
+        },
+        "SENADOR": {
+          "file": "municipalities/90042/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 155,
+          "file_size_bytes": 8228
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90042/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 88,
+          "file_size_bytes": 5263
+        }
+      }
+    },
+    {
+      "id": "90077",
+      "name": "ALTO GARÇAS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90077/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1079,
+          "file_size_bytes": 40268
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90077/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1167,
+          "file_size_bytes": 41985
+        },
+        "SENADOR": {
+          "file": "municipalities/90077/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 313,
+          "file_size_bytes": 14403
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90077/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 179,
+          "file_size_bytes": 8480
+        }
+      }
+    },
+    {
+      "id": "90093",
+      "name": "ALTO PARAGUAI",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/90093/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 225,
+          "file_size_bytes": 13564
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90093/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 846,
+          "file_size_bytes": 39328
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90093/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1087,
+          "file_size_bytes": 41691
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90093/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 134,
+          "file_size_bytes": 8236
+        }
+      }
+    },
+    {
+      "id": "98612",
+      "name": "ALTO TAQUARI",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98612/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 1138,
+          "file_size_bytes": 40985
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98612/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 862,
+          "file_size_bytes": 36488
+        },
+        "SENADOR": {
+          "file": "municipalities/98612/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 266,
+          "file_size_bytes": 11591
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98612/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 165,
+          "file_size_bytes": 8114
+        }
+      }
+    },
+    {
+      "id": "90263",
+      "name": "APIACÁS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90263/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 812,
+          "file_size_bytes": 35549
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90263/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 588,
+          "file_size_bytes": 29723
+        },
+        "SENADOR": {
+          "file": "municipalities/90263/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 206,
+          "file_size_bytes": 10613
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90263/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 123,
+          "file_size_bytes": 6857
+        }
+      }
+    },
+    {
+      "id": "98639",
+      "name": "ARAGUAIANA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98639/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 380,
+          "file_size_bytes": 22040
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98639/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 324,
+          "file_size_bytes": 20062
+        },
+        "SENADOR": {
+          "file": "municipalities/98639/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 99,
+          "file_size_bytes": 6082
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98639/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 56,
+          "file_size_bytes": 3757
+        }
+      }
+    },
+    {
+      "id": "90239",
+      "name": "ARAGUAINHA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90239/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 133,
+          "file_size_bytes": 9647
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90239/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 172,
+          "file_size_bytes": 11515
+        },
+        "SENADOR": {
+          "file": "municipalities/90239/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 50,
+          "file_size_bytes": 3591
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90239/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 27,
+          "file_size_bytes": 1752
+        }
+      }
+    },
+    {
+      "id": "89893",
+      "name": "ARAPUTANGA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89893/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1700,
+          "file_size_bytes": 48365
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89893/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1198,
+          "file_size_bytes": 40664
+        },
+        "SENADOR": {
+          "file": "municipalities/89893/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 358,
+          "file_size_bytes": 13949
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89893/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 203,
+          "file_size_bytes": 8720
+        }
+      }
+    },
+    {
+      "id": "90255",
+      "name": "ARENÁPOLIS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90255/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1032,
+          "file_size_bytes": 42333
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90255/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1200,
+          "file_size_bytes": 45964
+        },
+        "SENADOR": {
+          "file": "municipalities/90255/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 312,
+          "file_size_bytes": 14688
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90255/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 186,
+          "file_size_bytes": 10162
+        }
+      }
+    },
+    {
+      "id": "90271",
+      "name": "ARIPUANÃ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90271/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 2429,
+          "file_size_bytes": 54557
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90271/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 1701,
+          "file_size_bytes": 47202
+        },
+        "SENADOR": {
+          "file": "municipalities/90271/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 527,
+          "file_size_bytes": 16577
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90271/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 320,
+          "file_size_bytes": 11853
+        }
+      }
+    },
+    {
+      "id": "90336",
+      "name": "BARRA DO BUGRES",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90336/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 3108,
+          "file_size_bytes": 56209
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90336/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 3115,
+          "file_size_bytes": 60705
+        },
+        "SENADOR": {
+          "file": "municipalities/90336/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 782,
+          "file_size_bytes": 19999
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90336/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 81
+          },
+          "records": 465,
+          "file_size_bytes": 15374
+        }
+      }
+    },
+    {
+      "id": "90352",
+      "name": "BARRA DO GARÇAS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90352/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 157
+          },
+          "records": 5673,
+          "file_size_bytes": 65901
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90352/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 157
+          },
+          "records": 6601,
+          "file_size_bytes": 71778
+        },
+        "SENADOR": {
+          "file": "municipalities/90352/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 157
+          },
+          "records": 1638,
+          "file_size_bytes": 23743
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90352/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 157
+          },
+          "records": 981,
+          "file_size_bytes": 19814
+        }
+      }
+    },
+    {
+      "id": "90310",
+      "name": "BARÃO DE MELGAÇO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90310/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 949,
+          "file_size_bytes": 33277
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90310/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 805,
+          "file_size_bytes": 31699
+        },
+        "SENADOR": {
+          "file": "municipalities/90310/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 239,
+          "file_size_bytes": 12870
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90310/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 25
+          },
+          "records": 138,
+          "file_size_bytes": 7075
+        }
+      }
+    },
+    {
+      "id": "73709",
+      "name": "BOA ESPERANÇA DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/73709/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 436,
+          "file_size_bytes": 22896
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/73709/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 510,
+          "file_size_bytes": 23228
+        },
+        "SENADOR": {
+          "file": "municipalities/73709/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 126,
+          "file_size_bytes": 7540
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/73709/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 77,
+          "file_size_bytes": 4791
+        }
+      }
+    },
+    {
+      "id": "90905",
+      "name": "BOM JESUS DO ARAGUAIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90905/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 533,
+          "file_size_bytes": 24740
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90905/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 768,
+          "file_size_bytes": 29288
+        },
+        "SENADOR": {
+          "file": "municipalities/90905/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 182,
+          "file_size_bytes": 9674
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90905/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 102,
+          "file_size_bytes": 5519
+        }
+      }
+    },
+    {
+      "id": "90468",
+      "name": "BRASNORTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90468/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1571,
+          "file_size_bytes": 55468
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90468/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1203,
+          "file_size_bytes": 52213
+        },
+        "SENADOR": {
+          "file": "municipalities/90468/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 359,
+          "file_size_bytes": 18686
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90468/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 223,
+          "file_size_bytes": 10042
+        }
+      }
+    },
+    {
+      "id": "98655",
+      "name": "CAMPINÁPOLIS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98655/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1374,
+          "file_size_bytes": 34432
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98655/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 1046,
+          "file_size_bytes": 29946
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98655/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 195,
+          "file_size_bytes": 5258
+        },
+        "SENADOR": {
+          "file": "municipalities/98655/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 38
+          },
+          "records": 320,
+          "file_size_bytes": 11794
+        }
+      }
+    },
+    {
+      "id": "90484",
+      "name": "CAMPO NOVO DO PARECIS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90484/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 3083,
+          "file_size_bytes": 59778
+        },
+        "SENADOR": {
+          "file": "municipalities/90484/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 900,
+          "file_size_bytes": 20511
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90484/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 3631,
+          "file_size_bytes": 63452
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90484/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 88
+          },
+          "records": 523,
+          "file_size_bytes": 14655
+        }
+      }
+    },
+    {
+      "id": "90506",
+      "name": "CAMPO VERDE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90506/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 96
+          },
+          "records": 4334,
+          "file_size_bytes": 66942
+        },
+        "SENADOR": {
+          "file": "municipalities/90506/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 96
+          },
+          "records": 991,
+          "file_size_bytes": 25361
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90506/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 96
+          },
+          "records": 5099,
+          "file_size_bytes": 71263
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90506/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 96
+          },
+          "records": 624,
+          "file_size_bytes": 16932
+        }
+      }
+    },
+    {
+      "id": "90743",
+      "name": "CAMPOS DE JÚLIO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90743/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 589,
+          "file_size_bytes": 28597
+        },
+        "SENADOR": {
+          "file": "municipalities/90743/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 179,
+          "file_size_bytes": 8519
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90743/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 854,
+          "file_size_bytes": 35409
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90743/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 113,
+          "file_size_bytes": 5845
+        }
+      }
+    },
+    {
+      "id": "90085",
+      "name": "CANABRAVA DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90085/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 492,
+          "file_size_bytes": 23333
+        },
+        "SENADOR": {
+          "file": "municipalities/90085/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 145,
+          "file_size_bytes": 7787
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90085/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 347,
+          "file_size_bytes": 19425
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90085/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 80,
+          "file_size_bytes": 4536
+        }
+      }
+    },
+    {
+      "id": "91936",
+      "name": "CANARANA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91936/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 2315,
+          "file_size_bytes": 57807
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91936/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 1545,
+          "file_size_bytes": 49299
+        },
+        "SENADOR": {
+          "file": "municipalities/91936/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 532,
+          "file_size_bytes": 17121
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91936/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 52
+          },
+          "records": 313,
+          "file_size_bytes": 11215
+        }
+      }
+    },
+    {
+      "id": "90760",
+      "name": "CARLINDA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90760/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 1099,
+          "file_size_bytes": 31990
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90760/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 804,
+          "file_size_bytes": 29936
+        },
+        "SENADOR": {
+          "file": "municipalities/90760/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 235,
+          "file_size_bytes": 11221
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90760/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 24
+          },
+          "records": 139,
+          "file_size_bytes": 6465
+        }
+      }
+    },
+    {
+      "id": "90549",
+      "name": "CASTANHEIRA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90549/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1105,
+          "file_size_bytes": 48295
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90549/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 751,
+          "file_size_bytes": 41119
+        },
+        "SENADOR": {
+          "file": "municipalities/90549/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 263,
+          "file_size_bytes": 16497
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90549/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 156,
+          "file_size_bytes": 9022
+        }
+      }
+    },
+    {
+      "id": "90590",
+      "name": "CHAPADA DOS GUIMARÃES",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90590/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 3154,
+          "file_size_bytes": 44276
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90590/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 2330,
+          "file_size_bytes": 38960
+        },
+        "SENADOR": {
+          "file": "municipalities/90590/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 668,
+          "file_size_bytes": 9152
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90590/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 66
+          },
+          "records": 383,
+          "file_size_bytes": 5731
+        }
+      }
+    },
+    {
+      "id": "90522",
+      "name": "CLÁUDIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90522/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 819,
+          "file_size_bytes": 35252
+        },
+        "SENADOR": {
+          "file": "municipalities/90522/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 259,
+          "file_size_bytes": 14025
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90522/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 1253,
+          "file_size_bytes": 41427
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90522/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 28
+          },
+          "records": 171,
+          "file_size_bytes": 9213
+        }
+      }
+    },
+    {
+      "id": "98671",
+      "name": "COCALINHO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98671/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 497,
+          "file_size_bytes": 27967
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98671/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 490,
+          "file_size_bytes": 28179
+        },
+        "SENADOR": {
+          "file": "municipalities/98671/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 210,
+          "file_size_bytes": 11565
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98671/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 111,
+          "file_size_bytes": 7088
+        }
+      }
+    },
+    {
+      "id": "89788",
+      "name": "COLNIZA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89788/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 2482,
+          "file_size_bytes": 42695
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89788/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 1731,
+          "file_size_bytes": 36267
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89788/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 381,
+          "file_size_bytes": 6566
+        },
+        "SENADOR": {
+          "file": "municipalities/89788/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 67
+          },
+          "records": 654,
+          "file_size_bytes": 15018
+        }
+      }
+    },
+    {
+      "id": "89796",
+      "name": "COLÍDER",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89796/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 3362,
+          "file_size_bytes": 49188
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89796/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 2577,
+          "file_size_bytes": 42023
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89796/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 478,
+          "file_size_bytes": 7015
+        },
+        "SENADOR": {
+          "file": "municipalities/89796/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 82
+          },
+          "records": 823,
+          "file_size_bytes": 15338
+        }
+      }
+    },
+    {
+      "id": "99015",
+      "name": "COMODORO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/99015/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 1389,
+          "file_size_bytes": 48139
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/99015/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 1751,
+          "file_size_bytes": 52293
+        },
+        "SENADOR": {
+          "file": "municipalities/99015/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 461,
+          "file_size_bytes": 17094
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/99015/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 267,
+          "file_size_bytes": 11734
+        }
+      }
+    },
+    {
+      "id": "90280",
+      "name": "CONFRESA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90280/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 3562,
+          "file_size_bytes": 47815
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90280/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 2513,
+          "file_size_bytes": 40771
+        },
+        "SENADOR": {
+          "file": "municipalities/90280/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 821,
+          "file_size_bytes": 12565
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90280/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 462,
+          "file_size_bytes": 9735
+        }
+      }
+    },
+    {
+      "id": "91006",
+      "name": "CONQUISTA D OESTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91006/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 381,
+          "file_size_bytes": 21829
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91006/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 338,
+          "file_size_bytes": 18239
+        },
+        "SENADOR": {
+          "file": "municipalities/91006/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 102,
+          "file_size_bytes": 6660
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91006/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 59,
+          "file_size_bytes": 3840
+        }
+      }
+    },
+    {
+      "id": "90425",
+      "name": "COTRIGUAÇU",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90425/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 785,
+          "file_size_bytes": 38154
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90425/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1181,
+          "file_size_bytes": 45164
+        },
+        "SENADOR": {
+          "file": "municipalities/90425/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 277,
+          "file_size_bytes": 13042
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90425/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 168,
+          "file_size_bytes": 8828
+        }
+      }
+    },
+    {
+      "id": "90670",
+      "name": "CUIABÁ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90670/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1338
+          },
+          "records": 83996,
+          "file_size_bytes": 637242
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90670/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1338
+          },
+          "records": 65610,
+          "file_size_bytes": 487880
+        },
+        "SENADOR": {
+          "file": "municipalities/90670/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1338
+          },
+          "records": 14406,
+          "file_size_bytes": 105069
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90670/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1338
+          },
+          "records": 9150,
+          "file_size_bytes": 70660
+        }
+      }
+    },
+    {
+      "id": "89800",
+      "name": "CURVELÂNDIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89800/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 673,
+          "file_size_bytes": 28645
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89800/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 528,
+          "file_size_bytes": 24875
+        },
+        "SENADOR": {
+          "file": "municipalities/89800/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 149,
+          "file_size_bytes": 9549
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89800/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 95,
+          "file_size_bytes": 5825
+        }
+      }
+    },
+    {
+      "id": "90476",
+      "name": "CÁCERES",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90476/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 209
+          },
+          "records": 11004,
+          "file_size_bytes": 107778
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90476/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 209
+          },
+          "records": 6949,
+          "file_size_bytes": 90388
+        },
+        "SENADOR": {
+          "file": "municipalities/90476/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 209
+          },
+          "records": 2144,
+          "file_size_bytes": 37531
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90476/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 209
+          },
+          "records": 1255,
+          "file_size_bytes": 17131
+        }
+      }
+    },
+    {
+      "id": "98337",
+      "name": "DENISE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98337/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 780,
+          "file_size_bytes": 28147
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98337/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 611,
+          "file_size_bytes": 23891
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98337/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 117,
+          "file_size_bytes": 4191
+        },
+        "SENADOR": {
+          "file": "municipalities/98337/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 206,
+          "file_size_bytes": 9029
+        }
+      }
+    },
+    {
+      "id": "90697",
+      "name": "DIAMANTINO",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/90697/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 564,
+          "file_size_bytes": 22114
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90697/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 2058,
+          "file_size_bytes": 54917
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90697/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 2421,
+          "file_size_bytes": 56355
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90697/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 316,
+          "file_size_bytes": 12995
+        }
+      }
+    },
+    {
+      "id": "90719",
+      "name": "DOM AQUINO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90719/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 793,
+          "file_size_bytes": 35685
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90719/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 930,
+          "file_size_bytes": 36122
+        },
+        "SENADOR": {
+          "file": "municipalities/90719/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 208,
+          "file_size_bytes": 11889
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90719/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 119,
+          "file_size_bytes": 7132
+        }
+      }
+    },
+    {
+      "id": "90786",
+      "name": "FELIZ NATAL",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90786/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 942,
+          "file_size_bytes": 42076
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90786/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 660,
+          "file_size_bytes": 35137
+        },
+        "SENADOR": {
+          "file": "municipalities/90786/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 219,
+          "file_size_bytes": 12709
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90786/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 140,
+          "file_size_bytes": 9633
+        }
+      }
+    },
+    {
+      "id": "99031",
+      "name": "FIGUEIRÓPOLIS D OESTE",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/99031/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 111,
+          "file_size_bytes": 8047
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/99031/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 334,
+          "file_size_bytes": 21920
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/99031/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 379,
+          "file_size_bytes": 21760
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/99031/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 66,
+          "file_size_bytes": 4654
+        }
+      }
+    },
+    {
+      "id": "90824",
+      "name": "GAÚCHA DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90824/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 606,
+          "file_size_bytes": 26292
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90824/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 864,
+          "file_size_bytes": 30532
+        },
+        "SENADOR": {
+          "file": "municipalities/90824/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 196,
+          "file_size_bytes": 8163
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90824/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 21
+          },
+          "records": 114,
+          "file_size_bytes": 5330
+        }
+      }
+    },
+    {
+      "id": "90778",
+      "name": "GENERAL CARNEIRO",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/90778/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 159,
+          "file_size_bytes": 8006
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90778/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 503,
+          "file_size_bytes": 22979
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90778/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 556,
+          "file_size_bytes": 23213
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90778/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 92,
+          "file_size_bytes": 4659
+        }
+      }
+    },
+    {
+      "id": "90204",
+      "name": "GLÓRIA D OESTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90204/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 269,
+          "file_size_bytes": 16908
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90204/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 385,
+          "file_size_bytes": 21132
+        },
+        "SENADOR": {
+          "file": "municipalities/90204/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 87,
+          "file_size_bytes": 6068
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90204/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 52,
+          "file_size_bytes": 3382
+        }
+      }
+    },
+    {
+      "id": "99058",
+      "name": "GUARANTÃ DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/99058/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 3014,
+          "file_size_bytes": 60376
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/99058/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 2559,
+          "file_size_bytes": 58421
+        },
+        "SENADOR": {
+          "file": "municipalities/99058/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 779,
+          "file_size_bytes": 20024
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/99058/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 78
+          },
+          "records": 456,
+          "file_size_bytes": 13959
+        }
+      }
+    },
+    {
+      "id": "90832",
+      "name": "GUIRATINGA",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/90832/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 264,
+          "file_size_bytes": 13468
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90832/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1121,
+          "file_size_bytes": 38663
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90832/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1048,
+          "file_size_bytes": 34087
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90832/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 163,
+          "file_size_bytes": 8124
+        }
+      }
+    },
+    {
+      "id": "99074",
+      "name": "INDIAVAÍ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/99074/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 225,
+          "file_size_bytes": 14863
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/99074/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 287,
+          "file_size_bytes": 18904
+        },
+        "SENADOR": {
+          "file": "municipalities/99074/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 83,
+          "file_size_bytes": 6259
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/99074/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 47,
+          "file_size_bytes": 3558
+        }
+      }
+    },
+    {
+      "id": "91081",
+      "name": "IPIRANGA DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91081/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 604,
+          "file_size_bytes": 31333
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91081/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 827,
+          "file_size_bytes": 39154
+        },
+        "SENADOR": {
+          "file": "municipalities/91081/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 176,
+          "file_size_bytes": 10740
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91081/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 101,
+          "file_size_bytes": 6302
+        }
+      }
+    },
+    {
+      "id": "91103",
+      "name": "ITANHANGÁ",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/91103/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 166,
+          "file_size_bytes": 11654
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91103/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 512,
+          "file_size_bytes": 27649
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91103/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 670,
+          "file_size_bytes": 30586
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91103/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 97,
+          "file_size_bytes": 6314
+        }
+      }
+    },
+    {
+      "id": "98698",
+      "name": "ITAÚBA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98698/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 577,
+          "file_size_bytes": 29649
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98698/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 413,
+          "file_size_bytes": 27462
+        },
+        "SENADOR": {
+          "file": "municipalities/98698/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 120,
+          "file_size_bytes": 9269
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98698/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 85,
+          "file_size_bytes": 5377
+        }
+      }
+    },
+    {
+      "id": "90913",
+      "name": "ITIQUIRA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90913/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1105,
+          "file_size_bytes": 30248
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90913/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1126,
+          "file_size_bytes": 31182
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90913/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 166,
+          "file_size_bytes": 5366
+        },
+        "SENADOR": {
+          "file": "municipalities/90913/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 280,
+          "file_size_bytes": 11393
+        }
+      }
+    },
+    {
+      "id": "90956",
+      "name": "JACIARA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90956/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 2815,
+          "file_size_bytes": 59111
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90956/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 2466,
+          "file_size_bytes": 54976
+        },
+        "SENADOR": {
+          "file": "municipalities/90956/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 651,
+          "file_size_bytes": 17953
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90956/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 62
+          },
+          "records": 396,
+          "file_size_bytes": 12188
+        }
+      }
+    },
+    {
+      "id": "90565",
+      "name": "JANGADA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90565/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 926,
+          "file_size_bytes": 34202
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90565/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1033,
+          "file_size_bytes": 37769
+        },
+        "SENADOR": {
+          "file": "municipalities/90565/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 252,
+          "file_size_bytes": 10858
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90565/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 146,
+          "file_size_bytes": 6397
+        }
+      }
+    },
+    {
+      "id": "89915",
+      "name": "JAURU",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89915/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 1062,
+          "file_size_bytes": 38377
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89915/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 1232,
+          "file_size_bytes": 45009
+        },
+        "SENADOR": {
+          "file": "municipalities/89915/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 334,
+          "file_size_bytes": 15104
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89915/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 37
+          },
+          "records": 190,
+          "file_size_bytes": 9294
+        }
+      }
+    },
+    {
+      "id": "98191",
+      "name": "JUARA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98191/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 3107,
+          "file_size_bytes": 64572
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98191/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 2420,
+          "file_size_bytes": 60017
+        },
+        "SENADOR": {
+          "file": "municipalities/98191/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 830,
+          "file_size_bytes": 18961
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98191/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 85
+          },
+          "records": 494,
+          "file_size_bytes": 15145
+        }
+      }
+    },
+    {
+      "id": "90581",
+      "name": "JURUENA",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/90581/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 262,
+          "file_size_bytes": 14385
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90581/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 767,
+          "file_size_bytes": 35522
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90581/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1161,
+          "file_size_bytes": 40997
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90581/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 150,
+          "file_size_bytes": 8600
+        }
+      }
+    },
+    {
+      "id": "91898",
+      "name": "JUSCIMEIRA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91898/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1188,
+          "file_size_bytes": 33223
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91898/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1376,
+          "file_size_bytes": 33098
+        },
+        "SENADOR": {
+          "file": "municipalities/91898/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 335,
+          "file_size_bytes": 11441
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91898/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 194,
+          "file_size_bytes": 7088
+        }
+      }
+    },
+    {
+      "id": "98310",
+      "name": "JUÍNA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98310/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 3107,
+          "file_size_bytes": 50973
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98310/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 5028,
+          "file_size_bytes": 66232
+        },
+        "SENADOR": {
+          "file": "municipalities/98310/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 1048,
+          "file_size_bytes": 20861
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98310/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 109
+          },
+          "records": 646,
+          "file_size_bytes": 16790
+        }
+      }
+    },
+    {
+      "id": "90301",
+      "name": "LAMBARI D OESTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90301/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 516,
+          "file_size_bytes": 22487
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90301/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 431,
+          "file_size_bytes": 20140
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90301/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 88,
+          "file_size_bytes": 3416
+        },
+        "SENADOR": {
+          "file": "municipalities/90301/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 148,
+          "file_size_bytes": 7656
+        }
+      }
+    },
+    {
+      "id": "90603",
+      "name": "LUCAS DO RIO VERDE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90603/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 153
+          },
+          "records": 8061,
+          "file_size_bytes": 99815
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90603/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 153
+          },
+          "records": 6280,
+          "file_size_bytes": 86520
+        },
+        "SENADOR": {
+          "file": "municipalities/90603/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 153
+          },
+          "records": 1579,
+          "file_size_bytes": 33112
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90603/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 153
+          },
+          "records": 918,
+          "file_size_bytes": 15919
+        }
+      }
+    },
+    {
+      "id": "91057",
+      "name": "LUCIARA",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/91057/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 89,
+          "file_size_bytes": 6774
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91057/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 207,
+          "file_size_bytes": 14557
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91057/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 314,
+          "file_size_bytes": 19446
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91057/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 48,
+          "file_size_bytes": 3714
+        }
+      }
+    },
+    {
+      "id": "98710",
+      "name": "MARCELÂNDIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98710/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1178,
+          "file_size_bytes": 35381
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98710/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 903,
+          "file_size_bytes": 31318
+        },
+        "SENADOR": {
+          "file": "municipalities/98710/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 320,
+          "file_size_bytes": 13287
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98710/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 191,
+          "file_size_bytes": 8387
+        }
+      }
+    },
+    {
+      "id": "90620",
+      "name": "MATUPÁ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90620/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 1687,
+          "file_size_bytes": 51728
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90620/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 2274,
+          "file_size_bytes": 52061
+        },
+        "SENADOR": {
+          "file": "municipalities/90620/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 463,
+          "file_size_bytes": 15989
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90620/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 47
+          },
+          "records": 276,
+          "file_size_bytes": 11338
+        }
+      }
+    },
+    {
+      "id": "91774",
+      "name": "MIRASSOL D OESTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91774/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 2839,
+          "file_size_bytes": 62811
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91774/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 2154,
+          "file_size_bytes": 56847
+        },
+        "SENADOR": {
+          "file": "municipalities/91774/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 658,
+          "file_size_bytes": 22930
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91774/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 65
+          },
+          "records": 394,
+          "file_size_bytes": 14734
+        }
+      }
+    },
+    {
+      "id": "91170",
+      "name": "NOBRES",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91170/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 1945,
+          "file_size_bytes": 54092
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91170/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 1507,
+          "file_size_bytes": 49292
+        },
+        "SENADOR": {
+          "file": "municipalities/91170/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 407,
+          "file_size_bytes": 16645
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91170/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 40
+          },
+          "records": 229,
+          "file_size_bytes": 11037
+        }
+      }
+    },
+    {
+      "id": "91197",
+      "name": "NORTELÂNDIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91197/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 688,
+          "file_size_bytes": 32180
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91197/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 835,
+          "file_size_bytes": 36436
+        },
+        "SENADOR": {
+          "file": "municipalities/91197/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 219,
+          "file_size_bytes": 11965
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91197/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 22
+          },
+          "records": 123,
+          "file_size_bytes": 7187
+        }
+      }
+    },
+    {
+      "id": "91219",
+      "name": "NOSSA SENHORA DO LIVRAMENTO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91219/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 1583,
+          "file_size_bytes": 40289
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91219/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 1890,
+          "file_size_bytes": 42949
+        },
+        "SENADOR": {
+          "file": "municipalities/91219/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 476,
+          "file_size_bytes": 15452
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91219/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 50
+          },
+          "records": 287,
+          "file_size_bytes": 11801
+        }
+      }
+    },
+    {
+      "id": "90387",
+      "name": "NOVA BANDEIRANTES",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90387/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1196,
+          "file_size_bytes": 46189
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90387/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 851,
+          "file_size_bytes": 36793
+        },
+        "SENADOR": {
+          "file": "municipalities/90387/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 291,
+          "file_size_bytes": 12539
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90387/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 173,
+          "file_size_bytes": 8180
+        }
+      }
+    },
+    {
+      "id": "89818",
+      "name": "NOVA BRASILÂNDIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89818/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 541,
+          "file_size_bytes": 20340
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89818/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 420,
+          "file_size_bytes": 19139
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89818/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 83,
+          "file_size_bytes": 3696
+        },
+        "SENADOR": {
+          "file": "municipalities/89818/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 132,
+          "file_size_bytes": 6516
+        }
+      }
+    },
+    {
+      "id": "98752",
+      "name": "NOVA CANAÃ DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98752/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 937,
+          "file_size_bytes": 40028
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98752/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 1308,
+          "file_size_bytes": 48951
+        },
+        "SENADOR": {
+          "file": "municipalities/98752/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 337,
+          "file_size_bytes": 15626
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98752/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 34
+          },
+          "records": 194,
+          "file_size_bytes": 9738
+        }
+      }
+    },
+    {
+      "id": "90140",
+      "name": "NOVA GUARITA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90140/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 363,
+          "file_size_bytes": 26164
+        },
+        "SENADOR": {
+          "file": "municipalities/90140/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 113,
+          "file_size_bytes": 9286
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90140/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 489,
+          "file_size_bytes": 30822
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90140/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 74,
+          "file_size_bytes": 5680
+        }
+      }
+    },
+    {
+      "id": "90867",
+      "name": "NOVA LACERDA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90867/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 407,
+          "file_size_bytes": 20757
+        },
+        "SENADOR": {
+          "file": "municipalities/90867/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 154,
+          "file_size_bytes": 7552
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90867/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 498,
+          "file_size_bytes": 25634
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90867/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 93,
+          "file_size_bytes": 4601
+        }
+      }
+    },
+    {
+      "id": "90166",
+      "name": "NOVA MARILÂNDIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90166/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 338,
+          "file_size_bytes": 19448
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90166/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 442,
+          "file_size_bytes": 22655
+        },
+        "SENADOR": {
+          "file": "municipalities/90166/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 95,
+          "file_size_bytes": 5913
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90166/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 55,
+          "file_size_bytes": 3695
+        }
+      }
+    },
+    {
+      "id": "90123",
+      "name": "NOVA MARINGÁ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90123/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 434,
+          "file_size_bytes": 26186
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90123/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 493,
+          "file_size_bytes": 29324
+        },
+        "SENADOR": {
+          "file": "municipalities/90123/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 138,
+          "file_size_bytes": 9091
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90123/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 15
+          },
+          "records": 81,
+          "file_size_bytes": 5201
+        }
+      }
+    },
+    {
+      "id": "90360",
+      "name": "NOVA MONTE VERDE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90360/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 586,
+          "file_size_bytes": 32225
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90360/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 780,
+          "file_size_bytes": 35182
+        },
+        "SENADOR": {
+          "file": "municipalities/90360/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 193,
+          "file_size_bytes": 11477
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90360/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 20
+          },
+          "records": 111,
+          "file_size_bytes": 6867
+        }
+      }
+    },
+    {
+      "id": "90646",
+      "name": "NOVA MUTUM",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90646/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 115
+          },
+          "records": 4420,
+          "file_size_bytes": 82886
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90646/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 115
+          },
+          "records": 5853,
+          "file_size_bytes": 98394
+        },
+        "SENADOR": {
+          "file": "municipalities/90646/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 115
+          },
+          "records": 1193,
+          "file_size_bytes": 31961
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90646/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 115
+          },
+          "records": 683,
+          "file_size_bytes": 15158
+        }
+      }
+    },
+    {
+      "id": "90964",
+      "name": "NOVA NAZARÉ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90964/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 349,
+          "file_size_bytes": 21091
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90964/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 387,
+          "file_size_bytes": 20069
+        },
+        "SENADOR": {
+          "file": "municipalities/90964/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 135,
+          "file_size_bytes": 7557
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90964/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 79,
+          "file_size_bytes": 4105
+        }
+      }
+    },
+    {
+      "id": "98736",
+      "name": "NOVA OLÍMPIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98736/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 1783,
+          "file_size_bytes": 49801
+        },
+        "SENADOR": {
+          "file": "municipalities/98736/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 444,
+          "file_size_bytes": 17978
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98736/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 2034,
+          "file_size_bytes": 52586
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98736/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 268,
+          "file_size_bytes": 12642
+        }
+      }
+    },
+    {
+      "id": "89826",
+      "name": "NOVA SANTA HELENA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89826/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 408,
+          "file_size_bytes": 23090
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89826/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 306,
+          "file_size_bytes": 20025
+        },
+        "SENADOR": {
+          "file": "municipalities/89826/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 95,
+          "file_size_bytes": 6101
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89826/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 61,
+          "file_size_bytes": 4031
+        }
+      }
+    },
+    {
+      "id": "90883",
+      "name": "NOVA UBIRATÃ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90883/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 1014,
+          "file_size_bytes": 33715
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90883/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 768,
+          "file_size_bytes": 31200
+        },
+        "SENADOR": {
+          "file": "municipalities/90883/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 218,
+          "file_size_bytes": 11056
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90883/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 133,
+          "file_size_bytes": 7241
+        }
+      }
+    },
+    {
+      "id": "91952",
+      "name": "NOVA XAVANTINA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91952/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 2079,
+          "file_size_bytes": 42998
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91952/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 1758,
+          "file_size_bytes": 39839
+        },
+        "SENADOR": {
+          "file": "municipalities/91952/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 533,
+          "file_size_bytes": 12696
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91952/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 51
+          },
+          "records": 315,
+          "file_size_bytes": 9032
+        }
+      }
+    },
+    {
+      "id": "98795",
+      "name": "NOVO HORIZONTE DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/98795/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 112,
+          "file_size_bytes": 8184
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98795/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 433,
+          "file_size_bytes": 25232
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98795/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 310,
+          "file_size_bytes": 21557
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98795/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 65,
+          "file_size_bytes": 4327
+        }
+      }
+    },
+    {
+      "id": "90808",
+      "name": "NOVO MUNDO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90808/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 532,
+          "file_size_bytes": 25875
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90808/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 634,
+          "file_size_bytes": 30660
+        },
+        "SENADOR": {
+          "file": "municipalities/90808/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 168,
+          "file_size_bytes": 9626
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90808/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 94,
+          "file_size_bytes": 5310
+        }
+      }
+    },
+    {
+      "id": "90948",
+      "name": "NOVO SANTO ANTÔNIO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90948/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 154,
+          "file_size_bytes": 9628
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90948/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 196,
+          "file_size_bytes": 10654
+        },
+        "SENADOR": {
+          "file": "municipalities/90948/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 57,
+          "file_size_bytes": 3406
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90948/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 30,
+          "file_size_bytes": 1646
+        }
+      }
+    },
+    {
+      "id": "98779",
+      "name": "NOVO SÃO JOAQUIM",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98779/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 520,
+          "file_size_bytes": 24070
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98779/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 681,
+          "file_size_bytes": 27262
+        },
+        "SENADOR": {
+          "file": "municipalities/98779/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 177,
+          "file_size_bytes": 10521
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98779/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 19
+          },
+          "records": 102,
+          "file_size_bytes": 5444
+        }
+      }
+    },
+    {
+      "id": "89834",
+      "name": "PARANATINGA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89834/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2049,
+          "file_size_bytes": 39038
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89834/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2284,
+          "file_size_bytes": 41712
+        },
+        "SENADOR": {
+          "file": "municipalities/89834/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 547,
+          "file_size_bytes": 11330
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89834/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 325,
+          "file_size_bytes": 8544
+        }
+      }
+    },
+    {
+      "id": "98833",
+      "name": "PARANAÍTA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98833/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 1223,
+          "file_size_bytes": 32242
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98833/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 900,
+          "file_size_bytes": 26410
+        },
+        "SENADOR": {
+          "file": "municipalities/98833/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 284,
+          "file_size_bytes": 8552
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98833/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 29
+          },
+          "records": 168,
+          "file_size_bytes": 3933
+        }
+      }
+    },
+    {
+      "id": "91812",
+      "name": "PEDRA PRETA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91812/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 1855,
+          "file_size_bytes": 42045
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91812/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 1736,
+          "file_size_bytes": 40888
+        },
+        "SENADOR": {
+          "file": "municipalities/91812/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 434,
+          "file_size_bytes": 16867
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91812/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 42
+          },
+          "records": 265,
+          "file_size_bytes": 11672
+        }
+      }
+    },
+    {
+      "id": "98817",
+      "name": "PEIXOTO DE AZEVEDO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98817/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 2827,
+          "file_size_bytes": 43665
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98817/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 3631,
+          "file_size_bytes": 48314
+        },
+        "SENADOR": {
+          "file": "municipalities/98817/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 785,
+          "file_size_bytes": 17650
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98817/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 80
+          },
+          "records": 472,
+          "file_size_bytes": 13373
+        }
+      }
+    },
+    {
+      "id": "90344",
+      "name": "PLANALTO DA SERRA",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/90344/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 102,
+          "file_size_bytes": 6384
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90344/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 346,
+          "file_size_bytes": 19289
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90344/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 458,
+          "file_size_bytes": 23034
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90344/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 11
+          },
+          "records": 62,
+          "file_size_bytes": 4034
+        }
+      }
+    },
+    {
+      "id": "91294",
+      "name": "POCONÉ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91294/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 4336,
+          "file_size_bytes": 68099
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91294/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 3381,
+          "file_size_bytes": 60319
+        },
+        "SENADOR": {
+          "file": "municipalities/91294/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 904,
+          "file_size_bytes": 20867
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91294/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 89
+          },
+          "records": 523,
+          "file_size_bytes": 15346
+        }
+      }
+    },
+    {
+      "id": "90700",
+      "name": "PONTAL DO ARAGUAIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90700/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 725,
+          "file_size_bytes": 30258
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90700/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 611,
+          "file_size_bytes": 28217
+        },
+        "SENADOR": {
+          "file": "municipalities/90700/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 188,
+          "file_size_bytes": 10277
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90700/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 18
+          },
+          "records": 106,
+          "file_size_bytes": 6419
+        }
+      }
+    },
+    {
+      "id": "91332",
+      "name": "PONTE BRANCA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91332/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 234,
+          "file_size_bytes": 14147
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91332/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 300,
+          "file_size_bytes": 16687
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91332/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 48,
+          "file_size_bytes": 2585
+        },
+        "SENADOR": {
+          "file": "municipalities/91332/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 81,
+          "file_size_bytes": 5082
+        }
+      }
+    },
+    {
+      "id": "89990",
+      "name": "PONTES E LACERDA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89990/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 130
+          },
+          "records": 3729,
+          "file_size_bytes": 48864
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89990/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 130
+          },
+          "records": 4060,
+          "file_size_bytes": 52496
+        },
+        "SENADOR": {
+          "file": "municipalities/89990/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 130
+          },
+          "records": 1349,
+          "file_size_bytes": 16428
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89990/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 130
+          },
+          "records": 789,
+          "file_size_bytes": 10484
+        }
+      }
+    },
+    {
+      "id": "98850",
+      "name": "PORTO ALEGRE DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98850/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 870,
+          "file_size_bytes": 36895
+        },
+        "SENADOR": {
+          "file": "municipalities/98850/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 327,
+          "file_size_bytes": 16178
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98850/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 1110,
+          "file_size_bytes": 41023
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98850/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 33
+          },
+          "records": 182,
+          "file_size_bytes": 9553
+        }
+      }
+    },
+    {
+      "id": "91359",
+      "name": "PORTO DOS GAÚCHOS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91359/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 392,
+          "file_size_bytes": 24693
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91359/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 535,
+          "file_size_bytes": 29265
+        },
+        "SENADOR": {
+          "file": "municipalities/91359/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 133,
+          "file_size_bytes": 8493
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91359/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 14
+          },
+          "records": 83,
+          "file_size_bytes": 5477
+        }
+      }
+    },
+    {
+      "id": "98876",
+      "name": "PORTO ESPERIDIÃO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98876/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 753,
+          "file_size_bytes": 30841
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98876/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 1006,
+          "file_size_bytes": 36651
+        },
+        "SENADOR": {
+          "file": "municipalities/98876/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 235,
+          "file_size_bytes": 10374
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98876/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 146,
+          "file_size_bytes": 8549
+        }
+      }
+    },
+    {
+      "id": "90182",
+      "name": "PORTO ESTRELA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90182/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 394,
+          "file_size_bytes": 22567
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90182/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 466,
+          "file_size_bytes": 22198
+        },
+        "SENADOR": {
+          "file": "municipalities/90182/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 121,
+          "file_size_bytes": 7578
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90182/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 69,
+          "file_size_bytes": 4878
+        }
+      }
+    },
+    {
+      "id": "91391",
+      "name": "POXORÉU",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/91391/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 534,
+          "file_size_bytes": 23269
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91391/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 1977,
+          "file_size_bytes": 60731
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91391/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 2031,
+          "file_size_bytes": 61459
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91391/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 53
+          },
+          "records": 297,
+          "file_size_bytes": 11472
+        }
+      }
+    },
+    {
+      "id": "98892",
+      "name": "PRIMAVERA DO LESTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98892/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 159
+          },
+          "records": 6485,
+          "file_size_bytes": 91872
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98892/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 159
+          },
+          "records": 6782,
+          "file_size_bytes": 94937
+        },
+        "SENADOR": {
+          "file": "municipalities/98892/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 159
+          },
+          "records": 1675,
+          "file_size_bytes": 36929
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98892/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 159
+          },
+          "records": 1034,
+          "file_size_bytes": 17788
+        }
+      }
+    },
+    {
+      "id": "90069",
+      "name": "QUERÊNCIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90069/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 2480,
+          "file_size_bytes": 66931
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90069/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 1275,
+          "file_size_bytes": 52017
+        },
+        "SENADOR": {
+          "file": "municipalities/90069/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 547,
+          "file_size_bytes": 23424
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90069/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 54
+          },
+          "records": 300,
+          "file_size_bytes": 11091
+        }
+      }
+    },
+    {
+      "id": "98914",
+      "name": "RESERVA DO CABAÇAL",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98914/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 243,
+          "file_size_bytes": 15977
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98914/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 178,
+          "file_size_bytes": 12713
+        },
+        "SENADOR": {
+          "file": "municipalities/98914/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 56,
+          "file_size_bytes": 4110
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98914/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6
+          },
+          "records": 33,
+          "file_size_bytes": 2346
+        }
+      }
+    },
+    {
+      "id": "90662",
+      "name": "RIBEIRÃO CASCALHEIRA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90662/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1050,
+          "file_size_bytes": 32201
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90662/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 713,
+          "file_size_bytes": 25104
+        },
+        "SENADOR": {
+          "file": "municipalities/90662/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 274,
+          "file_size_bytes": 11038
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90662/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 148,
+          "file_size_bytes": 6485
+        }
+      }
+    },
+    {
+      "id": "90441",
+      "name": "RIBEIRÃOZINHO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90441/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 248,
+          "file_size_bytes": 16026
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90441/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 247,
+          "file_size_bytes": 15668
+        },
+        "SENADOR": {
+          "file": "municipalities/90441/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 80,
+          "file_size_bytes": 4583
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90441/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 8
+          },
+          "records": 46,
+          "file_size_bytes": 2933
+        }
+      }
+    },
+    {
+      "id": "89958",
+      "name": "RIO BRANCO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89958/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 513,
+          "file_size_bytes": 29730
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89958/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 399,
+          "file_size_bytes": 25767
+        },
+        "SENADOR": {
+          "file": "municipalities/89958/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 117,
+          "file_size_bytes": 8371
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89958/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 73,
+          "file_size_bytes": 5162
+        }
+      }
+    },
+    {
+      "id": "89960",
+      "name": "RONDOLÂNDIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89960/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 276,
+          "file_size_bytes": 20822
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89960/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 349,
+          "file_size_bytes": 24859
+        },
+        "SENADOR": {
+          "file": "municipalities/89960/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 110,
+          "file_size_bytes": 9218
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89960/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 63,
+          "file_size_bytes": 4787
+        }
+      }
+    },
+    {
+      "id": "91510",
+      "name": "RONDONÓPOLIS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91510/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 547
+          },
+          "records": 20185,
+          "file_size_bytes": 134271
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91510/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 547
+          },
+          "records": 22294,
+          "file_size_bytes": 151779
+        },
+        "SENADOR": {
+          "file": "municipalities/91510/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 547
+          },
+          "records": 5736,
+          "file_size_bytes": 41487
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91510/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 547
+          },
+          "records": 3505,
+          "file_size_bytes": 27609
+        }
+      }
+    },
+    {
+      "id": "91537",
+      "name": "ROSÁRIO OESTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91537/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 1961,
+          "file_size_bytes": 42584
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91537/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 1687,
+          "file_size_bytes": 39161
+        },
+        "SENADOR": {
+          "file": "municipalities/91537/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 432,
+          "file_size_bytes": 10713
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91537/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 257,
+          "file_size_bytes": 7425
+        }
+      }
+    },
+    {
+      "id": "89974",
+      "name": "SALTO DO CÉU",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/89974/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 93,
+          "file_size_bytes": 5937
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89974/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 284,
+          "file_size_bytes": 17234
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89974/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 379,
+          "file_size_bytes": 19165
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89974/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 57,
+          "file_size_bytes": 3327
+        }
+      }
+    },
+    {
+      "id": "90107",
+      "name": "SANTA CARMEM",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90107/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 425,
+          "file_size_bytes": 22675
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90107/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 504,
+          "file_size_bytes": 23529
+        },
+        "SENADOR": {
+          "file": "municipalities/90107/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 117,
+          "file_size_bytes": 8011
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90107/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 75,
+          "file_size_bytes": 4733
+        }
+      }
+    },
+    {
+      "id": "90980",
+      "name": "SANTA CRUZ DO XINGU",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90980/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 172,
+          "file_size_bytes": 12465
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90980/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 270,
+          "file_size_bytes": 15564
+        },
+        "SENADOR": {
+          "file": "municipalities/90980/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 64,
+          "file_size_bytes": 5126
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90980/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 7
+          },
+          "records": 42,
+          "file_size_bytes": 3229
+        }
+      }
+    },
+    {
+      "id": "91049",
+      "name": "SANTA RITA DO TRIVELATO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91049/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 297,
+          "file_size_bytes": 19414
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91049/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 420,
+          "file_size_bytes": 22335
+        },
+        "SENADOR": {
+          "file": "municipalities/91049/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 86,
+          "file_size_bytes": 5370
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91049/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 9
+          },
+          "records": 51,
+          "file_size_bytes": 3439
+        }
+      }
+    },
+    {
+      "id": "91979",
+      "name": "SANTA TEREZINHA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91979/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 696,
+          "file_size_bytes": 30882
+        },
+        "SENADOR": {
+          "file": "municipalities/91979/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 218,
+          "file_size_bytes": 11142
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91979/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 479,
+          "file_size_bytes": 25714
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91979/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 125,
+          "file_size_bytes": 7391
+        }
+      }
+    },
+    {
+      "id": "90328",
+      "name": "SANTO AFONSO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90328/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 329,
+          "file_size_bytes": 22600
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90328/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 357,
+          "file_size_bytes": 21351
+        },
+        "SENADOR": {
+          "file": "municipalities/90328/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 110,
+          "file_size_bytes": 7238
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90328/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 64,
+          "file_size_bytes": 4393
+        }
+      }
+    },
+    {
+      "id": "89843",
+      "name": "SANTO ANTÔNIO DO LESTE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89843/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 314,
+          "file_size_bytes": 20022
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89843/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 335,
+          "file_size_bytes": 18872
+        },
+        "SENADOR": {
+          "file": "municipalities/89843/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 91,
+          "file_size_bytes": 6252
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89843/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 53,
+          "file_size_bytes": 3845
+        }
+      }
+    },
+    {
+      "id": "91553",
+      "name": "SANTO ANTÔNIO DO LEVERGER",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91553/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2214,
+          "file_size_bytes": 59978
+        },
+        "SENADOR": {
+          "file": "municipalities/91553/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 567,
+          "file_size_bytes": 20531
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91553/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2483,
+          "file_size_bytes": 59343
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91553/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 328,
+          "file_size_bytes": 14099
+        }
+      }
+    },
+    {
+      "id": "90727",
+      "name": "SAPEZAL",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90727/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 1956,
+          "file_size_bytes": 58510
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90727/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 2772,
+          "file_size_bytes": 69978
+        },
+        "SENADOR": {
+          "file": "municipalities/90727/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 557,
+          "file_size_bytes": 24196
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90727/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 55
+          },
+          "records": 345,
+          "file_size_bytes": 11725
+        }
+      }
+    },
+    {
+      "id": "90921",
+      "name": "SERRA NOVA DOURADA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90921/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 142,
+          "file_size_bytes": 10570
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90921/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 193,
+          "file_size_bytes": 12334
+        },
+        "SENADOR": {
+          "file": "municipalities/90921/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 48,
+          "file_size_bytes": 3821
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90921/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 5
+          },
+          "records": 27,
+          "file_size_bytes": 2154
+        }
+      }
+    },
+    {
+      "id": "89850",
+      "name": "SINOP",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89850/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 346
+          },
+          "records": 12746,
+          "file_size_bytes": 89306
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89850/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 346
+          },
+          "records": 17250,
+          "file_size_bytes": 120042
+        },
+        "SENADOR": {
+          "file": "municipalities/89850/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 346
+          },
+          "records": 3629,
+          "file_size_bytes": 30903
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89850/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 346
+          },
+          "records": 2224,
+          "file_size_bytes": 20560
+        }
+      }
+    },
+    {
+      "id": "98930",
+      "name": "SORRISO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98930/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 206
+          },
+          "records": 8856,
+          "file_size_bytes": 87249
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98930/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 206
+          },
+          "records": 7128,
+          "file_size_bytes": 67963
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98930/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 206
+          },
+          "records": 1300,
+          "file_size_bytes": 12098
+        },
+        "SENADOR": {
+          "file": "municipalities/98930/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 206
+          },
+          "records": 2114,
+          "file_size_bytes": 21906
+        }
+      }
+    },
+    {
+      "id": "91839",
+      "name": "SÃO FÉLIX DO ARAGUAIA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91839/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1085,
+          "file_size_bytes": 45277
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91839/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 770,
+          "file_size_bytes": 39157
+        },
+        "SENADOR": {
+          "file": "municipalities/91839/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 305,
+          "file_size_bytes": 14876
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91839/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 170,
+          "file_size_bytes": 9409
+        }
+      }
+    },
+    {
+      "id": "90026",
+      "name": "SÃO JOSÉ DO POVO",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/90026/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 95,
+          "file_size_bytes": 6065
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90026/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 352,
+          "file_size_bytes": 20326
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90026/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 391,
+          "file_size_bytes": 20207
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90026/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 53,
+          "file_size_bytes": 3635
+        }
+      }
+    },
+    {
+      "id": "91995",
+      "name": "SÃO JOSÉ DO RIO CLARO",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91995/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1652,
+          "file_size_bytes": 51331
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91995/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 1387,
+          "file_size_bytes": 47358
+        },
+        "SENADOR": {
+          "file": "municipalities/91995/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 369,
+          "file_size_bytes": 14158
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91995/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 39
+          },
+          "records": 220,
+          "file_size_bytes": 9616
+        }
+      }
+    },
+    {
+      "id": "90247",
+      "name": "SÃO JOSÉ DO XINGU",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90247/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 457,
+          "file_size_bytes": 25541
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90247/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 626,
+          "file_size_bytes": 31584
+        },
+        "SENADOR": {
+          "file": "municipalities/90247/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 156,
+          "file_size_bytes": 8869
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90247/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 17
+          },
+          "records": 94,
+          "file_size_bytes": 5591
+        }
+      }
+    },
+    {
+      "id": "89931",
+      "name": "SÃO JOSÉ DOS QUATRO MARCOS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/89931/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 1541,
+          "file_size_bytes": 39406
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/89931/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 2120,
+          "file_size_bytes": 43356
+        },
+        "SENADOR": {
+          "file": "municipalities/89931/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 527,
+          "file_size_bytes": 12020
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/89931/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 56
+          },
+          "records": 327,
+          "file_size_bytes": 8815
+        }
+      }
+    },
+    {
+      "id": "90409",
+      "name": "SÃO PEDRO DA CIPA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90409/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 411,
+          "file_size_bytes": 23625
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90409/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 489,
+          "file_size_bytes": 28189
+        },
+        "SENADOR": {
+          "file": "municipalities/90409/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 118,
+          "file_size_bytes": 7928
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90409/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 68,
+          "file_size_bytes": 4962
+        }
+      }
+    },
+    {
+      "id": "90220",
+      "name": "TABAPORÃ",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90220/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 701,
+          "file_size_bytes": 34325
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90220/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 903,
+          "file_size_bytes": 38009
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90220/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 136,
+          "file_size_bytes": 8272
+        },
+        "SENADOR": {
+          "file": "municipalities/90220/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 222,
+          "file_size_bytes": 11499
+        }
+      }
+    },
+    {
+      "id": "91855",
+      "name": "TANGARÁ DA SERRA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91855/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 220
+          },
+          "records": 8854,
+          "file_size_bytes": 77977
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91855/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 220
+          },
+          "records": 7507,
+          "file_size_bytes": 68401
+        },
+        "SENADOR": {
+          "file": "municipalities/91855/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 220
+          },
+          "records": 2340,
+          "file_size_bytes": 27750
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91855/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 220
+          },
+          "records": 1398,
+          "file_size_bytes": 21264
+        }
+      }
+    },
+    {
+      "id": "90689",
+      "name": "TAPURAH",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90689/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 992,
+          "file_size_bytes": 39568
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90689/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1228,
+          "file_size_bytes": 46569
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90689/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 154,
+          "file_size_bytes": 8647
+        },
+        "SENADOR": {
+          "file": "municipalities/90689/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 271,
+          "file_size_bytes": 12342
+        }
+      }
+    },
+    {
+      "id": "98957",
+      "name": "TERRA NOVA DO NORTE",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/98957/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 305,
+          "file_size_bytes": 15168
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98957/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 981,
+          "file_size_bytes": 40691
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98957/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 1256,
+          "file_size_bytes": 43117
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98957/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 32
+          },
+          "records": 185,
+          "file_size_bytes": 10153
+        }
+      }
+    },
+    {
+      "id": "91618",
+      "name": "TESOURO",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/91618/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 95,
+          "file_size_bytes": 6866
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91618/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 59,
+          "file_size_bytes": 3955
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91618/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 312,
+          "file_size_bytes": 19593
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91618/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 358,
+          "file_size_bytes": 17880
+        }
+      }
+    },
+    {
+      "id": "91634",
+      "name": "TORIXORÉU",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91634/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 462,
+          "file_size_bytes": 23183
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91634/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 366,
+          "file_size_bytes": 19560
+        },
+        "SENADOR": {
+          "file": "municipalities/91634/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 127,
+          "file_size_bytes": 6997
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91634/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 13
+          },
+          "records": 74,
+          "file_size_bytes": 4142
+        }
+      }
+    },
+    {
+      "id": "90840",
+      "name": "UNIÃO DO SUL",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/90840/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 367,
+          "file_size_bytes": 16186
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/90840/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 254,
+          "file_size_bytes": 13778
+        },
+        "SENADOR": {
+          "file": "municipalities/90840/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 94,
+          "file_size_bytes": 4554
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/90840/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 57,
+          "file_size_bytes": 2321
+        }
+      }
+    },
+    {
+      "id": "91022",
+      "name": "VALE DE SÃO DOMINGOS",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91022/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 295,
+          "file_size_bytes": 16259
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91022/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 331,
+          "file_size_bytes": 18521
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91022/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 54,
+          "file_size_bytes": 3077
+        },
+        "SENADOR": {
+          "file": "municipalities/91022/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 10
+          },
+          "records": 99,
+          "file_size_bytes": 6693
+        }
+      }
+    },
+    {
+      "id": "98973",
+      "name": "VERA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98973/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 1097,
+          "file_size_bytes": 44092
+        },
+        "SENADOR": {
+          "file": "municipalities/98973/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 227,
+          "file_size_bytes": 11187
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98973/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 836,
+          "file_size_bytes": 37765
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98973/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 135,
+          "file_size_bytes": 7996
+        }
+      }
+    },
+    {
+      "id": "91090",
+      "name": "VILA BELA DA SANTÍSSIMA TRINDADE",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91090/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 1335,
+          "file_size_bytes": 49218
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91090/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 1212,
+          "file_size_bytes": 45056
+        },
+        "SENADOR": {
+          "file": "municipalities/91090/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 413,
+          "file_size_bytes": 16091
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91090/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 43
+          },
+          "records": 217,
+          "file_size_bytes": 9622
+        }
+      }
+    },
+    {
+      "id": "98990",
+      "name": "VILA RICA",
+      "uf": "MT",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/98990/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 1746,
+          "file_size_bytes": 50594
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/98990/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 1405,
+          "file_size_bytes": 48030
+        },
+        "SENADOR": {
+          "file": "municipalities/98990/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 501,
+          "file_size_bytes": 18261
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/98990/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 49
+          },
+          "records": 267,
+          "file_size_bytes": 11725
+        }
+      }
+    },
+    {
+      "id": "91677",
+      "name": "VÁRZEA GRANDE",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/91677/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 581
+          },
+          "records": 6225,
+          "file_size_bytes": 57846
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91677/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 581
+          },
+          "records": 26646,
+          "file_size_bytes": 200711
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91677/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 581
+          },
+          "records": 35264,
+          "file_size_bytes": 258385
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91677/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 581
+          },
+          "records": 3875,
+          "file_size_bytes": 30749
+        }
+      }
+    },
+    {
+      "id": "91910",
+      "name": "ÁGUA BOA",
+      "uf": "MT",
+      "offices": {
+        "SENADOR": {
+          "file": "municipalities/91910/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 787,
+          "file_size_bytes": 24401
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/91910/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 1958,
+          "file_size_bytes": 52815
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/91910/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 2836,
+          "file_size_bytes": 56394
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/91910/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 77
+          },
+          "records": 454,
+          "file_size_bytes": 15544
+        }
+      }
+    }
+  ]
+}

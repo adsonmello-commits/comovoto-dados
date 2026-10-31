@@ -1,28 +1,39 @@
 {
-  "dataset": "Resultados eleitorais 2026 — votação por seção",
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
   "scope": {
     "country": "Brasil",
     "state": "RS",
-    "municipalities": "all"
+    "municipalities": 497
   },
   "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_RS.zip",
   "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
   "license": "Creative Commons Attribution (CC BY)",
-  "retrieved_at_utc": "2026-10-27T11:01:55.188373+00:00",
+  "retrieved_at_utc": "2026-10-31T04:01:49.403529+00:00",
   "source_archive_size_bytes": 149832038,
   "source_archive_sha256": "35f690742c8bb94c40e04762cf51ce0069be1363458e29b276df9aab4c599919",
   "source_archive_members": [
     "votacao_secao_2026_RS.csv"
   ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 1596511,
+    "DEPUTADO_FEDERAL": 1392737,
+    "GOVERNADOR": 170128,
+    "SENADOR": 276573
+  },
   "municipality_count": 497,
-  "expected_turns": [
-    "1",
-    "2"
-  ],
-  "turns": [
-    "1"
-  ],
-  "data_status": "pending_tse_update",
-  "row_count": 3435949,
-  "partition_count": 497
+  "partition_count": 1988
 }

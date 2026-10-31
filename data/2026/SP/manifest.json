@@ -1,0 +1,39 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "SP",
+    "municipalities": 645
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_SP.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T04:22:48.307783+00:00",
+  "source_archive_size_bytes": 808337068,
+  "source_archive_sha256": "3c6693ce7bb338a865c9bc9d444504213a56d0d8518dbe39e310c397da57b977",
+  "source_archive_members": [
+    "votacao_secao_2026_SP.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 7912959,
+    "DEPUTADO_FEDERAL": 7401888,
+    "GOVERNADOR": 579514,
+    "SENADOR": 1149273
+  },
+  "municipality_count": 645,
+  "partition_count": 2580
+}

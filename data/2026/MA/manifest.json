@@ -1,0 +1,39 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "MA",
+    "municipalities": 217
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_MA.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T03:37:04.059713+00:00",
+  "source_archive_size_bytes": 68021627,
+  "source_archive_sha256": "3e39391bb6c7a8ca1513d929335aab88a4166328d13aa3e772c545385301628b",
+  "source_archive_members": [
+    "votacao_secao_2026_MA.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 759142,
+    "DEPUTADO_FEDERAL": 734540,
+    "GOVERNADOR": 110910,
+    "SENADOR": 194763
+  },
+  "municipality_count": 217,
+  "partition_count": 868
+}

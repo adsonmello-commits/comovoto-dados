@@ -1,0 +1,93 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "uf": "DF",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_DF.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "municipality_count": 1,
+  "offices": {
+    "DEPUTADO_DISTRITAL": {
+      "name": "Deputado distrital",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    },
+    "DEPUTADO_FEDERAL": {
+      "name": "Deputado federal",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    },
+    "GOVERNADOR": {
+      "name": "Governador",
+      "turns": [
+        "1",
+        "2"
+      ],
+      "data_status": "complete"
+    },
+    "SENADOR": {
+      "name": "Senador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "97012",
+      "name": "BRASÍLIA",
+      "uf": "DF",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/97012/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6969
+          },
+          "records": 393695,
+          "file_size_bytes": 2735669
+        },
+        "DEPUTADO_DISTRITAL": {
+          "file": "municipalities/97012/DEPUTADO_DISTRITAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6969
+          },
+          "records": 603958,
+          "file_size_bytes": 3807910
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/97012/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1",
+            "2"
+          ],
+          "sections_by_turn": {
+            "1": 6969,
+            "2": 6969
+          },
+          "records": 87555,
+          "file_size_bytes": 567282
+        },
+        "SENADOR": {
+          "file": "municipalities/97012/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 6969
+          },
+          "records": 75096,
+          "file_size_bytes": 477125
+        }
+      }
+    }
+  ]
+}

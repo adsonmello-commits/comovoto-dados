@@ -1,0 +1,40 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "RN",
+    "municipalities": 167
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_RN.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T03:57:55.220220+00:00",
+  "source_archive_size_bytes": 26162748,
+  "source_archive_sha256": "5d4866393b97b5e0b48e31dc0907a073718c00dfdfbf149d530d80f8c0e6789c",
+  "source_archive_members": [
+    "votacao_secao_2026_RN.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1",
+      "2"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 330951,
+    "DEPUTADO_FEDERAL": 227132,
+    "GOVERNADOR": 77892,
+    "SENADOR": 85358
+  },
+  "municipality_count": 167,
+  "partition_count": 668
+}

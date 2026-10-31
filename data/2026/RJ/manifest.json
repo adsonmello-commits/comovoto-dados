@@ -1,0 +1,39 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "RJ",
+    "municipalities": 92
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_RJ.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T03:57:22.056588+00:00",
+  "source_archive_size_bytes": 296106129,
+  "source_archive_sha256": "ec93c020ae1f0088216de92e5acc5d3211aefaf1fa589b961132bbf471ee3cf5",
+  "source_archive_members": [
+    "votacao_secao_2026_RJ.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 2989178,
+    "DEPUTADO_FEDERAL": 3045670,
+    "GOVERNADOR": 315138,
+    "SENADOR": 470818
+  },
+  "municipality_count": 92,
+  "partition_count": 368
+}

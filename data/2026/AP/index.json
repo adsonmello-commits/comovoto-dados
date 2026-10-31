@@ -1,0 +1,855 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "uf": "AP",
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_AP.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "municipality_count": 16,
+  "offices": {
+    "DEPUTADO_ESTADUAL": {
+      "name": "Deputado estadual",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    },
+    "DEPUTADO_FEDERAL": {
+      "name": "Deputado federal",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    },
+    "GOVERNADOR": {
+      "name": "Governador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    },
+    "SENADOR": {
+      "name": "Senador",
+      "turns": [
+        "1"
+      ],
+      "data_status": "first_round"
+    }
+  },
+  "municipalities": [
+    {
+      "id": "06017",
+      "name": "AMAPÁ",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06017/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 950,
+          "file_size_bytes": 5961
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06017/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 1298,
+          "file_size_bytes": 8711
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06017/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 100,
+          "file_size_bytes": 746
+        },
+        "SENADOR": {
+          "file": "municipalities/06017/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 27
+          },
+          "records": 238,
+          "file_size_bytes": 1532
+        }
+      }
+    },
+    {
+      "id": "06033",
+      "name": "CALÇOENE",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06033/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1617,
+          "file_size_bytes": 10975
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06033/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 1214,
+          "file_size_bytes": 7620
+        },
+        "SENADOR": {
+          "file": "municipalities/06033/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 265,
+          "file_size_bytes": 1682
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06033/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 30
+          },
+          "records": 115,
+          "file_size_bytes": 843
+        }
+      }
+    },
+    {
+      "id": "06068",
+      "name": "CUTIAS",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06068/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 825,
+          "file_size_bytes": 5519
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06068/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 1282,
+          "file_size_bytes": 9324
+        },
+        "SENADOR": {
+          "file": "municipalities/06068/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 197,
+          "file_size_bytes": 1300
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06068/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 23
+          },
+          "records": 80,
+          "file_size_bytes": 646
+        }
+      }
+    },
+    {
+      "id": "06114",
+      "name": "FERREIRA GOMES",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06114/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 996,
+          "file_size_bytes": 6300
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06114/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 1512,
+          "file_size_bytes": 9944
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06114/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 102,
+          "file_size_bytes": 724
+        },
+        "SENADOR": {
+          "file": "municipalities/06114/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 26
+          },
+          "records": 234,
+          "file_size_bytes": 1494
+        }
+      }
+    },
+    {
+      "id": "06041",
+      "name": "ITAUBAL",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06041/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1795,
+          "file_size_bytes": 12175
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06041/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1114,
+          "file_size_bytes": 7298
+        },
+        "SENADOR": {
+          "file": "municipalities/06041/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 261,
+          "file_size_bytes": 1695
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06041/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 114,
+          "file_size_bytes": 857
+        }
+      }
+    },
+    {
+      "id": "06130",
+      "name": "LARANJAL DO JARI",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06130/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 106
+          },
+          "records": 5499,
+          "file_size_bytes": 31366
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06130/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 106
+          },
+          "records": 3709,
+          "file_size_bytes": 20022
+        },
+        "SENADOR": {
+          "file": "municipalities/06130/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 106
+          },
+          "records": 925,
+          "file_size_bytes": 5162
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06130/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 106
+          },
+          "records": 423,
+          "file_size_bytes": 2470
+        }
+      }
+    },
+    {
+      "id": "06050",
+      "name": "MACAPÁ",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06050/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1027
+          },
+          "records": 52425,
+          "file_size_bytes": 304638
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06050/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1027
+          },
+          "records": 89826,
+          "file_size_bytes": 521874
+        },
+        "SENADOR": {
+          "file": "municipalities/06050/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1027
+          },
+          "records": 9703,
+          "file_size_bytes": 60988
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06050/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 1027
+          },
+          "records": 4692,
+          "file_size_bytes": 27997
+        }
+      }
+    },
+    {
+      "id": "06076",
+      "name": "MAZAGÃO",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06076/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 3194,
+          "file_size_bytes": 17106
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06076/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 4788,
+          "file_size_bytes": 26460
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06076/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 327,
+          "file_size_bytes": 2015
+        },
+        "SENADOR": {
+          "file": "municipalities/06076/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 90
+          },
+          "records": 759,
+          "file_size_bytes": 4277
+        }
+      }
+    },
+    {
+      "id": "06092",
+      "name": "OIAPOQUE",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06092/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 91
+          },
+          "records": 5079,
+          "file_size_bytes": 27426
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06092/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 91
+          },
+          "records": 3417,
+          "file_size_bytes": 17566
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06092/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 91
+          },
+          "records": 374,
+          "file_size_bytes": 2149
+        },
+        "SENADOR": {
+          "file": "municipalities/06092/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 91
+          },
+          "records": 807,
+          "file_size_bytes": 4350
+        }
+      }
+    },
+    {
+      "id": "06084",
+      "name": "PEDRA BRANCA DO AMAPARI",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06084/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1662,
+          "file_size_bytes": 10253
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06084/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 1140,
+          "file_size_bytes": 6799
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06084/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 116,
+          "file_size_bytes": 792
+        },
+        "SENADOR": {
+          "file": "municipalities/06084/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 31
+          },
+          "records": 269,
+          "file_size_bytes": 1673
+        }
+      }
+    },
+    {
+      "id": "06025",
+      "name": "PORTO GRANDE",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06025/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 2575,
+          "file_size_bytes": 15332
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06025/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 1887,
+          "file_size_bytes": 10517
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06025/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 185,
+          "file_size_bytes": 1190
+        },
+        "SENADOR": {
+          "file": "municipalities/06025/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 45
+          },
+          "records": 412,
+          "file_size_bytes": 2422
+        }
+      }
+    },
+    {
+      "id": "06009",
+      "name": "PRACUÚBA",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06009/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 472,
+          "file_size_bytes": 3389
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06009/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 710,
+          "file_size_bytes": 5559
+        },
+        "SENADOR": {
+          "file": "municipalities/06009/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 127,
+          "file_size_bytes": 943
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06009/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 16
+          },
+          "records": 56,
+          "file_size_bytes": 478
+        }
+      }
+    },
+    {
+      "id": "06157",
+      "name": "SANTANA",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06157/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 274
+          },
+          "records": 12411,
+          "file_size_bytes": 65208
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06157/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 274
+          },
+          "records": 19158,
+          "file_size_bytes": 103129
+        },
+        "SENADOR": {
+          "file": "municipalities/06157/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 274
+          },
+          "records": 2635,
+          "file_size_bytes": 13778
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06157/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 274
+          },
+          "records": 1166,
+          "file_size_bytes": 6354
+        }
+      }
+    },
+    {
+      "id": "06106",
+      "name": "SERRA DO NAVIO",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06106/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 644,
+          "file_size_bytes": 4992
+        },
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06106/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 458,
+          "file_size_bytes": 3428
+        },
+        "SENADOR": {
+          "file": "municipalities/06106/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 110,
+          "file_size_bytes": 843
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06106/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 12
+          },
+          "records": 46,
+          "file_size_bytes": 442
+        }
+      }
+    },
+    {
+      "id": "06173",
+      "name": "TARTARUGALZINHO",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06173/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1404,
+          "file_size_bytes": 8153
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06173/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 1862,
+          "file_size_bytes": 11562
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06173/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 165,
+          "file_size_bytes": 1119
+        },
+        "SENADOR": {
+          "file": "municipalities/06173/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 44
+          },
+          "records": 360,
+          "file_size_bytes": 2181
+        }
+      }
+    },
+    {
+      "id": "06122",
+      "name": "VITÓRIA DO JARI",
+      "uf": "AP",
+      "offices": {
+        "DEPUTADO_FEDERAL": {
+          "file": "municipalities/06122/DEPUTADO_FEDERAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 1225,
+          "file_size_bytes": 7355
+        },
+        "DEPUTADO_ESTADUAL": {
+          "file": "municipalities/06122/DEPUTADO_ESTADUAL.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 1459,
+          "file_size_bytes": 9366
+        },
+        "SENADOR": {
+          "file": "municipalities/06122/SENADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 359,
+          "file_size_bytes": 2146
+        },
+        "GOVERNADOR": {
+          "file": "municipalities/06122/GOVERNADOR.jsonl.gz",
+          "turns": [
+            "1"
+          ],
+          "sections_by_turn": {
+            "1": 41
+          },
+          "records": 149,
+          "file_size_bytes": 1022
+        }
+      }
+    }
+  ]
+}

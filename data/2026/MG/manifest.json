@@ -1,0 +1,39 @@
+{
+  "dataset": "Eleições 2026 — votação por seção para cargos estaduais e proporcionais",
+  "scope": {
+    "country": "Brasil",
+    "state": "MG",
+    "municipalities": 853
+  },
+  "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_MG.zip",
+  "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "license": "Creative Commons Attribution (CC BY)",
+  "retrieved_at_utc": "2026-10-31T03:45:10.300089+00:00",
+  "source_archive_size_bytes": 267625809,
+  "source_archive_sha256": "4d6cda601ab8127d0c7ef91558243e81d5f82ac23ce94f65891fe6cca5c1f868",
+  "source_archive_members": [
+    "votacao_secao_2026_MG.csv"
+  ],
+  "office_turns": {
+    "DEPUTADO_ESTADUAL": [
+      "1"
+    ],
+    "DEPUTADO_FEDERAL": [
+      "1"
+    ],
+    "GOVERNADOR": [
+      "1"
+    ],
+    "SENADOR": [
+      "1"
+    ]
+  },
+  "office_rows": {
+    "DEPUTADO_ESTADUAL": 2637874,
+    "DEPUTADO_FEDERAL": 2227266,
+    "GOVERNADOR": 470472,
+    "SENADOR": 588044
+  },
+  "municipality_count": 853,
+  "partition_count": 3412
+}
