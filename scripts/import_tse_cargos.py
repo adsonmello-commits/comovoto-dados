@@ -19,7 +19,7 @@ PORTAL_URL = "https://dadosabertos.tse.jus.br/dataset/resultados-2026"
 SOURCE_TEMPLATE = "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_{state}.zip"
 EXPECTED_MUNICIPALITIES = {
     "AC":22,"AL":102,"AM":62,"AP":16,"BA":417,"CE":184,"DF":1,"ES":78,"GO":246,
-    "MA":217,"MG":853,"MS":79,"MT":142,"PA":144,"PB":223,"PE":184,"PI":224,
+    "MA":217,"MG":853,"MS":79,"MT":142,"PA":144,"PB":223,"PE":185,"PI":224,
     "PR":399,"RJ":92,"RN":167,"RO":52,"RR":15,"RS":497,"SC":295,"SE":75,"SP":645,"TO":139
 }
 OFFICE_NAMES = {
@@ -135,7 +135,7 @@ def import_state(state: str) -> None:
                             raw = output_path.open("ab" if output_path.exists() else "wb")
                             raw_handles[key] = raw
                             compressed = gzip.GzipFile(fileobj=raw, mode="wb", compresslevel=9, mtime=0)
-                            stream = io.TextIOWrapper(compressed, encoding="utf-8", newline="\\n")
+                            stream = io.TextIOWrapper(compressed, encoding="utf-8", newline="")
                         streams[key] = stream
                         # [turn,zone,section,local,candidate code,candidate label,party,votes]
                         local_field = fields.get("NR_LOCAL_VOTACAO")
