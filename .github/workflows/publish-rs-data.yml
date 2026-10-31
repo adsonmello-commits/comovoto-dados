@@ -1,4 +1,4 @@
-name: Publish nationwide presidential and state election data
+name: Publish nationwide 2026 election data
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - .github/workflows/publish-rs-data.yml
-      - scripts/import_tse_state.py
+      - scripts/import_tse_cargos.py
       - scripts/import_tse_presidencia.py
   workflow_dispatch:
   schedule:
@@ -22,7 +22,7 @@ concurrency:
 jobs:
   import:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 240
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -30,22 +30,46 @@ jobs:
           ref: main
           persist-credentials: true
 
-      - name: Download and validate official TSE archive
+      - name: Download and validate official TSE archives
         run: |
-          python3 scripts/import_tse_state.py --state RS
-          python3 scripts/import_tse_state.py --state SC
-          python3 scripts/import_tse_state.py --state PR
+          python3 scripts/import_tse_cargos.py --state AC
+          python3 scripts/import_tse_cargos.py --state AL
+          python3 scripts/import_tse_cargos.py --state AM
+          python3 scripts/import_tse_cargos.py --state AP
+          python3 scripts/import_tse_cargos.py --state BA
+          python3 scripts/import_tse_cargos.py --state CE
+          python3 scripts/import_tse_cargos.py --state DF
+          python3 scripts/import_tse_cargos.py --state ES
+          python3 scripts/import_tse_cargos.py --state GO
+          python3 scripts/import_tse_cargos.py --state MA
+          python3 scripts/import_tse_cargos.py --state MG
+          python3 scripts/import_tse_cargos.py --state MS
+          python3 scripts/import_tse_cargos.py --state MT
+          python3 scripts/import_tse_cargos.py --state PA
+          python3 scripts/import_tse_cargos.py --state PB
+          python3 scripts/import_tse_cargos.py --state PE
+          python3 scripts/import_tse_cargos.py --state PI
+          python3 scripts/import_tse_cargos.py --state PR
+          python3 scripts/import_tse_cargos.py --state RJ
+          python3 scripts/import_tse_cargos.py --state RN
+          python3 scripts/import_tse_cargos.py --state RO
+          python3 scripts/import_tse_cargos.py --state RR
+          python3 scripts/import_tse_cargos.py --state RS
+          python3 scripts/import_tse_cargos.py --state SC
+          python3 scripts/import_tse_cargos.py --state SE
+          python3 scripts/import_tse_cargos.py --state SP
+          python3 scripts/import_tse_cargos.py --state TO
           python3 scripts/import_tse_presidencia.py
 
       - name: Commit validated dataset
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/2026/RS data/2026/SC data/2026/PR data/2026/presidencia
+          git add data/2026/AC data/2026/AL data/2026/AM data/2026/AP data/2026/BA data/2026/CE data/2026/DF data/2026/ES data/2026/GO data/2026/MA data/2026/MG data/2026/MS data/2026/MT data/2026/PA data/2026/PB data/2026/PE data/2026/PI data/2026/PR data/2026/RJ data/2026/RN data/2026/RO data/2026/RR data/2026/RS data/2026/SC data/2026/SE data/2026/SP data/2026/TO data/2026/presidencia
           if git diff --cached --quiet; then
             echo "The TSE data are already current."
           else
-            git commit -m "Publish official TSE 2026 election data"
+            git commit -m "Publish compact official TSE 2026 results"
             git pull --rebase origin main
             git push
           fi
