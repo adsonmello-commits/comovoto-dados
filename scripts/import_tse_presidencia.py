@@ -14,6 +14,7 @@ import zipfile
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
+from normalize_presidential_indexes import load_rosters, normalize_index
 
 SOURCE_URL = "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip"
 PORTAL_URL = "https://dadosabertos.tse.jus.br/dataset/resultados-2026"
@@ -43,6 +44,7 @@ def to_int(value: str | None) -> int:
 
 
 def main() -> None:
+    rosters = load_rosters()
     temp_dir = Path(tempfile.mkdtemp(prefix="comovoto-tse-presidente-"))
     archive_path = temp_dir / "source.zip"
     digest = hashlib.sha256()
@@ -161,6 +163,7 @@ def main() -> None:
                 "candidates": candidates,
                 "municipalities": sorted(cities[state].values(), key=lambda item: item["name"])
             }
+            index = normalize_index(index, rosters)
             out_dir = OUT_BASE / state
             out_dir.mkdir(parents=True, exist_ok=True)
             (out_dir / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
