@@ -35,5 +35,9 @@
     "SENADOR": 192681
   },
   "municipality_count": 295,
-  "partition_count": 1180
+  "partition_count": 1180,
+  "format_revision": 2,
+  "partition_format": "jsonl-utf8-single-gzip",
+  "partition_bytes_before": 74514225,
+  "partition_bytes_after": 12438107
 }

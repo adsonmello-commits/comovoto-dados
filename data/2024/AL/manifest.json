@@ -27,5 +27,9 @@
     "VEREADOR": 396644
   },
   "municipality_count": 102,
-  "partition_count": 204
+  "partition_count": 204,
+  "format_revision": 2,
+  "partition_format": "jsonl-utf8-single-gzip",
+  "partition_bytes_before": 4576037,
+  "partition_bytes_after": 3080464
 }

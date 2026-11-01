@@ -28,5 +28,9 @@
     "VEREADOR": 251992
   },
   "municipality_count": 139,
-  "partition_count": 278
+  "partition_count": 278,
+  "format_revision": 2,
+  "partition_format": "jsonl-utf8-single-gzip",
+  "partition_bytes_before": 3469164,
+  "partition_bytes_after": 1885710
 }

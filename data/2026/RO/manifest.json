@@ -35,5 +35,9 @@
     "SENADOR": 51036
   },
   "municipality_count": 52,
-  "partition_count": 208
+  "partition_count": 208,
+  "format_revision": 2,
+  "partition_format": "jsonl-utf8-single-gzip",
+  "partition_bytes_before": 2901598,
+  "partition_bytes_after": 2857369
 }
