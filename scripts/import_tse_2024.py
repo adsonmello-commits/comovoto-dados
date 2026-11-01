@@ -5,6 +5,7 @@ import csv, gzip, hashlib, io, json, os, shutil, tempfile, unicodedata, urllib.r
 from collections import OrderedDict, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
+from compact_dataset import compact_state
 
 PORTAL_URL = "https://dadosabertos.tse.jus.br/dataset/resultados-2024"
 SOURCE_TEMPLATE = "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_{state}.zip"
@@ -113,6 +114,7 @@ def import_state(state: str) -> None:
         (build_dir/"index.json").write_text(json.dumps(index,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
         manifest={"dataset":index["dataset"],"scope":{"country":"Brasil","state":state,"municipalities":len(cities)},"source":source_url,"source_portal":PORTAL_URL,"license":"Creative Commons Attribution (CC BY)","retrieved_at_utc":datetime.now(timezone.utc).isoformat(),"source_archive_size_bytes":archive_size,"source_archive_sha256":digest.hexdigest(),"source_archive_members":[m.filename for m in members],"office_turns":{code:sorted(values) for code,values in sorted(state_turns.items())},"office_rows":dict(sorted(state_rows.items())),"municipality_count":len(cities),"partition_count":sum(len(c["offices"]) for c in cities.values())}
         (build_dir/"manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+        compact_state(build_dir)
         out_dir=Path("data/2024")/state
         out_dir.parent.mkdir(parents=True,exist_ok=True)
         if out_dir.exists(): shutil.rmtree(out_dir)
@@ -126,3 +128,4 @@ def import_state(state: str) -> None:
         shutil.rmtree(temp_dir,ignore_errors=True)
 
 if __name__=="__main__": main()
+

@@ -14,6 +14,7 @@ import zipfile
 from collections import Counter, OrderedDict
 from datetime import datetime, timezone
 from pathlib import Path
+from compact_dataset import compact_state
 
 PORTAL_URL = "https://dadosabertos.tse.jus.br/dataset/resultados-2026"
 SOURCE_TEMPLATE = "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_{state}.zip"
@@ -141,7 +142,7 @@ def import_state(state: str) -> None:
                         local_field = fields.get("NR_LOCAL_VOTACAO")
                         local_code = (row.get(local_field) or "").strip() if local_field else ""
                         record = [turn,zone,section,local_code,vote_code,candidate_name,party,votes]
-                        stream.write(json.dumps(record, ensure_ascii=False, separators=(",",":")) + "\\n")
+                        stream.write(json.dumps(record, ensure_ascii=False, separators=(",",":")) + "\n")
                         city_office["records"] += 1
                         state_rows[office] += 1
             for stream in streams.values():
@@ -200,6 +201,7 @@ def import_state(state: str) -> None:
             "partition_count":sum(len(city["offices"]) for city in cities.values())
         }
         (build_dir/"manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+        compact_state(build_dir)
         out_dir = Path("data/2026") / state
         if out_dir.exists():
             shutil.rmtree(out_dir)
@@ -225,3 +227,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+

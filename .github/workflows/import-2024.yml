@@ -1,11 +1,6 @@
 name: Publish nationwide 2024 municipal results
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - .github/workflows/import-2024.yml
-      - scripts/import_tse_2024.py
   workflow_dispatch:
 
 permissions:
@@ -67,3 +62,4 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+

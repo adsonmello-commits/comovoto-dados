@@ -1,0 +1,36 @@
+name: Validate and compact published election partitions
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/compact_dataset.py
+      - scripts/import_tse_cargos.py
+      - scripts/import_tse_2024.py
+      - .github/workflows/compact-data.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish-official-election-data
+  cancel-in-progress: false
+jobs:
+  compact:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Compact and verify every record
+        run: python3 scripts/compact_dataset.py
+      - name: Publish verified partitions
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/2024 data/2026
+          if ! git diff --cached --quiet; then
+            git commit -m "Normalize JSONL and compact verified election partitions"
+            git pull --rebase origin main
+            git push
+          fi

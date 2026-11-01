@@ -1,13 +1,6 @@
 name: Publish nationwide 2026 election data
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/publish-rs-data.yml
-      - scripts/import_tse_cargos.py
-      - scripts/import_tse_presidencia.py
   workflow_dispatch:
   schedule:
     - cron: '0 13 * * *'
@@ -73,3 +66,4 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
