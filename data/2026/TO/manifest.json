@@ -8,7 +8,7 @@
   "source": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_TO.zip",
   "source_portal": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
   "license": "Creative Commons Attribution (CC BY)",
-  "retrieved_at_utc": "2026-11-01T14:38:30.236417+00:00",
+  "retrieved_at_utc": "2026-11-02T15:22:08.398777+00:00",
   "source_archive_size_bytes": 13707414,
   "source_archive_sha256": "ace34f1c05e44efebb0ff77bf6232de585d3a4275e8ab7be65c79c84d69bed82",
   "source_archive_members": [
@@ -39,6 +39,6 @@
   "partition_count": 556,
   "format_revision": 2,
   "partition_format": "jsonl-utf8-single-gzip",
-  "partition_bytes_before": 8853604,
+  "partition_bytes_before": 8786391,
   "partition_bytes_after": 2567178
 }
